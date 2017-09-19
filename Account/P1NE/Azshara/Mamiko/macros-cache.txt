@@ -1,0 +1,74 @@
+VER 3 0100000000000006 " " "INV_MISC_QUESTIONMARK"
+#showtooltip Purify
+/use [@mouseover,help,nodead][help,nodead][@player] Purify
+END
+VER 3 0100000000000007 " " "INV_MISC_QUESTIONMARK"
+#showtooltip Pain Suppression
+/use [@mouseover,help,nodead][help,nodead][@player] Pain Suppression
+END
+VER 3 010000000000000A " " "INV_MISC_QUESTIONMARK"
+#showtooltip Leap of Faith
+/use [@mouseover,help,nodead][help,nodead][@player] Leap of Faith
+END
+VER 3 010000000000000B " " "INV_MISC_QUESTIONMARK"
+#showtooltip Plea
+/use [@mouseover,help,nodead][help,nodead][@player] Plea
+END
+VER 3 010000000000000D " " "INV_MISC_QUESTIONMARK"
+#showtooltip Shadow Mend
+/use [@mouseover,help,nodead][help,nodead][@player] Shadow Mend
+END
+VER 3 0100000000000004 " " "INV_MISC_QUESTIONMARK"
+#showtooltip Power Word: Shield
+/use [@mouseover,help,nodead][help,nodead][@player] Power Word: Shield
+END
+VER 3 010000000000000F " " "INV_MISC_QUESTIONMARK"
+#showtooltip Heal
+/use [@mouseover,help,nodead][help,nodead][@player] Heal
+END
+VER 3 010000000000000E " " "INV_MISC_QUESTIONMARK"
+#showtooltip Flash Heal
+/use [@mouseover,help,nodead][help,nodead][@player] Flash Heal
+END
+VER 3 0100000000000010 " " "INV_MISC_QUESTIONMARK"
+#showtooltip Power Word: Radiance
+/use [@mouseover,help,nodead][help,nodead][@player] Power Word: Radiance
+END
+VER 3 0100000000000013 " " "INV_MISC_QUESTIONMARK"
+#showtooltip Guardian Spirit
+/use [@mouseover,help,nodead][help,nodead][@player] Guardian Spirit
+END
+VER 3 0100000000000014 " " "INV_MISC_QUESTIONMARK"
+#showtooltip Renew
+/use [@mouseover,help,nodead][help,nodead][@player] Renew
+END
+VER 3 0100000000000015 " " "INV_MISC_QUESTIONMARK"
+#showtooltip Power Infusion
+/use 13
+/use 14
+/cast Power Infusion
+END
+VER 3 0100000000000016 " " "INV_MISC_QUESTIONMARK"
+#showtooltip Clarity of Will
+/use [@mouseover,help,nodead][help,nodead][@player] Clarity of Will
+END
+VER 3 0100000000000017 " " "INV_MISC_QUESTIONMARK"
+#showtooltip Light of T'uure
+/use [@mouseover,help,nodead][help,nodead][@player] Light of T'uure
+END
+VER 3 0100000000000018 " " "INV_MISC_QUESTIONMARK"
+#showtooltip Power Word: Barrier
+/use [@cursor] Power Word: Barrier
+END
+VER 3 0100000000000019 " " "INV_MISC_QUESTIONMARK"
+#showtooltip Angelic Feather
+/use [@cursor] Angelic Feather
+END
+VER 3 010000000000001A " " "INV_MISC_QUESTIONMARK"
+#showtooltip Prayer of Mending
+/use [@mouseover,help,nodead][help,nodead][@player] Prayer of Mending
+END
+VER 3 010000000000001B " " "INV_MISC_QUESTIONMARK"
+#showtooltip Holy Word: Serenity
+/use [@mouseover,help,nodead][help,nodead][@player] Holy Word: Serenity
+END

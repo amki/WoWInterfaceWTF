@@ -1,0 +1,41 @@
+
+XLootADB = {
+	["namespaces"] = {
+		["Group"] = {
+			["profiles"] = {
+				["Default"] = {
+					["alert_anchor"] = {
+						["visible"] = false,
+					},
+					["roll_anchor"] = {
+						["visible"] = false,
+						["x"] = 574.99951171875,
+						["y"] = 380.999816894531,
+					},
+				},
+			},
+		},
+		["Frame"] = {
+		},
+		["Monitor"] = {
+			["profiles"] = {
+				["Default"] = {
+					["anchor"] = {
+						["visible"] = false,
+						["y"] = 437.999908447266,
+						["x"] = 507.999450683594,
+					},
+				},
+			},
+		},
+		["Master"] = {
+		},
+	},
+	["profileKeys"] = {
+		["Mamiko - Azshara"] = "Default",
+	},
+	["profiles"] = {
+		["Default"] = {
+		},
+	},
+}

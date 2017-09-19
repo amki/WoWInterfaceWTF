@@ -1,0 +1,98 @@
+VER 3 000000000000003A " " "INV_MISC_QUESTIONMARK"
+#showtooltip Holy Word: Sanctify
+/use [@cursor] Holy Word: Sanctify
+END
+VER 3 000000000000003B " " "INV_MISC_QUESTIONMARK"
+/use [talent:6/1]Clarity of Will;[talent:6/2]Divine Star;[talent:6/3]Halo
+END
+VER 3 0000000000000038 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/use [@mouseover,exists,help,nodead][] Shining Force
+END
+VER 3 0000000000000028 " " "INV_MISC_QUESTIONMARK"
+#showtooltip Mass Dispel
+/use [@cursor] Mass Dispel
+END
+VER 3 0000000000000039 " " "INV_MISC_QUESTIONMARK"
+#showtooltip Prayer of Healing
+/use [@mouseover,help,nodead][help,nodead][@player] Prayer of Healing
+END
+VER 3 000000000000003D " " "INV_ENCHANT_ESSENCEETERNALLARGE"
+/tar Treasure
+END
+VER 3 000000000000003F " " "INV_MISC_QUESTIONMARK"
+/cancelaura Slow Fall
+END
+VER 3 0000000000000040 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/use [@mouseover,help,nodead][help,nodead][@player] Binding Heal
+END
+VER 3 0000000000000041 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+END
+VER 3 0000000000000042 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+#showtooltip
+/use [@mouseover,exists,help,nodead][] Shadow Covenant
+END
+VER 3 0000000000000044 " " "INV_MISC_QUESTIONMARK"
+#showtooltip Ray of Hope
+/use [@mouseover,help,nodead][help,nodead][@player] Ray of Hope
+END
+VER 3 0000000000000045 " " "INV_MISC_QUESTIONMARK"
+#showtooltip Holy Ward
+/use [@mouseover,help,nodead][help,nodead][@player] Holy Ward
+END
+VER 3 000000000000003C "Barrels" "INV_MISC_QUESTIONMARK"
+/script SetRaidTarget("mouseover",6)
+END
+VER 3 0000000000000035 "Circle" "INV_MISC_QUESTIONMARK"
+/wm 6
+END
+VER 3 0000000000000037 "clear" "INV_MISC_QUESTIONMARK"
+/cwm all
+END
+VER 3 0000000000000030 "Cross" "INV_MISC_QUESTIONMARK"
+/wm 4
+END
+VER 3 0000000000000034 "Diamond" "INV_MISC_QUESTIONMARK"
+/wm 3
+END
+VER 3 0000000000000043 "EAB" "INV_MISC_QUESTIONMARK"
+/click ExtraActionButton1
+END
+VER 3 000000000000002B "lcheck" "INV_MISC_QUESTIONMARK"
+/g /run for k, v in pairs({ Galleon = 32098, Sha = 32099, Nalak = 32518, Oondasta = 32519}) do print(format("%s: %s", k, IsQuestFlaggedCompleted(v) and "\124cff00ff00Yes\124r" or "\124cffff0000No\124r")) end
+END
+VER 3 000000000000002A "mark" "INV_PET_BATTLEPETTRAINING"
+/script SetRaidTarget("Upyours", 6);
+/script SetRaidTarget("Catch", 6);
+/script SetRaidTarget("Baez", 4);
+/script SetRaidTarget("Vaez", 4);
+/script SetRaidTarget("Mamiko", 3);
+END
+VER 3 0000000000000032 "Moon" "INV_MISC_QUESTIONMARK"
+/wm 7
+END
+VER 3 000000000000003E "rw" "SPELL_HOLY_DIVINEHYMN"
+/rw EAT CAKE
+END
+VER 3 000000000000002F "Skull" "INV_MISC_QUESTIONMARK"
+/wm 8
+END
+VER 3 0000000000000031 "Square" "INV_MISC_QUESTIONMARK"
+/wm 1
+END
+VER 3 0000000000000036 "Star" "INV_MISC_QUESTIONMARK"
+/wm 5
+END
+VER 3 0000000000000033 "Triangle" "INV_MISC_QUESTIONMARK"
+/wm 2
+END
+VER 3 000000000000002E "TSMMacro" "Achievement_Faction_GoldenLotus"
+/click TSMShoppingCancelConfirmationButton
+/click TSMAuctioningCancelButton
+/click TSMShoppingBuyoutConfirmationButton
+/click TSMAuctioningPostButton
+/click TSMShoppingBuyoutButton
+END

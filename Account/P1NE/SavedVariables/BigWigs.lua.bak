@@ -1,0 +1,160 @@
+
+BigWigs3DB = {
+	["profileKeys"] = {
+		["Mamiko - Azshara"] = "Default",
+	},
+	["namespaces"] = {
+		["BigWigs_Plugins_Victory"] = {
+		},
+		["BigWigs_Plugins_Colors"] = {
+		},
+		["BigWigs_Plugins_Alt Power"] = {
+			["profiles"] = {
+				["Default"] = {
+					["posx"] = 263.110922169681,
+					["fontSize"] = 12,
+					["fontOutline"] = "",
+					["posy"] = 519.822278212178,
+					["font"] = "Friz Quadrata TT",
+				},
+			},
+		},
+		["BigWigs_Plugins_BossBlock"] = {
+		},
+		["BigWigs_Plugins_Bars"] = {
+			["profiles"] = {
+				["Default"] = {
+					["BigWigsEmphasizeAnchor_y"] = 596.622323474621,
+					["fontSize"] = 15,
+					["BigWigsAnchor_x"] = 263.822098402179,
+					["BigWigsAnchor_width"] = 199.999908447266,
+					["BigWigsAnchor_y"] = 334.933254637981,
+					["BigWigsEmphasizeAnchor_x"] = 578.844501863587,
+					["font"] = "Friz Quadrata TT",
+				},
+			},
+		},
+		["BigWigs_Plugins_InfoBox"] = {
+			["profiles"] = {
+				["Default"] = {
+					["posx"] = 369.066588797832,
+					["posy"] = 412.444411028755,
+				},
+			},
+		},
+		["BigWigs_Plugins_Super Emphasize"] = {
+			["profiles"] = {
+				["Default"] = {
+					["font"] = "Friz Quadrata TT",
+				},
+			},
+		},
+		["BigWigs_Plugins_Sounds"] = {
+		},
+		["LibDualSpec-1.0"] = {
+		},
+		["BigWigs_Plugins_Messages"] = {
+			["profiles"] = {
+				["Default"] = {
+					["fontSize"] = 20,
+					["BWEmphasizeMessageAnchor_y"] = 615.111212811207,
+					["BWMessageAnchor_y"] = 316.444430405563,
+					["BWMessageAnchor_x"] = 612.97774921788,
+					["BWEmphasizeMessageAnchor_x"] = 609.422367187344,
+					["font"] = "Friz Quadrata TT",
+				},
+			},
+		},
+		["BigWigs_Plugins_Statistics"] = {
+		},
+		["BigWigs_Plugins_Respawn"] = {
+		},
+		["BigWigs_Plugins_Proximity"] = {
+			["profiles"] = {
+				["Default"] = {
+					["posx"] = 265.955453488559,
+					["fontSize"] = 20,
+					["height"] = 120.000007629395,
+					["font"] = "Friz Quadrata TT",
+					["posy"] = 427.377788126469,
+					["width"] = 139.999954223633,
+				},
+			},
+		},
+		["BigWigs_Plugins_Pull"] = {
+		},
+		["BigWigs_Plugins_Raid Icons"] = {
+		},
+	},
+	["discord"] = 15,
+	["global"] = {
+		["watchedMovies"] = {
+			["1147:6"] = true,
+			[656] = true,
+		},
+	},
+	["profiles"] = {
+		["Default"] = {
+		},
+	},
+}
+BigWigs3IconDB = {
+}
+BigWigsStatisticsDB = {
+	[1147] = {
+		[1861] = {
+			["heroic"] = {
+				["best"] = 190.108000000007,
+				["kills"] = 1,
+			},
+		},
+		[1903] = {
+			["heroic"] = {
+				["best"] = 185.520000000019,
+				["kills"] = 1,
+			},
+		},
+		[1862] = {
+			["heroic"] = {
+				["best"] = 140.314999999944,
+				["kills"] = 1,
+			},
+		},
+		[1896] = {
+			["heroic"] = {
+				["best"] = 196.407999999996,
+				["kills"] = 1,
+			},
+		},
+		[1897] = {
+			["heroic"] = {
+				["best"] = 206.563000000024,
+				["kills"] = 1,
+			},
+		},
+		[1856] = {
+			["heroic"] = {
+				["best"] = 138.622000000032,
+				["kills"] = 1,
+			},
+		},
+		[1873] = {
+			["heroic"] = {
+				["best"] = 286.673999999999,
+				["kills"] = 1,
+			},
+		},
+		[1898] = {
+			["heroic"] = {
+				["best"] = 414.146000000008,
+				["kills"] = 1,
+			},
+		},
+		[1867] = {
+			["heroic"] = {
+				["best"] = 158.899999999965,
+				["kills"] = 1,
+			},
+		},
+	},
+}

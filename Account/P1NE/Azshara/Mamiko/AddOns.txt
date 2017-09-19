@@ -1,0 +1,9 @@
+WoWPro_Achievements: disabled
+WoWPro_Dailies: disabled
+WowPro_Profession: disabled
+WoWPro_WorldEvents: disabled
+CoopCooldowns: disabled
+Gatherer: disabled
+Gatherer_HUD: disabled
+GathererDB_Wowhead: disabled
+XLoot_Options: enabled
