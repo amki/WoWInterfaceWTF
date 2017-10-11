@@ -1,9 +1,14 @@
 
 Gladius2DB = {
 	["profileKeys"] = {
+		["Lyt - Azshara"] = "Lyt - Azshara",
 		["Mamiko - Azshara"] = "Mamiko - Azshara",
 	},
 	["profiles"] = {
+		["Lyt - Azshara"] = {
+			["auraVersion"] = 1,
+			["tagsVersion"] = 4,
+		},
 		["Mamiko - Azshara"] = {
 			["auraVersion"] = 1,
 			["tagsVersion"] = 4,

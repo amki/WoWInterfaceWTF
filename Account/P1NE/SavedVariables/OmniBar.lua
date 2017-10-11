@@ -1,6 +1,7 @@
 
 OmniBarDB = {
 	["profileKeys"] = {
+		["Lyt - Azshara"] = "Default",
 		["Mamiko - Azshara"] = "Default",
 	},
 	["cooldowns"] = {

@@ -5,5 +5,9 @@ MasterPlanAG = {
 			["class"] = "PRIEST",
 			["faction"] = "Horde",
 		},
+		["Lyt"] = {
+			["class"] = "PALADIN",
+			["faction"] = "Horde",
+		},
 	},
 }

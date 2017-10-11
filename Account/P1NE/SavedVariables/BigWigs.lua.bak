@@ -19,7 +19,7 @@ BigWigs3DB = {
 				},
 			},
 		},
-		["BigWigs_Plugins_BossBlock"] = {
+		["LibDualSpec-1.0"] = {
 		},
 		["BigWigs_Plugins_Bars"] = {
 			["profiles"] = {
@@ -34,13 +34,7 @@ BigWigs3DB = {
 				},
 			},
 		},
-		["BigWigs_Plugins_InfoBox"] = {
-			["profiles"] = {
-				["Default"] = {
-					["posx"] = 369.066588797832,
-					["posy"] = 412.444411028755,
-				},
-			},
+		["BigWigs_Plugins_Raid Icons"] = {
 		},
 		["BigWigs_Plugins_Super Emphasize"] = {
 			["profiles"] = {
@@ -51,17 +45,17 @@ BigWigs3DB = {
 		},
 		["BigWigs_Plugins_Sounds"] = {
 		},
-		["LibDualSpec-1.0"] = {
+		["BigWigs_Plugins_BossBlock"] = {
 		},
 		["BigWigs_Plugins_Messages"] = {
 			["profiles"] = {
 				["Default"] = {
-					["fontSize"] = 20,
+					["BWEmphasizeMessageAnchor_x"] = 609.422367187344,
 					["BWEmphasizeMessageAnchor_y"] = 615.111212811207,
 					["BWMessageAnchor_y"] = 316.444430405563,
 					["BWMessageAnchor_x"] = 612.97774921788,
-					["BWEmphasizeMessageAnchor_x"] = 609.422367187344,
 					["font"] = "Friz Quadrata TT",
+					["fontSize"] = 20,
 				},
 			},
 		},
@@ -83,16 +77,23 @@ BigWigs3DB = {
 		},
 		["BigWigs_Plugins_Pull"] = {
 		},
-		["BigWigs_Plugins_Raid Icons"] = {
+		["BigWigs_Plugins_InfoBox"] = {
+			["profiles"] = {
+				["Default"] = {
+					["posx"] = 369.066588797832,
+					["posy"] = 412.444411028755,
+				},
+			},
+		},
+	},
+	["global"] = {
+		["watchedMovies"] = {
+			[656] = true,
+			[682] = true,
+			["1147:6"] = true,
 		},
 	},
 	["discord"] = 15,
-	["global"] = {
-		["watchedMovies"] = {
-			["1147:6"] = true,
-			[656] = true,
-		},
-	},
 	["profiles"] = {
 		["Default"] = {
 		},
@@ -105,55 +106,131 @@ BigWigsStatisticsDB = {
 		[1861] = {
 			["heroic"] = {
 				["best"] = 190.108000000007,
+				["kills"] = 3,
+			},
+			["normal"] = {
+				["best"] = 178.804,
 				["kills"] = 1,
+			},
+			["LFR"] = {
+				["kills"] = 2,
+				["wipes"] = 1,
+				["best"] = 243.398999999976,
 			},
 		},
 		[1903] = {
 			["heroic"] = {
 				["best"] = 185.520000000019,
+				["kills"] = 3,
+			},
+			["normal"] = {
+				["best"] = 180.764,
 				["kills"] = 1,
+			},
+			["LFR"] = {
+				["best"] = 207.277000000002,
+				["kills"] = 2,
 			},
 		},
 		[1862] = {
 			["heroic"] = {
 				["best"] = 140.314999999944,
+				["kills"] = 3,
+			},
+			["normal"] = {
+				["best"] = 116.907,
 				["kills"] = 1,
+			},
+			["LFR"] = {
+				["best"] = 148.014000000083,
+				["kills"] = 2,
 			},
 		},
 		[1896] = {
 			["heroic"] = {
 				["best"] = 196.407999999996,
+				["kills"] = 3,
+			},
+			["normal"] = {
+				["best"] = 186.689,
 				["kills"] = 1,
+			},
+			["LFR"] = {
+				["best"] = 228.146999999997,
+				["kills"] = 2,
 			},
 		},
 		[1897] = {
 			["heroic"] = {
 				["best"] = 206.563000000024,
+				["kills"] = 3,
+			},
+			["normal"] = {
+				["best"] = 182.283,
 				["kills"] = 1,
+			},
+			["LFR"] = {
+				["best"] = 274.21800000011,
+				["kills"] = 2,
 			},
 		},
 		[1856] = {
 			["heroic"] = {
 				["best"] = 138.622000000032,
+				["kills"] = 3,
+			},
+			["normal"] = {
+				["best"] = 140.064,
 				["kills"] = 1,
 			},
-		},
-		[1873] = {
-			["heroic"] = {
-				["best"] = 286.673999999999,
-				["kills"] = 1,
-			},
-		},
-		[1898] = {
-			["heroic"] = {
-				["best"] = 414.146000000008,
-				["kills"] = 1,
+			["LFR"] = {
+				["best"] = 181.582999999984,
+				["kills"] = 2,
 			},
 		},
 		[1867] = {
 			["heroic"] = {
 				["best"] = 158.899999999965,
+				["kills"] = 3,
+			},
+			["normal"] = {
+				["best"] = 144.809,
 				["kills"] = 1,
+			},
+			["LFR"] = {
+				["best"] = 203.726999999955,
+				["kills"] = 3,
+			},
+		},
+		[1898] = {
+			["normal"] = {
+				["best"] = 338.354,
+				["kills"] = 1,
+			},
+			["heroic"] = {
+				["kills"] = 3,
+				["best"] = 398.82799999998,
+				["wipes"] = 4,
+			},
+			["LFR"] = {
+				["best"] = 371.527999999933,
+				["kills"] = 2,
+			},
+		},
+		[1873] = {
+			["heroic"] = {
+				["kills"] = 3,
+				["best"] = 286.673999999999,
+				["wipes"] = 1,
+			},
+			["normal"] = {
+				["best"] = 294.571,
+				["kills"] = 1,
+			},
+			["LFR"] = {
+				["kills"] = 2,
+				["wipes"] = 1,
+				["best"] = 225.741999999969,
 			},
 		},
 	},

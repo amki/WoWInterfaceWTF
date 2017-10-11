@@ -59,11 +59,11 @@ TradeSkillMaster_MailingDB = {
 		["Miamisaurus - Onyxia"] = "Default",
 		["Rathok - Onyxia"] = "Default",
 	},
-	["g@ @sendMessages"] = true,
+	["g@ @keepMailSpace"] = 0,
 	["g@ @defaultMailTab"] = true,
 	["c@Mamiko - Azshara@goldMailTarget"] = "",
 	["c@Intergalacto - Azshara@goldKeepAmount"] = 1000000,
-	["g@ @keepMailSpace"] = 0,
+	["g@ @sendMessages"] = true,
 	["c@Lyt - Onyxia@goldKeepAmount"] = 1000000,
 	["g@ @sendItemsIndividually"] = false,
 }

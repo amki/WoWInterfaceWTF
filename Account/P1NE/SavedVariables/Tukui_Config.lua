@@ -18,6 +18,8 @@ TukuiConfigShared = {
 				["Enable"] = false,
 			},
 		},
+		["Lyt"] = {
+		},
 	},
 	["Account"] = {
 	},

@@ -4,6 +4,7 @@ TradeSkillMaster_VendoringDB = {
 	["_scopeKeys"] = {
 		["char"] = {
 			"Mamiko - Azshara", -- [1]
+			"Lyt - Azshara", -- [2]
 		},
 		["factionrealm"] = {
 			"Horde - Azshara", -- [1]
@@ -21,6 +22,7 @@ TradeSkillMaster_VendoringDB = {
 	["_hash"] = 7791016,
 	["g@ @qsHideGrouped"] = true,
 	["_currentProfile"] = {
+		["Lyt - Azshara"] = "Default",
 		["Mamiko - Azshara"] = "Default",
 	},
 	["g@ @qsHideSoulbound"] = true,

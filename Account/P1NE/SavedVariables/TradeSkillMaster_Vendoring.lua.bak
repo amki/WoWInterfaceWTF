@@ -4,6 +4,7 @@ TradeSkillMaster_VendoringDB = {
 	["_scopeKeys"] = {
 		["char"] = {
 			"Mamiko - Azshara", -- [1]
+			"Lyt - Azshara", -- [2]
 		},
 		["realm"] = {
 			"Azshara", -- [1]
@@ -16,10 +17,12 @@ TradeSkillMaster_VendoringDB = {
 		},
 	},
 	["g@ @helpPlatesShown"] = {
+		["buy"] = true,
 	},
 	["_hash"] = 7791016,
 	["g@ @qsHideGrouped"] = true,
 	["_currentProfile"] = {
+		["Lyt - Azshara"] = "Default",
 		["Mamiko - Azshara"] = "Default",
 	},
 	["g@ @qsHideSoulbound"] = true,

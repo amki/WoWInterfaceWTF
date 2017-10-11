@@ -1,0 +1,70 @@
+VER 3 0100000000000008 " " "INV_MISC_QUESTIONMARK"
+#showtooltip Beacon of Light
+/use [@mouseover,help,nodead][help,nodead][@player] Beacon of Light
+END
+VER 3 010000000000000E " " "INV_MISC_QUESTIONMARK"
+#showtooltip Light of Dawn
+/use [@mouseover,help,nodead][help,nodead][@player] Light of Dawn
+END
+VER 3 0100000000000003 " " "INV_MISC_QUESTIONMARK"
+#showtooltip Flash of Light
+/use [@mouseover,help,nodead][help,nodead][@player] Flash of Light
+END
+VER 3 0100000000000004 " " "INV_MISC_QUESTIONMARK"
+#showtooltip Holy Light
+/use [@mouseover,help,nodead][help,nodead][@player] Holy Light
+END
+VER 3 0100000000000005 " " "INV_MISC_QUESTIONMARK"
+#showtooltip Holy Shock
+/use [@mouseover,help,nodead][help,nodead][@player] Holy Shock
+END
+VER 3 0100000000000006 " " "INV_MISC_QUESTIONMARK"
+#showtooltip Holy Prism
+/cast [@focus,harm][harm] Holy Prism
+END
+VER 3 0100000000000007 " " "INV_MISC_QUESTIONMARK"
+#showtooltip Holy Radiance
+/use [@mouseover,help,nodead][help,nodead][@player] Holy Radiance
+END
+VER 3 010000000000000F " " "INV_MISC_QUESTIONMARK"
+#showtooltip Word of Glory
+/use [@mouseover,help,nodead][help,nodead][@player] Word of Glory
+END
+VER 3 0100000000000009 " " "INV_MISC_QUESTIONMARK"
+#showtooltip Hand of Sacrifice
+/use [@mouseover,help,nodead][help,nodead][@player] Hand of Sacrifice
+END
+VER 3 010000000000000A " " "INV_MISC_QUESTIONMARK"
+#showtooltip Hand of Protection
+/use [@mouseover,help,nodead][help,nodead][@player] Hand of Protection
+END
+VER 3 010000000000000B " " "INV_MISC_QUESTIONMARK"
+#showtooltip Hand of Freedom
+/use [@mouseover,help,nodead][help,nodead][@player] Hand of Freedom
+END
+VER 3 010000000000000C " " "INV_MISC_QUESTIONMARK"
+#showtooltip Cleanse
+/use [@mouseover,help,nodead][help,nodead][@player] Cleanse
+END
+VER 3 010000000000000D " " "INV_MISC_QUESTIONMARK"
+#showtooltip Lay on Hands
+/use [@mouseover,help,nodead][help,nodead][@player] Lay on Hands
+END
+VER 3 0100000000000010 " " "INV_MISC_QUESTIONMARK"
+#showtooltip Beacon of Faith
+/use [@mouseover,help,nodead][help,nodead][@player] Beacon of Faith
+END
+VER 3 0100000000000011 " " "INV_MISC_QUESTIONMARK"
+#showtooltip Beacon of Insight
+/use [@mouseover,help,nodead][help,nodead][@player] Beacon of Insight
+END
+VER 3 0100000000000012 " " "INV_MISC_QUESTIONMARK"
+#showtooltip Sacred Shield
+/use [@mouseover,help,nodead][help,nodead][@player] Sacred Shield
+END
+VER 3 0100000000000001 "VuhDoDCShieldData" "Ability_Repair"
+P1SH[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]1PT[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]
+END
+VER 3 0100000000000002 "VuhDoDCShieldNames" "Ability_Repair"
+NCrd[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]Lyt[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]
+END

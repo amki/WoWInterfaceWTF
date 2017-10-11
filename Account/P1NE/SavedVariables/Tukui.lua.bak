@@ -27,13 +27,13 @@ TukuiData = {
 					true, -- [1]
 					7, -- [2]
 				},
-				["FPS & MS"] = {
+				["Friends"] = {
 					true, -- [1]
-					4, -- [2]
+					2, -- [2]
 				},
-				["Memory"] = {
-					false, -- [1]
-					0, -- [2]
+				["Bags Slots"] = {
+					true, -- [1]
+					6, -- [2]
 				},
 				["Time"] = {
 					true, -- [1]
@@ -51,13 +51,13 @@ TukuiData = {
 					false, -- [1]
 					0, -- [2]
 				},
-				["Bags Slots"] = {
-					true, -- [1]
-					6, -- [2]
+				["Memory"] = {
+					false, -- [1]
+					0, -- [2]
 				},
-				["Friends"] = {
+				["FPS & MS"] = {
 					true, -- [1]
-					2, -- [2]
+					4, -- [2]
 				},
 			},
 			["InstallDone"] = true,
@@ -146,10 +146,49 @@ TukuiData = {
 				},
 			},
 		},
+		["Lyt"] = {
+			["Move"] = {
+			},
+			["Texts"] = {
+				["Friends"] = {
+					true, -- [1]
+					3, -- [2]
+				},
+				["Memory"] = {
+					true, -- [1]
+					5, -- [2]
+				},
+				["Guild"] = {
+					true, -- [1]
+					1, -- [2]
+				},
+				["Gold"] = {
+					true, -- [1]
+					6, -- [2]
+				},
+				["FPS & MS"] = {
+					true, -- [1]
+					4, -- [2]
+				},
+				["Durability"] = {
+					true, -- [1]
+					2, -- [2]
+				},
+				["Power"] = {
+					true, -- [1]
+					7, -- [2]
+				},
+				["Time"] = {
+					true, -- [1]
+					8, -- [2]
+				},
+			},
+		},
 	},
 	["Gold"] = {
 		["Azshara"] = {
-			["Mamiko"] = 8834698898,
+			["Mamiko"] = 9640936965,
+			["Lyt"] = 28134517,
 		},
 	},
 }

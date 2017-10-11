@@ -1,4 +1,4 @@
 
 SlashCombatLogDB = {
-	["logging"] = false,
+	["logging"] = true,
 }

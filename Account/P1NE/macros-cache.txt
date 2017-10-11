@@ -27,21 +27,22 @@ VER 3 0000000000000040 " " "INV_MISC_QUESTIONMARK"
 #showtooltip
 /use [@mouseover,help,nodead][help,nodead][@player] Binding Heal
 END
-VER 3 0000000000000041 " " "INV_MISC_QUESTIONMARK"
-#showtooltip
-END
 VER 3 0000000000000042 " " "INV_MISC_QUESTIONMARK"
-#showtooltip
 #showtooltip
 /use [@mouseover,exists,help,nodead][] Shadow Covenant
 END
 VER 3 0000000000000044 " " "INV_MISC_QUESTIONMARK"
 #showtooltip Ray of Hope
-/use [@mouseover,help,nodead][help,nodead][@player] Ray of Hope
+/use [pvptalent:6/3][@mouseover,help,nodead][help,nodead][@player] Ray of Hope
 END
 VER 3 0000000000000045 " " "INV_MISC_QUESTIONMARK"
 #showtooltip Holy Ward
 /use [@mouseover,help,nodead][help,nodead][@player] Holy Ward
+END
+VER 3 0000000000000046 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast Every Man For Himself
+/cast Gladiator's Medallion
 END
 VER 3 000000000000003C "Barrels" "INV_MISC_QUESTIONMARK"
 /script SetRaidTarget("mouseover",6)
@@ -59,6 +60,7 @@ VER 3 0000000000000034 "Diamond" "INV_MISC_QUESTIONMARK"
 /wm 3
 END
 VER 3 0000000000000043 "EAB" "INV_MISC_QUESTIONMARK"
+#showtooltip
 /click ExtraActionButton1
 END
 VER 3 000000000000002B "lcheck" "INV_MISC_QUESTIONMARK"

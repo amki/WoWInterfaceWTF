@@ -4,7 +4,6 @@ PawnOptions = {
 	["LastPlayerFullName"] = "Mamiko-Azshara",
 	["AutoSelectScales"] = true,
 	["UpgradeTracking"] = false,
-	["LastKeybindingsSet"] = 1,
 	["Artifacts"] = {
 		[128868] = {
 			["Relics"] = {
@@ -13,15 +12,32 @@ PawnOptions = {
 					["Type"] = "Holy",
 				}, -- [1]
 				{
-					["ItemLevel"] = 61,
+					["ItemLevel"] = 62,
 					["Type"] = "Shadow",
 				}, -- [2]
 				{
-					["ItemLevel"] = 62,
+					["ItemLevel"] = 64,
 					["Type"] = "Holy",
 				}, -- [3]
 			},
 			["Name"] = "Light's Wrath",
+		},
+		[128827] = {
+			["Relics"] = {
+				{
+					["ItemLevel"] = 62,
+					["Type"] = "Shadow",
+				}, -- [1]
+				{
+					["ItemLevel"] = 65,
+					["Type"] = "Blood",
+				}, -- [2]
+				{
+					["ItemLevel"] = 62,
+					["Type"] = "Shadow",
+				}, -- [3]
+			},
+			["Name"] = "Xal'atath, Blade of the Black Empire",
 		},
 		[128825] = {
 			["Relics"] = {
@@ -41,6 +57,7 @@ PawnOptions = {
 			["Name"] = "T'uure, Beacon of the Naaru",
 		},
 	},
+	["LastKeybindingsSet"] = 1,
 }
 PawnMrRobotScaleProviderOptions = {
 	["LastClass"] = "PRIEST",

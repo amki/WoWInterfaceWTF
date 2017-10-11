@@ -1,0 +1,220 @@
+
+RelicInspectorCharDB = {
+	["profileKeys"] = {
+		["Mamiko - Azshara"] = "Mamiko - Azshara",
+	},
+	["char"] = {
+		["Mamiko - Azshara"] = {
+			["crucibleUsed"] = true,
+			["artifactCache"] = {
+				[128868] = {
+					["timestamp"] = 720953.95,
+					["level"] = 57,
+					["crucibled"] = false,
+				},
+				[128827] = {
+					["timestamp"] = 714855.25,
+					["level"] = 52,
+					["crucibled"] = false,
+				},
+				[128825] = {
+					{
+						["relic"] = {
+							"Crux of Blind Faith", -- [1]
+							612098, -- [2]
+							"Holy", -- [3]
+							"|cffa335ee|Hitem:137495:::::::::::35:3:3536:1582:3337:::|h[Crux of Blind Faith]|h|r", -- [4]
+						},
+						["traits"] = {
+							{
+								["requiredArtifactLevel"] = 0,
+								["tier"] = 1,
+								["canChoose"] = false,
+								["powerID"] = 1739,
+								["icon"] = 1033184,
+								["isChosen"] = true,
+								["spellID"] = 250879,
+							}, -- [1]
+							{
+								["requiredArtifactLevel"] = 60,
+								["tier"] = 2,
+								["canChoose"] = false,
+								["powerID"] = 1771,
+								["icon"] = 136194,
+								["isChosen"] = true,
+								["spellID"] = 252091,
+							}, -- [2]
+							{
+								["requiredArtifactLevel"] = 60,
+								["tier"] = 2,
+								["canChoose"] = false,
+								["powerID"] = 1783,
+								["icon"] = 876916,
+								["isChosen"] = false,
+								["spellID"] = 253093,
+							}, -- [3]
+							{
+								["requiredArtifactLevel"] = 69,
+								["tier"] = 3,
+								["canChoose"] = false,
+								["powerID"] = 847,
+								["icon"] = 237541,
+								["isChosen"] = false,
+								["spellID"] = 196429,
+							}, -- [4]
+							{
+								["requiredArtifactLevel"] = 69,
+								["tier"] = 3,
+								["canChoose"] = false,
+								["powerID"] = 849,
+								["icon"] = 135943,
+								["isChosen"] = false,
+								["spellID"] = 196434,
+							}, -- [5]
+							{
+								["requiredArtifactLevel"] = 69,
+								["tier"] = 3,
+								["canChoose"] = false,
+								["powerID"] = 1569,
+								["icon"] = 1295540,
+								["isChosen"] = false,
+								["spellID"] = 238064,
+							}, -- [6]
+						},
+					}, -- [1]
+					{
+						["relic"] = {
+							"Quivering Blightshard Husk", -- [1]
+							134397, -- [2]
+							"Life", -- [3]
+							"|cffa335ee|Hitem:137339:::::::::::35:3:3536:1582:3337:::|h[Quivering Blightshard Husk]|h|r", -- [4]
+						},
+						["traits"] = {
+							{
+								["requiredArtifactLevel"] = 0,
+								["tier"] = 1,
+								["canChoose"] = false,
+								["powerID"] = 1739,
+								["icon"] = 1033184,
+								["isChosen"] = true,
+								["spellID"] = 250879,
+							}, -- [1]
+							{
+								["requiredArtifactLevel"] = 63,
+								["tier"] = 2,
+								["canChoose"] = false,
+								["powerID"] = 1781,
+								["icon"] = 839910,
+								["isChosen"] = true,
+								["spellID"] = 252922,
+							}, -- [2]
+							{
+								["requiredArtifactLevel"] = 63,
+								["tier"] = 2,
+								["canChoose"] = false,
+								["powerID"] = 1783,
+								["icon"] = 876916,
+								["isChosen"] = false,
+								["spellID"] = 253093,
+							}, -- [3]
+							{
+								["requiredArtifactLevel"] = 72,
+								["tier"] = 3,
+								["canChoose"] = false,
+								["powerID"] = 849,
+								["icon"] = 135943,
+								["isChosen"] = false,
+								["spellID"] = 196434,
+							}, -- [4]
+							{
+								["requiredArtifactLevel"] = 72,
+								["tier"] = 3,
+								["canChoose"] = false,
+								["powerID"] = 1569,
+								["icon"] = 1295540,
+								["isChosen"] = false,
+								["spellID"] = 238064,
+							}, -- [5]
+							{
+								["requiredArtifactLevel"] = 72,
+								["tier"] = 3,
+								["canChoose"] = false,
+								["powerID"] = 842,
+								["icon"] = 135944,
+								["isChosen"] = false,
+								["spellID"] = 196358,
+							}, -- [6]
+						},
+					}, -- [2]
+					{
+						["relic"] = {
+							"Boon of the Prophet", -- [1]
+							135876, -- [2]
+							"Holy", -- [3]
+							"|cffa335ee|Hitem:147099:::::::::::5:3:3562:1512:3336:::|h[Boon of the Prophet]|h|r", -- [4]
+						},
+						["traits"] = {
+							{
+								["requiredArtifactLevel"] = 0,
+								["tier"] = 1,
+								["canChoose"] = false,
+								["powerID"] = 1739,
+								["icon"] = 1033184,
+								["isChosen"] = true,
+								["spellID"] = 250879,
+							}, -- [1]
+							{
+								["requiredArtifactLevel"] = 66,
+								["tier"] = 2,
+								["canChoose"] = false,
+								["powerID"] = 1774,
+								["icon"] = 136129,
+								["isChosen"] = true,
+								["spellID"] = 252191,
+							}, -- [2]
+							{
+								["requiredArtifactLevel"] = 66,
+								["tier"] = 2,
+								["canChoose"] = false,
+								["powerID"] = 1782,
+								["icon"] = 1360764,
+								["isChosen"] = false,
+								["spellID"] = 253070,
+							}, -- [3]
+							{
+								["requiredArtifactLevel"] = 75,
+								["tier"] = 3,
+								["canChoose"] = false,
+								["powerID"] = 848,
+								["icon"] = 237546,
+								["isChosen"] = false,
+								["spellID"] = 196430,
+							}, -- [4]
+							{
+								["requiredArtifactLevel"] = 75,
+								["tier"] = 3,
+								["canChoose"] = false,
+								["powerID"] = 844,
+								["icon"] = 135921,
+								["isChosen"] = false,
+								["spellID"] = 196418,
+							}, -- [5]
+							{
+								["requiredArtifactLevel"] = 75,
+								["tier"] = 3,
+								["canChoose"] = false,
+								["powerID"] = 849,
+								["icon"] = 135943,
+								["isChosen"] = false,
+								["spellID"] = 196434,
+							}, -- [6]
+						},
+					}, -- [3]
+					["level"] = 68,
+					["crucibled"] = true,
+					["timestamp"] = 867988.373,
+				},
+			},
+		},
+	},
+}
