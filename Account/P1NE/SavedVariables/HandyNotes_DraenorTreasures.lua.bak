@@ -1,0 +1,11 @@
+
+DraenorTreasuresDB = {
+	["profileKeys"] = {
+		["Ieni - Tarren Mill"] = "Default",
+		["Mamiko - Azshara"] = "Default",
+	},
+	["profiles"] = {
+		["Default"] = {
+		},
+	},
+}

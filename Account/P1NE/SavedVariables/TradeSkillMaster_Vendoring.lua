@@ -5,15 +5,19 @@ TradeSkillMaster_VendoringDB = {
 		["char"] = {
 			"Mamiko - Azshara", -- [1]
 			"Lyt - Azshara", -- [2]
+			"Enthusiastus - Azshara", -- [3]
+			"Ieni - Tarren Mill", -- [4]
 		},
 		["factionrealm"] = {
 			"Horde - Azshara", -- [1]
+			"Horde - Tarren Mill", -- [2]
 		},
 		["profile"] = {
 			"Default", -- [1]
 		},
 		["realm"] = {
 			"Azshara", -- [1]
+			"Tarren Mill", -- [2]
 		},
 	},
 	["g@ @helpPlatesShown"] = {
@@ -24,6 +28,8 @@ TradeSkillMaster_VendoringDB = {
 	["_currentProfile"] = {
 		["Lyt - Azshara"] = "Default",
 		["Mamiko - Azshara"] = "Default",
+		["Enthusiastus - Azshara"] = "Default",
+		["Ieni - Tarren Mill"] = "Default",
 	},
 	["g@ @qsHideSoulbound"] = true,
 	["g@ @defaultPage"] = 1,

@@ -15,11 +15,13 @@ TradeSkillMaster_ShoppingDB = {
 			"Lyt - Azshara", -- [7]
 			"Intergalacto - Azshara", -- [8]
 			"Miamisaurus - Onyxia", -- [9]
+			"Ieni - Tarren Mill", -- [10]
 		},
 		["realm"] = {
 			"Azshara", -- [1]
 			"Mal'Ganis", -- [2]
 			"Onyxia", -- [3]
+			"Tarren Mill", -- [4]
 		},
 		["profile"] = {
 			"Default", -- [1]
@@ -28,13 +30,14 @@ TradeSkillMaster_ShoppingDB = {
 			"Horde - Azshara", -- [1]
 			"Horde - Mal'Ganis", -- [2]
 			"Horde - Onyxia", -- [3]
+			"Horde - Tarren Mill", -- [4]
 		},
 	},
 	["g@ @helpPlatesShown"] = {
 		["auction"] = true,
 	},
 	["g@ @sniperVendorPrice"] = true,
-	["g@ @sniperSound"] = "TSM_NO_SOUND",
+	["_hash"] = 1861581,
 	["g@ @savedSearches"] = {
 		{
 			["searchMode"] = "normal",
@@ -637,7 +640,7 @@ TradeSkillMaster_ShoppingDB = {
 			["filter"] = "Volatile Air/exact",
 		}, -- [100]
 	},
-	["_hash"] = 1861581,
+	["g@ @sniperSound"] = "TSM_NO_SOUND",
 	["g@ @marketValueSource"] = "dbmarket",
 	["g@ @maxDeSearchLvl"] = 735,
 	["g@ @minDeSearchLvl"] = 1,
@@ -651,6 +654,7 @@ TradeSkillMaster_ShoppingDB = {
 		["Ieni - Mal'Ganis"] = "Default",
 		["Mamiko - Azshara"] = "Default",
 		["Lyt - Onyxia"] = "Default",
+		["Ieni - Tarren Mill"] = "Default",
 		["Enthusiastus - Azshara"] = "Default",
 		["Rathok - Onyxia"] = "Default",
 	},

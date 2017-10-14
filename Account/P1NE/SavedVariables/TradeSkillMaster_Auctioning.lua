@@ -20,6 +20,7 @@ TradeSkillMaster_AuctioningDB = {
 		["Ieni - Mal'Ganis"] = "Default",
 		["Mamiko - Azshara"] = "Default",
 		["Lyt - Onyxia"] = "Default",
+		["Ieni - Tarren Mill"] = "Default",
 		["Enthusiastus - Azshara"] = "Default",
 		["Rathok - Onyxia"] = "Default",
 	},
@@ -34,8 +35,15 @@ TradeSkillMaster_AuctioningDB = {
 	["f@Horde - Mal'Ganis@player"] = {
 		["Ieni"] = true,
 	},
+	["f@Horde - Azshara@player"] = {
+		["Mamiko"] = true,
+		["Intergalacto"] = true,
+		["Enthusiastus"] = true,
+		["Lyt"] = true,
+	},
 	["g@ @matchWhitelist"] = true,
-	["f@Horde - Azshara@whitelist"] = {
+	["f@Horde - Tarren Mill@player"] = {
+		["Ieni"] = true,
 	},
 	["_scopeKeys"] = {
 		["char"] = {
@@ -48,11 +56,13 @@ TradeSkillMaster_AuctioningDB = {
 			"Lyt - Azshara", -- [7]
 			"Intergalacto - Azshara", -- [8]
 			"Miamisaurus - Onyxia", -- [9]
+			"Ieni - Tarren Mill", -- [10]
 		},
 		["realm"] = {
 			"Azshara", -- [1]
 			"Mal'Ganis", -- [2]
 			"Onyxia", -- [3]
+			"Tarren Mill", -- [4]
 		},
 		["profile"] = {
 			"Default", -- [1]
@@ -61,13 +71,12 @@ TradeSkillMaster_AuctioningDB = {
 			"Horde - Azshara", -- [1]
 			"Horde - Mal'Ganis", -- [2]
 			"Horde - Onyxia", -- [3]
+			"Horde - Tarren Mill", -- [4]
 		},
 	},
+	["f@Horde - Azshara@whitelist"] = {
+	},
 	["_version"] = 1,
-	["f@Horde - Azshara@player"] = {
-		["Mamiko"] = true,
-		["Intergalacto"] = true,
-		["Enthusiastus"] = true,
-		["Lyt"] = true,
+	["f@Horde - Tarren Mill@whitelist"] = {
 	},
 }

@@ -2,6 +2,8 @@
 MBFDB = {
 	["profileKeys"] = {
 		["Lyt - Azshara"] = "Default",
+		["Ieni - Tarren Mill"] = "Default",
+		["Enthusiastus - Azshara"] = "Default",
 		["Mamiko - Azshara"] = "Default",
 	},
 	["profiles"] = {
@@ -26,6 +28,7 @@ MBFDB = {
 				"LibDBIcon10_Fishing Buddy", -- [11]
 				"LibDBIcon10_Paste", -- [12]
 				"OutfitterMinimapButton", -- [13]
+				"GuildInstanceDifficulty", -- [14]
 			},
 		},
 	},

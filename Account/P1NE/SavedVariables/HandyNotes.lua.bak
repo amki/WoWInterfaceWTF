@@ -2,10 +2,16 @@
 HandyNotesDB = {
 	["profileKeys"] = {
 		["Lyt - Azshara"] = "Lyt - Azshara",
+		["Ieni - Tarren Mill"] = "Ieni - Tarren Mill",
+		["Enthusiastus - Azshara"] = "Enthusiastus - Azshara",
 		["Mamiko - Azshara"] = "Mamiko - Azshara",
 	},
 	["profiles"] = {
 		["Lyt - Azshara"] = {
+		},
+		["Ieni - Tarren Mill"] = {
+		},
+		["Enthusiastus - Azshara"] = {
 		},
 		["Mamiko - Azshara"] = {
 		},
@@ -14,10 +20,16 @@ HandyNotesDB = {
 HandyNotes_HandyNotesDB = {
 	["profileKeys"] = {
 		["Lyt - Azshara"] = "Lyt - Azshara",
+		["Ieni - Tarren Mill"] = "Ieni - Tarren Mill",
+		["Enthusiastus - Azshara"] = "Enthusiastus - Azshara",
 		["Mamiko - Azshara"] = "Mamiko - Azshara",
 	},
 	["profiles"] = {
 		["Lyt - Azshara"] = {
+		},
+		["Ieni - Tarren Mill"] = {
+		},
+		["Enthusiastus - Azshara"] = {
 		},
 		["Mamiko - Azshara"] = {
 		},

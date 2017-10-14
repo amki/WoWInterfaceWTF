@@ -5,94 +5,13 @@ SwatterData = {
 	["combat"] = false,
 	["errors"] = {
 		{
-			["message"] = "Error: AddOn TomTom attempted to call a forbidden function (ReportPlayerIsPVPAFK()) from a tainted execution path.",
-			["count"] = 1,
-			["addons"] = "  Swatter, v7.3.1 (<%codename%>)\n  AchievementsReminder, v\n  ACU, v\n  AdventureGuideSavedInstances, v1.0.4\n  AngryKeystones, v\n  AngryWorldQuests, v\n  ArkInventory, v30735\n  ArkInventoryRules, v10003\n  AtlasLoot, vv8.07.00\n  AtlasLootBurningCrusade, vv8.07.00\n  AtlasLootCataclysm, vv8.07.00\n  AtlasLootClassic, vv8.07.00\n  AtlasLootLegion, vv8.07.00\n  AtlasLootMistsofPandaria, vv8.07.00\n  AtlasLootWarlordsofDraenor, vv8.07.00\n  AtlasLootWrathoftheLichKing, vv8.07.00\n  autorolecheck, v0.0.2\n  Aye, v1.0.6\n  AyeCoSpy, v1.0.2\n  Bartender4, v4.7.10\n  BattlePetBreedID, vr158\n  BeQuiet, v1.5.1\n  BigWigs, vv73\n  BloodTrader, v2.1.2\n  BonusRollPreview, v70300.44-Release\n  DeathNote, vr92\n  DejaCharacterStats, v730r101\n  Details, v\n  DetailsDeathGraphs, v\n  DetailsDmgRank, v\n  DetailsDpsTuning, v\n  DetailsEncounterDetails, v\n  DetailsRaidCheck, v\n  DetailsRaidInfoEmeraldNightmare, v\n  DetailsRaidInfoNighthold, v\n  DetailsRaidInfoTombOfSargeras, v\n  DetailsRaidInfoTrialOfValor, v\n  DetailsStreamer, v\n  DetailsTimeAttack, v\n  DetailsTinyThreat, v\n  DetailsVanguard, v\n  ElitismHelper, v0.7.6\n  FakeAchievement, vv1.0.1.3\n  FishingBuddy, v1.7.13i\n  GarrisonMissionManager, vv55\n  GladiatorlosSA, v2.0\n  Gladius, v5.2.0\n  GroupfinderFlags, v0.6\n  HandyNotes, vv1.4.15\n  HandyNotesLegionRaresTreasures, v1.01b\n  idTip, v7.0.7\n  InspectItemLevel, v1.2.0\n  KuiMedia, v\n  KuiNameplates, v\n  KuiNameplatesCore, v\n  KuiNameplatesCustom, v\n  LFRAdvanced, v7.3.0.24920\n  MasterPlanA, vA\n  MinimapButtonFrame, v3.1.10e\n  MinimapButtonFrameSkinPack, v3.0.1b\n  MPH, v1.3\n  OmniBar, vv8.0\n  Outfitter, v5.19.1\n  Overachiever, v0.99.9\n  OverachieverTabs, v0.99.9\n  Paste, v1.4.10\n  Pawn, v2.2.14a\n  PetTracker, v7.3.0\n  PetTrackerBreeds, v7.3.0\n  PetTrackerConfig, v7.3.0\n  PetTrackerJournal, v7.3.0\n  PetTrackerSwitcher, v7.3.0\n  PetTrackerUpgrades, v7.3.0\n  ReleaseMe, vv1.0.3\n  rLib, v\n  rVignette, v\n  SlashCombatLog, vv1.15r\n  SlideBar, v7.3.1 (<%codename%>)\n  TomTom, vv70200-1.0.0\n  TradeSkillMaster, vv3.6.37\n  TradeSkillMasterAccounting, vv3.0.20\n  TradeSkillMasterAppHelper, vv3.0.2\n  TradeSkillMasterAuctionDB, vv3.1.18\n  TradeSkillMasterAuctioning, vv3.0.16\n  TradeSkillMasterCrafting, vv3.2.5\n  TradeSkillMasterDestroying, vv3.1.7\n  TradeSkillMasterMailing, vv3.0.18\n  TradeSkillMasterShopping, vv3.4.7\n  TradeSkillMasterVendoring, vv3.0.7\n  TradeSkillMasterWarehousing, vv3.0.8\n  Tukui, v17.13\n  TukuiConfig, v\n  TukuiMarkBar, v1.10\n  WeakAuras, v2.4.22\n  XLoot, v7.3-1\n  XLootFrame, v7.3-1\n  XLootGroup, v7.3-1\n  XLootMaster, v7.3-1\n  XLootMonitor, v7.3-1\n  BlizRuntimeLib_enUS v7.3.0.70300 <none>\n  (ck=a29)\n",
-			["timestamp"] = "2017-09-28 01:23:14",
-			["context"] = "AddOn: TomTom",
-			["stack"] = "[C]: in function `ReportPlayerIsPVPAFK'\nInterface\\FrameXML\\WorldMapFrame.lua:2793: in function `func'\nInterface\\FrameXML\\UIDropDownMenu.lua:791: in function `UIDropDownMenuButton_OnClick'\n[string \"*:OnClick\"]:1: in function <[string \"*:OnClick\"]:1>\n",
-		}, -- [1]
-		{
-			["message"] = "Interface\\AddOns\\GladiatorlosSA\\GladiatorlosSA.lua:215: script ran too long",
-			["count"] = 1,
-			["addons"] = "  Swatter, v7.3.1 (<%codename%>)\n  AchievementsReminder, v\n  ACU, v\n  AdventureGuideSavedInstances, v1.0.4\n  AngryKeystones, v\n  AngryWorldQuests, v\n  ArkInventory, v30735\n  ArkInventoryRules, v10003\n  AtlasLoot, vv8.07.00\n  AtlasLootBurningCrusade, vv8.07.00\n  AtlasLootCataclysm, vv8.07.00\n  AtlasLootClassic, vv8.07.00\n  AtlasLootLegion, vv8.07.00\n  AtlasLootMistsofPandaria, vv8.07.00\n  AtlasLootWarlordsofDraenor, vv8.07.00\n  AtlasLootWrathoftheLichKing, vv8.07.00\n  autorolecheck, v0.0.2\n  Aye, v1.0.6\n  AyeCoSpy, v1.0.2\n  Bartender4, v4.7.10\n  BattlePetBreedID, vr158\n  BeQuiet, v1.5.1\n  BigWigs, vv73\n  BloodTrader, v2.1.2\n  BonusRollPreview, v70300.44-Release\n  DeathNote, vr92\n  DejaCharacterStats, v730r101\n  Details, v\n  DetailsDeathGraphs, v\n  DetailsDmgRank, v\n  DetailsDpsTuning, v\n  DetailsEncounterDetails, v\n  DetailsRaidCheck, v\n  DetailsRaidInfoEmeraldNightmare, v\n  DetailsRaidInfoNighthold, v\n  DetailsRaidInfoTombOfSargeras, v\n  DetailsRaidInfoTrialOfValor, v\n  DetailsStreamer, v\n  DetailsTimeAttack, v\n  DetailsTinyThreat, v\n  DetailsVanguard, v\n  ElitismHelper, v0.7.6\n  FakeAchievement, vv1.0.1.3\n  FishingBuddy, v1.7.13i\n  GladiatorlosSA, v2.0\n  Gladius, v5.2.0\n  GroupfinderFlags, v0.6\n  HandyNotes, vv1.4.15\n  HandyNotesLegionRaresTreasures, v1.01b\n  idTip, v7.0.7\n  InspectItemLevel, v1.2.0\n  KuiMedia, v\n  KuiNameplates, v\n  KuiNameplatesCore, v\n  KuiNameplatesCustom, v\n  LFRAdvanced, v7.3.0.24920\n  MasterPlanA, vA\n  MinimapButtonFrame, v3.1.10e\n  MinimapButtonFrameSkinPack, v3.0.1b\n  MPH, v1.3\n  OmniBar, vv8.0\n  Outfitter, v5.19.1\n  Overachiever, v0.99.9\n  OverachieverTabs, v0.99.9\n  Paste, v1.4.10\n  Pawn, v2.2.14a\n  PetTracker, v7.3.0\n  PetTrackerBreeds, v7.3.0\n  PetTrackerConfig, v7.3.0\n  PetTrackerJournal, v7.3.0\n  PetTrackerSwitcher, v7.3.0\n  PetTrackerUpgrades, v7.3.0\n  ReleaseMe, vv1.0.3\n  rLib, v\n  rVignette, v\n  SlashCombatLog, vv1.15r\n  SlideBar, v7.3.1 (<%codename%>)\n  TomTom, vv70200-1.0.0\n  TradeSkillMaster, vv3.6.37\n  TradeSkillMasterAccounting, vv3.0.20\n  TradeSkillMasterAppHelper, vv3.0.2\n  TradeSkillMasterAuctionDB, vv3.1.18\n  TradeSkillMasterAuctioning, vv3.0.16\n  TradeSkillMasterCrafting, vv3.2.5\n  TradeSkillMasterDestroying, vv3.1.7\n  TradeSkillMasterMailing, vv3.0.18\n  TradeSkillMasterShopping, vv3.4.7\n  TradeSkillMasterVendoring, vv3.0.7\n  TradeSkillMasterWarehousing, vv3.0.8\n  Tukui, v17.13\n  TukuiConfig, v\n  TukuiMarkBar, v1.10\n  WeakAuras, v2.4.22\n  XLoot, v7.3-1\n  XLootFrame, v7.3-1\n  XLootGroup, v7.3-1\n  XLootMaster, v7.3-1\n  XLootMonitor, v7.3-1\n  BlizRuntimeLib_enUS v7.3.0.70300 <none>\n  (ck=a0a)\n",
-			["timestamp"] = "2017-09-28 02:06:48",
-			["context"] = "Global",
-			["stack"] = "(tail call): ?\nInterface\\AddOns\\GladiatorlosSA\\GladiatorlosSA.lua:215: in function `PlaySound'\nInterface\\AddOns\\GladiatorlosSA\\GladiatorlosSA.lua:261: in function `PlaySpell'\nInterface\\AddOns\\GladiatorlosSA\\GladiatorlosSA.lua:327: in function `?'\n...ACU\\Libs\\CallbackHandler-1.0\\CallbackHandler-1.0.lua:145: in function <...ACU\\Libs\\CallbackHandler-1.0\\CallbackHandler-1.0.lua:145>\n[string \"safecall Dispatcher[16]\"]:4: in function <[string \"safecall Dispatcher[16]\"]:4>\n[C]: ?\n[string \"safecall Dispatcher[16]\"]:13: in function `?'\n...ACU\\Libs\\CallbackHandler-1.0\\CallbackHandler-1.0.lua:90: in function `Fire'\n...y\\Externals\\curse\\svn\\Ace3-AceEvent\\AceEvent-3.0.lua:120: in function <...y\\Externals\\curse\\svn\\Ace3-AceEvent\\AceEvent-3.0.lua:119>\n",
-		}, -- [2]
-		{
-			["message"] = "[string \"safecall Dispatcher[16]\"]:14: script ran too long",
-			["count"] = 1,
-			["addons"] = "  Swatter, v7.3.1 (<%codename%>)\n  AchievementsReminder, v\n  ACU, v\n  AdventureGuideSavedInstances, v1.0.4\n  AngryKeystones, v\n  AngryWorldQuests, v\n  ArkInventory, v30735\n  ArkInventoryRules, v10003\n  AtlasLoot, vv8.07.00\n  AtlasLootBurningCrusade, vv8.07.00\n  AtlasLootCataclysm, vv8.07.00\n  AtlasLootClassic, vv8.07.00\n  AtlasLootLegion, vv8.07.00\n  AtlasLootMistsofPandaria, vv8.07.00\n  AtlasLootWarlordsofDraenor, vv8.07.00\n  AtlasLootWrathoftheLichKing, vv8.07.00\n  autorolecheck, v0.0.2\n  Aye, v1.0.6\n  AyeCoSpy, v1.0.2\n  Bartender4, v4.7.10\n  BattlePetBreedID, vr158\n  BeQuiet, v1.5.1\n  BigWigs, vv73\n  BloodTrader, v2.1.2\n  BonusRollPreview, v70300.44-Release\n  DeathNote, vr92\n  DejaCharacterStats, v730r101\n  Details, v\n  DetailsDeathGraphs, v\n  DetailsDmgRank, v\n  DetailsDpsTuning, v\n  DetailsEncounterDetails, v\n  DetailsRaidCheck, v\n  DetailsRaidInfoEmeraldNightmare, v\n  DetailsRaidInfoNighthold, v\n  DetailsRaidInfoTombOfSargeras, v\n  DetailsRaidInfoTrialOfValor, v\n  DetailsStreamer, v\n  DetailsTimeAttack, v\n  DetailsTinyThreat, v\n  DetailsVanguard, v\n  ElitismHelper, v0.7.6\n  FakeAchievement, vv1.0.1.3\n  FishingBuddy, v1.7.13i\n  GladiatorlosSA, v2.0\n  Gladius, v5.2.0\n  GroupfinderFlags, v0.6\n  HandyNotes, vv1.4.15\n  HandyNotesLegionRaresTreasures, v1.01b\n  idTip, v7.0.7\n  InspectItemLevel, v1.2.0\n  KuiMedia, v\n  KuiNameplates, v\n  KuiNameplatesCore, v\n  KuiNameplatesCustom, v\n  LFRAdvanced, v7.3.0.24920\n  MasterPlanA, vA\n  MinimapButtonFrame, v3.1.10e\n  MinimapButtonFrameSkinPack, v3.0.1b\n  MPH, v1.3\n  OmniBar, vv8.0\n  Outfitter, v5.19.1\n  Overachiever, v0.99.9\n  OverachieverTabs, v0.99.9\n  Paste, v1.4.10\n  Pawn, v2.2.14a\n  PetTracker, v7.3.0\n  PetTrackerBreeds, v7.3.0\n  PetTrackerConfig, v7.3.0\n  PetTrackerJournal, v7.3.0\n  PetTrackerSwitcher, v7.3.0\n  PetTrackerUpgrades, v7.3.0\n  ReleaseMe, vv1.0.3\n  rLib, v\n  rVignette, v\n  SlashCombatLog, vv1.15r\n  SlideBar, v7.3.1 (<%codename%>)\n  TomTom, vv70200-1.0.0\n  TradeSkillMaster, vv3.6.37\n  TradeSkillMasterAccounting, vv3.0.20\n  TradeSkillMasterAppHelper, vv3.0.2\n  TradeSkillMasterAuctionDB, vv3.1.18\n  TradeSkillMasterAuctioning, vv3.0.16\n  TradeSkillMasterCrafting, vv3.2.5\n  TradeSkillMasterDestroying, vv3.1.7\n  TradeSkillMasterMailing, vv3.0.18\n  TradeSkillMasterShopping, vv3.4.7\n  TradeSkillMasterVendoring, vv3.0.7\n  TradeSkillMasterWarehousing, vv3.0.8\n  Tukui, v17.13\n  TukuiConfig, v\n  TukuiMarkBar, v1.10\n  WeakAuras, v2.4.22\n  XLoot, v7.3-1\n  XLootFrame, v7.3-1\n  XLootGroup, v7.3-1\n  XLootMaster, v7.3-1\n  XLootMonitor, v7.3-1\n  BlizRuntimeLib_enUS v7.3.0.70300 <none>\n  (ck=a0a)\n",
-			["locals"] = "",
-			["timestamp"] = "2017-09-28 02:06:48",
-			["context"] = "Global",
-			["stack"] = "[C]: ?\n[string \"safecall Dispatcher[16]\"]:14: in function `?'\n...ACU\\Libs\\CallbackHandler-1.0\\CallbackHandler-1.0.lua:90: in function `Fire'\n...y\\Externals\\curse\\svn\\Ace3-AceEvent\\AceEvent-3.0.lua:120: in function <...y\\Externals\\curse\\svn\\Ace3-AceEvent\\AceEvent-3.0.lua:119>\n",
-		}, -- [3]
-		{
-			["message"] = "Error: AddOn TomTom attempted to call a forbidden function (ReportPlayerIsPVPAFK()) from a tainted execution path.",
-			["count"] = 7,
-			["addons"] = "  Swatter, v7.3.1 (<%codename%>)\n  AchievementsReminder, v\n  ACU, v\n  AdventureGuideSavedInstances, v1.0.4\n  AngryKeystones, v\n  AngryWorldQuests, v\n  ArkInventory, v30735\n  ArkInventoryRules, v10003\n  AtlasLoot, vv8.07.00\n  AtlasLootBurningCrusade, vv8.07.00\n  AtlasLootCataclysm, vv8.07.00\n  AtlasLootClassic, vv8.07.00\n  AtlasLootLegion, vv8.07.00\n  AtlasLootMistsofPandaria, vv8.07.00\n  AtlasLootWarlordsofDraenor, vv8.07.00\n  AtlasLootWrathoftheLichKing, vv8.07.00\n  autorolecheck, v0.0.2\n  Aye, v1.0.6\n  AyeCoSpy, v1.0.2\n  Bartender4, v4.7.10\n  BattlePetBreedID, vr158\n  BeQuiet, v1.5.1\n  BigWigs, vv73\n  BloodTrader, v2.1.2\n  BonusRollPreview, v70300.44-Release\n  DeathNote, vr92\n  DejaCharacterStats, v730r101\n  Details, v\n  DetailsDeathGraphs, v\n  DetailsDmgRank, v\n  DetailsDpsTuning, v\n  DetailsEncounterDetails, v\n  DetailsRaidCheck, v\n  DetailsRaidInfoEmeraldNightmare, v\n  DetailsRaidInfoNighthold, v\n  DetailsRaidInfoTombOfSargeras, v\n  DetailsRaidInfoTrialOfValor, v\n  DetailsStreamer, v\n  DetailsTimeAttack, v\n  DetailsTinyThreat, v\n  DetailsVanguard, v\n  ElitismHelper, v0.7.6\n  FakeAchievement, vv1.0.1.3\n  FishingBuddy, v1.7.13i\n  GladiatorlosSA, v2.0\n  Gladius, v5.2.0\n  GroupfinderFlags, v0.6\n  HandyNotes, vv1.4.15\n  HandyNotesLegionRaresTreasures, v1.01b\n  idTip, v7.0.7\n  InspectItemLevel, v1.2.0\n  KuiMedia, v\n  KuiNameplates, v\n  KuiNameplatesCore, v\n  KuiNameplatesCustom, v\n  LFRAdvanced, v7.3.0.24920\n  MasterPlanA, vA\n  MinimapButtonFrame, v3.1.10e\n  MinimapButtonFrameSkinPack, v3.0.1b\n  MPH, v1.3\n  OmniBar, vv8.0\n  Outfitter, v5.19.1\n  Overachiever, v0.99.9\n  OverachieverTabs, v0.99.9\n  Paste, v1.4.10\n  Pawn, v2.2.14a\n  PetTracker, v7.3.0\n  PetTrackerBreeds, v7.3.0\n  PetTrackerConfig, v7.3.0\n  PetTrackerJournal, v7.3.0\n  PetTrackerSwitcher, v7.3.0\n  PetTrackerUpgrades, v7.3.0\n  ReleaseMe, vv1.0.3\n  rLib, v\n  rVignette, v\n  SlashCombatLog, vv1.15r\n  SlideBar, v7.3.1 (<%codename%>)\n  TomTom, vv70200-1.0.0\n  TradeSkillMaster, vv3.6.37\n  TradeSkillMasterAccounting, vv3.0.20\n  TradeSkillMasterAppHelper, vv3.0.2\n  TradeSkillMasterAuctionDB, vv3.1.18\n  TradeSkillMasterAuctioning, vv3.0.16\n  TradeSkillMasterCrafting, vv3.2.5\n  TradeSkillMasterDestroying, vv3.1.7\n  TradeSkillMasterMailing, vv3.0.18\n  TradeSkillMasterShopping, vv3.4.7\n  TradeSkillMasterVendoring, vv3.0.7\n  TradeSkillMasterWarehousing, vv3.0.8\n  Tukui, v17.13\n  TukuiConfig, v\n  TukuiMarkBar, v1.10\n  WeakAuras, v2.4.22\n  XLoot, v7.3-1\n  XLootFrame, v7.3-1\n  XLootGroup, v7.3-1\n  XLootMaster, v7.3-1\n  XLootMonitor, v7.3-1\n  BlizRuntimeLib_enUS v7.3.0.70300 <none>\n  (ck=a0a)\n",
-			["timestamp"] = "2017-09-28 02:47:51",
-			["context"] = "AddOn: TomTom",
-			["stack"] = "[C]: in function `ReportPlayerIsPVPAFK'\nInterface\\FrameXML\\WorldMapFrame.lua:2799: in function `func'\nInterface\\FrameXML\\UIDropDownMenu.lua:791: in function `UIDropDownMenuButton_OnClick'\n[string \"*:OnClick\"]:1: in function <[string \"*:OnClick\"]:1>\n",
-		}, -- [4]
-		{
-			["message"] = "Note: AddOn Tukui attempted to call a protected function (SpellBookFrame:SetAttribute()) during combat lockdown.",
-			["count"] = 6,
-			["addons"] = "  Swatter, v7.3.1 (<%codename%>)\n  AchievementsReminder, v\n  ACU, v\n  AdventureGuideSavedInstances, v1.0.4\n  AngryKeystones, v\n  AngryWorldQuests, v\n  ArkInventory, v30735\n  ArkInventoryRules, v10003\n  autorolecheck, v0.0.2\n  Aye, v1.0.6\n  AyeCoSpy, v1.0.2\n  Bartender4, v4.7.10\n  BattlePetBreedID, vr158\n  BeQuiet, v1.5.1\n  BigWigs, vv73\n  BigWigsCore, v\n  BigWigsPlugins, v\n  BigWigsTombOfSargeras, v\n  BloodTrader, v2.1.2\n  BonusRollPreview, v70300.44-Release\n  DeathNote, vr92\n  DejaCharacterStats, v730r101\n  Details, v\n  DetailsDataStorage, v\n  DetailsDeathGraphs, v\n  DetailsDmgRank, v\n  DetailsDpsTuning, v\n  DetailsEncounterDetails, v\n  DetailsRaidCheck, v\n  DetailsRaidInfoEmeraldNightmare, v\n  DetailsRaidInfoNighthold, v\n  DetailsRaidInfoTombOfSargeras, v\n  DetailsRaidInfoTrialOfValor, v\n  DetailsStreamer, v\n  DetailsTimeAttack, v\n  DetailsTinyThreat, v\n  DetailsVanguard, v\n  ElitismHelper, v0.7.6\n  FakeAchievement, vv1.0.1.3\n  FishingBuddy, v1.7.13i\n  GarrisonMissionManager, vv55\n  GladiatorlosSA, v2.0\n  Gladius, v5.2.0\n  GroupfinderFlags, v0.6\n  HandyNotes, vv1.4.15\n  HandyNotesLegionRaresTreasures, v1.01b\n  idTip, v7.0.7\n  InspectItemLevel, v1.2.0\n  KuiMedia, v\n  KuiNameplates, v\n  KuiNameplatesCore, v\n  KuiNameplatesCustom, v\n  LFRAdvanced, v7.3.0.24920\n  MasterPlanA, vA\n  MinimapButtonFrame, v3.1.10e\n  MinimapButtonFrameSkinPack, v3.0.1b\n  MPH, v1.3\n  OmniBar, vv8.0\n  Outfitter, v5.19.1\n  Overachiever, v0.99.9\n  OverachieverTabs, v0.99.9\n  Paste, v1.4.10\n  Pawn, v2.2.14a\n  PetTracker, v7.3.0\n  PetTrackerBreeds, v7.3.0\n  PetTrackerConfig, v7.3.0\n  PetTrackerJournal, v7.3.0\n  PetTrackerSwitcher, v7.3.0\n  PetTrackerUpgrades, v7.3.0\n  ReleaseMe, vv1.0.3\n  rLib, v\n  rVignette, v\n  SlashCombatLog, vv1.15r\n  SlideBar, v7.3.1 (<%codename%>)\n  TomTom, vv70200-1.0.0\n  TradeSkillMaster, vv3.6.37\n  TradeSkillMasterAccounting, vv3.0.20\n  TradeSkillMasterAppHelper, vv3.0.2\n  TradeSkillMasterAuctionDB, vv3.1.18\n  TradeSkillMasterAuctioning, vv3.0.16\n  TradeSkillMasterCrafting, vv3.2.5\n  TradeSkillMasterDestroying, vv3.1.7\n  TradeSkillMasterMailing, vv3.0.18\n  TradeSkillMasterShopping, vv3.4.7\n  TradeSkillMasterVendoring, vv3.0.7\n  TradeSkillMasterWarehousing, vv3.0.8\n  Tukui, v17.13\n  TukuiConfig, v\n  TukuiMarkBar, v1.10\n  WeakAuras, v2.4.22\n  XLoot, v7.3-1\n  XLootFrame, v7.3-1\n  XLootGroup, v7.3-1\n  XLootMaster, v7.3-1\n  XLootMonitor, v7.3-1\n  BlizRuntimeLib_enUS v7.3.0.70300 <none>\n  (ck=973)\n",
-			["timestamp"] = "2017-09-28 21:11:43",
-			["context"] = "AddOn: Tukui",
-			["stack"] = "[C]: in function `SetAttribute'\nInterface\\FrameXML\\UIParent.lua:82: in function <Interface\\FrameXML\\UIParent.lua:76>\nInterface\\FrameXML\\UIParent.lua:2927: in function `ShowUIPanel'\nInterface\\FrameXML\\UIParent.lua:2919: in function `ToggleFrame'\n...ace\\AddOns\\Tukui\\Modules\\Miscellaneous\\MicroMenu.lua:15: in function `func'\n...ce\\AddOns\\Tukui\\Libs\\DropDownMenu\\UIDropDownMenu.lua:723: in function `Lib_UIDropDownMenuButton_OnClick'\n[string \"*:OnClick\"]:1: in function <[string \"*:OnClick\"]:1>\n",
-		}, -- [5]
-		{
-			["message"] = "Note: AddOn Tukui attempted to call a protected function (SpellBookFrame:Show()) during combat lockdown.",
-			["count"] = 1,
-			["addons"] = "  Swatter, v7.3.1 (<%codename%>)\n  AchievementsReminder, v\n  ACU, v\n  AdventureGuideSavedInstances, v1.0.4\n  AngryKeystones, v\n  AngryWorldQuests, v\n  ArkInventory, v30735\n  ArkInventoryRules, v10003\n  autorolecheck, v0.0.2\n  Aye, v1.0.6\n  AyeCoSpy, v1.0.2\n  Bartender4, v4.7.10\n  BattlePetBreedID, vr158\n  BeQuiet, v1.5.1\n  BigWigs, vv73\n  BigWigsCore, v\n  BigWigsPlugins, v\n  BigWigsTombOfSargeras, v\n  BloodTrader, v2.1.2\n  BonusRollPreview, v70300.44-Release\n  DeathNote, vr92\n  DejaCharacterStats, v730r101\n  Details, v\n  DetailsDataStorage, v\n  DetailsDeathGraphs, v\n  DetailsDmgRank, v\n  DetailsDpsTuning, v\n  DetailsEncounterDetails, v\n  DetailsRaidCheck, v\n  DetailsRaidInfoEmeraldNightmare, v\n  DetailsRaidInfoNighthold, v\n  DetailsRaidInfoTombOfSargeras, v\n  DetailsRaidInfoTrialOfValor, v\n  DetailsStreamer, v\n  DetailsTimeAttack, v\n  DetailsTinyThreat, v\n  DetailsVanguard, v\n  ElitismHelper, v0.7.6\n  FakeAchievement, vv1.0.1.3\n  FishingBuddy, v1.7.13i\n  GarrisonMissionManager, vv55\n  GladiatorlosSA, v2.0\n  Gladius, v5.2.0\n  GroupfinderFlags, v0.6\n  HandyNotes, vv1.4.15\n  HandyNotesLegionRaresTreasures, v1.01b\n  idTip, v7.0.7\n  InspectItemLevel, v1.2.0\n  KuiMedia, v\n  KuiNameplates, v\n  KuiNameplatesCore, v\n  KuiNameplatesCustom, v\n  LFRAdvanced, v7.3.0.24920\n  MasterPlanA, vA\n  MinimapButtonFrame, v3.1.10e\n  MinimapButtonFrameSkinPack, v3.0.1b\n  MPH, v1.3\n  OmniBar, vv8.0\n  Outfitter, v5.19.1\n  Overachiever, v0.99.9\n  OverachieverTabs, v0.99.9\n  Paste, v1.4.10\n  Pawn, v2.2.14a\n  PetTracker, v7.3.0\n  PetTrackerBreeds, v7.3.0\n  PetTrackerConfig, v7.3.0\n  PetTrackerJournal, v7.3.0\n  PetTrackerSwitcher, v7.3.0\n  PetTrackerUpgrades, v7.3.0\n  ReleaseMe, vv1.0.3\n  rLib, v\n  rVignette, v\n  SlashCombatLog, vv1.15r\n  SlideBar, v7.3.1 (<%codename%>)\n  TomTom, vv70200-1.0.0\n  TradeSkillMaster, vv3.6.37\n  TradeSkillMasterAccounting, vv3.0.20\n  TradeSkillMasterAppHelper, vv3.0.2\n  TradeSkillMasterAuctionDB, vv3.1.18\n  TradeSkillMasterAuctioning, vv3.0.16\n  TradeSkillMasterCrafting, vv3.2.5\n  TradeSkillMasterDestroying, vv3.1.7\n  TradeSkillMasterMailing, vv3.0.18\n  TradeSkillMasterShopping, vv3.4.7\n  TradeSkillMasterVendoring, vv3.0.7\n  TradeSkillMasterWarehousing, vv3.0.8\n  Tukui, v17.13\n  TukuiConfig, v\n  TukuiMarkBar, v1.10\n  WeakAuras, v2.4.22\n  XLoot, v7.3-1\n  XLootFrame, v7.3-1\n  XLootGroup, v7.3-1\n  XLootMaster, v7.3-1\n  XLootMonitor, v7.3-1\n  BlizRuntimeLib_enUS v7.3.0.70300 <none>\n  (ck=973)\n",
-			["timestamp"] = "2017-09-28 21:11:43",
-			["context"] = "AddOn: Tukui",
-			["stack"] = "[C]: in function `Show'\nInterface\\FrameXML\\UIParent.lua:2928: in function `ShowUIPanel'\nInterface\\FrameXML\\UIParent.lua:2919: in function `ToggleFrame'\n...ace\\AddOns\\Tukui\\Modules\\Miscellaneous\\MicroMenu.lua:15: in function `func'\n...ce\\AddOns\\Tukui\\Libs\\DropDownMenu\\UIDropDownMenu.lua:723: in function `Lib_UIDropDownMenuButton_OnClick'\n[string \"*:OnClick\"]:1: in function <[string \"*:OnClick\"]:1>\n",
-		}, -- [6]
-		{
-			["message"] = "Note: AddOn Overachiever attempted to call a protected function (MountJournal:SetShown()) during combat lockdown.",
-			["count"] = 1,
-			["addons"] = "  Swatter, v7.3.1 (<%codename%>)\n  AchievementsReminder, v\n  ACU, v\n  AdventureGuideSavedInstances, v1.0.4\n  AngryKeystones, v\n  AngryWorldQuests, v\n  ArkInventory, v30735\n  ArkInventoryRules, v10003\n  autorolecheck, v0.0.2\n  Aye, v1.0.6\n  AyeCoSpy, v1.0.2\n  Bartender4, v4.7.10\n  BattlePetBreedID, vr158\n  BeQuiet, v1.5.1\n  BigWigs, vv73\n  BigWigsArgusInvasionPoints, v\n  BigWigsCore, v\n  BigWigsPlugins, v\n  BigWigsTombOfSargeras, v\n  BloodTrader, v2.1.2\n  BonusRollPreview, v70300.44-Release\n  DeathNote, vr92\n  DejaCharacterStats, v730r101\n  Details, v\n  DetailsDataStorage, v\n  DetailsDeathGraphs, v\n  DetailsDmgRank, v\n  DetailsDpsTuning, v\n  DetailsEncounterDetails, v\n  DetailsRaidCheck, v\n  DetailsRaidInfoEmeraldNightmare, v\n  DetailsRaidInfoNighthold, v\n  DetailsRaidInfoTombOfSargeras, v\n  DetailsRaidInfoTrialOfValor, v\n  DetailsStreamer, v\n  DetailsTimeAttack, v\n  DetailsTinyThreat, v\n  DetailsVanguard, v\n  ElitismHelper, v0.7.6\n  FakeAchievement, vv1.0.1.3\n  FishingBuddy, v1.7.13i\n  GarrisonMissionManager, vv55\n  GladiatorlosSA, v2.0\n  Gladius, v5.2.0\n  GroupfinderFlags, v0.6\n  HandyNotes, vv1.4.15\n  HandyNotesLegionRaresTreasures, v1.01b\n  idTip, v7.0.7\n  InspectItemLevel, v1.2.0\n  KuiMedia, v\n  KuiNameplates, v\n  KuiNameplatesCore, v\n  KuiNameplatesCustom, v\n  LFRAdvanced, v7.3.0.24920\n  MasterPlanA, vA\n  MinimapButtonFrame, v3.1.10e\n  MinimapButtonFrameSkinPack, v3.0.1b\n  MPH, v1.3\n  OmniBar, vv8.0\n  Outfitter, v5.19.1\n  Overachiever, v0.99.9\n  OverachieverTabs, v0.99.9\n  Paste, v1.4.10\n  Pawn, v2.2.14a\n  PetTracker, v7.3.0\n  PetTrackerBreeds, v7.3.0\n  PetTrackerConfig, v7.3.0\n  PetTrackerJournal, v7.3.0\n  PetTrackerSwitcher, v7.3.0\n  PetTrackerUpgrades, v7.3.0\n  ReleaseMe, vv1.0.3\n  rLib, v\n  rVignette, v\n  SlashCombatLog, vv1.15r\n  SlideBar, v7.3.1 (<%codename%>)\n  TomTom, vv70200-1.0.0\n  TradeSkillMaster, vv3.6.37\n  TradeSkillMasterAccounting, vv3.0.20\n  TradeSkillMasterAppHelper, vv3.0.2\n  TradeSkillMasterAuctionDB, vv3.1.18\n  TradeSkillMasterAuctioning, vv3.0.16\n  TradeSkillMasterCrafting, vv3.2.5\n  TradeSkillMasterDestroying, vv3.1.7\n  TradeSkillMasterMailing, vv3.0.18\n  TradeSkillMasterShopping, vv3.4.7\n  TradeSkillMasterVendoring, vv3.0.7\n  TradeSkillMasterWarehousing, vv3.0.8\n  Tukui, v17.13\n  TukuiConfig, v\n  TukuiMarkBar, v1.10\n  WeakAuras, v2.4.22\n  XLoot, v7.3-1\n  XLootFrame, v7.3-1\n  XLootGroup, v7.3-1\n  XLootMaster, v7.3-1\n  XLootMonitor, v7.3-1\n  BlizRuntimeLib_enUS v7.3.0.70300 <none>\n  (ck=993)\n",
-			["timestamp"] = "2017-09-28 23:24:48",
-			["context"] = "AddOn: Overachiever",
-			["stack"] = "[C]: in function `SetShown'\n...AddOns\\Blizzard_Collections\\Blizzard_Collections.lua:50: in function `CollectionsJournal_UpdateSelectedTab'\n...AddOns\\Blizzard_Collections\\Blizzard_Collections.lua:7: in function `CollectionsJournal_SetTab'\nInterface\\FrameXML\\UIParent.lua:877: in function `SetCollectionsJournalShown'\nInterface\\FrameXML\\UIParent.lua:863: in function `ToggleCollectionsJournal'\n...ce\\AddOns\\Blizzard_Collections\\Blizzard_Wardrobe.lua:1749: in function `WardrobeCollectionFrame_OpenTransmogLink'\nInterface\\FrameXML\\ItemRef.lua:273: in function <Interface\\FrameXML\\ItemRef.lua:1>\n[C]: ?\n...ace\\AddOns\\Blizzard_CombatLog\\Blizzard_CombatLog.lua:3573: in function <...ace\\AddOns\\Blizzard_CombatLog\\Blizzard_CombatLog.lua:3509>\n(tail call): ?\nInterface\\FrameXML\\ChatFrame.lua:3468: in function <Interface\\FrameXML\\ChatFrame.lua:3467>\n(tail call): ?\n[C]: in function `ChatFrame_OnHyperlinkShow'\n[string \"*:OnHyperlinkClick\"]:1: in function <[string \"*:OnHyperlinkClick\"]:1>\n",
-		}, -- [7]
-		{
-			["message"] = "Note: AddOn Overachiever attempted to call a protected function (PetJournal:SetShown()) during combat lockdown.",
-			["count"] = 1,
-			["addons"] = "  Swatter, v7.3.1 (<%codename%>)\n  AchievementsReminder, v\n  ACU, v\n  AdventureGuideSavedInstances, v1.0.4\n  AngryKeystones, v\n  AngryWorldQuests, v\n  ArkInventory, v30735\n  ArkInventoryRules, v10003\n  autorolecheck, v0.0.2\n  Aye, v1.0.6\n  AyeCoSpy, v1.0.2\n  Bartender4, v4.7.10\n  BattlePetBreedID, vr158\n  BeQuiet, v1.5.1\n  BigWigs, vv73\n  BigWigsArgusInvasionPoints, v\n  BigWigsCore, v\n  BigWigsPlugins, v\n  BigWigsTombOfSargeras, v\n  BloodTrader, v2.1.2\n  BonusRollPreview, v70300.44-Release\n  DeathNote, vr92\n  DejaCharacterStats, v730r101\n  Details, v\n  DetailsDataStorage, v\n  DetailsDeathGraphs, v\n  DetailsDmgRank, v\n  DetailsDpsTuning, v\n  DetailsEncounterDetails, v\n  DetailsRaidCheck, v\n  DetailsRaidInfoEmeraldNightmare, v\n  DetailsRaidInfoNighthold, v\n  DetailsRaidInfoTombOfSargeras, v\n  DetailsRaidInfoTrialOfValor, v\n  DetailsStreamer, v\n  DetailsTimeAttack, v\n  DetailsTinyThreat, v\n  DetailsVanguard, v\n  ElitismHelper, v0.7.6\n  FakeAchievement, vv1.0.1.3\n  FishingBuddy, v1.7.13i\n  GarrisonMissionManager, vv55\n  GladiatorlosSA, v2.0\n  Gladius, v5.2.0\n  GroupfinderFlags, v0.6\n  HandyNotes, vv1.4.15\n  HandyNotesLegionRaresTreasures, v1.01b\n  idTip, v7.0.7\n  InspectItemLevel, v1.2.0\n  KuiMedia, v\n  KuiNameplates, v\n  KuiNameplatesCore, v\n  KuiNameplatesCustom, v\n  LFRAdvanced, v7.3.0.24920\n  MasterPlanA, vA\n  MinimapButtonFrame, v3.1.10e\n  MinimapButtonFrameSkinPack, v3.0.1b\n  MPH, v1.3\n  OmniBar, vv8.0\n  Outfitter, v5.19.1\n  Overachiever, v0.99.9\n  OverachieverTabs, v0.99.9\n  Paste, v1.4.10\n  Pawn, v2.2.14a\n  PetTracker, v7.3.0\n  PetTrackerBreeds, v7.3.0\n  PetTrackerConfig, v7.3.0\n  PetTrackerJournal, v7.3.0\n  PetTrackerSwitcher, v7.3.0\n  PetTrackerUpgrades, v7.3.0\n  ReleaseMe, vv1.0.3\n  rLib, v\n  rVignette, v\n  SlashCombatLog, vv1.15r\n  SlideBar, v7.3.1 (<%codename%>)\n  TomTom, vv70200-1.0.0\n  TradeSkillMaster, vv3.6.37\n  TradeSkillMasterAccounting, vv3.0.20\n  TradeSkillMasterAppHelper, vv3.0.2\n  TradeSkillMasterAuctionDB, vv3.1.18\n  TradeSkillMasterAuctioning, vv3.0.16\n  TradeSkillMasterCrafting, vv3.2.5\n  TradeSkillMasterDestroying, vv3.1.7\n  TradeSkillMasterMailing, vv3.0.18\n  TradeSkillMasterShopping, vv3.4.7\n  TradeSkillMasterVendoring, vv3.0.7\n  TradeSkillMasterWarehousing, vv3.0.8\n  Tukui, v17.13\n  TukuiConfig, v\n  TukuiMarkBar, v1.10\n  WeakAuras, v2.4.22\n  XLoot, v7.3-1\n  XLootFrame, v7.3-1\n  XLootGroup, v7.3-1\n  XLootMaster, v7.3-1\n  XLootMonitor, v7.3-1\n  BlizRuntimeLib_enUS v7.3.0.70300 <none>\n  (ck=993)\n",
-			["timestamp"] = "2017-09-28 23:24:48",
-			["context"] = "AddOn: Overachiever",
-			["stack"] = "[C]: in function `SetShown'\n...AddOns\\Blizzard_Collections\\Blizzard_Collections.lua:51: in function `CollectionsJournal_UpdateSelectedTab'\n...AddOns\\Blizzard_Collections\\Blizzard_Collections.lua:7: in function `CollectionsJournal_SetTab'\nInterface\\FrameXML\\UIParent.lua:877: in function `SetCollectionsJournalShown'\nInterface\\FrameXML\\UIParent.lua:863: in function `ToggleCollectionsJournal'\n...ce\\AddOns\\Blizzard_Collections\\Blizzard_Wardrobe.lua:1749: in function `WardrobeCollectionFrame_OpenTransmogLink'\nInterface\\FrameXML\\ItemRef.lua:273: in function <Interface\\FrameXML\\ItemRef.lua:1>\n[C]: ?\n...ace\\AddOns\\Blizzard_CombatLog\\Blizzard_CombatLog.lua:3573: in function <...ace\\AddOns\\Blizzard_CombatLog\\Blizzard_CombatLog.lua:3509>\n(tail call): ?\nInterface\\FrameXML\\ChatFrame.lua:3468: in function <Interface\\FrameXML\\ChatFrame.lua:3467>\n(tail call): ?\n[C]: in function `ChatFrame_OnHyperlinkShow'\n[string \"*:OnHyperlinkClick\"]:1: in function <[string \"*:OnHyperlinkClick\"]:1>\n",
-		}, -- [8]
-		{
-			["message"] = "Note: AddOn Overachiever attempted to call a protected function (ToyBox:SetShown()) during combat lockdown.",
-			["count"] = 1,
-			["addons"] = "  Swatter, v7.3.1 (<%codename%>)\n  AchievementsReminder, v\n  ACU, v\n  AdventureGuideSavedInstances, v1.0.4\n  AngryKeystones, v\n  AngryWorldQuests, v\n  ArkInventory, v30735\n  ArkInventoryRules, v10003\n  autorolecheck, v0.0.2\n  Aye, v1.0.6\n  AyeCoSpy, v1.0.2\n  Bartender4, v4.7.10\n  BattlePetBreedID, vr158\n  BeQuiet, v1.5.1\n  BigWigs, vv73\n  BigWigsArgusInvasionPoints, v\n  BigWigsCore, v\n  BigWigsPlugins, v\n  BigWigsTombOfSargeras, v\n  BloodTrader, v2.1.2\n  BonusRollPreview, v70300.44-Release\n  DeathNote, vr92\n  DejaCharacterStats, v730r101\n  Details, v\n  DetailsDataStorage, v\n  DetailsDeathGraphs, v\n  DetailsDmgRank, v\n  DetailsDpsTuning, v\n  DetailsEncounterDetails, v\n  DetailsRaidCheck, v\n  DetailsRaidInfoEmeraldNightmare, v\n  DetailsRaidInfoNighthold, v\n  DetailsRaidInfoTombOfSargeras, v\n  DetailsRaidInfoTrialOfValor, v\n  DetailsStreamer, v\n  DetailsTimeAttack, v\n  DetailsTinyThreat, v\n  DetailsVanguard, v\n  ElitismHelper, v0.7.6\n  FakeAchievement, vv1.0.1.3\n  FishingBuddy, v1.7.13i\n  GarrisonMissionManager, vv55\n  GladiatorlosSA, v2.0\n  Gladius, v5.2.0\n  GroupfinderFlags, v0.6\n  HandyNotes, vv1.4.15\n  HandyNotesLegionRaresTreasures, v1.01b\n  idTip, v7.0.7\n  InspectItemLevel, v1.2.0\n  KuiMedia, v\n  KuiNameplates, v\n  KuiNameplatesCore, v\n  KuiNameplatesCustom, v\n  LFRAdvanced, v7.3.0.24920\n  MasterPlanA, vA\n  MinimapButtonFrame, v3.1.10e\n  MinimapButtonFrameSkinPack, v3.0.1b\n  MPH, v1.3\n  OmniBar, vv8.0\n  Outfitter, v5.19.1\n  Overachiever, v0.99.9\n  OverachieverTabs, v0.99.9\n  Paste, v1.4.10\n  Pawn, v2.2.14a\n  PetTracker, v7.3.0\n  PetTrackerBreeds, v7.3.0\n  PetTrackerConfig, v7.3.0\n  PetTrackerJournal, v7.3.0\n  PetTrackerSwitcher, v7.3.0\n  PetTrackerUpgrades, v7.3.0\n  ReleaseMe, vv1.0.3\n  rLib, v\n  rVignette, v\n  SlashCombatLog, vv1.15r\n  SlideBar, v7.3.1 (<%codename%>)\n  TomTom, vv70200-1.0.0\n  TradeSkillMaster, vv3.6.37\n  TradeSkillMasterAccounting, vv3.0.20\n  TradeSkillMasterAppHelper, vv3.0.2\n  TradeSkillMasterAuctionDB, vv3.1.18\n  TradeSkillMasterAuctioning, vv3.0.16\n  TradeSkillMasterCrafting, vv3.2.5\n  TradeSkillMasterDestroying, vv3.1.7\n  TradeSkillMasterMailing, vv3.0.18\n  TradeSkillMasterShopping, vv3.4.7\n  TradeSkillMasterVendoring, vv3.0.7\n  TradeSkillMasterWarehousing, vv3.0.8\n  Tukui, v17.13\n  TukuiConfig, v\n  TukuiMarkBar, v1.10\n  WeakAuras, v2.4.22\n  XLoot, v7.3-1\n  XLootFrame, v7.3-1\n  XLootGroup, v7.3-1\n  XLootMaster, v7.3-1\n  XLootMonitor, v7.3-1\n  BlizRuntimeLib_enUS v7.3.0.70300 <none>\n  (ck=993)\n",
-			["timestamp"] = "2017-09-28 23:24:48",
-			["context"] = "AddOn: Overachiever",
-			["stack"] = "[C]: in function `SetShown'\n...AddOns\\Blizzard_Collections\\Blizzard_Collections.lua:52: in function `CollectionsJournal_UpdateSelectedTab'\n...AddOns\\Blizzard_Collections\\Blizzard_Collections.lua:7: in function `CollectionsJournal_SetTab'\nInterface\\FrameXML\\UIParent.lua:877: in function `SetCollectionsJournalShown'\nInterface\\FrameXML\\UIParent.lua:863: in function `ToggleCollectionsJournal'\n...ce\\AddOns\\Blizzard_Collections\\Blizzard_Wardrobe.lua:1749: in function `WardrobeCollectionFrame_OpenTransmogLink'\nInterface\\FrameXML\\ItemRef.lua:273: in function <Interface\\FrameXML\\ItemRef.lua:1>\n[C]: ?\n...ace\\AddOns\\Blizzard_CombatLog\\Blizzard_CombatLog.lua:3573: in function <...ace\\AddOns\\Blizzard_CombatLog\\Blizzard_CombatLog.lua:3509>\n(tail call): ?\nInterface\\FrameXML\\ChatFrame.lua:3468: in function <Interface\\FrameXML\\ChatFrame.lua:3467>\n(tail call): ?\n[C]: in function `ChatFrame_OnHyperlinkShow'\n[string \"*:OnHyperlinkClick\"]:1: in function <[string \"*:OnHyperlinkClick\"]:1>\n",
-		}, -- [9]
-		{
-			["message"] = "Note: AddOn Tukui attempted to call a protected function (MountJournal:SetShown()) during combat lockdown.",
-			["count"] = 2,
-			["addons"] = "  Swatter, v7.3.1 (<%codename%>)\n  AchievementsReminder, v\n  ACU, v\n  AdventureGuideSavedInstances, v1.0.4\n  AngryKeystones, v\n  AngryWorldQuests, v\n  ArkInventory, v30735\n  ArkInventoryRules, v10003\n  autorolecheck, v0.0.2\n  Aye, v1.0.6\n  AyeCoSpy, v1.0.2\n  Bartender4, v4.7.10\n  BattlePetBreedID, vr158\n  BeQuiet, v1.5.1\n  BigWigs, vv73\n  BigWigsArgusInvasionPoints, v\n  BigWigsCore, v\n  BigWigsPlugins, v\n  BigWigsTombOfSargeras, v\n  BloodTrader, v2.1.2\n  BonusRollPreview, v70300.44-Release\n  DeathNote, vr92\n  DejaCharacterStats, v730r101\n  Details, v\n  DetailsDataStorage, v\n  DetailsDeathGraphs, v\n  DetailsDmgRank, v\n  DetailsDpsTuning, v\n  DetailsEncounterDetails, v\n  DetailsRaidCheck, v\n  DetailsRaidInfoEmeraldNightmare, v\n  DetailsRaidInfoNighthold, v\n  DetailsRaidInfoTombOfSargeras, v\n  DetailsRaidInfoTrialOfValor, v\n  DetailsStreamer, v\n  DetailsTimeAttack, v\n  DetailsTinyThreat, v\n  DetailsVanguard, v\n  ElitismHelper, v0.7.6\n  FakeAchievement, vv1.0.1.3\n  FishingBuddy, v1.7.13i\n  GarrisonMissionManager, vv55\n  GladiatorlosSA, v2.0\n  Gladius, v5.2.0\n  GroupfinderFlags, v0.6\n  HandyNotes, vv1.4.15\n  HandyNotesLegionRaresTreasures, v1.01b\n  idTip, v7.0.7\n  InspectItemLevel, v1.2.0\n  KuiMedia, v\n  KuiNameplates, v\n  KuiNameplatesCore, v\n  KuiNameplatesCustom, v\n  LFRAdvanced, v7.3.0.24920\n  MasterPlanA, vA\n  MinimapButtonFrame, v3.1.10e\n  MinimapButtonFrameSkinPack, v3.0.1b\n  MPH, v1.3\n  OmniBar, vv8.0\n  Outfitter, v5.19.1\n  Overachiever, v0.99.9\n  OverachieverTabs, v0.99.9\n  Paste, v1.4.10\n  Pawn, v2.2.14a\n  PetTracker, v7.3.0\n  PetTrackerBreeds, v7.3.0\n  PetTrackerConfig, v7.3.0\n  PetTrackerJournal, v7.3.0\n  PetTrackerSwitcher, v7.3.0\n  PetTrackerUpgrades, v7.3.0\n  ReleaseMe, vv1.0.3\n  rLib, v\n  rVignette, v\n  SlashCombatLog, vv1.15r\n  SlideBar, v7.3.1 (<%codename%>)\n  TomTom, vv70200-1.0.0\n  TradeSkillMaster, vv3.6.37\n  TradeSkillMasterAccounting, vv3.0.20\n  TradeSkillMasterAppHelper, vv3.0.2\n  TradeSkillMasterAuctionDB, vv3.1.18\n  TradeSkillMasterAuctioning, vv3.0.16\n  TradeSkillMasterCrafting, vv3.2.5\n  TradeSkillMasterDestroying, vv3.1.7\n  TradeSkillMasterMailing, vv3.0.18\n  TradeSkillMasterShopping, vv3.4.7\n  TradeSkillMasterVendoring, vv3.0.7\n  TradeSkillMasterWarehousing, vv3.0.8\n  Tukui, v17.13\n  TukuiConfig, v\n  TukuiMarkBar, v1.10\n  WeakAuras, v2.4.22\n  XLoot, v7.3-1\n  XLootFrame, v7.3-1\n  XLootGroup, v7.3-1\n  XLootMaster, v7.3-1\n  XLootMonitor, v7.3-1\n  BlizRuntimeLib_enUS v7.3.0.70300 <none>\n  (ck=993)\n",
-			["timestamp"] = "2017-09-28 23:43:52",
-			["context"] = "AddOn: Tukui",
-			["stack"] = "[C]: in function `SetShown'\n...AddOns\\Blizzard_Collections\\Blizzard_Collections.lua:50: in function `CollectionsJournal_UpdateSelectedTab'\n...AddOns\\Blizzard_Collections\\Blizzard_Collections.lua:86: in function <...AddOns\\Blizzard_Collections\\Blizzard_Collections.lua:80>\n[C]: ?\n[C]: in function `Show'\nInterface\\FrameXML\\UIParent.lua:2441: in function `SetUIPanel'\nInterface\\FrameXML\\UIParent.lua:2282: in function `ShowUIPanel'\nInterface\\FrameXML\\UIParent.lua:2151: in function <Interface\\FrameXML\\UIParent.lua:2147>\n[C]: in function `SetAttribute'\nInterface\\FrameXML\\UIParent.lua:2935: in function `ShowUIPanel'\nInterface\\FrameXML\\UIParent.lua:875: in function `SetCollectionsJournalShown'\nInterface\\FrameXML\\UIParent.lua:863: in function `ToggleCollectionsJournal'\n...ace\\AddOns\\Tukui\\Modules\\Miscellaneous\\MicroMenu.lua:49: in function `func'\n...ce\\AddOns\\Tukui\\Libs\\DropDownMenu\\UIDropDownMenu.lua:723: in function `Lib_UIDropDownMenuButton_OnClick'\n[string \"*:OnClick\"]:1: in function <[string \"*:OnClick\"]:1>\n",
-		}, -- [10]
-		{
 			["message"] = "Note: AddOn TradeSkillMaster attempted to call a protected function (PetJournal:SetShown()) during combat lockdown.",
 			["count"] = 2,
 			["addons"] = "  Swatter, v7.3.1 (<%codename%>)\n  AchievementsReminder, v\n  ACU, v\n  AdventureGuideSavedInstances, v1.0.4\n  AngryKeystones, v\n  AngryWorldQuests, v\n  ArkInventory, v30735\n  ArkInventoryRules, v10003\n  autorolecheck, v0.0.2\n  Aye, v1.0.6\n  AyeCoSpy, v1.0.2\n  Bartender4, v4.7.10\n  BattlePetBreedID, vr158\n  BeQuiet, v1.5.1\n  BigWigs, vv73\n  BigWigsArgusInvasionPoints, v\n  BigWigsCore, v\n  BigWigsPlugins, v\n  BigWigsTombOfSargeras, v\n  BloodTrader, v2.1.2\n  BonusRollPreview, v70300.44-Release\n  DeathNote, vr92\n  DejaCharacterStats, v730r101\n  Details, v\n  DetailsDataStorage, v\n  DetailsDeathGraphs, v\n  DetailsDmgRank, v\n  DetailsDpsTuning, v\n  DetailsEncounterDetails, v\n  DetailsRaidCheck, v\n  DetailsRaidInfoEmeraldNightmare, v\n  DetailsRaidInfoNighthold, v\n  DetailsRaidInfoTombOfSargeras, v\n  DetailsRaidInfoTrialOfValor, v\n  DetailsStreamer, v\n  DetailsTimeAttack, v\n  DetailsTinyThreat, v\n  DetailsVanguard, v\n  ElitismHelper, v0.7.6\n  FakeAchievement, vv1.0.1.3\n  FishingBuddy, v1.7.13i\n  GarrisonMissionManager, vv55\n  GladiatorlosSA, v2.0\n  Gladius, v5.2.0\n  GroupfinderFlags, v0.6\n  HandyNotes, vv1.4.15\n  HandyNotesLegionRaresTreasures, v1.01b\n  idTip, v7.0.7\n  InspectItemLevel, v1.2.0\n  KuiMedia, v\n  KuiNameplates, v\n  KuiNameplatesCore, v\n  KuiNameplatesCustom, v\n  LFRAdvanced, v7.3.0.24920\n  MasterPlanA, vA\n  MinimapButtonFrame, v3.1.10e\n  MinimapButtonFrameSkinPack, v3.0.1b\n  MPH, v1.3\n  OmniBar, vv8.0\n  Outfitter, v5.19.1\n  Overachiever, v0.99.9\n  OverachieverTabs, v0.99.9\n  Paste, v1.4.10\n  Pawn, v2.2.14a\n  PetTracker, v7.3.0\n  PetTrackerBreeds, v7.3.0\n  PetTrackerConfig, v7.3.0\n  PetTrackerJournal, v7.3.0\n  PetTrackerSwitcher, v7.3.0\n  PetTrackerUpgrades, v7.3.0\n  ReleaseMe, vv1.0.3\n  rLib, v\n  rVignette, v\n  SlashCombatLog, vv1.15r\n  SlideBar, v7.3.1 (<%codename%>)\n  TomTom, vv70200-1.0.0\n  TradeSkillMaster, vv3.6.37\n  TradeSkillMasterAccounting, vv3.0.20\n  TradeSkillMasterAppHelper, vv3.0.2\n  TradeSkillMasterAuctionDB, vv3.1.18\n  TradeSkillMasterAuctioning, vv3.0.16\n  TradeSkillMasterCrafting, vv3.2.5\n  TradeSkillMasterDestroying, vv3.1.7\n  TradeSkillMasterMailing, vv3.0.18\n  TradeSkillMasterShopping, vv3.4.7\n  TradeSkillMasterVendoring, vv3.0.7\n  TradeSkillMasterWarehousing, vv3.0.8\n  Tukui, v17.13\n  TukuiConfig, v\n  TukuiMarkBar, v1.10\n  WeakAuras, v2.4.22\n  XLoot, v7.3-1\n  XLootFrame, v7.3-1\n  XLootGroup, v7.3-1\n  XLootMaster, v7.3-1\n  XLootMonitor, v7.3-1\n  BlizRuntimeLib_enUS v7.3.0.70300 <none>\n  (ck=993)\n",
 			["timestamp"] = "2017-09-28 23:43:52",
 			["context"] = "AddOn: TradeSkillMaster",
 			["stack"] = "[C]: in function `SetShown'\n...AddOns\\Blizzard_Collections\\Blizzard_Collections.lua:51: in function `CollectionsJournal_UpdateSelectedTab'\n...AddOns\\Blizzard_Collections\\Blizzard_Collections.lua:86: in function <...AddOns\\Blizzard_Collections\\Blizzard_Collections.lua:80>\n[C]: ?\n[C]: in function `Show'\nInterface\\FrameXML\\UIParent.lua:2441: in function `SetUIPanel'\nInterface\\FrameXML\\UIParent.lua:2282: in function `ShowUIPanel'\nInterface\\FrameXML\\UIParent.lua:2151: in function <Interface\\FrameXML\\UIParent.lua:2147>\n[C]: in function `SetAttribute'\nInterface\\FrameXML\\UIParent.lua:2935: in function `ShowUIPanel'\nInterface\\FrameXML\\UIParent.lua:875: in function `SetCollectionsJournalShown'\nInterface\\FrameXML\\UIParent.lua:863: in function `ToggleCollectionsJournal'\n...ace\\AddOns\\Tukui\\Modules\\Miscellaneous\\MicroMenu.lua:49: in function `func'\n...ce\\AddOns\\Tukui\\Libs\\DropDownMenu\\UIDropDownMenu.lua:723: in function `Lib_UIDropDownMenuButton_OnClick'\n[string \"*:OnClick\"]:1: in function <[string \"*:OnClick\"]:1>\n",
-		}, -- [11]
+		}, -- [1]
 		{
 			["message"] = "Note: AddOn TradeSkillMaster attempted to call a protected function (ToyBox:SetShown()) during combat lockdown.",
 			["count"] = 2,
@@ -100,7 +19,7 @@ SwatterData = {
 			["timestamp"] = "2017-09-28 23:43:52",
 			["context"] = "AddOn: TradeSkillMaster",
 			["stack"] = "[C]: in function `SetShown'\n...AddOns\\Blizzard_Collections\\Blizzard_Collections.lua:52: in function `CollectionsJournal_UpdateSelectedTab'\n...AddOns\\Blizzard_Collections\\Blizzard_Collections.lua:86: in function <...AddOns\\Blizzard_Collections\\Blizzard_Collections.lua:80>\n[C]: ?\n[C]: in function `Show'\nInterface\\FrameXML\\UIParent.lua:2441: in function `SetUIPanel'\nInterface\\FrameXML\\UIParent.lua:2282: in function `ShowUIPanel'\nInterface\\FrameXML\\UIParent.lua:2151: in function <Interface\\FrameXML\\UIParent.lua:2147>\n[C]: in function `SetAttribute'\nInterface\\FrameXML\\UIParent.lua:2935: in function `ShowUIPanel'\nInterface\\FrameXML\\UIParent.lua:875: in function `SetCollectionsJournalShown'\nInterface\\FrameXML\\UIParent.lua:863: in function `ToggleCollectionsJournal'\n...ace\\AddOns\\Tukui\\Modules\\Miscellaneous\\MicroMenu.lua:49: in function `func'\n...ce\\AddOns\\Tukui\\Libs\\DropDownMenu\\UIDropDownMenu.lua:723: in function `Lib_UIDropDownMenuButton_OnClick'\n[string \"*:OnClick\"]:1: in function <[string \"*:OnClick\"]:1>\n",
-		}, -- [12]
+		}, -- [2]
 		{
 			["message"] = "Note: AddOn Tukui attempted to call a protected function (MultiBarLeft:originalShow()) during combat lockdown.",
 			["count"] = 44,
@@ -108,7 +27,7 @@ SwatterData = {
 			["timestamp"] = "2017-09-28 23:51:38",
 			["context"] = "AddOn: Tukui",
 			["stack"] = "[C]: in function `originalShow'\nInterface\\FrameXML\\FrameLocks.lua:97: in function <Interface\\FrameXML\\FrameLocks.lua:75>\nInterface\\FrameXML\\FrameLocks.lua:110: in function <Interface\\FrameXML\\FrameLocks.lua:103>\nInterface\\FrameXML\\FrameLocks.lua:132: in function `Show'\nInterface\\FrameXML\\MultiActionBars.lua:60: in function `MultiActionBar_Update'\nInterface\\FrameXML\\ActionBarController.lua:177: in function `ValidateActionBarTransition'\nInterface\\FrameXML\\ActionBarController.lua:145: in function `ActionBarController_UpdateAll'\nInterface\\FrameXML\\ActionBarController.lua:64: in function <Interface\\FrameXML\\ActionBarController.lua:53>\n",
-		}, -- [13]
+		}, -- [3]
 		{
 			["message"] = "Note: AddOn Tukui attempted to call a protected function (MainMenuBar:originalShow()) during combat lockdown.",
 			["count"] = 39,
@@ -116,7 +35,7 @@ SwatterData = {
 			["timestamp"] = "2017-09-28 23:51:38",
 			["context"] = "AddOn: Tukui",
 			["stack"] = "[C]: in function `originalShow'\nInterface\\FrameXML\\FrameLocks.lua:97: in function <Interface\\FrameXML\\FrameLocks.lua:75>\nInterface\\FrameXML\\FrameLocks.lua:110: in function <Interface\\FrameXML\\FrameLocks.lua:103>\nInterface\\FrameXML\\FrameLocks.lua:132: in function `Show'\nInterface\\FrameXML\\ActionBarController.lua:167: in function `BeginActionBarTransition'\nInterface\\FrameXML\\ActionBarController.lua:189: in function `ValidateActionBarTransition'\nInterface\\FrameXML\\ActionBarController.lua:145: in function `ActionBarController_UpdateAll'\nInterface\\FrameXML\\ActionBarController.lua:64: in function <Interface\\FrameXML\\ActionBarController.lua:53>\n",
-		}, -- [14]
+		}, -- [4]
 		{
 			["message"] = "Note: AddOn Tukui attempted to call a protected function (MultiBarRight:originalShow()) during combat lockdown.",
 			["count"] = 78,
@@ -124,7 +43,7 @@ SwatterData = {
 			["timestamp"] = "2017-09-28 23:51:38",
 			["context"] = "AddOn: Tukui",
 			["stack"] = "[C]: in function `originalShow'\nInterface\\FrameXML\\FrameLocks.lua:97: in function <Interface\\FrameXML\\FrameLocks.lua:75>\nInterface\\FrameXML\\FrameLocks.lua:110: in function <Interface\\FrameXML\\FrameLocks.lua:103>\nInterface\\FrameXML\\FrameLocks.lua:132: in function `Show'\nInterface\\FrameXML\\ActionBarController.lua:167: in function `BeginActionBarTransition'\nInterface\\FrameXML\\ActionBarController.lua:190: in function `ValidateActionBarTransition'\nInterface\\FrameXML\\ActionBarController.lua:145: in function `ActionBarController_UpdateAll'\nInterface\\FrameXML\\ActionBarController.lua:64: in function <Interface\\FrameXML\\ActionBarController.lua:53>\n",
-		}, -- [15]
+		}, -- [5]
 		{
 			["message"] = "Note: AddOn Tukui attempted to call a protected function (MainMenuBar:originalHide()) during combat lockdown.",
 			["count"] = 38,
@@ -132,7 +51,7 @@ SwatterData = {
 			["timestamp"] = "2017-09-28 23:51:39",
 			["context"] = "AddOn: Tukui",
 			["stack"] = "[C]: in function `originalHide'\nInterface\\FrameXML\\FrameLocks.lua:99: in function <Interface\\FrameXML\\FrameLocks.lua:75>\nInterface\\FrameXML\\FrameLocks.lua:110: in function <Interface\\FrameXML\\FrameLocks.lua:103>\nInterface\\FrameXML\\FrameLocks.lua:128: in function `Hide'\n[string \"*:OnFinished\"]:2: in function <[string \"*:OnFinished\"]:1>\n",
-		}, -- [16]
+		}, -- [6]
 		{
 			["message"] = "Note: AddOn Tukui attempted to call a protected function (MultiBarBottomLeft:Show()) during combat lockdown.",
 			["count"] = 38,
@@ -140,7 +59,7 @@ SwatterData = {
 			["timestamp"] = "2017-09-28 23:51:39",
 			["context"] = "AddOn: Tukui",
 			["stack"] = "[C]: in function `Show'\nInterface\\FrameXML\\MultiActionBars.lua:37: in function `MultiActionBar_Update'\nInterface\\FrameXML\\ActionBarController.lua:177: in function `ValidateActionBarTransition'\n[string \"*:OnFinished\"]:4: in function <[string \"*:OnFinished\"]:1>\n",
-		}, -- [17]
+		}, -- [7]
 		{
 			["message"] = "Note: AddOn Tukui attempted to call a protected function (MultiBarBottomRight:Show()) during combat lockdown.",
 			["count"] = 38,
@@ -148,7 +67,7 @@ SwatterData = {
 			["timestamp"] = "2017-09-28 23:51:39",
 			["context"] = "AddOn: Tukui",
 			["stack"] = "[C]: in function `Show'\nInterface\\FrameXML\\MultiActionBars.lua:46: in function `MultiActionBar_Update'\nInterface\\FrameXML\\ActionBarController.lua:177: in function `ValidateActionBarTransition'\n[string \"*:OnFinished\"]:4: in function <[string \"*:OnFinished\"]:1>\n",
-		}, -- [18]
+		}, -- [8]
 		{
 			["message"] = "Note: AddOn XLoot attempted to call a protected function (SetTargetClampingInsets()) during combat lockdown.",
 			["count"] = 249,
@@ -156,7 +75,7 @@ SwatterData = {
 			["timestamp"] = "2017-09-29 01:10:03",
 			["context"] = "AddOn: XLoot",
 			["stack"] = "[C]: in function `SetTargetClampingInsets'\n...e\\AddOns\\Blizzard_NamePlates\\Blizzard_NamePlates.lua:242: in function `SetupClassNameplateBars'\n...e\\AddOns\\Blizzard_NamePlates\\Blizzard_NamePlates.lua:87: in function `OnNamePlateAdded'\n...e\\AddOns\\Blizzard_NamePlates\\Blizzard_NamePlates.lua:44: in function <...e\\AddOns\\Blizzard_NamePlates\\Blizzard_NamePlates.lua:35>\n",
-		}, -- [19]
+		}, -- [9]
 		{
 			["message"] = "Note: AddOn TradeSkillMaster_Vendoring attempted to call a protected function (<unnamed>:Hide()) during combat lockdown.",
 			["count"] = 4,
@@ -164,7 +83,7 @@ SwatterData = {
 			["timestamp"] = "2017-09-29 01:38:58",
 			["context"] = "AddOn: TradeSkillMaster_Vendoring",
 			["stack"] = "[C]: in function `Hide'\nInterface\\FrameXML\\WorldMapActionButton.lua:58: in function `Clear'\nInterface\\FrameXML\\WorldMapActionButton.lua:67: in function `Refresh'\nInterface\\FrameXML\\WorldMapActionButton.lua:19: in function `SetMapAreaID'\nInterface\\FrameXML\\WorldMapFrame.lua:1368: in function `WorldMapFrame_Update'\nInterface\\FrameXML\\WorldMapFrame.lua:2955: in function `WorldMapFrame_UpdateMap'\nInterface\\FrameXML\\WorldMapFrame.lua:460: in function <Interface\\FrameXML\\WorldMapFrame.lua:444>\n[C]: in function `SetMapToCurrentZone'\nInterface\\FrameXML\\WorldMapFrame.lua:390: in function <Interface\\FrameXML\\WorldMapFrame.lua:369>\n[C]: ?\n[C]: in function `Show'\nInterface\\FrameXML\\UIParent.lua:2441: in function `SetUIPanel'\nInterface\\FrameXML\\UIParent.lua:2243: in function `ShowUIPanel'\nInterface\\FrameXML\\UIParent.lua:2151: in function <Interface\\FrameXML\\UIParent.lua:2147>\n[C]: in function `SetAttribute'\nInterface\\FrameXML\\UIParent.lua:2935: in function `ShowUIPanel'\nInterface\\FrameXML\\UIParent.lua:2919: in function `ToggleFrame'\nInterface\\FrameXML\\WorldMapFrame.lua:267: in function `ToggleWorldMap'\n[string \"TOGGLEWORLDMAP\"]:1: in function <[string \"TOGGLEWORLDMAP\"]:1>\n",
-		}, -- [20]
+		}, -- [10]
 		{
 			["message"] = "Note: AddOn TradeSkillMaster_Vendoring attempted to call a protected function (<unnamed>:ClearAllPoints()) during combat lockdown.",
 			["count"] = 7,
@@ -172,7 +91,7 @@ SwatterData = {
 			["timestamp"] = "2017-09-29 01:38:58",
 			["context"] = "AddOn: TradeSkillMaster_Vendoring",
 			["stack"] = "[C]: in function `ClearAllPoints'\nInterface\\FrameXML\\WorldMapFrame.lua:1565: in function `WorldMapFrame_SetOverlayLocation'\nInterface\\FrameXML\\WorldMapFrame.lua:1588: in function `WorldMapFrame_UpdateOverlayLocations'\nInterface\\FrameXML\\WorldMapFrame.lua:1369: in function `WorldMapFrame_Update'\nInterface\\FrameXML\\WorldMapFrame.lua:2955: in function `WorldMapFrame_UpdateMap'\nInterface\\FrameXML\\WorldMapFrame.lua:460: in function <Interface\\FrameXML\\WorldMapFrame.lua:444>\n[C]: in function `SetMapToCurrentZone'\nInterface\\FrameXML\\WorldMapFrame.lua:390: in function <Interface\\FrameXML\\WorldMapFrame.lua:369>\n[C]: ?\n[C]: in function `Show'\nInterface\\FrameXML\\UIParent.lua:2441: in function `SetUIPanel'\nInterface\\FrameXML\\UIParent.lua:2243: in function `ShowUIPanel'\nInterface\\FrameXML\\UIParent.lua:2151: in function <Interface\\FrameXML\\UIParent.lua:2147>\n[C]: in function `SetAttribute'\nInterface\\FrameXML\\UIParent.lua:2935: in function `ShowUIPanel'\nInterface\\FrameXML\\UIParent.lua:2919: in function `ToggleFrame'\nInterface\\FrameXML\\WorldMapFrame.lua:267: in function `ToggleWorldMap'\n[string \"TOGGLEWORLDMAP\"]:1: in function <[string \"TOGGLEWORLDMAP\"]:1>\n",
-		}, -- [21]
+		}, -- [11]
 		{
 			["message"] = "Note: AddOn TradeSkillMaster_Vendoring attempted to call a protected function (<unnamed>:SetPoint()) during combat lockdown.",
 			["count"] = 7,
@@ -180,7 +99,7 @@ SwatterData = {
 			["timestamp"] = "2017-09-29 01:38:58",
 			["context"] = "AddOn: TradeSkillMaster_Vendoring",
 			["stack"] = "[C]: in function `SetPoint'\nInterface\\FrameXML\\WorldMapFrame.lua:1571: in function `WorldMapFrame_SetOverlayLocation'\nInterface\\FrameXML\\WorldMapFrame.lua:1588: in function `WorldMapFrame_UpdateOverlayLocations'\nInterface\\FrameXML\\WorldMapFrame.lua:1369: in function `WorldMapFrame_Update'\nInterface\\FrameXML\\WorldMapFrame.lua:2955: in function `WorldMapFrame_UpdateMap'\nInterface\\FrameXML\\WorldMapFrame.lua:460: in function <Interface\\FrameXML\\WorldMapFrame.lua:444>\n[C]: in function `SetMapToCurrentZone'\nInterface\\FrameXML\\WorldMapFrame.lua:390: in function <Interface\\FrameXML\\WorldMapFrame.lua:369>\n[C]: ?\n[C]: in function `Show'\nInterface\\FrameXML\\UIParent.lua:2441: in function `SetUIPanel'\nInterface\\FrameXML\\UIParent.lua:2243: in function `ShowUIPanel'\nInterface\\FrameXML\\UIParent.lua:2151: in function <Interface\\FrameXML\\UIParent.lua:2147>\n[C]: in function `SetAttribute'\nInterface\\FrameXML\\UIParent.lua:2935: in function `ShowUIPanel'\nInterface\\FrameXML\\UIParent.lua:2919: in function `ToggleFrame'\nInterface\\FrameXML\\WorldMapFrame.lua:267: in function `ToggleWorldMap'\n[string \"TOGGLEWORLDMAP\"]:1: in function <[string \"TOGGLEWORLDMAP\"]:1>\n",
-		}, -- [22]
+		}, -- [12]
 		{
 			["message"] = "Error: AddOn TomTom attempted to call a forbidden function (ReportPlayerIsPVPAFK()) from a tainted execution path.",
 			["count"] = 8,
@@ -188,7 +107,7 @@ SwatterData = {
 			["timestamp"] = "2017-09-29 01:54:25",
 			["context"] = "AddOn: TomTom",
 			["stack"] = "[C]: in function `ReportPlayerIsPVPAFK'\nInterface\\FrameXML\\WorldMapFrame.lua:2793: in function `func'\nInterface\\FrameXML\\UIDropDownMenu.lua:791: in function `UIDropDownMenuButton_OnClick'\n[string \"*:OnClick\"]:1: in function <[string \"*:OnClick\"]:1>\n",
-		}, -- [23]
+		}, -- [13]
 		{
 			["message"] = "Interface\\AddOns\\LFRAdvanced\\LFRAdvanced.lua:91: '=' expected near 'm'",
 			["count"] = 1,
@@ -197,7 +116,7 @@ SwatterData = {
 			["timestamp"] = "2017-09-29 12:59:46",
 			["context"] = "Global",
 			["stack"] = "[C]: ?\n",
-		}, -- [24]
+		}, -- [14]
 		{
 			["message"] = "Interface\\AddOns\\LFRAdvanced\\LFRAdvanced.lua:99: 'then' expected near 'do'",
 			["count"] = 1,
@@ -206,7 +125,7 @@ SwatterData = {
 			["timestamp"] = "2017-09-29 13:04:54",
 			["context"] = "Global",
 			["stack"] = "[C]: ?\n",
-		}, -- [25]
+		}, -- [15]
 		{
 			["message"] = "Interface\\AddOns\\LFRAdvanced\\LFRAdvanced.lua:99: 'do' expected near 'then'",
 			["count"] = 1,
@@ -215,7 +134,7 @@ SwatterData = {
 			["timestamp"] = "2017-09-29 13:06:46",
 			["context"] = "Global",
 			["stack"] = "[C]: ?\n",
-		}, -- [26]
+		}, -- [16]
 		{
 			["message"] = "Note: AddOn Tukui attempted to call a protected function (MountJournal:SetShown()) during combat lockdown.",
 			["count"] = 2,
@@ -223,7 +142,7 @@ SwatterData = {
 			["timestamp"] = "2017-09-29 14:05:58",
 			["context"] = "AddOn: Tukui",
 			["stack"] = "[C]: in function `SetShown'\n...AddOns\\Blizzard_Collections\\Blizzard_Collections.lua:50: in function `CollectionsJournal_UpdateSelectedTab'\n...AddOns\\Blizzard_Collections\\Blizzard_Collections.lua:86: in function <...AddOns\\Blizzard_Collections\\Blizzard_Collections.lua:80>\n[C]: ?\n[C]: in function `Show'\nInterface\\FrameXML\\UIParent.lua:2441: in function `SetUIPanel'\nInterface\\FrameXML\\UIParent.lua:2282: in function `ShowUIPanel'\nInterface\\FrameXML\\UIParent.lua:2151: in function <Interface\\FrameXML\\UIParent.lua:2147>\n[C]: in function `SetAttribute'\nInterface\\FrameXML\\UIParent.lua:2935: in function `ShowUIPanel'\nInterface\\FrameXML\\UIParent.lua:875: in function `SetCollectionsJournalShown'\nInterface\\FrameXML\\UIParent.lua:863: in function `ToggleCollectionsJournal'\n...ace\\AddOns\\Tukui\\Modules\\Miscellaneous\\MicroMenu.lua:49: in function `func'\n...ce\\AddOns\\Tukui\\Libs\\DropDownMenu\\UIDropDownMenu.lua:723: in function `Lib_UIDropDownMenuButton_OnClick'\n[string \"*:OnClick\"]:1: in function <[string \"*:OnClick\"]:1>\n",
-		}, -- [27]
+		}, -- [17]
 		{
 			["message"] = "Note: AddOn TradeSkillMaster attempted to call a protected function (PetJournal:SetShown()) during combat lockdown.",
 			["count"] = 2,
@@ -231,7 +150,7 @@ SwatterData = {
 			["timestamp"] = "2017-09-29 14:05:58",
 			["context"] = "AddOn: TradeSkillMaster",
 			["stack"] = "[C]: in function `SetShown'\n...AddOns\\Blizzard_Collections\\Blizzard_Collections.lua:51: in function `CollectionsJournal_UpdateSelectedTab'\n...AddOns\\Blizzard_Collections\\Blizzard_Collections.lua:86: in function <...AddOns\\Blizzard_Collections\\Blizzard_Collections.lua:80>\n[C]: ?\n[C]: in function `Show'\nInterface\\FrameXML\\UIParent.lua:2441: in function `SetUIPanel'\nInterface\\FrameXML\\UIParent.lua:2282: in function `ShowUIPanel'\nInterface\\FrameXML\\UIParent.lua:2151: in function <Interface\\FrameXML\\UIParent.lua:2147>\n[C]: in function `SetAttribute'\nInterface\\FrameXML\\UIParent.lua:2935: in function `ShowUIPanel'\nInterface\\FrameXML\\UIParent.lua:875: in function `SetCollectionsJournalShown'\nInterface\\FrameXML\\UIParent.lua:863: in function `ToggleCollectionsJournal'\n...ace\\AddOns\\Tukui\\Modules\\Miscellaneous\\MicroMenu.lua:49: in function `func'\n...ce\\AddOns\\Tukui\\Libs\\DropDownMenu\\UIDropDownMenu.lua:723: in function `Lib_UIDropDownMenuButton_OnClick'\n[string \"*:OnClick\"]:1: in function <[string \"*:OnClick\"]:1>\n",
-		}, -- [28]
+		}, -- [18]
 		{
 			["message"] = "Note: AddOn TradeSkillMaster attempted to call a protected function (ToyBox:SetShown()) during combat lockdown.",
 			["count"] = 2,
@@ -239,7 +158,7 @@ SwatterData = {
 			["timestamp"] = "2017-09-29 14:05:58",
 			["context"] = "AddOn: TradeSkillMaster",
 			["stack"] = "[C]: in function `SetShown'\n...AddOns\\Blizzard_Collections\\Blizzard_Collections.lua:52: in function `CollectionsJournal_UpdateSelectedTab'\n...AddOns\\Blizzard_Collections\\Blizzard_Collections.lua:86: in function <...AddOns\\Blizzard_Collections\\Blizzard_Collections.lua:80>\n[C]: ?\n[C]: in function `Show'\nInterface\\FrameXML\\UIParent.lua:2441: in function `SetUIPanel'\nInterface\\FrameXML\\UIParent.lua:2282: in function `ShowUIPanel'\nInterface\\FrameXML\\UIParent.lua:2151: in function <Interface\\FrameXML\\UIParent.lua:2147>\n[C]: in function `SetAttribute'\nInterface\\FrameXML\\UIParent.lua:2935: in function `ShowUIPanel'\nInterface\\FrameXML\\UIParent.lua:875: in function `SetCollectionsJournalShown'\nInterface\\FrameXML\\UIParent.lua:863: in function `ToggleCollectionsJournal'\n...ace\\AddOns\\Tukui\\Modules\\Miscellaneous\\MicroMenu.lua:49: in function `func'\n...ce\\AddOns\\Tukui\\Libs\\DropDownMenu\\UIDropDownMenu.lua:723: in function `Lib_UIDropDownMenuButton_OnClick'\n[string \"*:OnClick\"]:1: in function <[string \"*:OnClick\"]:1>\n",
-		}, -- [29]
+		}, -- [19]
 		{
 			["message"] = "Note: AddOn Tukui attempted to call a protected function (MultiBarLeft:originalShow()) during combat lockdown.",
 			["count"] = 54,
@@ -247,7 +166,7 @@ SwatterData = {
 			["timestamp"] = "2017-09-29 14:09:47",
 			["context"] = "AddOn: Tukui",
 			["stack"] = "[C]: in function `originalShow'\nInterface\\FrameXML\\FrameLocks.lua:97: in function <Interface\\FrameXML\\FrameLocks.lua:75>\nInterface\\FrameXML\\FrameLocks.lua:110: in function <Interface\\FrameXML\\FrameLocks.lua:103>\nInterface\\FrameXML\\FrameLocks.lua:132: in function `Show'\nInterface\\FrameXML\\MultiActionBars.lua:60: in function `MultiActionBar_Update'\nInterface\\FrameXML\\ActionBarController.lua:177: in function `ValidateActionBarTransition'\nInterface\\FrameXML\\ActionBarController.lua:145: in function `ActionBarController_UpdateAll'\nInterface\\FrameXML\\ActionBarController.lua:64: in function <Interface\\FrameXML\\ActionBarController.lua:53>\n",
-		}, -- [30]
+		}, -- [20]
 		{
 			["message"] = "Note: AddOn Tukui attempted to call a protected function (MainMenuBar:originalShow()) during combat lockdown.",
 			["count"] = 49,
@@ -255,7 +174,7 @@ SwatterData = {
 			["timestamp"] = "2017-09-29 14:25:59",
 			["context"] = "AddOn: Tukui",
 			["stack"] = "[C]: in function `originalShow'\nInterface\\FrameXML\\FrameLocks.lua:97: in function <Interface\\FrameXML\\FrameLocks.lua:75>\nInterface\\FrameXML\\FrameLocks.lua:110: in function <Interface\\FrameXML\\FrameLocks.lua:103>\nInterface\\FrameXML\\FrameLocks.lua:132: in function `Show'\nInterface\\FrameXML\\ActionBarController.lua:167: in function `BeginActionBarTransition'\nInterface\\FrameXML\\ActionBarController.lua:189: in function `ValidateActionBarTransition'\nInterface\\FrameXML\\ActionBarController.lua:145: in function `ActionBarController_UpdateAll'\nInterface\\FrameXML\\ActionBarController.lua:64: in function <Interface\\FrameXML\\ActionBarController.lua:53>\n",
-		}, -- [31]
+		}, -- [21]
 		{
 			["message"] = "Note: AddOn Tukui attempted to call a protected function (MultiBarRight:originalShow()) during combat lockdown.",
 			["count"] = 97,
@@ -263,7 +182,7 @@ SwatterData = {
 			["timestamp"] = "2017-09-29 14:25:59",
 			["context"] = "AddOn: Tukui",
 			["stack"] = "[C]: in function `originalShow'\nInterface\\FrameXML\\FrameLocks.lua:97: in function <Interface\\FrameXML\\FrameLocks.lua:75>\nInterface\\FrameXML\\FrameLocks.lua:110: in function <Interface\\FrameXML\\FrameLocks.lua:103>\nInterface\\FrameXML\\FrameLocks.lua:132: in function `Show'\nInterface\\FrameXML\\ActionBarController.lua:167: in function `BeginActionBarTransition'\nInterface\\FrameXML\\ActionBarController.lua:190: in function `ValidateActionBarTransition'\nInterface\\FrameXML\\ActionBarController.lua:145: in function `ActionBarController_UpdateAll'\nInterface\\FrameXML\\ActionBarController.lua:64: in function <Interface\\FrameXML\\ActionBarController.lua:53>\n",
-		}, -- [32]
+		}, -- [22]
 		{
 			["message"] = "Note: AddOn Tukui attempted to call a protected function (MainMenuBar:originalHide()) during combat lockdown.",
 			["count"] = 48,
@@ -271,7 +190,7 @@ SwatterData = {
 			["timestamp"] = "2017-09-29 14:25:59",
 			["context"] = "AddOn: Tukui",
 			["stack"] = "[C]: in function `originalHide'\nInterface\\FrameXML\\FrameLocks.lua:99: in function <Interface\\FrameXML\\FrameLocks.lua:75>\nInterface\\FrameXML\\FrameLocks.lua:110: in function <Interface\\FrameXML\\FrameLocks.lua:103>\nInterface\\FrameXML\\FrameLocks.lua:128: in function `Hide'\n[string \"*:OnFinished\"]:2: in function <[string \"*:OnFinished\"]:1>\n",
-		}, -- [33]
+		}, -- [23]
 		{
 			["message"] = "Note: AddOn Tukui attempted to call a protected function (MultiBarBottomLeft:Show()) during combat lockdown.",
 			["count"] = 48,
@@ -279,7 +198,7 @@ SwatterData = {
 			["timestamp"] = "2017-09-29 14:25:59",
 			["context"] = "AddOn: Tukui",
 			["stack"] = "[C]: in function `Show'\nInterface\\FrameXML\\MultiActionBars.lua:37: in function `MultiActionBar_Update'\nInterface\\FrameXML\\ActionBarController.lua:177: in function `ValidateActionBarTransition'\n[string \"*:OnFinished\"]:4: in function <[string \"*:OnFinished\"]:1>\n",
-		}, -- [34]
+		}, -- [24]
 		{
 			["message"] = "Note: AddOn Tukui attempted to call a protected function (MultiBarBottomRight:Show()) during combat lockdown.",
 			["count"] = 48,
@@ -287,7 +206,7 @@ SwatterData = {
 			["timestamp"] = "2017-09-29 14:25:59",
 			["context"] = "AddOn: Tukui",
 			["stack"] = "[C]: in function `Show'\nInterface\\FrameXML\\MultiActionBars.lua:46: in function `MultiActionBar_Update'\nInterface\\FrameXML\\ActionBarController.lua:177: in function `ValidateActionBarTransition'\n[string \"*:OnFinished\"]:4: in function <[string \"*:OnFinished\"]:1>\n",
-		}, -- [35]
+		}, -- [25]
 		{
 			["message"] = "Note: AddOn AngryWorldQuests attempted to call a protected function (<unnamed>:Hide()) during combat lockdown.",
 			["count"] = 169,
@@ -295,7 +214,7 @@ SwatterData = {
 			["timestamp"] = "2017-09-30 02:09:55",
 			["context"] = "AddOn: AngryWorldQuests",
 			["stack"] = "[C]: in function `Hide'\nInterface\\FrameXML\\WorldMapActionButton.lua:58: in function `Clear'\nInterface\\FrameXML\\WorldMapActionButton.lua:67: in function `Refresh'\nInterface\\FrameXML\\WorldMapActionButton.lua:19: in function `SetMapAreaID'\nInterface\\FrameXML\\WorldMapFrame.lua:1368: in function `WorldMapFrame_Update'\nInterface\\FrameXML\\WorldMapFrame.lua:2955: in function `WorldMapFrame_UpdateMap'\nInterface\\FrameXML\\WorldMapFrame.lua:460: in function <Interface\\FrameXML\\WorldMapFrame.lua:444>\n[C]: in function `SetMapToCurrentZone'\nInterface\\FrameXML\\WorldMapFrame.lua:390: in function <Interface\\FrameXML\\WorldMapFrame.lua:369>\n[C]: ?\n[C]: in function `Show'\nInterface\\FrameXML\\UIParent.lua:2441: in function `SetUIPanel'\nInterface\\FrameXML\\UIParent.lua:2243: in function `ShowUIPanel'\nInterface\\FrameXML\\UIParent.lua:2151: in function <Interface\\FrameXML\\UIParent.lua:2147>\n[C]: in function `SetAttribute'\nInterface\\FrameXML\\UIParent.lua:2935: in function `ShowUIPanel'\nInterface\\FrameXML\\UIParent.lua:2919: in function `ToggleFrame'\nInterface\\FrameXML\\WorldMapFrame.lua:267: in function `ToggleWorldMap'\n[string \"TOGGLEWORLDMAP\"]:1: in function <[string \"TOGGLEWORLDMAP\"]:1>\n",
-		}, -- [36]
+		}, -- [26]
 		{
 			["message"] = "Note: AddOn AngryWorldQuests attempted to call a protected function (<unnamed>:ClearAllPoints()) during combat lockdown.",
 			["count"] = 139,
@@ -303,7 +222,7 @@ SwatterData = {
 			["timestamp"] = "2017-09-30 02:09:55",
 			["context"] = "AddOn: AngryWorldQuests",
 			["stack"] = "[C]: in function `ClearAllPoints'\nInterface\\FrameXML\\WorldMapFrame.lua:1565: in function `WorldMapFrame_SetOverlayLocation'\nInterface\\FrameXML\\WorldMapFrame.lua:1588: in function `WorldMapFrame_UpdateOverlayLocations'\nInterface\\FrameXML\\WorldMapFrame.lua:1369: in function `WorldMapFrame_Update'\nInterface\\FrameXML\\WorldMapFrame.lua:2955: in function `WorldMapFrame_UpdateMap'\nInterface\\FrameXML\\WorldMapFrame.lua:460: in function <Interface\\FrameXML\\WorldMapFrame.lua:444>\n[C]: in function `SetMapToCurrentZone'\nInterface\\FrameXML\\WorldMapFrame.lua:390: in function <Interface\\FrameXML\\WorldMapFrame.lua:369>\n[C]: ?\n[C]: in function `Show'\nInterface\\FrameXML\\UIParent.lua:2441: in function `SetUIPanel'\nInterface\\FrameXML\\UIParent.lua:2243: in function `ShowUIPanel'\nInterface\\FrameXML\\UIParent.lua:2151: in function <Interface\\FrameXML\\UIParent.lua:2147>\n[C]: in function `SetAttribute'\nInterface\\FrameXML\\UIParent.lua:2935: in function `ShowUIPanel'\nInterface\\FrameXML\\UIParent.lua:2919: in function `ToggleFrame'\nInterface\\FrameXML\\WorldMapFrame.lua:267: in function `ToggleWorldMap'\n[string \"TOGGLEWORLDMAP\"]:1: in function <[string \"TOGGLEWORLDMAP\"]:1>\n",
-		}, -- [37]
+		}, -- [27]
 		{
 			["message"] = "Note: AddOn AngryWorldQuests attempted to call a protected function (<unnamed>:SetPoint()) during combat lockdown.",
 			["count"] = 139,
@@ -311,7 +230,7 @@ SwatterData = {
 			["timestamp"] = "2017-09-30 02:09:55",
 			["context"] = "AddOn: AngryWorldQuests",
 			["stack"] = "[C]: in function `SetPoint'\nInterface\\FrameXML\\WorldMapFrame.lua:1571: in function `WorldMapFrame_SetOverlayLocation'\nInterface\\FrameXML\\WorldMapFrame.lua:1588: in function `WorldMapFrame_UpdateOverlayLocations'\nInterface\\FrameXML\\WorldMapFrame.lua:1369: in function `WorldMapFrame_Update'\nInterface\\FrameXML\\WorldMapFrame.lua:2955: in function `WorldMapFrame_UpdateMap'\nInterface\\FrameXML\\WorldMapFrame.lua:460: in function <Interface\\FrameXML\\WorldMapFrame.lua:444>\n[C]: in function `SetMapToCurrentZone'\nInterface\\FrameXML\\WorldMapFrame.lua:390: in function <Interface\\FrameXML\\WorldMapFrame.lua:369>\n[C]: ?\n[C]: in function `Show'\nInterface\\FrameXML\\UIParent.lua:2441: in function `SetUIPanel'\nInterface\\FrameXML\\UIParent.lua:2243: in function `ShowUIPanel'\nInterface\\FrameXML\\UIParent.lua:2151: in function <Interface\\FrameXML\\UIParent.lua:2147>\n[C]: in function `SetAttribute'\nInterface\\FrameXML\\UIParent.lua:2935: in function `ShowUIPanel'\nInterface\\FrameXML\\UIParent.lua:2919: in function `ToggleFrame'\nInterface\\FrameXML\\WorldMapFrame.lua:267: in function `ToggleWorldMap'\n[string \"TOGGLEWORLDMAP\"]:1: in function <[string \"TOGGLEWORLDMAP\"]:1>\n",
-		}, -- [38]
+		}, -- [28]
 		{
 			["message"] = "Error: AddOn TomTom attempted to call a forbidden function (ReportPlayerIsPVPAFK()) from a tainted execution path.",
 			["count"] = 18,
@@ -319,7 +238,7 @@ SwatterData = {
 			["timestamp"] = "2017-09-30 02:58:24",
 			["context"] = "AddOn: TomTom",
 			["stack"] = "[C]: in function `ReportPlayerIsPVPAFK'\nInterface\\FrameXML\\WorldMapFrame.lua:2799: in function `func'\nInterface\\FrameXML\\UIDropDownMenu.lua:791: in function `UIDropDownMenuButton_OnClick'\n[string \"*:OnClick\"]:1: in function <[string \"*:OnClick\"]:1>\n",
-		}, -- [39]
+		}, -- [29]
 		{
 			["message"] = "Note: AddOn Tukui attempted to call a protected function (MultiBarLeft:originalShow()) during combat lockdown.",
 			["count"] = 77,
@@ -327,7 +246,7 @@ SwatterData = {
 			["timestamp"] = "2017-09-30 03:15:42",
 			["context"] = "AddOn: Tukui",
 			["stack"] = "[C]: in function `originalShow'\nInterface\\FrameXML\\FrameLocks.lua:97: in function <Interface\\FrameXML\\FrameLocks.lua:75>\nInterface\\FrameXML\\FrameLocks.lua:110: in function <Interface\\FrameXML\\FrameLocks.lua:103>\nInterface\\FrameXML\\FrameLocks.lua:132: in function `Show'\nInterface\\FrameXML\\MultiActionBars.lua:60: in function `MultiActionBar_Update'\nInterface\\FrameXML\\ActionBarController.lua:177: in function `ValidateActionBarTransition'\nInterface\\FrameXML\\ActionBarController.lua:145: in function `ActionBarController_UpdateAll'\nInterface\\FrameXML\\ActionBarController.lua:64: in function <Interface\\FrameXML\\ActionBarController.lua:53>\n",
-		}, -- [40]
+		}, -- [30]
 		{
 			["message"] = "Note: AddOn Tukui attempted to call a protected function (MainMenuBar:originalShow()) during combat lockdown.",
 			["count"] = 76,
@@ -335,7 +254,7 @@ SwatterData = {
 			["timestamp"] = "2017-09-30 03:15:42",
 			["context"] = "AddOn: Tukui",
 			["stack"] = "[C]: in function `originalShow'\nInterface\\FrameXML\\FrameLocks.lua:97: in function <Interface\\FrameXML\\FrameLocks.lua:75>\nInterface\\FrameXML\\FrameLocks.lua:110: in function <Interface\\FrameXML\\FrameLocks.lua:103>\nInterface\\FrameXML\\FrameLocks.lua:132: in function `Show'\nInterface\\FrameXML\\ActionBarController.lua:167: in function `BeginActionBarTransition'\nInterface\\FrameXML\\ActionBarController.lua:189: in function `ValidateActionBarTransition'\nInterface\\FrameXML\\ActionBarController.lua:145: in function `ActionBarController_UpdateAll'\nInterface\\FrameXML\\ActionBarController.lua:64: in function <Interface\\FrameXML\\ActionBarController.lua:53>\n",
-		}, -- [41]
+		}, -- [31]
 		{
 			["message"] = "Note: AddOn Tukui attempted to call a protected function (MultiBarRight:originalShow()) during combat lockdown.",
 			["count"] = 151,
@@ -343,7 +262,7 @@ SwatterData = {
 			["timestamp"] = "2017-09-30 03:15:42",
 			["context"] = "AddOn: Tukui",
 			["stack"] = "[C]: in function `originalShow'\nInterface\\FrameXML\\FrameLocks.lua:97: in function <Interface\\FrameXML\\FrameLocks.lua:75>\nInterface\\FrameXML\\FrameLocks.lua:110: in function <Interface\\FrameXML\\FrameLocks.lua:103>\nInterface\\FrameXML\\FrameLocks.lua:132: in function `Show'\nInterface\\FrameXML\\ActionBarController.lua:167: in function `BeginActionBarTransition'\nInterface\\FrameXML\\ActionBarController.lua:190: in function `ValidateActionBarTransition'\nInterface\\FrameXML\\ActionBarController.lua:145: in function `ActionBarController_UpdateAll'\nInterface\\FrameXML\\ActionBarController.lua:64: in function <Interface\\FrameXML\\ActionBarController.lua:53>\n",
-		}, -- [42]
+		}, -- [32]
 		{
 			["message"] = "Note: AddOn Tukui attempted to call a protected function (MainMenuBar:originalHide()) during combat lockdown.",
 			["count"] = 75,
@@ -351,7 +270,7 @@ SwatterData = {
 			["timestamp"] = "2017-09-30 03:15:42",
 			["context"] = "AddOn: Tukui",
 			["stack"] = "[C]: in function `originalHide'\nInterface\\FrameXML\\FrameLocks.lua:99: in function <Interface\\FrameXML\\FrameLocks.lua:75>\nInterface\\FrameXML\\FrameLocks.lua:110: in function <Interface\\FrameXML\\FrameLocks.lua:103>\nInterface\\FrameXML\\FrameLocks.lua:128: in function `Hide'\n[string \"*:OnFinished\"]:2: in function <[string \"*:OnFinished\"]:1>\n",
-		}, -- [43]
+		}, -- [33]
 		{
 			["message"] = "Note: AddOn Tukui attempted to call a protected function (MultiBarBottomLeft:Show()) during combat lockdown.",
 			["count"] = 75,
@@ -359,7 +278,7 @@ SwatterData = {
 			["timestamp"] = "2017-09-30 03:15:42",
 			["context"] = "AddOn: Tukui",
 			["stack"] = "[C]: in function `Show'\nInterface\\FrameXML\\MultiActionBars.lua:37: in function `MultiActionBar_Update'\nInterface\\FrameXML\\ActionBarController.lua:177: in function `ValidateActionBarTransition'\n[string \"*:OnFinished\"]:4: in function <[string \"*:OnFinished\"]:1>\n",
-		}, -- [44]
+		}, -- [34]
 		{
 			["message"] = "Note: AddOn Tukui attempted to call a protected function (MultiBarBottomRight:Show()) during combat lockdown.",
 			["count"] = 75,
@@ -367,7 +286,7 @@ SwatterData = {
 			["timestamp"] = "2017-09-30 03:15:42",
 			["context"] = "AddOn: Tukui",
 			["stack"] = "[C]: in function `Show'\nInterface\\FrameXML\\MultiActionBars.lua:46: in function `MultiActionBar_Update'\nInterface\\FrameXML\\ActionBarController.lua:177: in function `ValidateActionBarTransition'\n[string \"*:OnFinished\"]:4: in function <[string \"*:OnFinished\"]:1>\n",
-		}, -- [45]
+		}, -- [35]
 		{
 			["message"] = "Note: AddOn PetBattleTeams attempted to call a protected function (PetBattleTeamFrame:SetShown()) during combat lockdown.",
 			["count"] = 1,
@@ -375,7 +294,7 @@ SwatterData = {
 			["timestamp"] = "2017-09-30 03:56:14",
 			["context"] = "AddOn: PetBattleTeams",
 			["stack"] = "[C]: in function `SetShown'\nInterface\\AddOns\\PetBattleTeams\\modules\\GUI\\GUI.lua:193: in function `ToggleMinimize'\n...ace\\AddOns\\PetBattleTeams\\modules\\GUI\\MenuButton.lua:34: in function <...ace\\AddOns\\PetBattleTeams\\modules\\GUI\\MenuButton.lua:32>\n",
-		}, -- [46]
+		}, -- [36]
 		{
 			["message"] = "Note: AddOn AngryWorldQuests attempted to call a protected function (<unnamed>:Hide()) during combat lockdown.",
 			["count"] = 11,
@@ -383,7 +302,7 @@ SwatterData = {
 			["timestamp"] = "2017-09-30 05:28:02",
 			["context"] = "AddOn: AngryWorldQuests",
 			["stack"] = "[C]: in function `Hide'\nInterface\\FrameXML\\WorldMapActionButton.lua:58: in function `Clear'\nInterface\\FrameXML\\WorldMapActionButton.lua:67: in function `Refresh'\nInterface\\FrameXML\\WorldMapActionButton.lua:19: in function `SetMapAreaID'\nInterface\\FrameXML\\WorldMapFrame.lua:1368: in function `WorldMapFrame_Update'\nInterface\\FrameXML\\WorldMapFrame.lua:2955: in function `WorldMapFrame_UpdateMap'\nInterface\\FrameXML\\WorldMapFrame.lua:460: in function <Interface\\FrameXML\\WorldMapFrame.lua:444>\n[C]: in function `SetMapToCurrentZone'\nInterface\\FrameXML\\WorldMapFrame.lua:390: in function <Interface\\FrameXML\\WorldMapFrame.lua:369>\n[C]: ?\n[C]: in function `Show'\nInterface\\FrameXML\\UIParent.lua:2441: in function `SetUIPanel'\nInterface\\FrameXML\\UIParent.lua:2243: in function `ShowUIPanel'\nInterface\\FrameXML\\UIParent.lua:2151: in function <Interface\\FrameXML\\UIParent.lua:2147>\n[C]: in function `SetAttribute'\nInterface\\FrameXML\\UIParent.lua:2935: in function `ShowUIPanel'\nInterface\\FrameXML\\UIParent.lua:2919: in function `ToggleFrame'\nInterface\\FrameXML\\WorldMapFrame.lua:267: in function `ToggleWorldMap'\n[string \"TOGGLEWORLDMAP\"]:1: in function <[string \"TOGGLEWORLDMAP\"]:1>\n",
-		}, -- [47]
+		}, -- [37]
 		{
 			["message"] = "Note: AddOn AngryWorldQuests attempted to call a protected function (<unnamed>:ClearAllPoints()) during combat lockdown.",
 			["count"] = 9,
@@ -391,7 +310,7 @@ SwatterData = {
 			["timestamp"] = "2017-09-30 05:28:02",
 			["context"] = "AddOn: AngryWorldQuests",
 			["stack"] = "[C]: in function `ClearAllPoints'\nInterface\\FrameXML\\WorldMapFrame.lua:1565: in function `WorldMapFrame_SetOverlayLocation'\nInterface\\FrameXML\\WorldMapFrame.lua:1588: in function `WorldMapFrame_UpdateOverlayLocations'\nInterface\\FrameXML\\WorldMapFrame.lua:1369: in function `WorldMapFrame_Update'\nInterface\\FrameXML\\WorldMapFrame.lua:2955: in function `WorldMapFrame_UpdateMap'\nInterface\\FrameXML\\WorldMapFrame.lua:460: in function <Interface\\FrameXML\\WorldMapFrame.lua:444>\n[C]: in function `SetMapToCurrentZone'\nInterface\\FrameXML\\WorldMapFrame.lua:390: in function <Interface\\FrameXML\\WorldMapFrame.lua:369>\n[C]: ?\n[C]: in function `Show'\nInterface\\FrameXML\\UIParent.lua:2441: in function `SetUIPanel'\nInterface\\FrameXML\\UIParent.lua:2243: in function `ShowUIPanel'\nInterface\\FrameXML\\UIParent.lua:2151: in function <Interface\\FrameXML\\UIParent.lua:2147>\n[C]: in function `SetAttribute'\nInterface\\FrameXML\\UIParent.lua:2935: in function `ShowUIPanel'\nInterface\\FrameXML\\UIParent.lua:2919: in function `ToggleFrame'\nInterface\\FrameXML\\WorldMapFrame.lua:267: in function `ToggleWorldMap'\n[string \"TOGGLEWORLDMAP\"]:1: in function <[string \"TOGGLEWORLDMAP\"]:1>\n",
-		}, -- [48]
+		}, -- [38]
 		{
 			["message"] = "Note: AddOn AngryWorldQuests attempted to call a protected function (<unnamed>:SetPoint()) during combat lockdown.",
 			["count"] = 9,
@@ -399,7 +318,7 @@ SwatterData = {
 			["timestamp"] = "2017-09-30 05:28:02",
 			["context"] = "AddOn: AngryWorldQuests",
 			["stack"] = "[C]: in function `SetPoint'\nInterface\\FrameXML\\WorldMapFrame.lua:1571: in function `WorldMapFrame_SetOverlayLocation'\nInterface\\FrameXML\\WorldMapFrame.lua:1588: in function `WorldMapFrame_UpdateOverlayLocations'\nInterface\\FrameXML\\WorldMapFrame.lua:1369: in function `WorldMapFrame_Update'\nInterface\\FrameXML\\WorldMapFrame.lua:2955: in function `WorldMapFrame_UpdateMap'\nInterface\\FrameXML\\WorldMapFrame.lua:460: in function <Interface\\FrameXML\\WorldMapFrame.lua:444>\n[C]: in function `SetMapToCurrentZone'\nInterface\\FrameXML\\WorldMapFrame.lua:390: in function <Interface\\FrameXML\\WorldMapFrame.lua:369>\n[C]: ?\n[C]: in function `Show'\nInterface\\FrameXML\\UIParent.lua:2441: in function `SetUIPanel'\nInterface\\FrameXML\\UIParent.lua:2243: in function `ShowUIPanel'\nInterface\\FrameXML\\UIParent.lua:2151: in function <Interface\\FrameXML\\UIParent.lua:2147>\n[C]: in function `SetAttribute'\nInterface\\FrameXML\\UIParent.lua:2935: in function `ShowUIPanel'\nInterface\\FrameXML\\UIParent.lua:2919: in function `ToggleFrame'\nInterface\\FrameXML\\WorldMapFrame.lua:267: in function `ToggleWorldMap'\n[string \"TOGGLEWORLDMAP\"]:1: in function <[string \"TOGGLEWORLDMAP\"]:1>\n",
-		}, -- [49]
+		}, -- [39]
 		{
 			["message"] = "Note: AddOn AngryKeystones attempted to call a protected function (<unnamed>:Hide()) during combat lockdown.",
 			["count"] = 14,
@@ -407,7 +326,7 @@ SwatterData = {
 			["timestamp"] = "2017-10-01 01:54:38",
 			["context"] = "AddOn: AngryKeystones",
 			["stack"] = "[C]: in function `Hide'\nInterface\\FrameXML\\WorldMapActionButton.lua:58: in function `Clear'\nInterface\\FrameXML\\WorldMapActionButton.lua:67: in function `Refresh'\nInterface\\FrameXML\\WorldMapActionButton.lua:19: in function `SetMapAreaID'\nInterface\\FrameXML\\WorldMapFrame.lua:1368: in function `WorldMapFrame_Update'\nInterface\\FrameXML\\WorldMapFrame.lua:2955: in function `WorldMapFrame_UpdateMap'\nInterface\\FrameXML\\WorldMapFrame.lua:460: in function <Interface\\FrameXML\\WorldMapFrame.lua:444>\n[C]: in function `SetMapToCurrentZone'\nInterface\\FrameXML\\WorldMapFrame.lua:390: in function <Interface\\FrameXML\\WorldMapFrame.lua:369>\n[C]: ?\n[C]: in function `Show'\nInterface\\FrameXML\\UIParent.lua:2441: in function `SetUIPanel'\nInterface\\FrameXML\\UIParent.lua:2243: in function `ShowUIPanel'\nInterface\\FrameXML\\UIParent.lua:2151: in function <Interface\\FrameXML\\UIParent.lua:2147>\n[C]: in function `SetAttribute'\nInterface\\FrameXML\\UIParent.lua:2935: in function `ShowUIPanel'\nInterface\\FrameXML\\UIParent.lua:2919: in function `ToggleFrame'\nInterface\\FrameXML\\WorldMapFrame.lua:267: in function `ToggleWorldMap'\n[string \"TOGGLEWORLDMAP\"]:1: in function <[string \"TOGGLEWORLDMAP\"]:1>\n",
-		}, -- [50]
+		}, -- [40]
 		{
 			["message"] = "Note: AddOn AngryKeystones attempted to call a protected function (<unnamed>:ClearAllPoints()) during combat lockdown.",
 			["count"] = 19,
@@ -415,7 +334,7 @@ SwatterData = {
 			["timestamp"] = "2017-10-01 01:54:38",
 			["context"] = "AddOn: AngryKeystones",
 			["stack"] = "[C]: in function `ClearAllPoints'\nInterface\\FrameXML\\WorldMapFrame.lua:1565: in function `WorldMapFrame_SetOverlayLocation'\nInterface\\FrameXML\\WorldMapFrame.lua:1588: in function `WorldMapFrame_UpdateOverlayLocations'\nInterface\\FrameXML\\WorldMapFrame.lua:1369: in function `WorldMapFrame_Update'\nInterface\\FrameXML\\WorldMapFrame.lua:2955: in function `WorldMapFrame_UpdateMap'\nInterface\\FrameXML\\WorldMapFrame.lua:460: in function <Interface\\FrameXML\\WorldMapFrame.lua:444>\n[C]: in function `SetMapToCurrentZone'\nInterface\\FrameXML\\WorldMapFrame.lua:390: in function <Interface\\FrameXML\\WorldMapFrame.lua:369>\n[C]: ?\n[C]: in function `Show'\nInterface\\FrameXML\\UIParent.lua:2441: in function `SetUIPanel'\nInterface\\FrameXML\\UIParent.lua:2243: in function `ShowUIPanel'\nInterface\\FrameXML\\UIParent.lua:2151: in function <Interface\\FrameXML\\UIParent.lua:2147>\n[C]: in function `SetAttribute'\nInterface\\FrameXML\\UIParent.lua:2935: in function `ShowUIPanel'\nInterface\\FrameXML\\UIParent.lua:2919: in function `ToggleFrame'\nInterface\\FrameXML\\WorldMapFrame.lua:267: in function `ToggleWorldMap'\n[string \"TOGGLEWORLDMAP\"]:1: in function <[string \"TOGGLEWORLDMAP\"]:1>\n",
-		}, -- [51]
+		}, -- [41]
 		{
 			["message"] = "Note: AddOn AngryKeystones attempted to call a protected function (<unnamed>:SetPoint()) during combat lockdown.",
 			["count"] = 19,
@@ -423,7 +342,7 @@ SwatterData = {
 			["timestamp"] = "2017-10-01 01:54:38",
 			["context"] = "AddOn: AngryKeystones",
 			["stack"] = "[C]: in function `SetPoint'\nInterface\\FrameXML\\WorldMapFrame.lua:1571: in function `WorldMapFrame_SetOverlayLocation'\nInterface\\FrameXML\\WorldMapFrame.lua:1588: in function `WorldMapFrame_UpdateOverlayLocations'\nInterface\\FrameXML\\WorldMapFrame.lua:1369: in function `WorldMapFrame_Update'\nInterface\\FrameXML\\WorldMapFrame.lua:2955: in function `WorldMapFrame_UpdateMap'\nInterface\\FrameXML\\WorldMapFrame.lua:460: in function <Interface\\FrameXML\\WorldMapFrame.lua:444>\n[C]: in function `SetMapToCurrentZone'\nInterface\\FrameXML\\WorldMapFrame.lua:390: in function <Interface\\FrameXML\\WorldMapFrame.lua:369>\n[C]: ?\n[C]: in function `Show'\nInterface\\FrameXML\\UIParent.lua:2441: in function `SetUIPanel'\nInterface\\FrameXML\\UIParent.lua:2243: in function `ShowUIPanel'\nInterface\\FrameXML\\UIParent.lua:2151: in function <Interface\\FrameXML\\UIParent.lua:2147>\n[C]: in function `SetAttribute'\nInterface\\FrameXML\\UIParent.lua:2935: in function `ShowUIPanel'\nInterface\\FrameXML\\UIParent.lua:2919: in function `ToggleFrame'\nInterface\\FrameXML\\WorldMapFrame.lua:267: in function `ToggleWorldMap'\n[string \"TOGGLEWORLDMAP\"]:1: in function <[string \"TOGGLEWORLDMAP\"]:1>\n",
-		}, -- [52]
+		}, -- [42]
 		{
 			["message"] = "Note: AddOn Tukui attempted to call a protected function (MountJournal:SetShown()) during combat lockdown.",
 			["count"] = 1,
@@ -431,7 +350,7 @@ SwatterData = {
 			["timestamp"] = "2017-10-01 02:02:17",
 			["context"] = "AddOn: Tukui",
 			["stack"] = "[C]: in function `SetShown'\n...AddOns\\Blizzard_Collections\\Blizzard_Collections.lua:50: in function `CollectionsJournal_UpdateSelectedTab'\n...AddOns\\Blizzard_Collections\\Blizzard_Collections.lua:7: in function `CollectionsJournal_SetTab'\nInterface\\FrameXML\\UIParent.lua:877: in function `SetCollectionsJournalShown'\nInterface\\FrameXML\\UIParent.lua:863: in function `ToggleCollectionsJournal'\n...ace\\AddOns\\Tukui\\Modules\\Miscellaneous\\MicroMenu.lua:49: in function `func'\n...ce\\AddOns\\Tukui\\Libs\\DropDownMenu\\UIDropDownMenu.lua:723: in function `Lib_UIDropDownMenuButton_OnClick'\n[string \"*:OnClick\"]:1: in function <[string \"*:OnClick\"]:1>\n",
-		}, -- [53]
+		}, -- [43]
 		{
 			["message"] = "Note: AddOn TradeSkillMaster attempted to call a protected function (PetJournal:SetShown()) during combat lockdown.",
 			["count"] = 1,
@@ -439,7 +358,7 @@ SwatterData = {
 			["timestamp"] = "2017-10-01 02:02:17",
 			["context"] = "AddOn: TradeSkillMaster",
 			["stack"] = "[C]: in function `SetShown'\n...AddOns\\Blizzard_Collections\\Blizzard_Collections.lua:51: in function `CollectionsJournal_UpdateSelectedTab'\n...AddOns\\Blizzard_Collections\\Blizzard_Collections.lua:7: in function `CollectionsJournal_SetTab'\nInterface\\FrameXML\\UIParent.lua:877: in function `SetCollectionsJournalShown'\nInterface\\FrameXML\\UIParent.lua:863: in function `ToggleCollectionsJournal'\n...ace\\AddOns\\Tukui\\Modules\\Miscellaneous\\MicroMenu.lua:49: in function `func'\n...ce\\AddOns\\Tukui\\Libs\\DropDownMenu\\UIDropDownMenu.lua:723: in function `Lib_UIDropDownMenuButton_OnClick'\n[string \"*:OnClick\"]:1: in function <[string \"*:OnClick\"]:1>\n",
-		}, -- [54]
+		}, -- [44]
 		{
 			["message"] = "Note: AddOn TradeSkillMaster attempted to call a protected function (ToyBox:SetShown()) during combat lockdown.",
 			["count"] = 1,
@@ -447,7 +366,7 @@ SwatterData = {
 			["timestamp"] = "2017-10-01 02:02:17",
 			["context"] = "AddOn: TradeSkillMaster",
 			["stack"] = "[C]: in function `SetShown'\n...AddOns\\Blizzard_Collections\\Blizzard_Collections.lua:52: in function `CollectionsJournal_UpdateSelectedTab'\n...AddOns\\Blizzard_Collections\\Blizzard_Collections.lua:7: in function `CollectionsJournal_SetTab'\nInterface\\FrameXML\\UIParent.lua:877: in function `SetCollectionsJournalShown'\nInterface\\FrameXML\\UIParent.lua:863: in function `ToggleCollectionsJournal'\n...ace\\AddOns\\Tukui\\Modules\\Miscellaneous\\MicroMenu.lua:49: in function `func'\n...ce\\AddOns\\Tukui\\Libs\\DropDownMenu\\UIDropDownMenu.lua:723: in function `Lib_UIDropDownMenuButton_OnClick'\n[string \"*:OnClick\"]:1: in function <[string \"*:OnClick\"]:1>\n",
-		}, -- [55]
+		}, -- [45]
 		{
 			["message"] = "Interface\\AddOns\\ElitismHelper\\ElitismHelper.lua:329: ')' expected near 'v'",
 			["count"] = 1,
@@ -456,7 +375,7 @@ SwatterData = {
 			["timestamp"] = "2017-10-01 20:31:42",
 			["context"] = "Global",
 			["stack"] = "[C]: ?\n",
-		}, -- [56]
+		}, -- [46]
 		{
 			["message"] = "Interface\\AddOns\\ElitismHelper\\ElitismHelper.lua:326: bad argument #1 to 'pairs' (table expected, got nil)",
 			["count"] = 2,
@@ -465,7 +384,7 @@ SwatterData = {
 			["timestamp"] = "2017-10-01 20:33:48",
 			["context"] = "Global",
 			["stack"] = "[C]: ?\n[C]: in function `pairs'\nInterface\\AddOns\\ElitismHelper\\ElitismHelper.lua:326: in function `CHALLENGE_MODE_COMPLETED'\nInterface\\AddOns\\ElitismHelper\\ElitismHelper.lua:268: in function `?'\nInterface\\FrameXML\\ChatFrame.lua:4512: in function `ChatEdit_ParseText'\nInterface\\FrameXML\\ChatFrame.lua:4180: in function `ChatEdit_SendText'\nInterface\\FrameXML\\ChatFrame.lua:4216: in function `ChatEdit_OnEnterPressed'\n[string \"*:OnEnterPressed\"]:1: in function <[string \"*:OnEnterPressed\"]:1>\n",
-		}, -- [57]
+		}, -- [47]
 		{
 			["message"] = "Interface\\AddOns\\ElitismHelper\\ElitismHelper.lua:329: bad argument #1 to 'pairs' (table expected, got nil)",
 			["count"] = 3,
@@ -474,7 +393,7 @@ SwatterData = {
 			["timestamp"] = "2017-10-01 20:44:07",
 			["context"] = "Global",
 			["stack"] = "[C]: ?\n[C]: in function `pairs'\nInterface\\AddOns\\ElitismHelper\\ElitismHelper.lua:329: in function `CHALLENGE_MODE_COMPLETED'\nInterface\\AddOns\\ElitismHelper\\ElitismHelper.lua:268: in function `?'\nInterface\\FrameXML\\ChatFrame.lua:4512: in function `ChatEdit_ParseText'\nInterface\\FrameXML\\ChatFrame.lua:4180: in function `ChatEdit_SendText'\nInterface\\FrameXML\\ChatFrame.lua:4216: in function `ChatEdit_OnEnterPressed'\n[string \"*:OnEnterPressed\"]:1: in function <[string \"*:OnEnterPressed\"]:1>\n",
-		}, -- [58]
+		}, -- [48]
 		{
 			["message"] = "Interface\\AddOns\\ElitismHelper\\ElitismHelper.lua:336: attempt to perform arithmetic on field 'amount' (a nil value)",
 			["count"] = 2,
@@ -483,7 +402,7 @@ SwatterData = {
 			["timestamp"] = "2017-10-01 20:51:31",
 			["context"] = "Global",
 			["stack"] = "[C]: ?\nInterface\\AddOns\\ElitismHelper\\ElitismHelper.lua:336: in function `CHALLENGE_MODE_COMPLETED'\nInterface\\AddOns\\ElitismHelper\\ElitismHelper.lua:268: in function `?'\nInterface\\FrameXML\\ChatFrame.lua:4512: in function `ChatEdit_ParseText'\nInterface\\FrameXML\\ChatFrame.lua:4180: in function `ChatEdit_SendText'\nInterface\\FrameXML\\ChatFrame.lua:4216: in function `ChatEdit_OnEnterPressed'\n[string \"*:OnEnterPressed\"]:1: in function <[string \"*:OnEnterPressed\"]:1>\n",
-		}, -- [59]
+		}, -- [49]
 		{
 			["message"] = "Note: AddOn LFRAdvanced attempted to call a protected function (<unnamed>:Hide()) during combat lockdown.",
 			["count"] = 24,
@@ -491,7 +410,7 @@ SwatterData = {
 			["timestamp"] = "2017-10-01 21:43:26",
 			["context"] = "AddOn: LFRAdvanced",
 			["stack"] = "[C]: in function `Hide'\nInterface\\FrameXML\\WorldMapActionButton.lua:58: in function `Clear'\nInterface\\FrameXML\\WorldMapActionButton.lua:67: in function `Refresh'\nInterface\\FrameXML\\WorldMapActionButton.lua:19: in function `SetMapAreaID'\nInterface\\FrameXML\\WorldMapFrame.lua:1368: in function `WorldMapFrame_Update'\nInterface\\FrameXML\\WorldMapFrame.lua:2955: in function `WorldMapFrame_UpdateMap'\nInterface\\FrameXML\\WorldMapFrame.lua:460: in function <Interface\\FrameXML\\WorldMapFrame.lua:444>\n[C]: in function `SetMapToCurrentZone'\nInterface\\FrameXML\\WorldMapFrame.lua:390: in function <Interface\\FrameXML\\WorldMapFrame.lua:369>\n[C]: ?\n[C]: in function `Show'\nInterface\\FrameXML\\UIParent.lua:2441: in function `SetUIPanel'\nInterface\\FrameXML\\UIParent.lua:2243: in function `ShowUIPanel'\nInterface\\FrameXML\\UIParent.lua:2151: in function <Interface\\FrameXML\\UIParent.lua:2147>\n[C]: in function `SetAttribute'\nInterface\\FrameXML\\UIParent.lua:2935: in function `ShowUIPanel'\nInterface\\FrameXML\\UIParent.lua:2919: in function `ToggleFrame'\nInterface\\FrameXML\\WorldMapFrame.lua:267: in function `ToggleWorldMap'\n[string \"TOGGLEWORLDMAP\"]:1: in function <[string \"TOGGLEWORLDMAP\"]:1>\n",
-		}, -- [60]
+		}, -- [50]
 		{
 			["message"] = "Note: AddOn LFRAdvanced attempted to call a protected function (<unnamed>:ClearAllPoints()) during combat lockdown.",
 			["count"] = 13,
@@ -499,7 +418,7 @@ SwatterData = {
 			["timestamp"] = "2017-10-01 21:43:26",
 			["context"] = "AddOn: LFRAdvanced",
 			["stack"] = "[C]: in function `ClearAllPoints'\nInterface\\FrameXML\\WorldMapFrame.lua:1565: in function `WorldMapFrame_SetOverlayLocation'\nInterface\\FrameXML\\WorldMapFrame.lua:1588: in function `WorldMapFrame_UpdateOverlayLocations'\nInterface\\FrameXML\\WorldMapFrame.lua:1369: in function `WorldMapFrame_Update'\nInterface\\FrameXML\\WorldMapFrame.lua:2955: in function `WorldMapFrame_UpdateMap'\nInterface\\FrameXML\\WorldMapFrame.lua:460: in function <Interface\\FrameXML\\WorldMapFrame.lua:444>\n[C]: in function `SetMapToCurrentZone'\nInterface\\FrameXML\\WorldMapFrame.lua:390: in function <Interface\\FrameXML\\WorldMapFrame.lua:369>\n[C]: ?\n[C]: in function `Show'\nInterface\\FrameXML\\UIParent.lua:2441: in function `SetUIPanel'\nInterface\\FrameXML\\UIParent.lua:2243: in function `ShowUIPanel'\nInterface\\FrameXML\\UIParent.lua:2151: in function <Interface\\FrameXML\\UIParent.lua:2147>\n[C]: in function `SetAttribute'\nInterface\\FrameXML\\UIParent.lua:2935: in function `ShowUIPanel'\nInterface\\FrameXML\\UIParent.lua:2919: in function `ToggleFrame'\nInterface\\FrameXML\\WorldMapFrame.lua:267: in function `ToggleWorldMap'\n[string \"TOGGLEWORLDMAP\"]:1: in function <[string \"TOGGLEWORLDMAP\"]:1>\n",
-		}, -- [61]
+		}, -- [51]
 		{
 			["message"] = "Note: AddOn LFRAdvanced attempted to call a protected function (<unnamed>:SetPoint()) during combat lockdown.",
 			["count"] = 13,
@@ -507,7 +426,7 @@ SwatterData = {
 			["timestamp"] = "2017-10-01 21:43:26",
 			["context"] = "AddOn: LFRAdvanced",
 			["stack"] = "[C]: in function `SetPoint'\nInterface\\FrameXML\\WorldMapFrame.lua:1571: in function `WorldMapFrame_SetOverlayLocation'\nInterface\\FrameXML\\WorldMapFrame.lua:1588: in function `WorldMapFrame_UpdateOverlayLocations'\nInterface\\FrameXML\\WorldMapFrame.lua:1369: in function `WorldMapFrame_Update'\nInterface\\FrameXML\\WorldMapFrame.lua:2955: in function `WorldMapFrame_UpdateMap'\nInterface\\FrameXML\\WorldMapFrame.lua:460: in function <Interface\\FrameXML\\WorldMapFrame.lua:444>\n[C]: in function `SetMapToCurrentZone'\nInterface\\FrameXML\\WorldMapFrame.lua:390: in function <Interface\\FrameXML\\WorldMapFrame.lua:369>\n[C]: ?\n[C]: in function `Show'\nInterface\\FrameXML\\UIParent.lua:2441: in function `SetUIPanel'\nInterface\\FrameXML\\UIParent.lua:2243: in function `ShowUIPanel'\nInterface\\FrameXML\\UIParent.lua:2151: in function <Interface\\FrameXML\\UIParent.lua:2147>\n[C]: in function `SetAttribute'\nInterface\\FrameXML\\UIParent.lua:2935: in function `ShowUIPanel'\nInterface\\FrameXML\\UIParent.lua:2919: in function `ToggleFrame'\nInterface\\FrameXML\\WorldMapFrame.lua:267: in function `ToggleWorldMap'\n[string \"TOGGLEWORLDMAP\"]:1: in function <[string \"TOGGLEWORLDMAP\"]:1>\n",
-		}, -- [62]
+		}, -- [52]
 		{
 			["message"] = "Note: AddOn Tukui attempted to call a protected function (MultiBarLeft:originalShow()) during combat lockdown.",
 			["count"] = 1,
@@ -515,7 +434,7 @@ SwatterData = {
 			["timestamp"] = "2017-10-01 21:56:25",
 			["context"] = "AddOn: Tukui",
 			["stack"] = "[C]: in function `originalShow'\nInterface\\FrameXML\\FrameLocks.lua:97: in function <Interface\\FrameXML\\FrameLocks.lua:75>\nInterface\\FrameXML\\FrameLocks.lua:110: in function <Interface\\FrameXML\\FrameLocks.lua:103>\nInterface\\FrameXML\\FrameLocks.lua:132: in function `Show'\nInterface\\FrameXML\\MultiActionBars.lua:60: in function `MultiActionBar_Update'\nInterface\\FrameXML\\ActionBarController.lua:177: in function `ValidateActionBarTransition'\nInterface\\FrameXML\\ActionBarController.lua:145: in function `ActionBarController_UpdateAll'\nInterface\\FrameXML\\ActionBarController.lua:64: in function <Interface\\FrameXML\\ActionBarController.lua:53>\n",
-		}, -- [63]
+		}, -- [53]
 		{
 			["message"] = "Note: AddOn XLoot attempted to call a protected function (SetTargetClampingInsets()) during combat lockdown.",
 			["count"] = 140,
@@ -523,7 +442,7 @@ SwatterData = {
 			["timestamp"] = "2017-10-02 01:51:53",
 			["context"] = "AddOn: XLoot",
 			["stack"] = "[C]: in function `SetTargetClampingInsets'\n...e\\AddOns\\Blizzard_NamePlates\\Blizzard_NamePlates.lua:242: in function `SetupClassNameplateBars'\n...e\\AddOns\\Blizzard_NamePlates\\Blizzard_NamePlates.lua:87: in function `OnNamePlateAdded'\n...e\\AddOns\\Blizzard_NamePlates\\Blizzard_NamePlates.lua:44: in function <...e\\AddOns\\Blizzard_NamePlates\\Blizzard_NamePlates.lua:35>\n",
-		}, -- [64]
+		}, -- [54]
 		{
 			["message"] = "Note: AddOn AngryKeystones attempted to call a protected function (<unnamed>:Hide()) during combat lockdown.",
 			["count"] = 18,
@@ -531,7 +450,7 @@ SwatterData = {
 			["timestamp"] = "2017-10-02 03:45:15",
 			["context"] = "AddOn: AngryKeystones",
 			["stack"] = "[C]: in function `Hide'\nInterface\\FrameXML\\WorldMapActionButton.lua:58: in function `Clear'\nInterface\\FrameXML\\WorldMapActionButton.lua:67: in function `Refresh'\nInterface\\FrameXML\\WorldMapActionButton.lua:19: in function `SetMapAreaID'\nInterface\\FrameXML\\WorldMapFrame.lua:438: in function <Interface\\FrameXML\\WorldMapFrame.lua:401>\n[C]: ?\n[C]: in function `Hide'\nInterface\\FrameXML\\UIParent.lua:2425: in function `SetUIPanel'\nInterface\\FrameXML\\UIParent.lua:2452: in function `MoveUIPanel'\nInterface\\FrameXML\\UIParent.lua:2483: in function `HideUIPanel'\nInterface\\FrameXML\\UIParent.lua:2155: in function <Interface\\FrameXML\\UIParent.lua:2147>\n[C]: in function `SetAttribute'\nInterface\\FrameXML\\UIParent.lua:2951: in function `HideUIPanel'\nInterface\\FrameXML\\UIParent.lua:2917: in function `ToggleFrame'\nInterface\\FrameXML\\WorldMapFrame.lua:248: in function `ToggleWorldMap'\n[string \"TOGGLEWORLDMAP\"]:1: in function <[string \"TOGGLEWORLDMAP\"]:1>\n",
-		}, -- [65]
+		}, -- [55]
 		{
 			["message"] = "Note: AddOn AngryKeystones attempted to call a protected function (<unnamed>:ClearAllPoints()) during combat lockdown.",
 			["count"] = 15,
@@ -539,7 +458,7 @@ SwatterData = {
 			["timestamp"] = "2017-10-02 03:45:20",
 			["context"] = "AddOn: AngryKeystones",
 			["stack"] = "[C]: in function `ClearAllPoints'\nInterface\\FrameXML\\WorldMapFrame.lua:1565: in function `WorldMapFrame_SetOverlayLocation'\nInterface\\FrameXML\\WorldMapFrame.lua:1588: in function `WorldMapFrame_UpdateOverlayLocations'\nInterface\\FrameXML\\WorldMapFrame.lua:1369: in function `WorldMapFrame_Update'\nInterface\\FrameXML\\WorldMapFrame.lua:2955: in function `WorldMapFrame_UpdateMap'\nInterface\\FrameXML\\WorldMapFrame.lua:460: in function <Interface\\FrameXML\\WorldMapFrame.lua:444>\n[C]: in function `SetMapToCurrentZone'\nInterface\\FrameXML\\WorldMapFrame.lua:390: in function <Interface\\FrameXML\\WorldMapFrame.lua:369>\n[C]: ?\n[C]: in function `Show'\nInterface\\FrameXML\\UIParent.lua:2441: in function `SetUIPanel'\nInterface\\FrameXML\\UIParent.lua:2243: in function `ShowUIPanel'\nInterface\\FrameXML\\UIParent.lua:2151: in function <Interface\\FrameXML\\UIParent.lua:2147>\n[C]: in function `SetAttribute'\nInterface\\FrameXML\\UIParent.lua:2935: in function `ShowUIPanel'\nInterface\\FrameXML\\UIParent.lua:2919: in function `ToggleFrame'\nInterface\\FrameXML\\WorldMapFrame.lua:267: in function `ToggleWorldMap'\n[string \"TOGGLEWORLDMAP\"]:1: in function <[string \"TOGGLEWORLDMAP\"]:1>\n",
-		}, -- [66]
+		}, -- [56]
 		{
 			["message"] = "Note: AddOn AngryKeystones attempted to call a protected function (<unnamed>:SetPoint()) during combat lockdown.",
 			["count"] = 15,
@@ -547,7 +466,7 @@ SwatterData = {
 			["timestamp"] = "2017-10-02 03:45:20",
 			["context"] = "AddOn: AngryKeystones",
 			["stack"] = "[C]: in function `SetPoint'\nInterface\\FrameXML\\WorldMapFrame.lua:1571: in function `WorldMapFrame_SetOverlayLocation'\nInterface\\FrameXML\\WorldMapFrame.lua:1588: in function `WorldMapFrame_UpdateOverlayLocations'\nInterface\\FrameXML\\WorldMapFrame.lua:1369: in function `WorldMapFrame_Update'\nInterface\\FrameXML\\WorldMapFrame.lua:2955: in function `WorldMapFrame_UpdateMap'\nInterface\\FrameXML\\WorldMapFrame.lua:460: in function <Interface\\FrameXML\\WorldMapFrame.lua:444>\n[C]: in function `SetMapToCurrentZone'\nInterface\\FrameXML\\WorldMapFrame.lua:390: in function <Interface\\FrameXML\\WorldMapFrame.lua:369>\n[C]: ?\n[C]: in function `Show'\nInterface\\FrameXML\\UIParent.lua:2441: in function `SetUIPanel'\nInterface\\FrameXML\\UIParent.lua:2243: in function `ShowUIPanel'\nInterface\\FrameXML\\UIParent.lua:2151: in function <Interface\\FrameXML\\UIParent.lua:2147>\n[C]: in function `SetAttribute'\nInterface\\FrameXML\\UIParent.lua:2935: in function `ShowUIPanel'\nInterface\\FrameXML\\UIParent.lua:2919: in function `ToggleFrame'\nInterface\\FrameXML\\WorldMapFrame.lua:267: in function `ToggleWorldMap'\n[string \"TOGGLEWORLDMAP\"]:1: in function <[string \"TOGGLEWORLDMAP\"]:1>\n",
-		}, -- [67]
+		}, -- [57]
 		{
 			["message"] = "Note: AddOn AngryKeystones attempted to call a protected function (<unnamed>:Hide()) during combat lockdown.",
 			["count"] = 2,
@@ -555,7 +474,7 @@ SwatterData = {
 			["timestamp"] = "2017-10-02 21:03:19",
 			["context"] = "AddOn: AngryKeystones",
 			["stack"] = "[C]: in function `Hide'\nInterface\\FrameXML\\WorldMapActionButton.lua:58: in function `Clear'\nInterface\\FrameXML\\WorldMapActionButton.lua:67: in function `Refresh'\nInterface\\FrameXML\\WorldMapActionButton.lua:19: in function `SetMapAreaID'\nInterface\\FrameXML\\WorldMapFrame.lua:1368: in function `WorldMapFrame_Update'\nInterface\\FrameXML\\WorldMapFrame.lua:2955: in function `WorldMapFrame_UpdateMap'\nInterface\\FrameXML\\WorldMapFrame.lua:460: in function <Interface\\FrameXML\\WorldMapFrame.lua:444>\n[C]: in function `SetMapToCurrentZone'\nInterface\\FrameXML\\WorldMapFrame.lua:390: in function <Interface\\FrameXML\\WorldMapFrame.lua:369>\n[C]: ?\n[C]: in function `Show'\nInterface\\FrameXML\\UIParent.lua:2441: in function `SetUIPanel'\nInterface\\FrameXML\\UIParent.lua:2243: in function `ShowUIPanel'\nInterface\\FrameXML\\UIParent.lua:2151: in function <Interface\\FrameXML\\UIParent.lua:2147>\n[C]: in function `SetAttribute'\nInterface\\FrameXML\\UIParent.lua:2935: in function `ShowUIPanel'\nInterface\\FrameXML\\UIParent.lua:2919: in function `ToggleFrame'\nInterface\\FrameXML\\WorldMapFrame.lua:267: in function `ToggleWorldMap'\n[string \"TOGGLEWORLDMAP\"]:1: in function <[string \"TOGGLEWORLDMAP\"]:1>\n",
-		}, -- [68]
+		}, -- [58]
 		{
 			["message"] = "Note: AddOn AngryKeystones attempted to call a protected function (<unnamed>:ClearAllPoints()) during combat lockdown.",
 			["count"] = 3,
@@ -563,7 +482,7 @@ SwatterData = {
 			["timestamp"] = "2017-10-02 21:03:19",
 			["context"] = "AddOn: AngryKeystones",
 			["stack"] = "[C]: in function `ClearAllPoints'\nInterface\\FrameXML\\WorldMapFrame.lua:1565: in function `WorldMapFrame_SetOverlayLocation'\nInterface\\FrameXML\\WorldMapFrame.lua:1588: in function `WorldMapFrame_UpdateOverlayLocations'\nInterface\\FrameXML\\WorldMapFrame.lua:1369: in function `WorldMapFrame_Update'\nInterface\\FrameXML\\WorldMapFrame.lua:2955: in function `WorldMapFrame_UpdateMap'\nInterface\\FrameXML\\WorldMapFrame.lua:460: in function <Interface\\FrameXML\\WorldMapFrame.lua:444>\n[C]: in function `SetMapToCurrentZone'\nInterface\\FrameXML\\WorldMapFrame.lua:390: in function <Interface\\FrameXML\\WorldMapFrame.lua:369>\n[C]: ?\n[C]: in function `Show'\nInterface\\FrameXML\\UIParent.lua:2441: in function `SetUIPanel'\nInterface\\FrameXML\\UIParent.lua:2243: in function `ShowUIPanel'\nInterface\\FrameXML\\UIParent.lua:2151: in function <Interface\\FrameXML\\UIParent.lua:2147>\n[C]: in function `SetAttribute'\nInterface\\FrameXML\\UIParent.lua:2935: in function `ShowUIPanel'\nInterface\\FrameXML\\UIParent.lua:2919: in function `ToggleFrame'\nInterface\\FrameXML\\WorldMapFrame.lua:267: in function `ToggleWorldMap'\n[string \"TOGGLEWORLDMAP\"]:1: in function <[string \"TOGGLEWORLDMAP\"]:1>\n",
-		}, -- [69]
+		}, -- [59]
 		{
 			["message"] = "Note: AddOn AngryKeystones attempted to call a protected function (<unnamed>:SetPoint()) during combat lockdown.",
 			["count"] = 3,
@@ -571,7 +490,7 @@ SwatterData = {
 			["timestamp"] = "2017-10-02 21:03:19",
 			["context"] = "AddOn: AngryKeystones",
 			["stack"] = "[C]: in function `SetPoint'\nInterface\\FrameXML\\WorldMapFrame.lua:1571: in function `WorldMapFrame_SetOverlayLocation'\nInterface\\FrameXML\\WorldMapFrame.lua:1588: in function `WorldMapFrame_UpdateOverlayLocations'\nInterface\\FrameXML\\WorldMapFrame.lua:1369: in function `WorldMapFrame_Update'\nInterface\\FrameXML\\WorldMapFrame.lua:2955: in function `WorldMapFrame_UpdateMap'\nInterface\\FrameXML\\WorldMapFrame.lua:460: in function <Interface\\FrameXML\\WorldMapFrame.lua:444>\n[C]: in function `SetMapToCurrentZone'\nInterface\\FrameXML\\WorldMapFrame.lua:390: in function <Interface\\FrameXML\\WorldMapFrame.lua:369>\n[C]: ?\n[C]: in function `Show'\nInterface\\FrameXML\\UIParent.lua:2441: in function `SetUIPanel'\nInterface\\FrameXML\\UIParent.lua:2243: in function `ShowUIPanel'\nInterface\\FrameXML\\UIParent.lua:2151: in function <Interface\\FrameXML\\UIParent.lua:2147>\n[C]: in function `SetAttribute'\nInterface\\FrameXML\\UIParent.lua:2935: in function `ShowUIPanel'\nInterface\\FrameXML\\UIParent.lua:2919: in function `ToggleFrame'\nInterface\\FrameXML\\WorldMapFrame.lua:267: in function `ToggleWorldMap'\n[string \"TOGGLEWORLDMAP\"]:1: in function <[string \"TOGGLEWORLDMAP\"]:1>\n",
-		}, -- [70]
+		}, -- [60]
 		{
 			["message"] = "Note: AddOn XLoot attempted to call a protected function (SetTargetClampingInsets()) during combat lockdown.",
 			["count"] = 51,
@@ -579,7 +498,7 @@ SwatterData = {
 			["timestamp"] = "2017-10-05 23:20:48",
 			["context"] = "AddOn: XLoot",
 			["stack"] = "[C]: in function `SetTargetClampingInsets'\n...e\\AddOns\\Blizzard_NamePlates\\Blizzard_NamePlates.lua:242: in function `SetupClassNameplateBars'\n...e\\AddOns\\Blizzard_NamePlates\\Blizzard_NamePlates.lua:87: in function `OnNamePlateAdded'\n...e\\AddOns\\Blizzard_NamePlates\\Blizzard_NamePlates.lua:44: in function <...e\\AddOns\\Blizzard_NamePlates\\Blizzard_NamePlates.lua:35>\n",
-		}, -- [71]
+		}, -- [61]
 		{
 			["message"] = "Note: AddOn AngryKeystones attempted to call a protected function (<unnamed>:Hide()) during combat lockdown.",
 			["count"] = 8,
@@ -587,7 +506,7 @@ SwatterData = {
 			["timestamp"] = "2017-10-07 03:31:47",
 			["context"] = "AddOn: AngryKeystones",
 			["stack"] = "[C]: in function `Hide'\nInterface\\FrameXML\\WorldMapActionButton.lua:58: in function `Clear'\nInterface\\FrameXML\\WorldMapActionButton.lua:67: in function `Refresh'\nInterface\\FrameXML\\WorldMapActionButton.lua:19: in function `SetMapAreaID'\nInterface\\FrameXML\\WorldMapFrame.lua:1368: in function `WorldMapFrame_Update'\nInterface\\FrameXML\\WorldMapFrame.lua:2955: in function `WorldMapFrame_UpdateMap'\nInterface\\FrameXML\\WorldMapFrame.lua:460: in function <Interface\\FrameXML\\WorldMapFrame.lua:444>\n[C]: in function `SetMapToCurrentZone'\nInterface\\FrameXML\\WorldMapFrame.lua:390: in function <Interface\\FrameXML\\WorldMapFrame.lua:369>\n[C]: ?\n[C]: in function `Show'\nInterface\\FrameXML\\UIParent.lua:2441: in function `SetUIPanel'\nInterface\\FrameXML\\UIParent.lua:2243: in function `ShowUIPanel'\nInterface\\FrameXML\\UIParent.lua:2151: in function <Interface\\FrameXML\\UIParent.lua:2147>\n[C]: in function `SetAttribute'\nInterface\\FrameXML\\UIParent.lua:2935: in function `ShowUIPanel'\nInterface\\FrameXML\\UIParent.lua:2919: in function `ToggleFrame'\nInterface\\FrameXML\\WorldMapFrame.lua:267: in function `ToggleWorldMap'\n[string \"TOGGLEWORLDMAP\"]:1: in function <[string \"TOGGLEWORLDMAP\"]:1>\n",
-		}, -- [72]
+		}, -- [62]
 		{
 			["message"] = "Note: AddOn AngryKeystones attempted to call a protected function (<unnamed>:ClearAllPoints()) during combat lockdown.",
 			["count"] = 7,
@@ -595,7 +514,7 @@ SwatterData = {
 			["timestamp"] = "2017-10-07 03:31:47",
 			["context"] = "AddOn: AngryKeystones",
 			["stack"] = "[C]: in function `ClearAllPoints'\nInterface\\FrameXML\\WorldMapFrame.lua:1565: in function `WorldMapFrame_SetOverlayLocation'\nInterface\\FrameXML\\WorldMapFrame.lua:1588: in function `WorldMapFrame_UpdateOverlayLocations'\nInterface\\FrameXML\\WorldMapFrame.lua:1369: in function `WorldMapFrame_Update'\nInterface\\FrameXML\\WorldMapFrame.lua:2955: in function `WorldMapFrame_UpdateMap'\nInterface\\FrameXML\\WorldMapFrame.lua:460: in function <Interface\\FrameXML\\WorldMapFrame.lua:444>\n[C]: in function `SetMapToCurrentZone'\nInterface\\FrameXML\\WorldMapFrame.lua:390: in function <Interface\\FrameXML\\WorldMapFrame.lua:369>\n[C]: ?\n[C]: in function `Show'\nInterface\\FrameXML\\UIParent.lua:2441: in function `SetUIPanel'\nInterface\\FrameXML\\UIParent.lua:2243: in function `ShowUIPanel'\nInterface\\FrameXML\\UIParent.lua:2151: in function <Interface\\FrameXML\\UIParent.lua:2147>\n[C]: in function `SetAttribute'\nInterface\\FrameXML\\UIParent.lua:2935: in function `ShowUIPanel'\nInterface\\FrameXML\\UIParent.lua:2919: in function `ToggleFrame'\nInterface\\FrameXML\\WorldMapFrame.lua:267: in function `ToggleWorldMap'\n[string \"TOGGLEWORLDMAP\"]:1: in function <[string \"TOGGLEWORLDMAP\"]:1>\n",
-		}, -- [73]
+		}, -- [63]
 		{
 			["message"] = "Note: AddOn AngryKeystones attempted to call a protected function (<unnamed>:SetPoint()) during combat lockdown.",
 			["count"] = 7,
@@ -603,7 +522,7 @@ SwatterData = {
 			["timestamp"] = "2017-10-07 03:31:47",
 			["context"] = "AddOn: AngryKeystones",
 			["stack"] = "[C]: in function `SetPoint'\nInterface\\FrameXML\\WorldMapFrame.lua:1571: in function `WorldMapFrame_SetOverlayLocation'\nInterface\\FrameXML\\WorldMapFrame.lua:1588: in function `WorldMapFrame_UpdateOverlayLocations'\nInterface\\FrameXML\\WorldMapFrame.lua:1369: in function `WorldMapFrame_Update'\nInterface\\FrameXML\\WorldMapFrame.lua:2955: in function `WorldMapFrame_UpdateMap'\nInterface\\FrameXML\\WorldMapFrame.lua:460: in function <Interface\\FrameXML\\WorldMapFrame.lua:444>\n[C]: in function `SetMapToCurrentZone'\nInterface\\FrameXML\\WorldMapFrame.lua:390: in function <Interface\\FrameXML\\WorldMapFrame.lua:369>\n[C]: ?\n[C]: in function `Show'\nInterface\\FrameXML\\UIParent.lua:2441: in function `SetUIPanel'\nInterface\\FrameXML\\UIParent.lua:2243: in function `ShowUIPanel'\nInterface\\FrameXML\\UIParent.lua:2151: in function <Interface\\FrameXML\\UIParent.lua:2147>\n[C]: in function `SetAttribute'\nInterface\\FrameXML\\UIParent.lua:2935: in function `ShowUIPanel'\nInterface\\FrameXML\\UIParent.lua:2919: in function `ToggleFrame'\nInterface\\FrameXML\\WorldMapFrame.lua:267: in function `ToggleWorldMap'\n[string \"TOGGLEWORLDMAP\"]:1: in function <[string \"TOGGLEWORLDMAP\"]:1>\n",
-		}, -- [74]
+		}, -- [64]
 		{
 			["message"] = "Note: AddOn AngryKeystones attempted to call a protected function (<unnamed>:Hide()) during combat lockdown.",
 			["count"] = 1,
@@ -611,7 +530,7 @@ SwatterData = {
 			["timestamp"] = "2017-10-07 05:41:09",
 			["context"] = "AddOn: AngryKeystones",
 			["stack"] = "[C]: in function `Hide'\nInterface\\FrameXML\\WorldMapActionButton.lua:58: in function `Clear'\nInterface\\FrameXML\\WorldMapActionButton.lua:67: in function `Refresh'\nInterface\\FrameXML\\WorldMapActionButton.lua:19: in function `SetMapAreaID'\nInterface\\FrameXML\\WorldMapFrame.lua:438: in function <Interface\\FrameXML\\WorldMapFrame.lua:401>\n[C]: ?\n[C]: in function `Hide'\nInterface\\FrameXML\\UIParent.lua:2425: in function `SetUIPanel'\nInterface\\FrameXML\\UIParent.lua:2452: in function `MoveUIPanel'\nInterface\\FrameXML\\UIParent.lua:2483: in function `HideUIPanel'\nInterface\\FrameXML\\UIParent.lua:2155: in function <Interface\\FrameXML\\UIParent.lua:2147>\n[C]: in function `SetAttribute'\nInterface\\FrameXML\\UIParent.lua:2951: in function `HideUIPanel'\nInterface\\FrameXML\\UIParent.lua:2917: in function `ToggleFrame'\nInterface\\FrameXML\\WorldMapFrame.lua:248: in function `ToggleWorldMap'\n[string \"TOGGLEWORLDMAP\"]:1: in function <[string \"TOGGLEWORLDMAP\"]:1>\n",
-		}, -- [75]
+		}, -- [65]
 		{
 			["message"] = "Note: AddOn Tukui attempted to call a protected function (SpellBookFrame:SetAttribute()) during combat lockdown.",
 			["count"] = 6,
@@ -619,7 +538,7 @@ SwatterData = {
 			["timestamp"] = "2017-10-07 19:25:39",
 			["context"] = "AddOn: Tukui",
 			["stack"] = "[C]: in function `SetAttribute'\nInterface\\FrameXML\\UIParent.lua:82: in function <Interface\\FrameXML\\UIParent.lua:76>\nInterface\\FrameXML\\UIParent.lua:2927: in function `ShowUIPanel'\nInterface\\FrameXML\\UIParent.lua:2919: in function `ToggleFrame'\n...ace\\AddOns\\Tukui\\Modules\\Miscellaneous\\MicroMenu.lua:15: in function `func'\n...ce\\AddOns\\Tukui\\Libs\\DropDownMenu\\UIDropDownMenu.lua:723: in function `Lib_UIDropDownMenuButton_OnClick'\n[string \"*:OnClick\"]:1: in function <[string \"*:OnClick\"]:1>\n",
-		}, -- [76]
+		}, -- [66]
 		{
 			["message"] = "Note: AddOn Tukui attempted to call a protected function (SpellBookFrame:Show()) during combat lockdown.",
 			["count"] = 1,
@@ -627,7 +546,7 @@ SwatterData = {
 			["timestamp"] = "2017-10-07 19:25:39",
 			["context"] = "AddOn: Tukui",
 			["stack"] = "[C]: in function `Show'\nInterface\\FrameXML\\UIParent.lua:2928: in function `ShowUIPanel'\nInterface\\FrameXML\\UIParent.lua:2919: in function `ToggleFrame'\n...ace\\AddOns\\Tukui\\Modules\\Miscellaneous\\MicroMenu.lua:15: in function `func'\n...ce\\AddOns\\Tukui\\Libs\\DropDownMenu\\UIDropDownMenu.lua:723: in function `Lib_UIDropDownMenuButton_OnClick'\n[string \"*:OnClick\"]:1: in function <[string \"*:OnClick\"]:1>\n",
-		}, -- [77]
+		}, -- [67]
 		{
 			["message"] = "Note: AddOn LFRAdvanced attempted to call a protected function (<unnamed>:Hide()) during combat lockdown.",
 			["count"] = 60,
@@ -635,7 +554,7 @@ SwatterData = {
 			["timestamp"] = "2017-10-07 20:48:59",
 			["context"] = "AddOn: LFRAdvanced",
 			["stack"] = "[C]: in function `Hide'\nInterface\\FrameXML\\WorldMapActionButton.lua:58: in function `Clear'\nInterface\\FrameXML\\WorldMapActionButton.lua:67: in function `Refresh'\nInterface\\FrameXML\\WorldMapActionButton.lua:19: in function `SetMapAreaID'\nInterface\\FrameXML\\WorldMapFrame.lua:1368: in function `WorldMapFrame_Update'\nInterface\\FrameXML\\WorldMapFrame.lua:2955: in function `WorldMapFrame_UpdateMap'\nInterface\\FrameXML\\WorldMapFrame.lua:460: in function <Interface\\FrameXML\\WorldMapFrame.lua:444>\n[C]: in function `SetMapToCurrentZone'\nInterface\\FrameXML\\WorldMapFrame.lua:390: in function <Interface\\FrameXML\\WorldMapFrame.lua:369>\n[C]: ?\n[C]: in function `Show'\nInterface\\FrameXML\\UIParent.lua:2441: in function `SetUIPanel'\nInterface\\FrameXML\\UIParent.lua:2243: in function `ShowUIPanel'\nInterface\\FrameXML\\UIParent.lua:2151: in function <Interface\\FrameXML\\UIParent.lua:2147>\n[C]: in function `SetAttribute'\nInterface\\FrameXML\\UIParent.lua:2935: in function `ShowUIPanel'\nInterface\\FrameXML\\UIParent.lua:2919: in function `ToggleFrame'\nInterface\\FrameXML\\WorldMapFrame.lua:267: in function `ToggleWorldMap'\n[string \"TOGGLEWORLDMAP\"]:1: in function <[string \"TOGGLEWORLDMAP\"]:1>\n",
-		}, -- [78]
+		}, -- [68]
 		{
 			["message"] = "Note: AddOn LFRAdvanced attempted to call a protected function (<unnamed>:ClearAllPoints()) during combat lockdown.",
 			["count"] = 49,
@@ -643,7 +562,7 @@ SwatterData = {
 			["timestamp"] = "2017-10-07 20:48:59",
 			["context"] = "AddOn: LFRAdvanced",
 			["stack"] = "[C]: in function `ClearAllPoints'\nInterface\\FrameXML\\WorldMapFrame.lua:1565: in function `WorldMapFrame_SetOverlayLocation'\nInterface\\FrameXML\\WorldMapFrame.lua:1588: in function `WorldMapFrame_UpdateOverlayLocations'\nInterface\\FrameXML\\WorldMapFrame.lua:1369: in function `WorldMapFrame_Update'\nInterface\\FrameXML\\WorldMapFrame.lua:2955: in function `WorldMapFrame_UpdateMap'\nInterface\\FrameXML\\WorldMapFrame.lua:460: in function <Interface\\FrameXML\\WorldMapFrame.lua:444>\n[C]: in function `SetMapToCurrentZone'\nInterface\\FrameXML\\WorldMapFrame.lua:390: in function <Interface\\FrameXML\\WorldMapFrame.lua:369>\n[C]: ?\n[C]: in function `Show'\nInterface\\FrameXML\\UIParent.lua:2441: in function `SetUIPanel'\nInterface\\FrameXML\\UIParent.lua:2243: in function `ShowUIPanel'\nInterface\\FrameXML\\UIParent.lua:2151: in function <Interface\\FrameXML\\UIParent.lua:2147>\n[C]: in function `SetAttribute'\nInterface\\FrameXML\\UIParent.lua:2935: in function `ShowUIPanel'\nInterface\\FrameXML\\UIParent.lua:2919: in function `ToggleFrame'\nInterface\\FrameXML\\WorldMapFrame.lua:267: in function `ToggleWorldMap'\n[string \"TOGGLEWORLDMAP\"]:1: in function <[string \"TOGGLEWORLDMAP\"]:1>\n",
-		}, -- [79]
+		}, -- [69]
 		{
 			["message"] = "Note: AddOn LFRAdvanced attempted to call a protected function (<unnamed>:SetPoint()) during combat lockdown.",
 			["count"] = 49,
@@ -651,7 +570,7 @@ SwatterData = {
 			["timestamp"] = "2017-10-07 20:48:59",
 			["context"] = "AddOn: LFRAdvanced",
 			["stack"] = "[C]: in function `SetPoint'\nInterface\\FrameXML\\WorldMapFrame.lua:1571: in function `WorldMapFrame_SetOverlayLocation'\nInterface\\FrameXML\\WorldMapFrame.lua:1588: in function `WorldMapFrame_UpdateOverlayLocations'\nInterface\\FrameXML\\WorldMapFrame.lua:1369: in function `WorldMapFrame_Update'\nInterface\\FrameXML\\WorldMapFrame.lua:2955: in function `WorldMapFrame_UpdateMap'\nInterface\\FrameXML\\WorldMapFrame.lua:460: in function <Interface\\FrameXML\\WorldMapFrame.lua:444>\n[C]: in function `SetMapToCurrentZone'\nInterface\\FrameXML\\WorldMapFrame.lua:390: in function <Interface\\FrameXML\\WorldMapFrame.lua:369>\n[C]: ?\n[C]: in function `Show'\nInterface\\FrameXML\\UIParent.lua:2441: in function `SetUIPanel'\nInterface\\FrameXML\\UIParent.lua:2243: in function `ShowUIPanel'\nInterface\\FrameXML\\UIParent.lua:2151: in function <Interface\\FrameXML\\UIParent.lua:2147>\n[C]: in function `SetAttribute'\nInterface\\FrameXML\\UIParent.lua:2935: in function `ShowUIPanel'\nInterface\\FrameXML\\UIParent.lua:2919: in function `ToggleFrame'\nInterface\\FrameXML\\WorldMapFrame.lua:267: in function `ToggleWorldMap'\n[string \"TOGGLEWORLDMAP\"]:1: in function <[string \"TOGGLEWORLDMAP\"]:1>\n",
-		}, -- [80]
+		}, -- [70]
 		{
 			["message"] = "Note: AddOn Overachiever attempted to call a protected function (<unnamed>:Hide()) during combat lockdown.",
 			["count"] = 89,
@@ -659,7 +578,7 @@ SwatterData = {
 			["timestamp"] = "2017-10-07 23:44:06",
 			["context"] = "AddOn: Overachiever",
 			["stack"] = "[C]: in function `Hide'\nInterface\\FrameXML\\WorldMapActionButton.lua:58: in function `Clear'\nInterface\\FrameXML\\WorldMapActionButton.lua:67: in function `Refresh'\nInterface\\FrameXML\\WorldMapActionButton.lua:19: in function `SetMapAreaID'\nInterface\\FrameXML\\WorldMapFrame.lua:1368: in function `WorldMapFrame_Update'\nInterface\\FrameXML\\WorldMapFrame.lua:2955: in function `WorldMapFrame_UpdateMap'\nInterface\\FrameXML\\WorldMapFrame.lua:460: in function <Interface\\FrameXML\\WorldMapFrame.lua:444>\n[C]: in function `SetMapToCurrentZone'\nInterface\\FrameXML\\WorldMapFrame.lua:390: in function <Interface\\FrameXML\\WorldMapFrame.lua:369>\n[C]: ?\n[C]: in function `Show'\nInterface\\FrameXML\\UIParent.lua:2441: in function `SetUIPanel'\nInterface\\FrameXML\\UIParent.lua:2243: in function `ShowUIPanel'\nInterface\\FrameXML\\UIParent.lua:2151: in function <Interface\\FrameXML\\UIParent.lua:2147>\n[C]: in function `SetAttribute'\nInterface\\FrameXML\\UIParent.lua:2935: in function `ShowUIPanel'\nInterface\\FrameXML\\UIParent.lua:2919: in function `ToggleFrame'\nInterface\\FrameXML\\WorldMapFrame.lua:267: in function `ToggleWorldMap'\n[string \"TOGGLEWORLDMAP\"]:1: in function <[string \"TOGGLEWORLDMAP\"]:1>\n",
-		}, -- [81]
+		}, -- [71]
 		{
 			["message"] = "Note: AddOn Overachiever attempted to call a protected function (<unnamed>:ClearAllPoints()) during combat lockdown.",
 			["count"] = 56,
@@ -667,7 +586,7 @@ SwatterData = {
 			["timestamp"] = "2017-10-07 23:44:06",
 			["context"] = "AddOn: Overachiever",
 			["stack"] = "[C]: in function `ClearAllPoints'\nInterface\\FrameXML\\WorldMapFrame.lua:1565: in function `WorldMapFrame_SetOverlayLocation'\nInterface\\FrameXML\\WorldMapFrame.lua:1588: in function `WorldMapFrame_UpdateOverlayLocations'\nInterface\\FrameXML\\WorldMapFrame.lua:1369: in function `WorldMapFrame_Update'\nInterface\\FrameXML\\WorldMapFrame.lua:2955: in function `WorldMapFrame_UpdateMap'\nInterface\\FrameXML\\WorldMapFrame.lua:460: in function <Interface\\FrameXML\\WorldMapFrame.lua:444>\n[C]: in function `SetMapToCurrentZone'\nInterface\\FrameXML\\WorldMapFrame.lua:390: in function <Interface\\FrameXML\\WorldMapFrame.lua:369>\n[C]: ?\n[C]: in function `Show'\nInterface\\FrameXML\\UIParent.lua:2441: in function `SetUIPanel'\nInterface\\FrameXML\\UIParent.lua:2243: in function `ShowUIPanel'\nInterface\\FrameXML\\UIParent.lua:2151: in function <Interface\\FrameXML\\UIParent.lua:2147>\n[C]: in function `SetAttribute'\nInterface\\FrameXML\\UIParent.lua:2935: in function `ShowUIPanel'\nInterface\\FrameXML\\UIParent.lua:2919: in function `ToggleFrame'\nInterface\\FrameXML\\WorldMapFrame.lua:267: in function `ToggleWorldMap'\n[string \"TOGGLEWORLDMAP\"]:1: in function <[string \"TOGGLEWORLDMAP\"]:1>\n",
-		}, -- [82]
+		}, -- [72]
 		{
 			["message"] = "Note: AddOn Overachiever attempted to call a protected function (<unnamed>:SetPoint()) during combat lockdown.",
 			["count"] = 56,
@@ -675,7 +594,7 @@ SwatterData = {
 			["timestamp"] = "2017-10-07 23:44:06",
 			["context"] = "AddOn: Overachiever",
 			["stack"] = "[C]: in function `SetPoint'\nInterface\\FrameXML\\WorldMapFrame.lua:1571: in function `WorldMapFrame_SetOverlayLocation'\nInterface\\FrameXML\\WorldMapFrame.lua:1588: in function `WorldMapFrame_UpdateOverlayLocations'\nInterface\\FrameXML\\WorldMapFrame.lua:1369: in function `WorldMapFrame_Update'\nInterface\\FrameXML\\WorldMapFrame.lua:2955: in function `WorldMapFrame_UpdateMap'\nInterface\\FrameXML\\WorldMapFrame.lua:460: in function <Interface\\FrameXML\\WorldMapFrame.lua:444>\n[C]: in function `SetMapToCurrentZone'\nInterface\\FrameXML\\WorldMapFrame.lua:390: in function <Interface\\FrameXML\\WorldMapFrame.lua:369>\n[C]: ?\n[C]: in function `Show'\nInterface\\FrameXML\\UIParent.lua:2441: in function `SetUIPanel'\nInterface\\FrameXML\\UIParent.lua:2243: in function `ShowUIPanel'\nInterface\\FrameXML\\UIParent.lua:2151: in function <Interface\\FrameXML\\UIParent.lua:2147>\n[C]: in function `SetAttribute'\nInterface\\FrameXML\\UIParent.lua:2935: in function `ShowUIPanel'\nInterface\\FrameXML\\UIParent.lua:2919: in function `ToggleFrame'\nInterface\\FrameXML\\WorldMapFrame.lua:267: in function `ToggleWorldMap'\n[string \"TOGGLEWORLDMAP\"]:1: in function <[string \"TOGGLEWORLDMAP\"]:1>\n",
-		}, -- [83]
+		}, -- [73]
 		{
 			["message"] = "Note: AddOn Tukui attempted to call a protected function (MultiBarLeft:originalShow()) during combat lockdown.",
 			["count"] = 170,
@@ -683,7 +602,7 @@ SwatterData = {
 			["timestamp"] = "2017-10-07 23:53:13",
 			["context"] = "AddOn: Tukui",
 			["stack"] = "[C]: in function `originalShow'\nInterface\\FrameXML\\FrameLocks.lua:97: in function <Interface\\FrameXML\\FrameLocks.lua:75>\nInterface\\FrameXML\\FrameLocks.lua:110: in function <Interface\\FrameXML\\FrameLocks.lua:103>\nInterface\\FrameXML\\FrameLocks.lua:132: in function `Show'\nInterface\\FrameXML\\MultiActionBars.lua:60: in function `MultiActionBar_Update'\nInterface\\FrameXML\\ActionBarController.lua:177: in function `ValidateActionBarTransition'\nInterface\\FrameXML\\ActionBarController.lua:145: in function `ActionBarController_UpdateAll'\nInterface\\FrameXML\\ActionBarController.lua:64: in function <Interface\\FrameXML\\ActionBarController.lua:53>\n",
-		}, -- [84]
+		}, -- [74]
 		{
 			["message"] = "Note: AddOn Tukui attempted to call a protected function (MainMenuBar:originalShow()) during combat lockdown.",
 			["count"] = 158,
@@ -691,7 +610,7 @@ SwatterData = {
 			["timestamp"] = "2017-10-07 23:53:13",
 			["context"] = "AddOn: Tukui",
 			["stack"] = "[C]: in function `originalShow'\nInterface\\FrameXML\\FrameLocks.lua:97: in function <Interface\\FrameXML\\FrameLocks.lua:75>\nInterface\\FrameXML\\FrameLocks.lua:110: in function <Interface\\FrameXML\\FrameLocks.lua:103>\nInterface\\FrameXML\\FrameLocks.lua:132: in function `Show'\nInterface\\FrameXML\\ActionBarController.lua:167: in function `BeginActionBarTransition'\nInterface\\FrameXML\\ActionBarController.lua:189: in function `ValidateActionBarTransition'\nInterface\\FrameXML\\ActionBarController.lua:145: in function `ActionBarController_UpdateAll'\nInterface\\FrameXML\\ActionBarController.lua:64: in function <Interface\\FrameXML\\ActionBarController.lua:53>\n",
-		}, -- [85]
+		}, -- [75]
 		{
 			["message"] = "Note: AddOn Tukui attempted to call a protected function (MultiBarRight:originalShow()) during combat lockdown.",
 			["count"] = 314,
@@ -699,7 +618,7 @@ SwatterData = {
 			["timestamp"] = "2017-10-07 23:53:13",
 			["context"] = "AddOn: Tukui",
 			["stack"] = "[C]: in function `originalShow'\nInterface\\FrameXML\\FrameLocks.lua:97: in function <Interface\\FrameXML\\FrameLocks.lua:75>\nInterface\\FrameXML\\FrameLocks.lua:110: in function <Interface\\FrameXML\\FrameLocks.lua:103>\nInterface\\FrameXML\\FrameLocks.lua:132: in function `Show'\nInterface\\FrameXML\\ActionBarController.lua:167: in function `BeginActionBarTransition'\nInterface\\FrameXML\\ActionBarController.lua:190: in function `ValidateActionBarTransition'\nInterface\\FrameXML\\ActionBarController.lua:145: in function `ActionBarController_UpdateAll'\nInterface\\FrameXML\\ActionBarController.lua:64: in function <Interface\\FrameXML\\ActionBarController.lua:53>\n",
-		}, -- [86]
+		}, -- [76]
 		{
 			["message"] = "Note: AddOn Tukui attempted to call a protected function (MainMenuBar:originalHide()) during combat lockdown.",
 			["count"] = 155,
@@ -707,7 +626,7 @@ SwatterData = {
 			["timestamp"] = "2017-10-07 23:53:13",
 			["context"] = "AddOn: Tukui",
 			["stack"] = "[C]: in function `originalHide'\nInterface\\FrameXML\\FrameLocks.lua:99: in function <Interface\\FrameXML\\FrameLocks.lua:75>\nInterface\\FrameXML\\FrameLocks.lua:110: in function <Interface\\FrameXML\\FrameLocks.lua:103>\nInterface\\FrameXML\\FrameLocks.lua:128: in function `Hide'\n[string \"*:OnFinished\"]:2: in function <[string \"*:OnFinished\"]:1>\n",
-		}, -- [87]
+		}, -- [77]
 		{
 			["message"] = "Note: AddOn Tukui attempted to call a protected function (MultiBarBottomLeft:Show()) during combat lockdown.",
 			["count"] = 155,
@@ -715,7 +634,7 @@ SwatterData = {
 			["timestamp"] = "2017-10-07 23:53:13",
 			["context"] = "AddOn: Tukui",
 			["stack"] = "[C]: in function `Show'\nInterface\\FrameXML\\MultiActionBars.lua:37: in function `MultiActionBar_Update'\nInterface\\FrameXML\\ActionBarController.lua:177: in function `ValidateActionBarTransition'\n[string \"*:OnFinished\"]:4: in function <[string \"*:OnFinished\"]:1>\n",
-		}, -- [88]
+		}, -- [78]
 		{
 			["message"] = "Note: AddOn Tukui attempted to call a protected function (MultiBarBottomRight:Show()) during combat lockdown.",
 			["count"] = 155,
@@ -723,7 +642,7 @@ SwatterData = {
 			["timestamp"] = "2017-10-07 23:53:13",
 			["context"] = "AddOn: Tukui",
 			["stack"] = "[C]: in function `Show'\nInterface\\FrameXML\\MultiActionBars.lua:46: in function `MultiActionBar_Update'\nInterface\\FrameXML\\ActionBarController.lua:177: in function `ValidateActionBarTransition'\n[string \"*:OnFinished\"]:4: in function <[string \"*:OnFinished\"]:1>\n",
-		}, -- [89]
+		}, -- [79]
 		{
 			["message"] = "Note: AddOn Tukui attempted to call a protected function (MultiBarRight:originalHide()) during combat lockdown.",
 			["count"] = 54,
@@ -731,7 +650,7 @@ SwatterData = {
 			["timestamp"] = "2017-10-08 01:39:51",
 			["context"] = "AddOn: Tukui",
 			["stack"] = "[C]: in function `originalHide'\nInterface\\FrameXML\\FrameLocks.lua:99: in function <Interface\\FrameXML\\FrameLocks.lua:75>\nInterface\\FrameXML\\FrameLocks.lua:110: in function <Interface\\FrameXML\\FrameLocks.lua:103>\nInterface\\FrameXML\\FrameLocks.lua:128: in function `Hide'\nInterface\\FrameXML\\MultiActionBars.lua:56: in function `MultiActionBar_Update'\nInterface\\FrameXML\\ActionBarController.lua:177: in function `ValidateActionBarTransition'\nInterface\\FrameXML\\ActionBarController.lua:145: in function `ActionBarController_UpdateAll'\nInterface\\FrameXML\\ActionBarController.lua:64: in function <Interface\\FrameXML\\ActionBarController.lua:53>\n",
-		}, -- [90]
+		}, -- [80]
 		{
 			["message"] = "Note: AddOn Tukui attempted to call a protected function (MultiBarLeft:originalHide()) during combat lockdown.",
 			["count"] = 54,
@@ -739,7 +658,7 @@ SwatterData = {
 			["timestamp"] = "2017-10-08 01:39:51",
 			["context"] = "AddOn: Tukui",
 			["stack"] = "[C]: in function `originalHide'\nInterface\\FrameXML\\FrameLocks.lua:99: in function <Interface\\FrameXML\\FrameLocks.lua:75>\nInterface\\FrameXML\\FrameLocks.lua:110: in function <Interface\\FrameXML\\FrameLocks.lua:103>\nInterface\\FrameXML\\FrameLocks.lua:128: in function `Hide'\nInterface\\FrameXML\\MultiActionBars.lua:63: in function `MultiActionBar_Update'\nInterface\\FrameXML\\ActionBarController.lua:177: in function `ValidateActionBarTransition'\nInterface\\FrameXML\\ActionBarController.lua:145: in function `ActionBarController_UpdateAll'\nInterface\\FrameXML\\ActionBarController.lua:64: in function <Interface\\FrameXML\\ActionBarController.lua:53>\n",
-		}, -- [91]
+		}, -- [81]
 		{
 			["message"] = "Note: AddOn Tukui attempted to call a protected function (OverrideActionBar:Show()) during combat lockdown.",
 			["count"] = 54,
@@ -747,7 +666,7 @@ SwatterData = {
 			["timestamp"] = "2017-10-08 01:39:51",
 			["context"] = "AddOn: Tukui",
 			["stack"] = "[C]: in function `Show'\nInterface\\FrameXML\\ActionBarController.lua:167: in function `BeginActionBarTransition'\nInterface\\FrameXML\\ActionBarController.lua:182: in function `ValidateActionBarTransition'\nInterface\\FrameXML\\ActionBarController.lua:145: in function `ActionBarController_UpdateAll'\nInterface\\FrameXML\\ActionBarController.lua:64: in function <Interface\\FrameXML\\ActionBarController.lua:53>\n",
-		}, -- [92]
+		}, -- [82]
 		{
 			["message"] = "Note: AddOn Tukui attempted to call a protected function (OverrideActionBar:Hide()) during combat lockdown.",
 			["count"] = 53,
@@ -755,7 +674,7 @@ SwatterData = {
 			["timestamp"] = "2017-10-08 01:39:52",
 			["context"] = "AddOn: Tukui",
 			["stack"] = "[C]: in function `Hide'\n[string \"*:OnFinished\"]:2: in function <[string \"*:OnFinished\"]:1>\n",
-		}, -- [93]
+		}, -- [83]
 		{
 			["message"] = "Note: AddOn Tukui attempted to call a protected function (MultiBarBottomLeft:Hide()) during combat lockdown.",
 			["count"] = 53,
@@ -763,7 +682,7 @@ SwatterData = {
 			["timestamp"] = "2017-10-08 01:39:52",
 			["context"] = "AddOn: Tukui",
 			["stack"] = "[C]: in function `Hide'\nInterface\\FrameXML\\MultiActionBars.lua:41: in function `MultiActionBar_Update'\nInterface\\FrameXML\\ActionBarController.lua:177: in function `ValidateActionBarTransition'\n[string \"*:OnFinished\"]:4: in function <[string \"*:OnFinished\"]:1>\n",
-		}, -- [94]
+		}, -- [84]
 		{
 			["message"] = "Note: AddOn Tukui attempted to call a protected function (MultiBarBottomRight:Hide()) during combat lockdown.",
 			["count"] = 53,
@@ -771,7 +690,7 @@ SwatterData = {
 			["timestamp"] = "2017-10-08 01:39:52",
 			["context"] = "AddOn: Tukui",
 			["stack"] = "[C]: in function `Hide'\nInterface\\FrameXML\\MultiActionBars.lua:49: in function `MultiActionBar_Update'\nInterface\\FrameXML\\ActionBarController.lua:177: in function `ValidateActionBarTransition'\n[string \"*:OnFinished\"]:4: in function <[string \"*:OnFinished\"]:1>\n",
-		}, -- [95]
+		}, -- [85]
 		{
 			["message"] = "Note: AddOn AngryKeystones attempted to call a protected function (<unnamed>:Hide()) during combat lockdown.",
 			["count"] = 48,
@@ -779,7 +698,7 @@ SwatterData = {
 			["timestamp"] = "2017-10-10 04:22:13",
 			["context"] = "AddOn: AngryKeystones",
 			["stack"] = "[C]: in function `Hide'\nInterface\\FrameXML\\WorldMapActionButton.lua:58: in function `Clear'\nInterface\\FrameXML\\WorldMapActionButton.lua:67: in function `Refresh'\nInterface\\FrameXML\\WorldMapActionButton.lua:19: in function `SetMapAreaID'\nInterface\\FrameXML\\WorldMapFrame.lua:1368: in function `WorldMapFrame_Update'\nInterface\\FrameXML\\WorldMapFrame.lua:2955: in function `WorldMapFrame_UpdateMap'\nInterface\\FrameXML\\WorldMapFrame.lua:460: in function <Interface\\FrameXML\\WorldMapFrame.lua:444>\n[C]: in function `SetMapToCurrentZone'\nInterface\\FrameXML\\WorldMapFrame.lua:390: in function <Interface\\FrameXML\\WorldMapFrame.lua:369>\n[C]: ?\n[C]: in function `Show'\nInterface\\FrameXML\\UIParent.lua:2441: in function `SetUIPanel'\nInterface\\FrameXML\\UIParent.lua:2243: in function `ShowUIPanel'\nInterface\\FrameXML\\UIParent.lua:2151: in function <Interface\\FrameXML\\UIParent.lua:2147>\n[C]: in function `SetAttribute'\nInterface\\FrameXML\\UIParent.lua:2935: in function `ShowUIPanel'\nInterface\\FrameXML\\UIParent.lua:2919: in function `ToggleFrame'\nInterface\\FrameXML\\WorldMapFrame.lua:267: in function `ToggleWorldMap'\n[string \"TOGGLEWORLDMAP\"]:1: in function <[string \"TOGGLEWORLDMAP\"]:1>\n",
-		}, -- [96]
+		}, -- [86]
 		{
 			["message"] = "Note: AddOn AngryKeystones attempted to call a protected function (<unnamed>:ClearAllPoints()) during combat lockdown.",
 			["count"] = 31,
@@ -787,7 +706,7 @@ SwatterData = {
 			["timestamp"] = "2017-10-10 04:22:13",
 			["context"] = "AddOn: AngryKeystones",
 			["stack"] = "[C]: in function `ClearAllPoints'\nInterface\\FrameXML\\WorldMapFrame.lua:1565: in function `WorldMapFrame_SetOverlayLocation'\nInterface\\FrameXML\\WorldMapFrame.lua:1588: in function `WorldMapFrame_UpdateOverlayLocations'\nInterface\\FrameXML\\WorldMapFrame.lua:1369: in function `WorldMapFrame_Update'\nInterface\\FrameXML\\WorldMapFrame.lua:2955: in function `WorldMapFrame_UpdateMap'\nInterface\\FrameXML\\WorldMapFrame.lua:460: in function <Interface\\FrameXML\\WorldMapFrame.lua:444>\n[C]: in function `SetMapToCurrentZone'\nInterface\\FrameXML\\WorldMapFrame.lua:390: in function <Interface\\FrameXML\\WorldMapFrame.lua:369>\n[C]: ?\n[C]: in function `Show'\nInterface\\FrameXML\\UIParent.lua:2441: in function `SetUIPanel'\nInterface\\FrameXML\\UIParent.lua:2243: in function `ShowUIPanel'\nInterface\\FrameXML\\UIParent.lua:2151: in function <Interface\\FrameXML\\UIParent.lua:2147>\n[C]: in function `SetAttribute'\nInterface\\FrameXML\\UIParent.lua:2935: in function `ShowUIPanel'\nInterface\\FrameXML\\UIParent.lua:2919: in function `ToggleFrame'\nInterface\\FrameXML\\WorldMapFrame.lua:267: in function `ToggleWorldMap'\n[string \"TOGGLEWORLDMAP\"]:1: in function <[string \"TOGGLEWORLDMAP\"]:1>\n",
-		}, -- [97]
+		}, -- [87]
 		{
 			["message"] = "Note: AddOn AngryKeystones attempted to call a protected function (<unnamed>:SetPoint()) during combat lockdown.",
 			["count"] = 31,
@@ -795,7 +714,7 @@ SwatterData = {
 			["timestamp"] = "2017-10-10 04:22:13",
 			["context"] = "AddOn: AngryKeystones",
 			["stack"] = "[C]: in function `SetPoint'\nInterface\\FrameXML\\WorldMapFrame.lua:1571: in function `WorldMapFrame_SetOverlayLocation'\nInterface\\FrameXML\\WorldMapFrame.lua:1588: in function `WorldMapFrame_UpdateOverlayLocations'\nInterface\\FrameXML\\WorldMapFrame.lua:1369: in function `WorldMapFrame_Update'\nInterface\\FrameXML\\WorldMapFrame.lua:2955: in function `WorldMapFrame_UpdateMap'\nInterface\\FrameXML\\WorldMapFrame.lua:460: in function <Interface\\FrameXML\\WorldMapFrame.lua:444>\n[C]: in function `SetMapToCurrentZone'\nInterface\\FrameXML\\WorldMapFrame.lua:390: in function <Interface\\FrameXML\\WorldMapFrame.lua:369>\n[C]: ?\n[C]: in function `Show'\nInterface\\FrameXML\\UIParent.lua:2441: in function `SetUIPanel'\nInterface\\FrameXML\\UIParent.lua:2243: in function `ShowUIPanel'\nInterface\\FrameXML\\UIParent.lua:2151: in function <Interface\\FrameXML\\UIParent.lua:2147>\n[C]: in function `SetAttribute'\nInterface\\FrameXML\\UIParent.lua:2935: in function `ShowUIPanel'\nInterface\\FrameXML\\UIParent.lua:2919: in function `ToggleFrame'\nInterface\\FrameXML\\WorldMapFrame.lua:267: in function `ToggleWorldMap'\n[string \"TOGGLEWORLDMAP\"]:1: in function <[string \"TOGGLEWORLDMAP\"]:1>\n",
-		}, -- [98]
+		}, -- [88]
 		{
 			["message"] = "Interface\\AddOns\\ElitismHelper\\ElitismHelper.lua:269: unexpected symbol near '..'",
 			["count"] = 1,
@@ -804,7 +723,7 @@ SwatterData = {
 			["timestamp"] = "2017-10-10 23:43:22",
 			["context"] = "Global",
 			["stack"] = "[C]: ?\n",
-		}, -- [99]
+		}, -- [89]
 		{
 			["message"] = "Interface\\AddOns\\ElitismHelper\\ElitismHelper.lua:259: attempt to compare nil with number",
 			["count"] = 1,
@@ -813,7 +732,105 @@ SwatterData = {
 			["timestamp"] = "2017-10-10 23:45:49",
 			["context"] = "Global",
 			["stack"] = "[C]: ?\nInterface\\AddOns\\ElitismHelper\\ElitismHelper.lua:259: in function <Interface\\AddOns\\ElitismHelper\\ElitismHelper.lua:247>\n",
+		}, -- [90]
+		{
+			["message"] = "Interface\\AddOns\\CoopCooldowns\\CoopCooldowns.lua:453: bad argument #1 to 'pairs' (table expected, got nil)",
+			["count"] = 2,
+			["addons"] = "  Swatter, v7.3.1 (<%codename%>)\n  AchievementsReminder, v\n  ACU, v\n  AdventureGuideSavedInstances, v1.0.4\n  AngryKeystones, v\n  AngryWorldQuests, v\n  ArkInventory, v30735\n  ArkInventoryRules, v10003\n  autorolecheck, v0.0.2\n  Aye, v1.0.6\n  AyeCoSpy, v1.0.2\n  Babylonian, v5.1.DEV.332(/embedded)\n  Bartender4, v4.7.10\n  BattlePetBreedID, vr158\n  BeQuiet, v1.5.1\n  BigWigs, vv74\n  BloodTrader, v2.1.2\n  BonusRollPreview, v70300.44-Release\n  Capping, vv7.3.2\n  Configator, v5.1.DEV.431(/embedded)\n  CoopCooldowns, v0.0.2\n  DejaCharacterStats, v730r101\n  Details, v\n  DetailsDeathGraphs, v\n  DetailsDmgRank, v\n  DetailsDpsTuning, v\n  DetailsEncounterDetails, v\n  DetailsRaidCheck, v\n  DetailsRaidInfoEmeraldNightmare, v\n  DetailsRaidInfoNighthold, v\n  DetailsRaidInfoTombOfSargeras, v\n  DetailsRaidInfoTrialOfValor, v\n  DetailsStreamer, v\n  DetailsTimeAttack, v\n  DetailsTinyThreat, v\n  DetailsVanguard, v\n  ElitismHelper, v0.7.8\n  FakeAchievement, vv1.0.1.3\n  FishingBuddy, v1.7.13i\n  Gatherer, v7.3.1\n  GladiatorlosSA2, v1.16.2\n  Gladius, v5.2.1\n  GroupfinderFlags, v0.6\n  HandyNotes, vv1.4.15\n  HandyNotesLegionRaresTreasures, v1.01b\n  idTip, v7.0.7\n  InspectItemLevel, v1.2.0\n  KuiMedia, v\n  KuiNameplates, v\n  KuiNameplatesCore, v\n  KuiNameplatesCustom, v\n  LFRAdvanced, v7.3.0.24920\n  MasterPlanA, vA\n  MinimapButtonFrame, v3.1.10e\n  MinimapButtonFrameSkinPack, v3.0.1b\n  MPH, v1.3\n  OmniBar, vv8.0\n  OPie, vVanilla 1\n  Outfitter, v5.19.1\n  Overachiever, v0.99.9\n  Paste, v1.4.10\n  Pawn, v2.2.14a\n  PetBattleTeams, v3.3.9\n  PetTracker, v7.3.0\n  PetTrackerBreeds, v7.3.0\n  PetTrackerConfig, v7.3.0\n  PetTrackerJournal, v7.3.0\n  PetTrackerSwitcher, v7.3.0\n  PetTrackerUpgrades, v7.3.0\n  ReleaseMe, vv1.0.3\n  RelicInspector, v2.0.4\n  rLib, v\n  rVignette, v\n  SlashCombatLog, vv1.15r\n  SlideBar, v7.3.1 (<%codename%>)\n  TomTom, vv70200-1.0.0\n  TradeSkillMaster, vv3.6.37\n  TradeSkillMasterAccounting, vv3.0.20\n  TradeSkillMasterAppHelper, vv3.0.2\n  TradeSkillMasterAuctionDB, vv3.1.18\n  TradeSkillMasterAuctioning, vv3.0.16\n  TradeSkillMasterCrafting, vv3.2.5\n  TradeSkillMasterDestroying, vv3.1.7\n  TradeSkillMasterMailing, vv3.0.18\n  TradeSkillMasterShopping, vv3.4.7\n  TradeSkillMasterVendoring, vv3.0.7\n  TradeSkillMasterWarehousing, vv3.0.8\n  Tukui, v17.13\n  TukuiConfig, v\n  TukuiMarkBar, v1.10\n  WeakAuras, v2.4.23\n  XLoot, v7.3-1\n  XLootFrame, v7.3-1\n  XLootGroup, v7.3-1\n  XLootMaster, v7.3-1\n  XLootMonitor, v7.3-1\n  BlizRuntimeLib_enUS v7.3.0.70300 <none>\n  (ck=9a1)\n",
+			["locals"] = "",
+			["timestamp"] = "2017-10-12 06:30:33",
+			["context"] = "Global",
+			["stack"] = "[C]: ?\n[C]: in function `pairs'\nInterface\\AddOns\\CoopCooldowns\\CoopCooldowns.lua:453: in function <Interface\\AddOns\\CoopCooldowns\\CoopCooldowns.lua:451>\n(tail call): ?\n",
+		}, -- [91]
+		{
+			["message"] = "Interface\\AddOns\\CoopCooldowns\\CoopCooldowns.lua:453: bad argument #1 to 'pairs' (table expected, got nil)",
+			["count"] = 6,
+			["addons"] = "  Swatter, v7.3.1 (<%codename%>)\n  AchievementsReminder, v\n  ACU, v\n  AdventureGuideSavedInstances, v1.0.4\n  AngryKeystones, v\n  AngryWorldQuests, v\n  ArkInventory, v30735\n  ArkInventoryRules, v10003\n  autorolecheck, v0.0.2\n  Aye, v1.0.6\n  AyeCoSpy, v1.0.2\n  Babylonian, v5.1.DEV.332(/embedded)\n  Bartender4, v4.7.10\n  BattlePetBreedID, vr158\n  BeQuiet, v1.5.1\n  BigWigs, vv74\n  BloodTrader, v2.1.2\n  BonusRollPreview, v70300.44-Release\n  Capping, vv7.3.2\n  Configator, v5.1.DEV.431(/embedded)\n  CoopCooldowns, v0.0.2\n  DejaCharacterStats, v730r101\n  Details, v\n  DetailsDeathGraphs, v\n  DetailsDmgRank, v\n  DetailsDpsTuning, v\n  DetailsEncounterDetails, v\n  DetailsRaidCheck, v\n  DetailsRaidInfoEmeraldNightmare, v\n  DetailsRaidInfoNighthold, v\n  DetailsRaidInfoTombOfSargeras, v\n  DetailsRaidInfoTrialOfValor, v\n  DetailsStreamer, v\n  DetailsTimeAttack, v\n  DetailsTinyThreat, v\n  DetailsVanguard, v\n  ElitismHelper, v0.7.8\n  FakeAchievement, vv1.0.1.3\n  FishingBuddy, v1.7.13i\n  Gatherer, v7.3.1\n  GladiatorlosSA2, v1.16.2\n  Gladius, v5.2.1\n  GroupfinderFlags, v0.6\n  HandyNotes, vv1.4.15\n  HandyNotesDraenorTreasures, v1.20a\n  HandyNotesLegionRaresTreasures, v1.01b\n  idTip, v7.0.7\n  InspectItemLevel, v1.2.0\n  KuiMedia, v\n  KuiNameplates, v\n  KuiNameplatesCore, v\n  KuiNameplatesCustom, v\n  LFRAdvanced, v7.3.0.24920\n  MasterPlanA, vA\n  MinimapButtonFrame, v3.1.10e\n  MinimapButtonFrameSkinPack, v3.0.1b\n  MPH, v1.3\n  OmniBar, vv8.0\n  OPie, vVanilla 1\n  Outfitter, v5.19.1\n  Overachiever, v0.99.9\n  OverachieverTabs, v0.99.9\n  Paste, v1.4.10\n  Pawn, v2.2.14a\n  PetBattleTeams, v3.3.9\n  PetTracker, v7.3.0\n  PetTrackerBreeds, v7.3.0\n  PetTrackerConfig, v7.3.0\n  PetTrackerJournal, v7.3.0\n  PetTrackerSwitcher, v7.3.0\n  PetTrackerUpgrades, v7.3.0\n  ReleaseMe, vv1.0.3\n  RelicInspector, v2.0.4\n  rLib, v\n  rVignette, v\n  SlashCombatLog, vv1.15r\n  SlideBar, v7.3.1 (<%codename%>)\n  TomTom, vv70200-1.0.0\n  TradeSkillMaster, vv3.6.37\n  TradeSkillMasterAccounting, vv3.0.20\n  TradeSkillMasterAppHelper, vv3.0.2\n  TradeSkillMasterAuctionDB, vv3.1.18\n  TradeSkillMasterAuctioning, vv3.0.16\n  TradeSkillMasterCrafting, vv3.2.5\n  TradeSkillMasterDestroying, vv3.1.7\n  TradeSkillMasterMailing, vv3.0.18\n  TradeSkillMasterShopping, vv3.4.7\n  TradeSkillMasterVendoring, vv3.0.7\n  TradeSkillMasterWarehousing, vv3.0.8\n  Tukui, v17.13\n  TukuiConfig, v\n  TukuiMarkBar, v1.10\n  WeakAuras, v2.4.23\n  XLoot, v7.3-1\n  XLootFrame, v7.3-1\n  XLootGroup, v7.3-1\n  XLootMaster, v7.3-1\n  XLootMonitor, v7.3-1\n  BlizRuntimeLib_enUS v7.3.0.70300 <none>\n  (ck=9e2)\n",
+			["locals"] = "",
+			["timestamp"] = "2017-10-12 07:45:17",
+			["context"] = "Global",
+			["stack"] = "[C]: ?\n[C]: in function `pairs'\nInterface\\AddOns\\CoopCooldowns\\CoopCooldowns.lua:453: in function <Interface\\AddOns\\CoopCooldowns\\CoopCooldowns.lua:451>\n(tail call): ?\n",
+		}, -- [92]
+		{
+			["message"] = "Interface\\AddOns\\CoopCooldowns\\CoopCooldowns.lua:453: bad argument #1 to 'pairs' (table expected, got nil)",
+			["count"] = 2,
+			["addons"] = "  Swatter, v7.3.1 (<%codename%>)\n  AchievementsReminder, v\n  ACU, v\n  AdventureGuideSavedInstances, v1.0.4\n  AngryKeystones, v\n  AngryWorldQuests, v\n  ArkInventory, v30735\n  ArkInventoryRules, v10003\n  autorolecheck, v0.0.2\n  Aye, v1.0.6\n  AyeCoSpy, v1.0.2\n  Babylonian, v5.1.DEV.332(/embedded)\n  Bartender4, v4.7.10\n  BattlePetBreedID, vr158\n  BeQuiet, v1.5.1\n  BigWigs, vv74\n  BloodTrader, v2.1.2\n  BonusRollPreview, v70300.44-Release\n  Capping, vv7.3.2\n  Configator, v5.1.DEV.431(/embedded)\n  CoopCooldowns, v0.0.2\n  DejaCharacterStats, v730r101\n  Details, v\n  DetailsDeathGraphs, v\n  DetailsDmgRank, v\n  DetailsDpsTuning, v\n  DetailsEncounterDetails, v\n  DetailsRaidCheck, v\n  DetailsRaidInfoEmeraldNightmare, v\n  DetailsRaidInfoNighthold, v\n  DetailsRaidInfoTombOfSargeras, v\n  DetailsRaidInfoTrialOfValor, v\n  DetailsStreamer, v\n  DetailsTimeAttack, v\n  DetailsTinyThreat, v\n  DetailsVanguard, v\n  ElitismHelper, v0.7.8\n  FakeAchievement, vv1.0.1.3\n  FishingBuddy, v1.7.13i\n  GarrisonMissionManager, vv55\n  Gatherer, v7.3.1\n  GladiatorlosSA2, v1.16.2\n  Gladius, v5.2.1\n  GroupfinderFlags, v0.6\n  HandyNotes, vv1.4.15\n  HandyNotesDraenorTreasures, v1.20a\n  HandyNotesLegionRaresTreasures, v1.01b\n  idTip, v7.0.7\n  InspectItemLevel, v1.2.0\n  KuiMedia, v\n  KuiNameplates, v\n  KuiNameplatesCore, v\n  KuiNameplatesCustom, v\n  LFRAdvanced, v7.3.0.24920\n  MasterPlanA, vA\n  MinimapButtonFrame, v3.1.10e\n  MinimapButtonFrameSkinPack, v3.0.1b\n  MPH, v1.3\n  OmniBar, vv8.0\n  OPie, vVanilla 1\n  Outfitter, v5.19.1\n  Overachiever, v0.99.9\n  OverachieverTabs, v0.99.9\n  Paste, v1.4.10\n  Pawn, v2.2.14a\n  PetBattleTeams, v3.3.9\n  PetTracker, v7.3.0\n  PetTrackerBreeds, v7.3.0\n  PetTrackerConfig, v7.3.0\n  PetTrackerJournal, v7.3.0\n  PetTrackerSwitcher, v7.3.0\n  PetTrackerUpgrades, v7.3.0\n  ReleaseMe, vv1.0.3\n  RelicInspector, v2.0.4\n  rLib, v\n  rVignette, v\n  SlashCombatLog, vv1.15r\n  SlideBar, v7.3.1 (<%codename%>)\n  TomTom, vv70200-1.0.0\n  TradeSkillMaster, vv3.6.37\n  TradeSkillMasterAccounting, vv3.0.20\n  TradeSkillMasterAppHelper, vv3.0.2\n  TradeSkillMasterAuctionDB, vv3.1.18\n  TradeSkillMasterAuctioning, vv3.0.16\n  TradeSkillMasterCrafting, vv3.2.5\n  TradeSkillMasterDestroying, vv3.1.7\n  TradeSkillMasterMailing, vv3.0.18\n  TradeSkillMasterShopping, vv3.4.7\n  TradeSkillMasterVendoring, vv3.0.7\n  TradeSkillMasterWarehousing, vv3.0.8\n  Tukui, v17.13\n  TukuiConfig, v\n  TukuiMarkBar, v1.10\n  WeakAuras, v2.4.23\n  XLoot, v7.3-1\n  XLootFrame, v7.3-1\n  XLootGroup, v7.3-1\n  XLootMaster, v7.3-1\n  XLootMonitor, v7.3-1\n  BlizRuntimeLib_enUS v7.3.0.70300 <none>\n  (ck=a01)\n",
+			["locals"] = "",
+			["timestamp"] = "2017-10-13 01:37:05",
+			["context"] = "Global",
+			["stack"] = "[C]: ?\n[C]: in function `pairs'\nInterface\\AddOns\\CoopCooldowns\\CoopCooldowns.lua:453: in function <Interface\\AddOns\\CoopCooldowns\\CoopCooldowns.lua:451>\n(tail call): ?\n",
+		}, -- [93]
+		{
+			["message"] = "Interface\\AddOns\\CoopCooldowns\\CoopCooldowns.lua:453: bad argument #1 to 'pairs' (table expected, got nil)",
+			["count"] = 2,
+			["addons"] = "  Swatter, v7.3.1 (<%codename%>)\n  AchievementsReminder, v\n  ACU, v\n  AdventureGuideSavedInstances, v1.0.4\n  AngryKeystones, v\n  AngryWorldQuests, v\n  ArkInventory, v30735\n  ArkInventoryRules, v10003\n  autorolecheck, v0.0.2\n  Aye, v1.0.6\n  AyeCoSpy, v1.0.2\n  Babylonian, v5.1.DEV.332(/embedded)\n  Bartender4, v4.7.10\n  BattlePetBreedID, vr158\n  BeQuiet, v1.5.1\n  BigWigs, vv74\n  BloodTrader, v2.1.2\n  BonusRollPreview, v70300.44-Release\n  Capping, vv7.3.2\n  Configator, v5.1.DEV.431(/embedded)\n  CoopCooldowns, v0.0.2\n  DejaCharacterStats, v730r101\n  Details, v\n  DetailsDeathGraphs, v\n  DetailsDmgRank, v\n  DetailsDpsTuning, v\n  DetailsEncounterDetails, v\n  DetailsRaidCheck, v\n  DetailsRaidInfoEmeraldNightmare, v\n  DetailsRaidInfoNighthold, v\n  DetailsRaidInfoTombOfSargeras, v\n  DetailsRaidInfoTrialOfValor, v\n  DetailsStreamer, v\n  DetailsTimeAttack, v\n  DetailsTinyThreat, v\n  DetailsVanguard, v\n  ElitismHelper, v0.7.8\n  FakeAchievement, vv1.0.1.3\n  FishingBuddy, v1.7.13i\n  Gatherer, v7.3.1\n  GladiatorlosSA2, v1.16.2\n  Gladius, v5.2.1\n  GroupfinderFlags, v0.6\n  HandyNotes, vv1.4.15\n  HandyNotesDraenorTreasures, v1.20a\n  HandyNotesLegionRaresTreasures, v1.01b\n  idTip, v7.0.7\n  InspectItemLevel, v1.2.0\n  KuiMedia, v\n  KuiNameplates, v\n  KuiNameplatesCore, v\n  KuiNameplatesCustom, v\n  LFRAdvanced, v7.3.0.24920\n  MasterPlanA, vA\n  MinimapButtonFrame, v3.1.10e\n  MinimapButtonFrameSkinPack, v3.0.1b\n  MPH, v1.3\n  OmniBar, vv8.0\n  OPie, vVanilla 1\n  Outfitter, v5.19.1\n  Overachiever, v0.99.9\n  Paste, v1.4.10\n  Pawn, v2.2.14a\n  PetBattleTeams, v3.3.9\n  PetTracker, v7.3.0\n  PetTrackerBreeds, v7.3.0\n  PetTrackerConfig, v7.3.0\n  PetTrackerJournal, v7.3.0\n  PetTrackerSwitcher, v7.3.0\n  PetTrackerUpgrades, v7.3.0\n  ReleaseMe, vv1.0.3\n  RelicInspector, v2.0.4\n  rLib, v\n  rVignette, v\n  SlashCombatLog, vv1.15r\n  SlideBar, v7.3.1 (<%codename%>)\n  TomTom, vv70200-1.0.0\n  TradeSkillMaster, vv3.6.37\n  TradeSkillMasterAccounting, vv3.0.20\n  TradeSkillMasterAppHelper, vv3.0.2\n  TradeSkillMasterAuctionDB, vv3.1.18\n  TradeSkillMasterAuctioning, vv3.0.16\n  TradeSkillMasterCrafting, vv3.2.5\n  TradeSkillMasterDestroying, vv3.1.7\n  TradeSkillMasterMailing, vv3.0.18\n  TradeSkillMasterShopping, vv3.4.7\n  TradeSkillMasterVendoring, vv3.0.7\n  TradeSkillMasterWarehousing, vv3.0.8\n  Tukui, v17.13\n  TukuiConfig, v\n  TukuiMarkBar, v1.10\n  WeakAuras, v2.4.23\n  XLoot, v7.3-1\n  XLootFrame, v7.3-1\n  XLootGroup, v7.3-1\n  XLootMaster, v7.3-1\n  XLootMonitor, v7.3-1\n  BlizRuntimeLib_enUS v7.3.0.70300 <none>\n  (ck=9c6)\n",
+			["locals"] = "",
+			["timestamp"] = "2017-10-13 01:54:35",
+			["context"] = "Global",
+			["stack"] = "[C]: ?\n[C]: in function `pairs'\nInterface\\AddOns\\CoopCooldowns\\CoopCooldowns.lua:453: in function <Interface\\AddOns\\CoopCooldowns\\CoopCooldowns.lua:451>\n(tail call): ?\n",
+		}, -- [94]
+		{
+			["message"] = "Interface\\AddOns\\CoopCooldowns\\CoopCooldowns.lua:453: bad argument #1 to 'pairs' (table expected, got nil)",
+			["count"] = 1,
+			["addons"] = "  Swatter, v7.3.1 (<%codename%>)\n  AchievementsReminder, v\n  ACU, v\n  AdventureGuideSavedInstances, v1.0.4\n  AngryKeystones, v\n  AngryWorldQuests, v\n  ArkInventory, v30735\n  ArkInventoryRules, v10003\n  autorolecheck, v0.0.2\n  Aye, v1.0.6\n  AyeCoSpy, v1.0.2\n  Babylonian, v5.1.DEV.332(/embedded)\n  Bartender4, v4.7.10\n  BattlePetBreedID, vr158\n  BeQuiet, v1.5.1\n  BigWigs, vv74\n  BloodTrader, v2.1.2\n  BonusRollPreview, v70300.44-Release\n  Capping, vv7.3.2\n  Configator, v5.1.DEV.431(/embedded)\n  CoopCooldowns, v0.0.2\n  DejaCharacterStats, v730r101\n  Details, v\n  DetailsDeathGraphs, v\n  DetailsDmgRank, v\n  DetailsDpsTuning, v\n  DetailsEncounterDetails, v\n  DetailsRaidCheck, v\n  DetailsRaidInfoEmeraldNightmare, v\n  DetailsRaidInfoNighthold, v\n  DetailsRaidInfoTombOfSargeras, v\n  DetailsRaidInfoTrialOfValor, v\n  DetailsStreamer, v\n  DetailsTimeAttack, v\n  DetailsTinyThreat, v\n  DetailsVanguard, v\n  ElitismHelper, v0.7.8\n  FakeAchievement, vv1.0.1.3\n  FishingBuddy, v1.7.13i\n  Gatherer, v7.3.1\n  GladiatorlosSA2, v1.16.2\n  Gladius, v5.2.1\n  GroupfinderFlags, v0.6\n  HandyNotes, vv1.4.15\n  HandyNotesDraenorTreasures, v1.20a\n  HandyNotesLegionRaresTreasures, v1.01b\n  idTip, v7.0.7\n  InspectItemLevel, v1.2.0\n  KuiMedia, v\n  KuiNameplates, v\n  KuiNameplatesCore, v\n  KuiNameplatesCustom, v\n  LFRAdvanced, v7.3.0.24920\n  MasterPlanA, vA\n  MinimapButtonFrame, v3.1.10e\n  MinimapButtonFrameSkinPack, v3.0.1b\n  MPH, v1.3\n  OmniBar, vv8.0\n  OPie, vVanilla 1\n  Outfitter, v5.19.1\n  Overachiever, v0.99.9\n  OverachieverTabs, v0.99.9\n  Paste, v1.4.10\n  Pawn, v2.2.14a\n  PetBattleTeams, v3.3.9\n  PetTracker, v7.3.0\n  PetTrackerBreeds, v7.3.0\n  PetTrackerConfig, v7.3.0\n  PetTrackerJournal, v7.3.0\n  PetTrackerSwitcher, v7.3.0\n  PetTrackerUpgrades, v7.3.0\n  ReleaseMe, vv1.0.3\n  RelicInspector, v2.0.4\n  rLib, v\n  rVignette, v\n  SlashCombatLog, vv1.15r\n  SlideBar, v7.3.1 (<%codename%>)\n  TomTom, vv70200-1.0.0\n  TradeSkillMaster, vv3.6.37\n  TradeSkillMasterAccounting, vv3.0.20\n  TradeSkillMasterAppHelper, vv3.0.2\n  TradeSkillMasterAuctionDB, vv3.1.18\n  TradeSkillMasterAuctioning, vv3.0.16\n  TradeSkillMasterCrafting, vv3.2.5\n  TradeSkillMasterDestroying, vv3.1.7\n  TradeSkillMasterMailing, vv3.0.18\n  TradeSkillMasterShopping, vv3.4.7\n  TradeSkillMasterVendoring, vv3.0.7\n  TradeSkillMasterWarehousing, vv3.0.8\n  Tukui, v17.13\n  TukuiConfig, v\n  TukuiMarkBar, v1.10\n  WeakAuras, v2.4.23\n  XLoot, v7.3-1\n  XLootFrame, v7.3-1\n  XLootGroup, v7.3-1\n  XLootMaster, v7.3-1\n  XLootMonitor, v7.3-1\n  BlizRuntimeLib_enUS v7.3.0.70300 <none>\n  (ck=9e2)\n",
+			["locals"] = "",
+			["timestamp"] = "2017-10-13 04:08:40",
+			["context"] = "Global",
+			["stack"] = "[C]: ?\n[C]: in function `pairs'\nInterface\\AddOns\\CoopCooldowns\\CoopCooldowns.lua:453: in function <Interface\\AddOns\\CoopCooldowns\\CoopCooldowns.lua:451>\n(tail call): ?\n",
+		}, -- [95]
+		{
+			["message"] = "Interface\\AddOns\\CoopCooldowns\\CoopCooldowns.lua:453: bad argument #1 to 'pairs' (table expected, got nil)",
+			["count"] = 34,
+			["addons"] = "  Swatter, v7.3.1 (<%codename%>)\n  AchievementsReminder, v\n  ACU, v\n  AdventureGuideSavedInstances, v1.0.4\n  AngryKeystones, v\n  AngryWorldQuests, v\n  ArkInventory, v30735\n  ArkInventoryRules, v10003\n  autorolecheck, v0.0.2\n  Aye, v1.0.6\n  AyeCoSpy, v1.0.2\n  Babylonian, v5.1.DEV.332(/embedded)\n  Bartender4, v4.7.10\n  BattlePetBreedID, vr158\n  BeQuiet, v1.5.1\n  BigWigs, vv74\n  BloodTrader, v2.1.2\n  BonusRollPreview, v70300.44-Release\n  Capping, vv7.3.2\n  Configator, v5.1.DEV.431(/embedded)\n  CoopCooldowns, v0.0.2\n  DejaCharacterStats, v730r101\n  Details, v\n  DetailsDeathGraphs, v\n  DetailsDmgRank, v\n  DetailsDpsTuning, v\n  DetailsEncounterDetails, v\n  DetailsRaidCheck, v\n  DetailsRaidInfoEmeraldNightmare, v\n  DetailsRaidInfoNighthold, v\n  DetailsRaidInfoTombOfSargeras, v\n  DetailsRaidInfoTrialOfValor, v\n  DetailsStreamer, v\n  DetailsTimeAttack, v\n  DetailsTinyThreat, v\n  DetailsVanguard, v\n  ElitismHelper, v0.7.8\n  FakeAchievement, vv1.0.1.3\n  FishingBuddy, v1.7.13i\n  Gatherer, v7.3.1\n  GladiatorlosSA2, v1.16.2\n  Gladius, v5.2.1\n  GroupfinderFlags, v0.6\n  HandyNotes, vv1.4.15\n  HandyNotesDraenorTreasures, v1.20a\n  HandyNotesLegionRaresTreasures, v1.01b\n  idTip, v7.0.7\n  InspectItemLevel, v1.2.0\n  KuiMedia, v\n  KuiNameplates, v\n  KuiNameplatesCore, v\n  KuiNameplatesCustom, v\n  LFRAdvanced, v7.3.0.24920\n  MasterPlanA, vA\n  MinimapButtonFrame, v3.1.10e\n  MinimapButtonFrameSkinPack, v3.0.1b\n  MPH, v1.3\n  OmniBar, vv8.0\n  OPie, vVanilla 1\n  Outfitter, v5.19.1\n  Overachiever, v0.99.9\n  Paste, v1.4.10\n  Pawn, v2.2.14a\n  PetBattleTeams, v3.3.9\n  PetTracker, v7.3.0\n  PetTrackerBreeds, v7.3.0\n  PetTrackerConfig, v7.3.0\n  PetTrackerJournal, v7.3.0\n  PetTrackerSwitcher, v7.3.0\n  PetTrackerUpgrades, v7.3.0\n  ReleaseMe, vv1.0.3\n  RelicInspector, v2.0.4\n  rLib, v\n  rVignette, v\n  SlashCombatLog, vv1.15r\n  SlideBar, v7.3.1 (<%codename%>)\n  TomTom, vv70200-1.0.0\n  TradeSkillMaster, vv3.6.37\n  TradeSkillMasterAccounting, vv3.0.20\n  TradeSkillMasterAppHelper, vv3.0.2\n  TradeSkillMasterAuctionDB, vv3.1.18\n  TradeSkillMasterAuctioning, vv3.0.16\n  TradeSkillMasterCrafting, vv3.2.5\n  TradeSkillMasterDestroying, vv3.1.7\n  TradeSkillMasterMailing, vv3.0.18\n  TradeSkillMasterShopping, vv3.4.7\n  TradeSkillMasterVendoring, vv3.0.7\n  TradeSkillMasterWarehousing, vv3.0.8\n  Tukui, v17.13\n  TukuiConfig, v\n  TukuiMarkBar, v1.10\n  WeakAuras, v2.4.23\n  XLoot, v7.3-1\n  XLootFrame, v7.3-1\n  XLootGroup, v7.3-1\n  XLootMaster, v7.3-1\n  XLootMonitor, v7.3-1\n  BlizRuntimeLib_enUS v7.3.0.70300 <none>\n  (ck=9c6)\n",
+			["locals"] = "",
+			["timestamp"] = "2017-10-13 04:11:06",
+			["context"] = "Global",
+			["stack"] = "[C]: ?\n[C]: in function `pairs'\nInterface\\AddOns\\CoopCooldowns\\CoopCooldowns.lua:453: in function <Interface\\AddOns\\CoopCooldowns\\CoopCooldowns.lua:451>\n(tail call): ?\n",
+		}, -- [96]
+		{
+			["message"] = "Error: AddOn !Swatter attempted to call a forbidden function (CastSpellByID()) from a tainted execution path.",
+			["count"] = 2,
+			["addons"] = "  Swatter, v7.3.1 (<%codename%>)\n  AchievementsReminder, v\n  ACU, v\n  AdventureGuideSavedInstances, v1.0.4\n  AngryKeystones, v\n  AngryWorldQuests, v\n  ArkInventory, v30735\n  ArkInventoryRules, v10003\n  autorolecheck, v0.0.2\n  Aye, v1.0.6\n  AyeCoSpy, v1.0.2\n  Babylonian, v5.1.DEV.332(/embedded)\n  Bartender4, v4.7.10\n  BattlePetBreedID, vr158\n  BeQuiet, v1.5.1\n  BigWigs, vv74\n  BigWigsCore, v\n  BigWigsPlugins, v\n  BloodTrader, v2.1.2\n  BonusRollPreview, v70300.44-Release\n  Capping, vv7.3.2\n  Configator, v5.1.DEV.431(/embedded)\n  CoopCooldowns, v0.0.2\n  DejaCharacterStats, v730r101\n  Details, v\n  DetailsDeathGraphs, v\n  DetailsDmgRank, v\n  DetailsDpsTuning, v\n  DetailsEncounterDetails, v\n  DetailsRaidCheck, v\n  DetailsRaidInfoEmeraldNightmare, v\n  DetailsRaidInfoNighthold, v\n  DetailsRaidInfoTombOfSargeras, v\n  DetailsRaidInfoTrialOfValor, v\n  DetailsStreamer, v\n  DetailsTimeAttack, v\n  DetailsTinyThreat, v\n  DetailsVanguard, v\n  ElitismHelper, v0.7.8\n  FakeAchievement, vv1.0.1.3\n  FishingBuddy, v1.7.13i\n  GarrisonMissionManager, vv55\n  Gatherer, v7.3.1\n  GladiatorlosSA2, v1.16.2\n  Gladius, v5.2.1\n  GroupfinderFlags, v0.6\n  HandyNotes, vv1.4.15\n  HandyNotesDraenorTreasures, v1.20a\n  HandyNotesLegionRaresTreasures, v1.01b\n  idTip, v7.0.7\n  InspectItemLevel, v1.2.0\n  KuiMedia, v\n  KuiNameplates, v\n  KuiNameplatesCore, v\n  KuiNameplatesCustom, v\n  LFRAdvanced, v7.3.0.24920\n  LittleWigs, vv7.3.1\n  MasterPlanA, vA\n  MinimapButtonFrame, v3.1.10e\n  MinimapButtonFrameSkinPack, v3.0.1b\n  MPH, v1.3\n  OmniBar, vv8.0\n  OPie, vVanilla 1\n  Outfitter, v5.19.1\n  Overachiever, v0.99.9\n  OverachieverTabs, v0.99.9\n  Paste, v1.4.10\n  Pawn, v2.2.14a\n  PetBattleTeams, v3.3.9\n  PetTracker, v7.3.0\n  PetTrackerBreeds, v7.3.0\n  PetTrackerConfig, v7.3.0\n  PetTrackerJournal, v7.3.0\n  PetTrackerSwitcher, v7.3.0\n  PetTrackerUpgrades, v7.3.0\n  ReleaseMe, vv1.0.3\n  RelicInspector, v2.0.4\n  rLib, v\n  rVignette, v\n  SlashCombatLog, vv1.15r\n  SlideBar, v7.3.1 (<%codename%>)\n  TomTom, vv70200-1.0.0\n  TradeSkillMaster, vv3.6.37\n  TradeSkillMasterAccounting, vv3.0.20\n  TradeSkillMasterAppHelper, vv3.0.2\n  TradeSkillMasterAuctionDB, vv3.1.18\n  TradeSkillMasterAuctioning, vv3.0.16\n  TradeSkillMasterCrafting, vv3.2.5\n  TradeSkillMasterDestroying, vv3.1.7\n  TradeSkillMasterMailing, vv3.0.18\n  TradeSkillMasterShopping, vv3.4.7\n  TradeSkillMasterVendoring, vv3.0.7\n  TradeSkillMasterWarehousing, vv3.0.8\n  Tukui, v17.13\n  TukuiConfig, v\n  TukuiMarkBar, v1.10\n  WeakAuras, v2.4.23\n  XLoot, v7.3-1\n  XLootFrame, v7.3-1\n  XLootGroup, v7.3-1\n  XLootMaster, v7.3-1\n  XLootMonitor, v7.3-1\n  BlizRuntimeLib_enUS v7.3.0.70300 <none>\n  (ck=a3c)\n",
+			["timestamp"] = "2017-10-13 08:41:56",
+			["context"] = "AddOn: !Swatter",
+			["stack"] = "[C]: in function `CastSpellByID'\n...jectiveTracker\\Blizzard_ScenarioObjectiveTracker.lua:603: in function <...jectiveTracker\\Blizzard_ScenarioObjectiveTracker.lua:602>\n",
+		}, -- [97]
+		{
+			["message"] = "Interface\\AddOns\\CoopCooldowns\\CoopCooldowns.lua:453: bad argument #1 to 'pairs' (table expected, got nil)",
+			["count"] = 10,
+			["addons"] = "  Swatter, v7.3.1 (<%codename%>)\n  AchievementsReminder, v\n  ACU, v\n  AdventureGuideSavedInstances, v1.0.4\n  AngryKeystones, v\n  AngryWorldQuests, v\n  ArkInventory, v30735\n  ArkInventoryRules, v10003\n  autorolecheck, v0.0.2\n  Aye, v1.0.6\n  AyeCoSpy, v1.0.2\n  Babylonian, v5.1.DEV.332(/embedded)\n  Bartender4, v4.7.10\n  BattlePetBreedID, vr158\n  BeQuiet, v1.5.1\n  BigWigs, vv74\n  BloodTrader, v2.1.2\n  BonusRollPreview, v70300.44-Release\n  Capping, vv7.3.2\n  Configator, v5.1.DEV.431(/embedded)\n  CoopCooldowns, v0.0.2\n  DejaCharacterStats, v730r101\n  Details, v\n  DetailsDeathGraphs, v\n  DetailsDmgRank, v\n  DetailsDpsTuning, v\n  DetailsEncounterDetails, v\n  DetailsRaidCheck, v\n  DetailsRaidInfoEmeraldNightmare, v\n  DetailsRaidInfoNighthold, v\n  DetailsRaidInfoTombOfSargeras, v\n  DetailsRaidInfoTrialOfValor, v\n  DetailsStreamer, v\n  DetailsTimeAttack, v\n  DetailsTinyThreat, v\n  DetailsVanguard, v\n  ElitismHelper, v0.7.8\n  FakeAchievement, vv1.0.1.3\n  FishingBuddy, v1.7.13i\n  GarrisonMissionManager, vv55\n  Gatherer, v7.3.1\n  GladiatorlosSA2, v1.16.2\n  Gladius, v5.2.1\n  GroupfinderFlags, v0.6\n  HandyNotes, vv1.4.15\n  HandyNotesDraenorTreasures, v1.20a\n  HandyNotesLegionRaresTreasures, v1.01b\n  idTip, v7.0.7\n  InspectItemLevel, v1.2.0\n  KuiMedia, v\n  KuiNameplates, v\n  KuiNameplatesCore, v\n  KuiNameplatesCustom, v\n  LFRAdvanced, v7.3.0.24920\n  MasterPlanA, vA\n  MinimapButtonFrame, v3.1.10e\n  MinimapButtonFrameSkinPack, v3.0.1b\n  MPH, v1.3\n  OmniBar, vv8.0\n  OPie, vVanilla 1\n  Outfitter, v5.19.1\n  Overachiever, v0.99.9\n  Paste, v1.4.10\n  Pawn, v2.2.14a\n  PetBattleTeams, v3.3.9\n  PetTracker, v7.3.0\n  PetTrackerBreeds, v7.3.0\n  PetTrackerConfig, v7.3.0\n  PetTrackerJournal, v7.3.0\n  PetTrackerSwitcher, v7.3.0\n  PetTrackerUpgrades, v7.3.0\n  ReleaseMe, vv1.0.3\n  RelicInspector, v2.0.4\n  rLib, v\n  rVignette, v\n  SlashCombatLog, vv1.15r\n  SlideBar, v7.3.1 (<%codename%>)\n  TomTom, vv70200-1.0.0\n  TradeSkillMaster, vv3.6.37\n  TradeSkillMasterAccounting, vv3.0.20\n  TradeSkillMasterAppHelper, vv3.0.2\n  TradeSkillMasterAuctionDB, vv3.1.18\n  TradeSkillMasterAuctioning, vv3.0.16\n  TradeSkillMasterCrafting, vv3.2.5\n  TradeSkillMasterDestroying, vv3.1.7\n  TradeSkillMasterMailing, vv3.0.18\n  TradeSkillMasterShopping, vv3.4.7\n  TradeSkillMasterVendoring, vv3.0.7\n  TradeSkillMasterWarehousing, vv3.0.8\n  Tukui, v17.13\n  TukuiConfig, v\n  TukuiMarkBar, v1.10\n  WeakAuras, v2.4.23\n  XLoot, v7.3-1\n  XLootFrame, v7.3-1\n  XLootGroup, v7.3-1\n  XLootMaster, v7.3-1\n  XLootMonitor, v7.3-1\n  BlizRuntimeLib_enUS v7.3.0.70300 <none>\n  (ck=9e5)\n",
+			["locals"] = "",
+			["timestamp"] = "2017-10-13 23:33:27",
+			["context"] = "Global",
+			["stack"] = "[C]: ?\n[C]: in function `pairs'\nInterface\\AddOns\\CoopCooldowns\\CoopCooldowns.lua:453: in function <Interface\\AddOns\\CoopCooldowns\\CoopCooldowns.lua:451>\n(tail call): ?\n",
+		}, -- [98]
+		{
+			["message"] = "Interface\\FrameXML\\QuickJoinToast.lua:488: attempt to get length of local 'queues' (a nil value)",
+			["count"] = 1,
+			["addons"] = "  Swatter, v7.3.1 (<%codename%>)\n  AchievementsReminder, v\n  ACU, v\n  AdventureGuideSavedInstances, v1.0.4\n  AngryKeystones, v\n  AngryWorldQuests, v\n  ArkInventory, v30735\n  ArkInventoryRules, v10003\n  autorolecheck, v0.0.2\n  Aye, v1.0.6\n  AyeCoSpy, v1.0.2\n  Babylonian, v5.1.DEV.332(/embedded)\n  Bartender4, v4.7.10\n  BattlePetBreedID, vr158\n  BeQuiet, v1.5.1\n  BigWigs, vv74\n  BloodTrader, v2.1.2\n  BonusRollPreview, v70300.44-Release\n  Capping, vv7.3.2\n  Configator, v5.1.DEV.431(/embedded)\n  CoopCooldowns, v0.0.2\n  DejaCharacterStats, v730r101\n  Details, v\n  DetailsDeathGraphs, v\n  DetailsDmgRank, v\n  DetailsDpsTuning, v\n  DetailsEncounterDetails, v\n  DetailsRaidCheck, v\n  DetailsRaidInfoEmeraldNightmare, v\n  DetailsRaidInfoNighthold, v\n  DetailsRaidInfoTombOfSargeras, v\n  DetailsRaidInfoTrialOfValor, v\n  DetailsStreamer, v\n  DetailsTimeAttack, v\n  DetailsTinyThreat, v\n  DetailsVanguard, v\n  ElitismHelper, v0.7.8\n  FakeAchievement, vv1.0.1.3\n  FishingBuddy, v1.7.13i\n  GarrisonMissionManager, vv55\n  Gatherer, v7.3.1\n  GladiatorlosSA2, v1.16.2\n  Gladius, v5.2.1\n  GroupfinderFlags, v0.6\n  HandyNotes, vv1.4.15\n  HandyNotesDraenorTreasures, v1.20a\n  HandyNotesLegionRaresTreasures, v1.01b\n  idTip, v7.0.7\n  InspectItemLevel, v1.2.0\n  KuiMedia, v\n  KuiNameplates, v\n  KuiNameplatesCore, v\n  KuiNameplatesCustom, v\n  LFRAdvanced, v7.3.0.24920\n  MasterPlanA, vA\n  MinimapButtonFrame, v3.1.10e\n  MinimapButtonFrameSkinPack, v3.0.1b\n  MPH, v1.3\n  OmniBar, vv8.0\n  OPie, vVanilla 1\n  Outfitter, v5.19.1\n  Overachiever, v0.99.9\n  Paste, v1.4.10\n  Pawn, v2.2.14a\n  PetBattleTeams, v3.3.9\n  PetTracker, v7.3.0\n  PetTrackerBreeds, v7.3.0\n  PetTrackerConfig, v7.3.0\n  PetTrackerJournal, v7.3.0\n  PetTrackerSwitcher, v7.3.0\n  PetTrackerUpgrades, v7.3.0\n  ReleaseMe, vv1.0.3\n  RelicInspector, v2.0.4\n  rLib, v\n  rVignette, v\n  SlashCombatLog, vv1.15r\n  SlideBar, v7.3.1 (<%codename%>)\n  TomTom, vv70200-1.0.0\n  TradeSkillMaster, vv3.6.37\n  TradeSkillMasterAccounting, vv3.0.20\n  TradeSkillMasterAppHelper, vv3.0.2\n  TradeSkillMasterAuctionDB, vv3.1.18\n  TradeSkillMasterAuctioning, vv3.0.16\n  TradeSkillMasterCrafting, vv3.2.5\n  TradeSkillMasterDestroying, vv3.1.7\n  TradeSkillMasterMailing, vv3.0.18\n  TradeSkillMasterShopping, vv3.4.7\n  TradeSkillMasterVendoring, vv3.0.7\n  TradeSkillMasterWarehousing, vv3.0.8\n  Tukui, v17.13\n  TukuiConfig, v\n  TukuiMarkBar, v1.10\n  WeakAuras, v2.4.23\n  XLoot, v7.3-1\n  XLootFrame, v7.3-1\n  XLootGroup, v7.3-1\n  XLootMaster, v7.3-1\n  XLootMonitor, v7.3-1\n  BlizRuntimeLib_enUS v7.3.0.70300 <none>\n  (ck=9e5)\n",
+			["locals"] = "",
+			["timestamp"] = "2017-10-14 02:25:45",
+			["context"] = "Global",
+			["stack"] = "[C]: ?\nInterface\\FrameXML\\QuickJoinToast.lua:488: in function `GetNewQueues'\nInterface\\FrameXML\\QuickJoinToast.lua:404: in function `GetCurrentText'\nInterface\\FrameXML\\QuickJoinToast.lua:278: in function `ShowToast'\nInterface\\FrameXML\\QuickJoinToast.lua:190: in function `CheckDisplayToast'\nInterface\\FrameXML\\QuickJoinToast.lua:181: in function `CheckShowToast'\nInterface\\FrameXML\\QuickJoinToast.lua:174: in function <Interface\\FrameXML\\QuickJoinToast.lua:172>\nInterface\\SharedXML\\C_TimerAugment.lua:16: in function <Interface\\SharedXML\\C_TimerAugment.lua:14>\n",
+		}, -- [99]
+		{
+			["message"] = "Interface\\AddOns\\CoopCooldowns\\CoopCooldowns.lua:453: bad argument #1 to 'pairs' (table expected, got nil)",
+			["count"] = 4,
+			["addons"] = "  Swatter, v7.3.1 (<%codename%>)\n  AchievementsReminder, v\n  ACU, v\n  AdventureGuideSavedInstances, v1.0.4\n  AngryKeystones, v\n  AngryWorldQuests, v\n  ArkInventory, v30735\n  ArkInventoryRules, v10003\n  autorolecheck, v0.0.2\n  Aye, v1.0.6\n  AyeCoSpy, v1.0.2\n  Babylonian, v5.1.DEV.332(/embedded)\n  Bartender4, v4.7.10\n  BattlePetBreedID, vr158\n  BeQuiet, v1.5.1\n  BigWigs, vv74\n  BloodTrader, v2.1.2\n  BonusRollPreview, v70300.44-Release\n  Capping, vv7.3.2\n  Configator, v5.1.DEV.431(/embedded)\n  CoopCooldowns, v0.0.2\n  DejaCharacterStats, v730r101\n  Details, v\n  DetailsDeathGraphs, v\n  DetailsDmgRank, v\n  DetailsDpsTuning, v\n  DetailsEncounterDetails, v\n  DetailsRaidCheck, v\n  DetailsRaidInfoEmeraldNightmare, v\n  DetailsRaidInfoNighthold, v\n  DetailsRaidInfoTombOfSargeras, v\n  DetailsRaidInfoTrialOfValor, v\n  DetailsStreamer, v\n  DetailsTimeAttack, v\n  DetailsTinyThreat, v\n  DetailsVanguard, v\n  ElitismHelper, v0.7.8\n  FakeAchievement, vv1.0.1.3\n  FishingBuddy, v1.7.13i\n  GarrisonMissionManager, vv55\n  Gatherer, v7.3.1\n  GladiatorlosSA2, v1.16.2\n  Gladius, v5.2.1\n  GroupfinderFlags, v0.6\n  HandyNotes, vv1.4.15\n  HandyNotesDraenorTreasures, v1.20a\n  HandyNotesLegionRaresTreasures, v1.01b\n  idTip, v7.0.7\n  InspectItemLevel, v1.2.0\n  KuiMedia, v\n  KuiNameplates, v\n  KuiNameplatesCore, v\n  KuiNameplatesCustom, v\n  LFRAdvanced, v7.3.0.24920\n  MasterPlanA, vA\n  MinimapButtonFrame, v3.1.10e\n  MinimapButtonFrameSkinPack, v3.0.1b\n  MPH, v1.3\n  OmniBar, vv8.0\n  OPie, vVanilla 1\n  Outfitter, v5.19.1\n  Overachiever, v0.99.9\n  Paste, v1.4.10\n  Pawn, v2.2.14a\n  PetBattleTeams, v3.3.9\n  PetTracker, v7.3.0\n  PetTrackerBreeds, v7.3.0\n  PetTrackerConfig, v7.3.0\n  PetTrackerJournal, v7.3.0\n  PetTrackerSwitcher, v7.3.0\n  PetTrackerUpgrades, v7.3.0\n  ReleaseMe, vv1.0.3\n  RelicInspector, v2.0.4\n  rLib, v\n  rVignette, v\n  SlashCombatLog, vv1.15r\n  SlideBar, v7.3.1 (<%codename%>)\n  TomTom, vv70200-1.0.0\n  TradeSkillMaster, vv3.6.37\n  TradeSkillMasterAccounting, vv3.0.20\n  TradeSkillMasterAppHelper, vv3.0.2\n  TradeSkillMasterAuctionDB, vv3.1.18\n  TradeSkillMasterAuctioning, vv3.0.16\n  TradeSkillMasterCrafting, vv3.2.5\n  TradeSkillMasterDestroying, vv3.1.7\n  TradeSkillMasterMailing, vv3.0.18\n  TradeSkillMasterShopping, vv3.4.7\n  TradeSkillMasterVendoring, vv3.0.7\n  TradeSkillMasterWarehousing, vv3.0.8\n  Tukui, v17.13\n  TukuiConfig, v\n  TukuiMarkBar, v1.10\n  WeakAuras, v2.4.23\n  XLoot, v7.3-1\n  XLootFrame, v7.3-1\n  XLootGroup, v7.3-1\n  XLootMaster, v7.3-1\n  XLootMonitor, v7.3-1\n  BlizRuntimeLib_enUS v7.3.0.70300 <none>\n  (ck=9e5)\n",
+			["locals"] = "",
+			["timestamp"] = "2017-10-14 02:29:41",
+			["context"] = "Global",
+			["stack"] = "[C]: ?\n[C]: in function `pairs'\nInterface\\AddOns\\CoopCooldowns\\CoopCooldowns.lua:453: in function <Interface\\AddOns\\CoopCooldowns\\CoopCooldowns.lua:451>\n(tail call): ?\n",
 		}, -- [100]
+		{
+			["message"] = "...er4\\libs\\LibActionButton-1.0\\LibActionButton-1.0.lua:1194: attempt to index field 'parent' (a nil value)",
+			["count"] = 1,
+			["addons"] = "  Swatter, v7.3.1 (<%codename%>)\n  AchievementsReminder, v\n  ACU, v\n  AdventureGuideSavedInstances, v1.0.4\n  AngryKeystones, v\n  AngryWorldQuests, v\n  ArkInventory, v30735\n  ArkInventoryRules, v10003\n  autorolecheck, v0.0.2\n  Aye, v1.0.6\n  AyeCoSpy, v1.0.2\n  Babylonian, v5.1.DEV.332(/embedded)\n  Bartender4, v4.7.10\n  BattlePetBreedID, vr158\n  BeQuiet, v1.5.1\n  BigWigs, vv74\n  BigWigsCore, v\n  BigWigsPlugins, v\n  BloodTrader, v2.1.2\n  BonusRollPreview, v70300.44-Release\n  Capping, vv7.3.2\n  Configator, v5.1.DEV.431(/embedded)\n  DejaCharacterStats, v730r101\n  Details, v\n  DetailsDeathGraphs, v\n  DetailsDmgRank, v\n  DetailsDpsTuning, v\n  DetailsEncounterDetails, v\n  DetailsRaidCheck, v\n  DetailsRaidInfoEmeraldNightmare, v\n  DetailsRaidInfoNighthold, v\n  DetailsRaidInfoTombOfSargeras, v\n  DetailsRaidInfoTrialOfValor, v\n  DetailsStreamer, v\n  DetailsTimeAttack, v\n  DetailsTinyThreat, v\n  DetailsVanguard, v\n  ElitismHelper, v0.7.8\n  FakeAchievement, vv1.0.1.3\n  FishingBuddy, v1.7.13i\n  GarrisonMissionManager, vv55\n  Gatherer, v7.3.1\n  GladiatorlosSA2, v1.16.2\n  Gladius, v5.2.1\n  GroupfinderFlags, v0.6\n  HandyNotes, vv1.4.15\n  HandyNotesDraenorTreasures, v1.20a\n  HandyNotesLegionRaresTreasures, v1.01b\n  idTip, v7.0.7\n  InspectItemLevel, v1.2.0\n  KuiMedia, v\n  KuiNameplates, v\n  KuiNameplatesCore, v\n  KuiNameplatesCustom, v\n  LFRAdvanced, v7.3.0.24920\n  LittleWigs, vv7.3.1\n  MasterPlanA, vA\n  MinimapButtonFrame, v3.1.10e\n  MinimapButtonFrameSkinPack, v3.0.1b\n  MPH, v1.3\n  OmniBar, vv8.0\n  OPie, vVanilla 1\n  Outfitter, v5.19.1\n  Overachiever, v0.99.9\n  Paste, v1.4.10\n  Pawn, v2.2.14a\n  PetBattleTeams, v3.3.9\n  PetTracker, v7.3.0\n  PetTrackerBreeds, v7.3.0\n  PetTrackerConfig, v7.3.0\n  PetTrackerJournal, v7.3.0\n  PetTrackerSwitcher, v7.3.0\n  PetTrackerUpgrades, v7.3.0\n  ReleaseMe, vv1.0.3\n  RelicInspector, v2.0.4\n  rLib, v\n  rVignette, v\n  SlashCombatLog, vv1.15r\n  SlideBar, v7.3.1 (<%codename%>)\n  TomTom, vv70200-1.0.0\n  TradeSkillMaster, vv3.6.37\n  TradeSkillMasterAccounting, vv3.0.20\n  TradeSkillMasterAppHelper, vv3.0.2\n  TradeSkillMasterAuctionDB, vv3.1.18\n  TradeSkillMasterAuctioning, vv3.0.16\n  TradeSkillMasterCrafting, vv3.2.5\n  TradeSkillMasterDestroying, vv3.1.7\n  TradeSkillMasterMailing, vv3.0.18\n  TradeSkillMasterShopping, vv3.4.7\n  TradeSkillMasterVendoring, vv3.0.7\n  TradeSkillMasterWarehousing, vv3.0.8\n  Tukui, v17.13\n  TukuiConfig, v\n  TukuiMarkBar, v1.10\n  WeakAuras, v2.4.23\n  WeakAurasOptions, v2.4.23\n  XLoot, v7.3-1\n  XLootFrame, v7.3-1\n  XLootGroup, v7.3-1\n  XLootMaster, v7.3-1\n  XLootMonitor, v7.3-1\n  BlizRuntimeLib_enUS v7.3.0.70300 <none>\n  (ck=a24)\n",
+			["locals"] = "",
+			["timestamp"] = "2017-10-14 04:00:33",
+			["context"] = "Global",
+			["stack"] = "[C]: ?\n...er4\\libs\\LibActionButton-1.0\\LibActionButton-1.0.lua:1194: in function <...er4\\libs\\LibActionButton-1.0\\LibActionButton-1.0.lua:1191>\n",
+		}, -- [101]
 	},
 	["autoshow"] = true,
 }

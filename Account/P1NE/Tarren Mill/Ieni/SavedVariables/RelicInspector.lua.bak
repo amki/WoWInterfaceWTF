@@ -1,0 +1,17 @@
+
+RelicInspectorCharDB = {
+	["profileKeys"] = {
+		["Ieni - Tarren Mill"] = "Ieni - Tarren Mill",
+	},
+	["char"] = {
+		["Ieni - Tarren Mill"] = {
+			["artifactCache"] = {
+				[128823] = {
+					["timestamp"] = 1138010.996,
+					["crucibled"] = false,
+					["level"] = 3,
+				},
+			},
+		},
+	},
+}

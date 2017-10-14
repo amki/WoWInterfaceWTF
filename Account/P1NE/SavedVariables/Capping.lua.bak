@@ -28,10 +28,6 @@ CappingDB = {
 	["width"] = 200,
 	["x"] = 277,
 	["hidemapborder"] = false,
-	["av"] = true,
-	["dbinit"] = 7,
-	["fill"] = false,
-	["ab"] = true,
 	["colors"] = {
 		["info2"] = {
 			["a"] = 1,
@@ -70,5 +66,9 @@ CappingDB = {
 			["r"] = 1,
 		},
 	},
+	["dbinit"] = 7,
+	["fill"] = false,
+	["ab"] = true,
+	["av"] = true,
 	["ioc"] = true,
 }

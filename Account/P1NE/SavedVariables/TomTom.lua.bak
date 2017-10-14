@@ -2,6 +2,8 @@
 TomTomDB = {
 	["profileKeys"] = {
 		["Lyt - Azshara"] = "Default",
+		["Ieni - Tarren Mill"] = "Default",
+		["Enthusiastus - Azshara"] = "Default",
 		["Mamiko - Azshara"] = "Default",
 	},
 	["profiles"] = {
@@ -13,10 +15,16 @@ TomTomWaypoints = nil
 TomTomWaypointsMF = {
 	["profileKeys"] = {
 		["Lyt - Azshara"] = "Lyt - Azshara",
+		["Ieni - Tarren Mill"] = "Ieni - Tarren Mill",
+		["Enthusiastus - Azshara"] = "Enthusiastus - Azshara",
 		["Mamiko - Azshara"] = "Mamiko - Azshara",
 	},
 	["profiles"] = {
 		["Lyt - Azshara"] = {
+		},
+		["Ieni - Tarren Mill"] = {
+		},
+		["Enthusiastus - Azshara"] = {
 		},
 		["Mamiko - Azshara"] = {
 		},

@@ -2,6 +2,8 @@
 Gladius2DB = {
 	["profileKeys"] = {
 		["Lyt - Azshara"] = "Lyt - Azshara",
+		["Ieni - Tarren Mill"] = "Ieni - Tarren Mill",
+		["Enthusiastus - Azshara"] = "Enthusiastus - Azshara",
 		["Mamiko - Azshara"] = "Mamiko - Azshara",
 	},
 	["profiles"] = {
@@ -9,14 +11,28 @@ Gladius2DB = {
 			["auraVersion"] = 1,
 			["tagsVersion"] = 4,
 		},
-		["Mamiko - Azshara"] = {
+		["Ieni - Tarren Mill"] = {
 			["auraVersion"] = 1,
 			["tagsVersion"] = 4,
 			["y"] = {
-				["arena1"] = 656.355484643245,
+				["arena1"] = 475.733475061261,
 			},
 			["x"] = {
+				["arena1"] = 1076.62250870864,
+			},
+		},
+		["Enthusiastus - Azshara"] = {
+			["auraVersion"] = 1,
+			["tagsVersion"] = 4,
+		},
+		["Mamiko - Azshara"] = {
+			["auraVersion"] = 1,
+			["tagsVersion"] = 4,
+			["x"] = {
 				["arena1"] = 1024.00045882332,
+			},
+			["y"] = {
+				["arena1"] = 656.355484643245,
 			},
 		},
 	},

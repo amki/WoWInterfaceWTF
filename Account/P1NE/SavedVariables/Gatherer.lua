@@ -50,7 +50,7 @@ LibSwagData = {
 		},
 		[13466] = {
 			["cat"] = "HERB",
-			["name"] = "Sorrowmoss",
+			["name"] = "Plaguebloom",
 		},
 		[8836] = {
 			["cat"] = "HERB",
@@ -166,7 +166,7 @@ LibSwagData = {
 		},
 		[3819] = {
 			["cat"] = "HERB",
-			["name"] = "Dragon's Teeth",
+			["name"] = "Wintersbite",
 		},
 	},
 	["ai"] = {

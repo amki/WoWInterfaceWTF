@@ -25,10 +25,12 @@ TradeSkillMaster_MailingDB = {
 			"Rathok - Onyxia", -- [5]
 			"Miamisaurus - Onyxia", -- [6]
 			"Lyt - Azshara", -- [7]
+			"Ieni - Tarren Mill", -- [8]
 		},
 		["realm"] = {
 			"Azshara", -- [1]
 			"Onyxia", -- [2]
+			"Tarren Mill", -- [3]
 		},
 		["profile"] = {
 			"Default", -- [1]
@@ -36,34 +38,39 @@ TradeSkillMaster_MailingDB = {
 		["factionrealm"] = {
 			"Horde - Azshara", -- [1]
 			"Horde - Onyxia", -- [2]
+			"Horde - Tarren Mill", -- [3]
 		},
 	},
 	["f@Horde - Onyxia@deMailTarget"] = "",
 	["g@ @inboxMessages"] = true,
-	["c@Rathok - Onyxia@goldMailTarget"] = "",
-	["g@ @autoCheck"] = true,
-	["f@Horde - Azshara@deMailTarget"] = "",
-	["c@Enthusiastus - Azshara@goldKeepAmount"] = 1000000,
-	["c@Rathok - Onyxia@goldKeepAmount"] = 1000000,
 	["c@Lyt - Azshara@goldKeepAmount"] = 1000000,
-	["c@Intergalacto - Azshara@goldMailTarget"] = "",
-	["g@ @defaultPage"] = 1,
-	["g@ @resendDelay"] = 1,
-	["g@ @openMailSound"] = "TSM_NO_SOUND",
+	["c@Rathok - Onyxia@goldMailTarget"] = "",
 	["_currentProfile"] = {
 		["Lyt - Azshara"] = "Default",
-		["Enthusiastus - Azshara"] = "Default",
 		["Mamiko - Azshara"] = "Default",
+		["Enthusiastus - Azshara"] = "Default",
+		["Ieni - Tarren Mill"] = "Default",
 		["Lyt - Onyxia"] = "Default",
 		["Intergalacto - Azshara"] = "Default",
 		["Miamisaurus - Onyxia"] = "Default",
 		["Rathok - Onyxia"] = "Default",
 	},
-	["g@ @keepMailSpace"] = 0,
+	["g@ @resendDelay"] = 1,
+	["g@ @autoCheck"] = true,
+	["f@Horde - Azshara@deMailTarget"] = "",
+	["c@Enthusiastus - Azshara@goldKeepAmount"] = 1000000,
+	["c@Rathok - Onyxia@goldKeepAmount"] = 1000000,
 	["g@ @defaultMailTab"] = true,
-	["c@Mamiko - Azshara@goldMailTarget"] = "",
+	["c@Intergalacto - Azshara@goldMailTarget"] = "",
+	["g@ @defaultPage"] = 1,
+	["c@Lyt - Onyxia@goldKeepAmount"] = 1000000,
+	["g@ @openMailSound"] = "TSM_NO_SOUND",
 	["c@Intergalacto - Azshara@goldKeepAmount"] = 1000000,
 	["g@ @sendMessages"] = true,
-	["c@Lyt - Onyxia@goldKeepAmount"] = 1000000,
+	["g@ @keepMailSpace"] = 0,
+	["c@Mamiko - Azshara@goldMailTarget"] = "",
 	["g@ @sendItemsIndividually"] = false,
+	["c@Ieni - Tarren Mill@goldMailTarget"] = "",
+	["c@Ieni - Tarren Mill@goldKeepAmount"] = 1000000,
+	["f@Horde - Tarren Mill@deMailTarget"] = "",
 }

@@ -2,16 +2,24 @@
 PasteDB = {
 	["profileKeys"] = {
 		["Lyt - Azshara"] = "Lyt - Azshara",
+		["Ieni - Tarren Mill"] = "Ieni - Tarren Mill",
+		["Enthusiastus - Azshara"] = "Enthusiastus - Azshara",
 		["Mamiko - Azshara"] = "Mamiko - Azshara",
 	},
 	["profiles"] = {
 		["Lyt - Azshara"] = {
 			["loaded"] = true,
 		},
+		["Ieni - Tarren Mill"] = {
+			["loaded"] = true,
+		},
+		["Enthusiastus - Azshara"] = {
+			["loaded"] = true,
+		},
 		["Mamiko - Azshara"] = {
 			["loaded"] = true,
-			["where"] = "Default",
 			["whispertarget"] = "",
+			["where"] = "Default",
 			["pos"] = {
 			},
 		},

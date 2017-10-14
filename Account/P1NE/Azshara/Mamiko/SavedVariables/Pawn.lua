@@ -4,16 +4,15 @@ PawnOptions = {
 	["LastPlayerFullName"] = "Mamiko-Azshara",
 	["AutoSelectScales"] = true,
 	["UpgradeTracking"] = false,
-	["LastKeybindingsSet"] = 1,
 	["Artifacts"] = {
 		[128868] = {
 			["Relics"] = {
 				{
-					["ItemLevel"] = 62,
+					["ItemLevel"] = 65,
 					["Type"] = "Holy",
 				}, -- [1]
 				{
-					["ItemLevel"] = 62,
+					["ItemLevel"] = 67,
 					["Type"] = "Shadow",
 				}, -- [2]
 				{
@@ -58,6 +57,7 @@ PawnOptions = {
 			["Name"] = "T'uure, Beacon of the Naaru",
 		},
 	},
+	["LastKeybindingsSet"] = 1,
 }
 PawnMrRobotScaleProviderOptions = {
 	["LastClass"] = "PRIEST",

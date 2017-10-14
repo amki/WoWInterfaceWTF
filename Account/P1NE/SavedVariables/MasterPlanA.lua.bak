@@ -2,12 +2,32 @@
 MasterPlanAG = {
 	["Azshara"] = {
 		["Mamiko"] = {
+			["faction"] = "Horde",
 			["class"] = "PRIEST",
+		},
+		["Enthusiastus"] = {
+			["class"] = "DRUID",
 			["faction"] = "Horde",
 		},
 		["Lyt"] = {
 			["faction"] = "Horde",
 			["class"] = "PALADIN",
 		},
+	},
+	["Tarren Mill"] = {
+		["Ieni"] = {
+			["curOil"] = 100,
+			["summary"] = {
+				["inProgress"] = {
+					[2] = 1507787543,
+				},
+			},
+			["faction"] = "Horde",
+			["lastCacheTime"] = 1507860642,
+			["curRes"] = 1238,
+			["class"] = "PALADIN",
+		},
+	},
+	["IgnoreRewards"] = {
 	},
 }

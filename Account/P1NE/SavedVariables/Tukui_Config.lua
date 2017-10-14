@@ -20,6 +20,24 @@ TukuiConfigShared = {
 		},
 		["Lyt"] = {
 		},
+		["Enthusiastus"] = {
+		},
+	},
+	["Tarren Mill"] = {
+		["Ieni"] = {
+			["General"] = {
+				["UIScale"] = 0.71,
+			},
+			["Bags"] = {
+				["Enable"] = false,
+			},
+			["NamePlates"] = {
+				["Enable"] = false,
+			},
+			["ActionBars"] = {
+				["Enable"] = false,
+			},
+		},
 	},
 	["Account"] = {
 	},
