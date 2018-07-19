@@ -2,36 +2,54 @@
 HandyNotesDB = {
 	["profileKeys"] = {
 		["Lyt - Azshara"] = "Lyt - Azshara",
-		["Mamiko - Azshara"] = "Mamiko - Azshara",
+		["Intergalacto - Tarren Mill"] = "Intergalacto - Tarren Mill",
 		["Enthusiastus - Azshara"] = "Enthusiastus - Azshara",
+		["Mamiko - Azshara"] = "Mamiko - Azshara",
+		["Mihri - Tarren Mill"] = "Mihri - Tarren Mill",
 		["Ieni - Tarren Mill"] = "Ieni - Tarren Mill",
+		["Enthusiastus - Tarren Mill"] = "Enthusiastus - Tarren Mill",
 	},
 	["profiles"] = {
 		["Lyt - Azshara"] = {
 		},
-		["Mamiko - Azshara"] = {
+		["Intergalacto - Tarren Mill"] = {
 		},
 		["Enthusiastus - Azshara"] = {
 		},
+		["Mamiko - Azshara"] = {
+		},
+		["Mihri - Tarren Mill"] = {
+		},
 		["Ieni - Tarren Mill"] = {
+		},
+		["Enthusiastus - Tarren Mill"] = {
 		},
 	},
 }
 HandyNotes_HandyNotesDB = {
 	["profileKeys"] = {
 		["Lyt - Azshara"] = "Lyt - Azshara",
-		["Mamiko - Azshara"] = "Mamiko - Azshara",
+		["Intergalacto - Tarren Mill"] = "Intergalacto - Tarren Mill",
 		["Enthusiastus - Azshara"] = "Enthusiastus - Azshara",
+		["Mamiko - Azshara"] = "Mamiko - Azshara",
+		["Mihri - Tarren Mill"] = "Mihri - Tarren Mill",
 		["Ieni - Tarren Mill"] = "Ieni - Tarren Mill",
+		["Enthusiastus - Tarren Mill"] = "Enthusiastus - Tarren Mill",
 	},
 	["profiles"] = {
 		["Lyt - Azshara"] = {
 		},
-		["Mamiko - Azshara"] = {
+		["Intergalacto - Tarren Mill"] = {
 		},
 		["Enthusiastus - Azshara"] = {
 		},
+		["Mamiko - Azshara"] = {
+		},
+		["Mihri - Tarren Mill"] = {
+		},
 		["Ieni - Tarren Mill"] = {
+		},
+		["Enthusiastus - Tarren Mill"] = {
 		},
 	},
 }

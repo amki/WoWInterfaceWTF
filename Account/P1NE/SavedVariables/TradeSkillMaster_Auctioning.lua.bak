@@ -14,34 +14,42 @@ TradeSkillMaster_AuctioningDB = {
 	},
 	["_currentProfile"] = {
 		["Lyt - Azshara"] = "Default",
+		["Intergalacto - Tarren Mill"] = "Default",
 		["Intergalacto - Azshara"] = "Default",
 		["Rynllor - Onyxia"] = "Default",
 		["Miamisaurus - Onyxia"] = "Default",
-		["Ieni - Mal'Ganis"] = "Default",
-		["Mamiko - Azshara"] = "Default",
 		["Lyt - Onyxia"] = "Default",
-		["Ieni - Tarren Mill"] = "Default",
+		["Ieni - Mal'Ganis"] = "Default",
+		["Enthusiastus - Tarren Mill"] = "Default",
+		["Mamiko - Azshara"] = "Default",
+		["Mihri - Tarren Mill"] = "Default",
 		["Enthusiastus - Azshara"] = "Default",
+		["Ieni - Tarren Mill"] = "Default",
 		["Rathok - Onyxia"] = "Default",
 	},
 	["g@ @roundNormalPrice"] = false,
 	["f@Horde - Onyxia@player"] = {
 		["Rathok"] = true,
-		["Lyt"] = true,
-		["Miamisaurus"] = true,
 		["Rynllor"] = true,
+		["Miamisaurus"] = true,
+		["Lyt"] = true,
 	},
 	["g@ @priceColumn"] = 1,
 	["f@Horde - Mal'Ganis@player"] = {
 		["Ieni"] = true,
 	},
-	["f@Horde - Tarren Mill@whitelist"] = {
+	["f@Horde - Azshara@player"] = {
+		["Mamiko"] = true,
+		["Intergalacto"] = true,
+		["Enthusiastus"] = true,
+		["Lyt"] = true,
 	},
 	["g@ @matchWhitelist"] = true,
 	["f@Horde - Tarren Mill@player"] = {
 		["Ieni"] = true,
-	},
-	["f@Horde - Azshara@whitelist"] = {
+		["Mihri"] = true,
+		["Intergalacto"] = true,
+		["Enthusiastus"] = true,
 	},
 	["_scopeKeys"] = {
 		["char"] = {
@@ -55,15 +63,9 @@ TradeSkillMaster_AuctioningDB = {
 			"Intergalacto - Azshara", -- [8]
 			"Miamisaurus - Onyxia", -- [9]
 			"Ieni - Tarren Mill", -- [10]
-		},
-		["factionrealm"] = {
-			"Horde - Azshara", -- [1]
-			"Horde - Mal'Ganis", -- [2]
-			"Horde - Onyxia", -- [3]
-			"Horde - Tarren Mill", -- [4]
-		},
-		["profile"] = {
-			"Default", -- [1]
+			"Mihri - Tarren Mill", -- [11]
+			"Enthusiastus - Tarren Mill", -- [12]
+			"Intergalacto - Tarren Mill", -- [13]
 		},
 		["realm"] = {
 			"Azshara", -- [1]
@@ -71,12 +73,19 @@ TradeSkillMaster_AuctioningDB = {
 			"Onyxia", -- [3]
 			"Tarren Mill", -- [4]
 		},
+		["profile"] = {
+			"Default", -- [1]
+		},
+		["factionrealm"] = {
+			"Horde - Azshara", -- [1]
+			"Horde - Mal'Ganis", -- [2]
+			"Horde - Onyxia", -- [3]
+			"Horde - Tarren Mill", -- [4]
+		},
+	},
+	["f@Horde - Azshara@whitelist"] = {
 	},
 	["_version"] = 1,
-	["f@Horde - Azshara@player"] = {
-		["Mamiko"] = true,
-		["Lyt"] = true,
-		["Enthusiastus"] = true,
-		["Intergalacto"] = true,
+	["f@Horde - Tarren Mill@whitelist"] = {
 	},
 }

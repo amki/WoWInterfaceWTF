@@ -4,7 +4,9 @@ TradeSkillMaster_MailingDB = {
 	["c@Enthusiastus - Azshara@goldMailTarget"] = "",
 	["g@ @helpPlatesShown"] = {
 		["inbox"] = true,
+		["other"] = true,
 	},
+	["c@Enthusiastus - Tarren Mill@goldMailTarget"] = "",
 	["_hash"] = 3711258,
 	["c@Lyt - Azshara@goldMailTarget"] = "",
 	["c@Lyt - Onyxia@goldMailTarget"] = "",
@@ -16,6 +18,7 @@ TradeSkillMaster_MailingDB = {
 	["g@ @deMaxQuality"] = 2,
 	["_version"] = 1,
 	["g@ @showReloadBtn"] = true,
+	["c@Intergalacto - Tarren Mill@goldKeepAmount"] = 1000000,
 	["_scopeKeys"] = {
 		["char"] = {
 			"Enthusiastus - Azshara", -- [1]
@@ -26,51 +29,61 @@ TradeSkillMaster_MailingDB = {
 			"Miamisaurus - Onyxia", -- [6]
 			"Lyt - Azshara", -- [7]
 			"Ieni - Tarren Mill", -- [8]
-		},
-		["factionrealm"] = {
-			"Horde - Azshara", -- [1]
-			"Horde - Onyxia", -- [2]
-			"Horde - Tarren Mill", -- [3]
-		},
-		["profile"] = {
-			"Default", -- [1]
+			"Mihri - Tarren Mill", -- [9]
+			"Enthusiastus - Tarren Mill", -- [10]
+			"Intergalacto - Tarren Mill", -- [11]
 		},
 		["realm"] = {
 			"Azshara", -- [1]
 			"Onyxia", -- [2]
 			"Tarren Mill", -- [3]
 		},
+		["profile"] = {
+			"Default", -- [1]
+		},
+		["factionrealm"] = {
+			"Horde - Azshara", -- [1]
+			"Horde - Onyxia", -- [2]
+			"Horde - Tarren Mill", -- [3]
+		},
 	},
+	["c@Mihri - Tarren Mill@goldMailTarget"] = "",
+	["c@Lyt - Azshara@goldKeepAmount"] = 1000000,
 	["f@Horde - Onyxia@deMailTarget"] = "",
-	["g@ @inboxMessages"] = true,
-	["f@Horde - Tarren Mill@deMailTarget"] = "",
-	["c@Rathok - Onyxia@goldMailTarget"] = "",
-	["c@Ieni - Tarren Mill@goldKeepAmount"] = 1000000,
-	["f@Horde - Azshara@deMailTarget"] = "",
-	["g@ @autoCheck"] = true,
-	["g@ @resendDelay"] = 1,
-	["c@Enthusiastus - Azshara@goldKeepAmount"] = 1000000,
-	["c@Rathok - Onyxia@goldKeepAmount"] = 1000000,
 	["g@ @sendItemsIndividually"] = false,
-	["c@Intergalacto - Azshara@goldMailTarget"] = "",
-	["g@ @defaultPage"] = 1,
-	["c@Lyt - Onyxia@goldKeepAmount"] = 1000000,
-	["g@ @openMailSound"] = "TSM_NO_SOUND",
-	["g@ @sendMessages"] = true,
-	["g@ @keepMailSpace"] = 0,
 	["c@Intergalacto - Azshara@goldKeepAmount"] = 1000000,
-	["c@Mamiko - Azshara@goldMailTarget"] = "",
-	["g@ @defaultMailTab"] = true,
-	["c@Ieni - Tarren Mill@goldMailTarget"] = "",
+	["g@ @inboxMessages"] = true,
+	["g@ @autoCheck"] = true,
+	["c@Lyt - Onyxia@goldKeepAmount"] = 1000000,
+	["g@ @sendMessages"] = true,
+	["c@Intergalacto - Tarren Mill@goldMailTarget"] = "",
 	["_currentProfile"] = {
 		["Lyt - Azshara"] = "Default",
+		["Intergalacto - Tarren Mill"] = "Default",
+		["Intergalacto - Azshara"] = "Default",
 		["Ieni - Tarren Mill"] = "Default",
-		["Enthusiastus - Azshara"] = "Default",
+		["Miamisaurus - Onyxia"] = "Default",
+		["Enthusiastus - Tarren Mill"] = "Default",
 		["Mamiko - Azshara"] = "Default",
 		["Lyt - Onyxia"] = "Default",
-		["Intergalacto - Azshara"] = "Default",
-		["Miamisaurus - Onyxia"] = "Default",
+		["Mihri - Tarren Mill"] = "Default",
+		["Enthusiastus - Azshara"] = "Default",
 		["Rathok - Onyxia"] = "Default",
 	},
-	["c@Lyt - Azshara@goldKeepAmount"] = 1000000,
+	["f@Horde - Azshara@deMailTarget"] = "",
+	["c@Enthusiastus - Azshara@goldKeepAmount"] = 1000000,
+	["c@Rathok - Onyxia@goldKeepAmount"] = 1000000,
+	["g@ @resendDelay"] = 1,
+	["c@Intergalacto - Azshara@goldMailTarget"] = "",
+	["g@ @defaultPage"] = 1,
+	["g@ @defaultMailTab"] = true,
+	["g@ @openMailSound"] = "TSM_NO_SOUND",
+	["c@Mihri - Tarren Mill@goldKeepAmount"] = 1000000,
+	["g@ @keepMailSpace"] = 0,
+	["c@Enthusiastus - Tarren Mill@goldKeepAmount"] = 1000000,
+	["c@Mamiko - Azshara@goldMailTarget"] = "",
+	["c@Rathok - Onyxia@goldMailTarget"] = "",
+	["c@Ieni - Tarren Mill@goldMailTarget"] = "",
+	["c@Ieni - Tarren Mill@goldKeepAmount"] = 1000000,
+	["f@Horde - Tarren Mill@deMailTarget"] = "",
 }

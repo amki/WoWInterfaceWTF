@@ -12,21 +12,24 @@ TradeSkillMaster_WarehousingDB = {
 			"Intergalacto - Azshara", -- [8]
 			"Miamisaurus - Onyxia", -- [9]
 			"Ieni - Tarren Mill", -- [10]
-		},
-		["realm"] = {
-			"Azshara", -- [1]
-			"Mal'Ganis", -- [2]
-			"Onyxia", -- [3]
-			"Tarren Mill", -- [4]
-		},
-		["profile"] = {
-			"Default", -- [1]
+			"Mihri - Tarren Mill", -- [11]
+			"Enthusiastus - Tarren Mill", -- [12]
+			"Intergalacto - Tarren Mill", -- [13]
 		},
 		["factionrealm"] = {
 			"Horde - Azshara", -- [1]
 			"Horde - Mal'Ganis", -- [2]
 			"Horde - Onyxia", -- [3]
 			"Horde - Tarren Mill", -- [4]
+		},
+		["profile"] = {
+			"Default", -- [1]
+		},
+		["realm"] = {
+			"Azshara", -- [1]
+			"Mal'Ganis", -- [2]
+			"Onyxia", -- [3]
+			"Tarren Mill", -- [4]
 		},
 	},
 	["f@Horde - Onyxia@BagState"] = {
@@ -42,10 +45,13 @@ TradeSkillMaster_WarehousingDB = {
 	["_version"] = 1,
 	["_currentProfile"] = {
 		["Lyt - Azshara"] = "Default",
+		["Intergalacto - Tarren Mill"] = "Default",
 		["Intergalacto - Azshara"] = "Default",
 		["Rynllor - Onyxia"] = "Default",
 		["Miamisaurus - Onyxia"] = "Default",
+		["Mihri - Tarren Mill"] = "Default",
 		["Ieni - Mal'Ganis"] = "Default",
+		["Enthusiastus - Tarren Mill"] = "Default",
 		["Mamiko - Azshara"] = "Default",
 		["Lyt - Onyxia"] = "Default",
 		["Ieni - Tarren Mill"] = "Default",

@@ -1,15 +1,22 @@
 
 TukuiConfigShared = {
-	["Azshara"] = {
-		["Mamiko"] = {
+	["Tarren Mill"] = {
+		["Mihri"] = {
 			["Misc"] = {
 				["AutoInviteEnable"] = true,
+				["ReputationEnable"] = false,
+				["ExperienceEnable"] = false,
 			},
 			["General"] = {
-				["UIScale"] = 0.71,
+				["BackdropColor"] = {
+					0.156862745098039, -- [1]
+					0.156862745098039, -- [2]
+					0.156862745098039, -- [3]
+					1, -- [4]
+				},
 			},
-			["ActionBars"] = {
-				["Enable"] = false,
+			["DataTexts"] = {
+				["Time24HrFormat"] = true,
 			},
 			["Bags"] = {
 				["Enable"] = false,
@@ -17,25 +24,22 @@ TukuiConfigShared = {
 			["NamePlates"] = {
 				["Enable"] = false,
 			},
-		},
-		["Enthusiastus"] = {
-		},
-		["Lyt"] = {
-		},
-	},
-	["Tarren Mill"] = {
-		["Ieni"] = {
-			["NamePlates"] = {
+			["UnitFrames"] = {
+				["UnlinkCastBar"] = true,
+				["CombatLog"] = true,
+			},
+			["Party"] = {
 				["Enable"] = false,
 			},
-			["Bags"] = {
-				["Enable"] = false,
-			},
-			["General"] = {
-				["UIScale"] = 0.71,
+			["Tooltips"] = {
+				["MouseOver"] = true,
+				["HealthFont"] = "Game Font",
 			},
 			["ActionBars"] = {
 				["Enable"] = false,
+			},
+			["Raid"] = {
+				["Font"] = "Tukui UF Outline",
 			},
 		},
 	},

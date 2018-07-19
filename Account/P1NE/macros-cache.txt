@@ -3,7 +3,8 @@ VER 3 000000000000003A " " "INV_MISC_QUESTIONMARK"
 /use [@cursor] Holy Word: Sanctify
 END
 VER 3 000000000000003B " " "INV_MISC_QUESTIONMARK"
-/use [talent:6/1]Clarity of Will;[talent:6/2]Divine Star;[talent:6/3]Halo
+#showtooltip
+/use [@mouseover,exists,help,nodead][] Clarity of Will
 END
 VER 3 0000000000000038 " " "INV_MISC_QUESTIONMARK"
 #showtooltip
@@ -40,9 +41,14 @@ VER 3 0000000000000045 " " "INV_MISC_QUESTIONMARK"
 /use [@mouseover,help,nodead][help,nodead][@player] Holy Ward
 END
 VER 3 0000000000000046 " " "INV_MISC_QUESTIONMARK"
+/run local a={43730,43731,43732,43733,43734,43735,43736,43737,43760,43761}for i,q in ipairs(a)do print(format("Orb %s: %s",i, IsQuestFlaggedCompleted(q) and "\124cFF00FF00Done\124r" or "\124cFFFF0000Not Done\124r")) end
+END
+VER 3 000000000000004B " " "INV_MISC_QUESTIONMARK"
 #showtooltip
-/cast Every Man For Himself
-/cast Gladiator's Medallion
+/cast [@player] Failure Detection Pylon
+END
+VER 3 000000000000004A " DMG STOP" "INV_MISC_QUESTIONMARK"
+/rw DMG STOP
 END
 VER 3 000000000000003C "Barrels" "INV_MISC_QUESTIONMARK"
 /script SetRaidTarget("mouseover",6)
@@ -63,8 +69,14 @@ VER 3 0000000000000043 "EAB" "INV_MISC_QUESTIONMARK"
 #showtooltip
 /click ExtraActionButton1
 END
+VER 3 0000000000000048 "FLAMES" "INV_MISC_QUESTIONMARK"
+/rw LEAVE MIDDLE
+END
 VER 3 000000000000002B "lcheck" "INV_MISC_QUESTIONMARK"
 /g /run for k, v in pairs({ Galleon = 32098, Sha = 32099, Nalak = 32518, Oondasta = 32519}) do print(format("%s: %s", k, IsQuestFlaggedCompleted(v) and "\124cff00ff00Yes\124r" or "\124cffff0000No\124r")) end
+END
+VER 3 0000000000000049 "LIGHTNING" "INV_MISC_QUESTIONMARK"
+/rw SPREAD SPREAD SPREAD
 END
 VER 3 000000000000002A "mark" "INV_PET_BATTLEPETTRAINING"
 /script SetRaidTarget("Upyours", 6);
@@ -97,4 +109,7 @@ VER 3 000000000000002E "TSMMacro" "Achievement_Faction_GoldenLotus"
 /click TSMShoppingBuyoutConfirmationButton
 /click TSMAuctioningPostButton
 /click TSMShoppingBuyoutButton
+END
+VER 3 0000000000000047 "yell" "132093"
+/rw LEAVE THROUGH PORTAL
 END

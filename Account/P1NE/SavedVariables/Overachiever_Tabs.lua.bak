@@ -2,13 +2,14 @@
 Overachiever_Tabs_Settings = {
 	["WatchLists_Realms"] = {
 	},
-	["SearchType"] = 1,
+	["SearchType"] = 0,
 	["WatchSort"] = 0,
 	["SearchSort"] = 0,
 	["SuggestionsSort"] = 0,
 	["WatchLists_General"] = {
 	},
-	["Version"] = "0.99.9",
+	["Version"] = "1.0.0",
+	["SearchFullList"] = true,
 	["AchFilters"] = {
 	},
 	["WatchedList"] = 0,

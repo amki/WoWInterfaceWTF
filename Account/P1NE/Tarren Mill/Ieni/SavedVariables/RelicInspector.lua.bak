@@ -5,11 +5,542 @@ RelicInspectorCharDB = {
 	},
 	["char"] = {
 		["Ieni - Tarren Mill"] = {
+			["crucibleUsed"] = true,
 			["artifactCache"] = {
+				[120978] = {
+					{
+						["relic"] = {
+							"Coven Prayer Bead", -- [1]
+							1535059, -- [2]
+							"Holy", -- [3]
+							"|cffa335ee|Hitem:152046:::::::::::5:3:3611:1497:3336:::|h[Coven Prayer Bead]|h|r", -- [4]
+						},
+					}, -- [1]
+					{
+						["relic"] = {
+							"Tormentor's Brand", -- [1]
+							132238, -- [2]
+							"Fire", -- [3]
+							"|cffa335ee|Hitem:152037:::::::::::3:3:3610:1472:3528:::|h[Tormentor's Brand]|h|r", -- [4]
+						},
+						["traits"] = {
+							{
+								["requiredArtifactLevel"] = 0,
+								["tier"] = 1,
+								["canChoose"] = false,
+								["powerID"] = 1739,
+								["icon"] = 1033184,
+								["isChosen"] = true,
+								["spellID"] = 250879,
+							}, -- [1]
+							{
+								["requiredArtifactLevel"] = 63,
+								["tier"] = 2,
+								["canChoose"] = false,
+								["powerID"] = 1771,
+								["icon"] = 136194,
+								["isChosen"] = true,
+								["spellID"] = 252091,
+							}, -- [2]
+							{
+								["requiredArtifactLevel"] = 63,
+								["tier"] = 2,
+								["canChoose"] = false,
+								["powerID"] = 1784,
+								["icon"] = 236687,
+								["isChosen"] = false,
+								["spellID"] = 253111,
+							}, -- [3]
+							{
+								["requiredArtifactLevel"] = 72,
+								["tier"] = 3,
+								["canChoose"] = false,
+								["powerID"] = 52,
+								["icon"] = 135964,
+								["isChosen"] = false,
+								["spellID"] = 186944,
+							}, -- [4]
+							{
+								["requiredArtifactLevel"] = 72,
+								["tier"] = 3,
+								["canChoose"] = false,
+								["powerID"] = 1561,
+								["icon"] = 1360757,
+								["isChosen"] = false,
+								["spellID"] = 238062,
+							}, -- [5]
+							{
+								["requiredArtifactLevel"] = 72,
+								["tier"] = 3,
+								["canChoose"] = false,
+								["powerID"] = 42,
+								["icon"] = 1030100,
+								["isChosen"] = false,
+								["spellID"] = 184759,
+							}, -- [6]
+						},
+					}, -- [2]
+					{
+						["relic"] = {
+							"Reorigination Spark", -- [1]
+							135980, -- [2]
+							"Holy", -- [3]
+							"|cffa335ee|Hitem:155851:::::::::::5:3:3611:1497:3528:::|h[Reorigination Spark]|h|r", -- [4]
+						},
+						["traits"] = {
+							{
+								["requiredArtifactLevel"] = 0,
+								["tier"] = 1,
+								["canChoose"] = false,
+								["powerID"] = 1739,
+								["icon"] = 1033184,
+								["isChosen"] = true,
+								["spellID"] = 250879,
+							}, -- [1]
+							{
+								["requiredArtifactLevel"] = 66,
+								["tier"] = 2,
+								["canChoose"] = false,
+								["powerID"] = 1781,
+								["icon"] = 839910,
+								["isChosen"] = true,
+								["spellID"] = 252922,
+							}, -- [2]
+							{
+								["requiredArtifactLevel"] = 66,
+								["tier"] = 2,
+								["canChoose"] = false,
+								["powerID"] = 1784,
+								["icon"] = 236687,
+								["isChosen"] = false,
+								["spellID"] = 253111,
+							}, -- [3]
+							{
+								["requiredArtifactLevel"] = 75,
+								["tier"] = 3,
+								["canChoose"] = false,
+								["powerID"] = 50,
+								["icon"] = 135969,
+								["isChosen"] = false,
+								["spellID"] = 186927,
+							}, -- [4]
+							{
+								["requiredArtifactLevel"] = 75,
+								["tier"] = 3,
+								["canChoose"] = false,
+								["powerID"] = 1561,
+								["icon"] = 1360757,
+								["isChosen"] = false,
+								["spellID"] = 238062,
+							}, -- [5]
+							{
+								["requiredArtifactLevel"] = 75,
+								["tier"] = 3,
+								["canChoose"] = false,
+								["powerID"] = 52,
+								["icon"] = 135964,
+								["isChosen"] = false,
+								["spellID"] = 186944,
+							}, -- [6]
+						},
+					}, -- [3]
+					["level"] = 72,
+					["crucibled"] = true,
+					["timestamp"] = 1841164.707,
+				},
+				[128866] = {
+					{
+						["relic"] = {
+							"Coven Prayer Bead", -- [1]
+							1535059, -- [2]
+							"Holy", -- [3]
+							"|cffa335ee|Hitem:152046:::::::::::5:3:3611:1497:3336:::|h[Coven Prayer Bead]|h|r", -- [4]
+						},
+						["traits"] = {
+							{
+								["requiredArtifactLevel"] = 0,
+								["tier"] = 1,
+								["canChoose"] = false,
+								["powerID"] = 1739,
+								["icon"] = 1033184,
+								["isChosen"] = true,
+								["spellID"] = 250879,
+							}, -- [1]
+							{
+								["requiredArtifactLevel"] = 60,
+								["tier"] = 2,
+								["canChoose"] = false,
+								["powerID"] = 1778,
+								["icon"] = 136146,
+								["isChosen"] = false,
+								["spellID"] = 252875,
+							}, -- [2]
+							{
+								["requiredArtifactLevel"] = 60,
+								["tier"] = 2,
+								["canChoose"] = false,
+								["powerID"] = 1770,
+								["icon"] = 132307,
+								["isChosen"] = true,
+								["spellID"] = 252088,
+							}, -- [3]
+							{
+								["requiredArtifactLevel"] = 69,
+								["tier"] = 3,
+								["canChoose"] = false,
+								["powerID"] = 1121,
+								["icon"] = 236253,
+								["isChosen"] = false,
+								["spellID"] = 209229,
+							}, -- [4]
+							{
+								["requiredArtifactLevel"] = 69,
+								["tier"] = 3,
+								["canChoose"] = false,
+								["powerID"] = 1125,
+								["icon"] = 1022948,
+								["isChosen"] = false,
+								["spellID"] = 209223,
+							}, -- [5]
+							{
+								["requiredArtifactLevel"] = 69,
+								["tier"] = 3,
+								["canChoose"] = false,
+								["powerID"] = 1124,
+								["icon"] = 236265,
+								["isChosen"] = true,
+								["spellID"] = 213573,
+							}, -- [6]
+						},
+					}, -- [1]
+					{
+						["relic"] = {
+							"Mote of the Forgemaster", -- [1]
+							132838, -- [2]
+							"Iron", -- [3]
+							"|cffa335ee|Hitem:155855:::::::::::5:3:3611:1497:3528:::|h[Mote of the Forgemaster]|h|r", -- [4]
+						},
+						["traits"] = {
+							{
+								["requiredArtifactLevel"] = 0,
+								["tier"] = 1,
+								["canChoose"] = false,
+								["powerID"] = 1739,
+								["icon"] = 1033184,
+								["isChosen"] = true,
+								["spellID"] = 250879,
+							}, -- [1]
+							{
+								["requiredArtifactLevel"] = 63,
+								["tier"] = 2,
+								["canChoose"] = false,
+								["powerID"] = 1780,
+								["icon"] = 615101,
+								["isChosen"] = false,
+								["spellID"] = 252906,
+							}, -- [2]
+							{
+								["requiredArtifactLevel"] = 63,
+								["tier"] = 2,
+								["canChoose"] = false,
+								["powerID"] = 1782,
+								["icon"] = 1360764,
+								["isChosen"] = true,
+								["spellID"] = 253070,
+							}, -- [3]
+							{
+								["requiredArtifactLevel"] = 72,
+								["tier"] = 3,
+								["canChoose"] = false,
+								["powerID"] = 1129,
+								["icon"] = 133617,
+								["isChosen"] = false,
+								["spellID"] = 211914,
+							}, -- [4]
+							{
+								["requiredArtifactLevel"] = 72,
+								["tier"] = 3,
+								["canChoose"] = false,
+								["powerID"] = 1122,
+								["icon"] = 236258,
+								["isChosen"] = false,
+								["spellID"] = 209217,
+							}, -- [5]
+							{
+								["requiredArtifactLevel"] = 72,
+								["tier"] = 3,
+								["canChoose"] = false,
+								["powerID"] = 1123,
+								["icon"] = 135870,
+								["isChosen"] = false,
+								["spellID"] = 209220,
+							}, -- [6]
+						},
+					}, -- [2]
+					{
+						["relic"] = {
+							"Pulsing Prism", -- [1]
+							1033182, -- [2]
+							"Arcane", -- [3]
+							"|cffa335ee|Hitem:137547:::::::::::16:3:3536:1607:3337:::|h[Pulsing Prism]|h|r", -- [4]
+						},
+						["traits"] = {
+							{
+								["requiredArtifactLevel"] = 0,
+								["tier"] = 1,
+								["canChoose"] = false,
+								["powerID"] = 1739,
+								["icon"] = 1033184,
+								["isChosen"] = true,
+								["spellID"] = 250879,
+							}, -- [1]
+							{
+								["requiredArtifactLevel"] = 66,
+								["tier"] = 2,
+								["canChoose"] = false,
+								["powerID"] = 1779,
+								["icon"] = 1394892,
+								["isChosen"] = false,
+								["spellID"] = 252888,
+							}, -- [2]
+							{
+								["requiredArtifactLevel"] = 66,
+								["tier"] = 2,
+								["canChoose"] = false,
+								["powerID"] = 1783,
+								["icon"] = 876916,
+								["isChosen"] = true,
+								["spellID"] = 253093,
+							}, -- [3]
+							{
+								["requiredArtifactLevel"] = 75,
+								["tier"] = 3,
+								["canChoose"] = false,
+								["powerID"] = 1126,
+								["icon"] = 135926,
+								["isChosen"] = false,
+								["spellID"] = 209218,
+							}, -- [4]
+							{
+								["requiredArtifactLevel"] = 75,
+								["tier"] = 3,
+								["canChoose"] = false,
+								["powerID"] = 1125,
+								["icon"] = 1022948,
+								["isChosen"] = false,
+								["spellID"] = 209223,
+							}, -- [5]
+							{
+								["requiredArtifactLevel"] = 75,
+								["tier"] = 3,
+								["canChoose"] = false,
+								["powerID"] = 1127,
+								["icon"] = 132110,
+								["isChosen"] = false,
+								["spellID"] = 209216,
+							}, -- [6]
+						},
+					}, -- [3]
+					["crucibled"] = true,
+					["level"] = 75,
+					["timestamp"] = 1866951.226,
+				},
 				[128823] = {
-					["timestamp"] = 1138010.996,
-					["crucibled"] = false,
-					["level"] = 3,
+					{
+						["relic"] = {
+							"Venerated Puresoul Idol", -- [1]
+							1769068, -- [2]
+							"Holy", -- [3]
+							"|cffa335ee|Hitem:152045:::::::::::5:3:3611:1497:3336:::|h[Venerated Puresoul Idol]|h|r", -- [4]
+						},
+						["traits"] = {
+							{
+								["requiredArtifactLevel"] = 0,
+								["tier"] = 1,
+								["canChoose"] = false,
+								["powerID"] = 1739,
+								["icon"] = 1033184,
+								["isChosen"] = true,
+								["spellID"] = 250879,
+							}, -- [1]
+							{
+								["requiredArtifactLevel"] = 60,
+								["tier"] = 2,
+								["canChoose"] = false,
+								["powerID"] = 1771,
+								["icon"] = 136194,
+								["isChosen"] = true,
+								["spellID"] = 252091,
+							}, -- [2]
+							{
+								["requiredArtifactLevel"] = 60,
+								["tier"] = 2,
+								["canChoose"] = false,
+								["powerID"] = 1782,
+								["icon"] = 1360764,
+								["isChosen"] = false,
+								["spellID"] = 253070,
+							}, -- [3]
+							{
+								["requiredArtifactLevel"] = 69,
+								["tier"] = 3,
+								["canChoose"] = false,
+								["powerID"] = 977,
+								["icon"] = 135981,
+								["isChosen"] = true,
+								["spellID"] = 200294,
+							}, -- [4]
+							{
+								["requiredArtifactLevel"] = 69,
+								["tier"] = 3,
+								["canChoose"] = false,
+								["powerID"] = 974,
+								["icon"] = 135959,
+								["isChosen"] = false,
+								["spellID"] = 200302,
+							}, -- [5]
+							{
+								["requiredArtifactLevel"] = 69,
+								["tier"] = 3,
+								["canChoose"] = false,
+								["powerID"] = 976,
+								["icon"] = 461859,
+								["isChosen"] = false,
+								["spellID"] = 200296,
+							}, -- [6]
+						},
+					}, -- [1]
+					{
+						["relic"] = {
+							"Fraternal Fervor", -- [1]
+							459025, -- [2]
+							"Life", -- [3]
+							"|cffa335ee|Hitem:152291:::::::::::5:3:3611:1507:3337:::|h[Fraternal Fervor]|h|r", -- [4]
+						},
+						["traits"] = {
+							{
+								["requiredArtifactLevel"] = 0,
+								["tier"] = 1,
+								["canChoose"] = false,
+								["powerID"] = 1739,
+								["icon"] = 1033184,
+								["isChosen"] = true,
+								["spellID"] = 250879,
+							}, -- [1]
+							{
+								["requiredArtifactLevel"] = 63,
+								["tier"] = 2,
+								["canChoose"] = false,
+								["powerID"] = 1780,
+								["icon"] = 615101,
+								["isChosen"] = false,
+								["spellID"] = 252906,
+							}, -- [2]
+							{
+								["requiredArtifactLevel"] = 63,
+								["tier"] = 2,
+								["canChoose"] = false,
+								["powerID"] = 1782,
+								["icon"] = 1360764,
+								["isChosen"] = true,
+								["spellID"] = 253070,
+							}, -- [3]
+							{
+								["requiredArtifactLevel"] = 72,
+								["tier"] = 3,
+								["canChoose"] = false,
+								["powerID"] = 977,
+								["icon"] = 135981,
+								["isChosen"] = false,
+								["spellID"] = 200294,
+							}, -- [4]
+							{
+								["requiredArtifactLevel"] = 72,
+								["tier"] = 3,
+								["canChoose"] = false,
+								["powerID"] = 974,
+								["icon"] = 135959,
+								["isChosen"] = true,
+								["spellID"] = 200302,
+							}, -- [5]
+							{
+								["requiredArtifactLevel"] = 72,
+								["tier"] = 3,
+								["canChoose"] = false,
+								["powerID"] = 969,
+								["icon"] = 135966,
+								["isChosen"] = false,
+								["spellID"] = 200327,
+							}, -- [6]
+						},
+					}, -- [2]
+					{
+						["relic"] = {
+							"Cleansing Isotope", -- [1]
+							135948, -- [2]
+							"Holy", -- [3]
+							"|cffa335ee|Hitem:137402:::::::::::35:3:3536:1617:3337:::|h[Cleansing Isotope]|h|r", -- [4]
+						},
+						["traits"] = {
+							{
+								["requiredArtifactLevel"] = 0,
+								["tier"] = 1,
+								["canChoose"] = false,
+								["powerID"] = 1739,
+								["icon"] = 1033184,
+								["isChosen"] = true,
+								["spellID"] = 250879,
+							}, -- [1]
+							{
+								["requiredArtifactLevel"] = 66,
+								["tier"] = 2,
+								["canChoose"] = false,
+								["powerID"] = 1778,
+								["icon"] = 136146,
+								["isChosen"] = false,
+								["spellID"] = 252875,
+							}, -- [2]
+							{
+								["requiredArtifactLevel"] = 66,
+								["tier"] = 2,
+								["canChoose"] = false,
+								["powerID"] = 1775,
+								["icon"] = 458412,
+								["isChosen"] = true,
+								["spellID"] = 252207,
+							}, -- [3]
+							{
+								["requiredArtifactLevel"] = 75,
+								["tier"] = 3,
+								["canChoose"] = false,
+								["powerID"] = 969,
+								["icon"] = 135966,
+								["isChosen"] = false,
+								["spellID"] = 200327,
+							}, -- [4]
+							{
+								["requiredArtifactLevel"] = 75,
+								["tier"] = 3,
+								["canChoose"] = false,
+								["powerID"] = 975,
+								["icon"] = 135964,
+								["isChosen"] = true,
+								["spellID"] = 200298,
+							}, -- [5]
+							{
+								["requiredArtifactLevel"] = 75,
+								["tier"] = 3,
+								["canChoose"] = false,
+								["powerID"] = 1553,
+								["icon"] = 1122562,
+								["isChosen"] = false,
+								["spellID"] = 238060,
+							}, -- [6]
+						},
+					}, -- [3]
+					["level"] = 76,
+					["timestamp"] = 1833370.107,
+					["crucibled"] = true,
 				},
 			},
 		},

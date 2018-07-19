@@ -2,17 +2,20 @@
 MBFDB = {
 	["profileKeys"] = {
 		["Lyt - Azshara"] = "Default",
-		["Ieni - Tarren Mill"] = "Default",
+		["Intergalacto - Tarren Mill"] = "Default",
 		["Enthusiastus - Azshara"] = "Default",
 		["Mamiko - Azshara"] = "Default",
+		["Mihri - Tarren Mill"] = "Default",
+		["Enthusiastus - Tarren Mill"] = "Default",
+		["Ieni - Tarren Mill"] = "Default",
 	},
 	["profiles"] = {
 		["Default"] = {
 			["MBF_FrameLocation"] = {
 				nil, -- [1]
 				"RIGHT", -- [2]
-				-3.75002789497376, -- [3]
-				205.000053405762, -- [4]
+				nil, -- [3]
+				-52.5000152587891, -- [4]
 			},
 			["customChildren"] = {
 				"MinimapButtonFrameDragButton", -- [1]
@@ -29,6 +32,7 @@ MBFDB = {
 				"LibDBIcon10_Paste", -- [12]
 				"OutfitterMinimapButton", -- [13]
 				"GuildInstanceDifficulty", -- [14]
+				"LibDBIcon10_WoWProIcon", -- [15]
 			},
 		},
 	},

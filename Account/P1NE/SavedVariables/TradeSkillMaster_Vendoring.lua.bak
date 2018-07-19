@@ -7,17 +7,20 @@ TradeSkillMaster_VendoringDB = {
 			"Lyt - Azshara", -- [2]
 			"Enthusiastus - Azshara", -- [3]
 			"Ieni - Tarren Mill", -- [4]
-		},
-		["realm"] = {
-			"Azshara", -- [1]
-			"Tarren Mill", -- [2]
-		},
-		["profile"] = {
-			"Default", -- [1]
+			"Mihri - Tarren Mill", -- [5]
+			"Enthusiastus - Tarren Mill", -- [6]
+			"Intergalacto - Tarren Mill", -- [7]
 		},
 		["factionrealm"] = {
 			"Horde - Azshara", -- [1]
 			"Horde - Tarren Mill", -- [2]
+		},
+		["profile"] = {
+			"Default", -- [1]
+		},
+		["realm"] = {
+			"Azshara", -- [1]
+			"Tarren Mill", -- [2]
 		},
 	},
 	["g@ @helpPlatesShown"] = {
@@ -27,20 +30,23 @@ TradeSkillMaster_VendoringDB = {
 	["g@ @qsHideGrouped"] = true,
 	["_currentProfile"] = {
 		["Lyt - Azshara"] = "Default",
-		["Ieni - Tarren Mill"] = "Default",
+		["Intergalacto - Tarren Mill"] = "Default",
 		["Enthusiastus - Azshara"] = "Default",
+		["Ieni - Tarren Mill"] = "Default",
+		["Mihri - Tarren Mill"] = "Default",
+		["Enthusiastus - Tarren Mill"] = "Default",
 		["Mamiko - Azshara"] = "Default",
 	},
 	["g@ @qsHideSoulbound"] = true,
 	["g@ @defaultPage"] = 1,
 	["g@ @qsBatchSize"] = 12,
 	["g@ @displayMoneyCollected"] = false,
+	["g@ @qsMarketValue"] = "dbmarket",
+	["g@ @autoSellTrash"] = false,
+	["g@ @defaultMerchantTab"] = false,
+	["g@ @qsMaxDestroyValue"] = "100g",
+	["g@ @qsMaxMarketValue"] = "100g",
+	["_version"] = 1,
 	["g@ @ignore"] = {
 	},
-	["g@ @defaultMerchantTab"] = false,
-	["g@ @autoSellTrash"] = false,
-	["g@ @qsMaxMarketValue"] = "100g",
-	["g@ @qsMaxDestroyValue"] = "100g",
-	["_version"] = 1,
-	["g@ @qsMarketValue"] = "dbmarket",
 }

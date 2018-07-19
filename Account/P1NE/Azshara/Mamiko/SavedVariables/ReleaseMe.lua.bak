@@ -4,9 +4,9 @@ RM_SavedVars = {
 	["place"] = {
 		["party"] = false,
 		["scenario"] = false,
-		["pvp"] = true,
+		["world"] = false,
 		["arena"] = false,
 		["raid"] = false,
-		["world"] = false,
+		["pvp"] = true,
 	},
 }
