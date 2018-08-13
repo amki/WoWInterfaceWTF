@@ -1,0 +1,357 @@
+
+RelicInspectorCharDB = {
+	["profileKeys"] = {
+		["Enthusiastus - Tarren Mill"] = "Enthusiastus - Tarren Mill",
+	},
+	["char"] = {
+		["Enthusiastus - Tarren Mill"] = {
+			["crucibleUsed"] = true,
+			["artifactCache"] = {
+				[128306] = {
+					{
+						["relic"] = {
+							"Marsuul Egg", -- [1]
+							1045946, -- [2]
+							"Life", -- [3]
+							"|cffa335ee|Hitem:151012:::::::::::29:3:3396:3174:3336:::|h[Marsuul Egg]|h|r", -- [4]
+						},
+						["traits"] = {
+							{
+								["requiredArtifactLevel"] = 0,
+								["tier"] = 1,
+								["canChoose"] = false,
+								["powerID"] = 1739,
+								["icon"] = 1033184,
+								["isChosen"] = true,
+								["spellID"] = 250879,
+							}, -- [1]
+							{
+								["requiredArtifactLevel"] = 60,
+								["tier"] = 2,
+								["canChoose"] = false,
+								["powerID"] = 1781,
+								["icon"] = 839910,
+								["isChosen"] = false,
+								["spellID"] = 252922,
+							}, -- [2]
+							{
+								["requiredArtifactLevel"] = 60,
+								["tier"] = 2,
+								["canChoose"] = false,
+								["powerID"] = 1775,
+								["icon"] = 458412,
+								["isChosen"] = true,
+								["spellID"] = 252207,
+							}, -- [3]
+							{
+								["requiredArtifactLevel"] = 69,
+								["tier"] = 3,
+								["canChoose"] = false,
+								["powerID"] = 133,
+								["icon"] = 236153,
+								["isChosen"] = false,
+								["spellID"] = 189757,
+							}, -- [4]
+							{
+								["requiredArtifactLevel"] = 69,
+								["tier"] = 3,
+								["canChoose"] = false,
+								["powerID"] = 134,
+								["icon"] = 572025,
+								["isChosen"] = false,
+								["spellID"] = 189754,
+							}, -- [5]
+							{
+								["requiredArtifactLevel"] = 69,
+								["tier"] = 3,
+								["canChoose"] = false,
+								["powerID"] = 137,
+								["icon"] = 136096,
+								["isChosen"] = true,
+								["spellID"] = 186396,
+							}, -- [6]
+						},
+					}, -- [1]
+					{
+						["relic"] = {
+							"Viscous Reaver-Coolant", -- [1]
+							576310, -- [2]
+							"Frost", -- [3]
+							"|cffa335ee|Hitem:152039:::::::::::3:3:3610:1472:3528:::|h[Viscous Reaver-Coolant]|h|r", -- [4]
+						},
+						["traits"] = {
+							{
+								["requiredArtifactLevel"] = 0,
+								["tier"] = 1,
+								["canChoose"] = false,
+								["powerID"] = 1739,
+								["icon"] = 1033184,
+								["isChosen"] = true,
+								["spellID"] = 250879,
+							}, -- [1]
+							{
+								["requiredArtifactLevel"] = 63,
+								["tier"] = 2,
+								["canChoose"] = false,
+								["powerID"] = 1778,
+								["icon"] = 136146,
+								["isChosen"] = true,
+								["spellID"] = 252875,
+							}, -- [2]
+							{
+								["requiredArtifactLevel"] = 63,
+								["tier"] = 2,
+								["canChoose"] = false,
+								["powerID"] = 1784,
+								["icon"] = 236687,
+								["isChosen"] = false,
+								["spellID"] = 253111,
+							}, -- [3]
+							{
+								["requiredArtifactLevel"] = 72,
+								["tier"] = 3,
+								["canChoose"] = false,
+								["powerID"] = 132,
+								["icon"] = 134222,
+								["isChosen"] = false,
+								["spellID"] = 189760,
+							}, -- [4]
+							{
+								["requiredArtifactLevel"] = 72,
+								["tier"] = 3,
+								["canChoose"] = false,
+								["powerID"] = 137,
+								["icon"] = 136096,
+								["isChosen"] = true,
+								["spellID"] = 186396,
+							}, -- [5]
+							{
+								["requiredArtifactLevel"] = 72,
+								["tier"] = 3,
+								["canChoose"] = false,
+								["powerID"] = 131,
+								["icon"] = 236155,
+								["isChosen"] = false,
+								["spellID"] = 189768,
+							}, -- [6]
+						},
+					}, -- [2]
+					{
+						["relic"] = {
+							"Root of the Lifebinder", -- [1]
+							960689, -- [2]
+							"Life", -- [3]
+							"|cffa335ee|Hitem:155854:::::::::::3:3:3610:1482:3528:::|h[Root of the Lifebinder]|h|r", -- [4]
+						},
+						["traits"] = {
+							{
+								["requiredArtifactLevel"] = 0,
+								["tier"] = 1,
+								["canChoose"] = false,
+								["powerID"] = 1739,
+								["icon"] = 1033184,
+								["isChosen"] = true,
+								["spellID"] = 250879,
+							}, -- [1]
+							{
+								["requiredArtifactLevel"] = 66,
+								["tier"] = 2,
+								["canChoose"] = false,
+								["powerID"] = 1774,
+								["icon"] = 136129,
+								["isChosen"] = true,
+								["spellID"] = 252191,
+							}, -- [2]
+							{
+								["requiredArtifactLevel"] = 66,
+								["tier"] = 2,
+								["canChoose"] = false,
+								["powerID"] = 1775,
+								["icon"] = 458412,
+								["isChosen"] = false,
+								["spellID"] = 252207,
+							}, -- [3]
+							{
+								["requiredArtifactLevel"] = 75,
+								["tier"] = 3,
+								["canChoose"] = false,
+								["powerID"] = 1513,
+								["icon"] = 1115592,
+								["isChosen"] = false,
+								["spellID"] = 238050,
+							}, -- [4]
+							{
+								["requiredArtifactLevel"] = 75,
+								["tier"] = 3,
+								["canChoose"] = false,
+								["powerID"] = 135,
+								["icon"] = 134914,
+								["isChosen"] = false,
+								["spellID"] = 189749,
+							}, -- [5]
+							{
+								["requiredArtifactLevel"] = 75,
+								["tier"] = 3,
+								["canChoose"] = false,
+								["powerID"] = 131,
+								["icon"] = 236155,
+								["isChosen"] = false,
+								["spellID"] = 189768,
+							}, -- [6]
+						},
+					}, -- [3]
+					["level"] = 72,
+					["timestamp"] = 180893.672,
+					["crucibled"] = true,
+				},
+				[128821] = {
+					["timestamp"] = 2026793.406,
+					["crucibled"] = false,
+					["level"] = 55,
+				},
+				[128858] = {
+					{
+						["relic"] = {
+							"Enchanted Pool Garnet", -- [1]
+							134100, -- [2]
+							"Arcane", -- [3]
+							"|cff1eff00|Hitem:132282:::::::::::11:3:664:1531:1809:::|h[Enchanted Pool Garnet]|h|r", -- [4]
+						},
+						["traits"] = {
+							{
+								["requiredArtifactLevel"] = 0,
+								["tier"] = 1,
+								["canChoose"] = false,
+								["powerID"] = 1739,
+								["icon"] = 1033184,
+								["isChosen"] = true,
+								["spellID"] = 250879,
+							}, -- [1]
+							{
+								["requiredArtifactLevel"] = 60,
+								["tier"] = 2,
+								["canChoose"] = false,
+								["powerID"] = 1780,
+								["icon"] = 615101,
+								["isChosen"] = false,
+								["spellID"] = 252906,
+							}, -- [2]
+							{
+								["requiredArtifactLevel"] = 60,
+								["tier"] = 2,
+								["canChoose"] = false,
+								["powerID"] = 1770,
+								["icon"] = 132307,
+								["isChosen"] = false,
+								["spellID"] = 252088,
+							}, -- [3]
+							{
+								["requiredArtifactLevel"] = 69,
+								["tier"] = 3,
+								["canChoose"] = false,
+								["powerID"] = 1040,
+								["icon"] = 136096,
+								["isChosen"] = false,
+								["spellID"] = 202445,
+							}, -- [4]
+							{
+								["requiredArtifactLevel"] = 69,
+								["tier"] = 3,
+								["canChoose"] = false,
+								["powerID"] = 1501,
+								["icon"] = 236168,
+								["isChosen"] = false,
+								["spellID"] = 238047,
+							}, -- [5]
+							{
+								["requiredArtifactLevel"] = 69,
+								["tier"] = 3,
+								["canChoose"] = false,
+								["powerID"] = 1042,
+								["icon"] = 1041232,
+								["isChosen"] = false,
+								["spellID"] = 202464,
+							}, -- [6]
+						},
+					}, -- [1]
+					{
+						["relic"] = {
+							"Yotnar's Gratitude", -- [1]
+							840976, -- [2]
+							"Life", -- [3]
+							"|cff1eff00|Hitem:132782:::::::::::11:3:767:1577:1809:::|h[Yotnar's Gratitude]|h|r", -- [4]
+						},
+						["traits"] = {
+							{
+								["requiredArtifactLevel"] = 0,
+								["tier"] = 1,
+								["canChoose"] = false,
+								["powerID"] = 1739,
+								["icon"] = 1033184,
+								["isChosen"] = true,
+								["spellID"] = 250879,
+							}, -- [1]
+							{
+								["requiredArtifactLevel"] = 63,
+								["tier"] = 2,
+								["canChoose"] = false,
+								["powerID"] = 1780,
+								["icon"] = 615101,
+								["isChosen"] = false,
+								["spellID"] = 252906,
+							}, -- [2]
+							{
+								["requiredArtifactLevel"] = 63,
+								["tier"] = 2,
+								["canChoose"] = false,
+								["powerID"] = 1782,
+								["icon"] = 1360764,
+								["isChosen"] = false,
+								["spellID"] = 253070,
+							}, -- [3]
+							{
+								["requiredArtifactLevel"] = 72,
+								["tier"] = 3,
+								["canChoose"] = false,
+								["powerID"] = 1040,
+								["icon"] = 136096,
+								["isChosen"] = false,
+								["spellID"] = 202445,
+							}, -- [4]
+							{
+								["requiredArtifactLevel"] = 72,
+								["tier"] = 3,
+								["canChoose"] = false,
+								["powerID"] = 1041,
+								["icon"] = 1033487,
+								["isChosen"] = false,
+								["spellID"] = 202466,
+							}, -- [5]
+							{
+								["requiredArtifactLevel"] = 72,
+								["tier"] = 3,
+								["canChoose"] = false,
+								["powerID"] = 1042,
+								["icon"] = 1041232,
+								["isChosen"] = false,
+								["spellID"] = 202464,
+							}, -- [6]
+						},
+					}, -- [2]
+					{
+						["relic"] = {
+						},
+					}, -- [3]
+					["level"] = 55,
+					["timestamp"] = 2024767.095,
+					["crucibled"] = true,
+				},
+				[128860] = {
+					["timestamp"] = 23853.653,
+					["level"] = 57,
+					["crucibled"] = false,
+				},
+			},
+		},
+	},
+}

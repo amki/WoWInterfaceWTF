@@ -1,0 +1,15 @@
+Version: 1
+Frame: DetailsPlayerDetailsWindow
+FrameLevel: 1
+Anchor: CENTER
+X: 1
+Y: 0
+W: 790
+H: 454
+Frame: XToLevel_AverageFrame_Blocky_PlayerFrame
+FrameLevel: 1
+Anchor: LEFT
+X: 9
+Y: 42
+W: 254
+H: 56

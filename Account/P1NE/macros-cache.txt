@@ -40,18 +40,21 @@ VER 3 0000000000000045 " " "INV_MISC_QUESTIONMARK"
 #showtooltip Holy Ward
 /use [@mouseover,help,nodead][help,nodead][@player] Holy Ward
 END
-VER 3 0000000000000046 " " "INV_MISC_QUESTIONMARK"
-/run local a={43730,43731,43732,43733,43734,43735,43736,43737,43760,43761}for i,q in ipairs(a)do print(format("Orb %s: %s",i, IsQuestFlaggedCompleted(q) and "\124cFF00FF00Done\124r" or "\124cFFFF0000Not Done\124r")) end
-END
 VER 3 000000000000004B " " "INV_MISC_QUESTIONMARK"
 #showtooltip
 /cast [@player] Failure Detection Pylon
 END
+VER 3 000000000000004C " " "132092"
+/click ExtraActionButton1
+END
+VER 3 000000000000004D " " "INV_MISC_QUESTIONMARK"
+/run local t = time() +15 while time() < t do end
+END
 VER 3 000000000000004A " DMG STOP" "INV_MISC_QUESTIONMARK"
 /rw DMG STOP
 END
-VER 3 000000000000003C "Barrels" "INV_MISC_QUESTIONMARK"
-/script SetRaidTarget("mouseover",6)
+VER 3 000000000000004E "AAP_MACRO" "INV_MISC_QUESTIONMARK"
+/script print('no button yet')
 END
 VER 3 0000000000000035 "Circle" "INV_MISC_QUESTIONMARK"
 /wm 6

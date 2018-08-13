@@ -5,13 +5,23 @@ MasterPlanAG = {
 			["faction"] = "Horde",
 			["class"] = "PRIEST",
 		},
-		["Enthusiastus"] = {
+		["Intergalacto"] = {
 			["faction"] = "Horde",
+			["class"] = "MONK",
+		},
+		["Enthusiastus"] = {
 			["class"] = "DRUID",
+			["faction"] = "Horde",
 		},
 		["Lyt"] = {
 			["faction"] = "Horde",
 			["class"] = "PALADIN",
+		},
+	},
+	["Onyxia"] = {
+		["Intergalacto"] = {
+			["class"] = "SHAMAN",
+			["faction"] = "Horde",
 		},
 	},
 	["Tarren Mill"] = {
@@ -21,18 +31,18 @@ MasterPlanAG = {
 					[2] = 1507787543,
 				},
 			},
-			["faction"] = "Horde",
 			["curOil"] = 100,
+			["faction"] = "Horde",
 			["lastCacheTime"] = 1507860642,
 			["curRes"] = 1238,
 			["class"] = "PALADIN",
 		},
 		["Mihri"] = {
-			["faction"] = "Horde",
+			["class"] = "PRIEST",
 			["curOil"] = 25,
 			["lastCacheTime"] = 1516334237,
 			["curRes"] = 7331,
-			["class"] = "PRIEST",
+			["faction"] = "Horde",
 		},
 		["Enthusiastus"] = {
 			["lastCacheTime"] = 1516493184,

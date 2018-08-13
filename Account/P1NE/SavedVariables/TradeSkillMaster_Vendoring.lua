@@ -10,10 +10,13 @@ TradeSkillMaster_VendoringDB = {
 			"Mihri - Tarren Mill", -- [5]
 			"Enthusiastus - Tarren Mill", -- [6]
 			"Intergalacto - Tarren Mill", -- [7]
+			"Intergalacto - Azshara", -- [8]
+			"Intergalacto - Onyxia", -- [9]
 		},
 		["realm"] = {
 			"Azshara", -- [1]
 			"Tarren Mill", -- [2]
+			"Onyxia", -- [3]
 		},
 		["profile"] = {
 			"Default", -- [1]
@@ -21,6 +24,7 @@ TradeSkillMaster_VendoringDB = {
 		["factionrealm"] = {
 			"Horde - Azshara", -- [1]
 			"Horde - Tarren Mill", -- [2]
+			"Horde - Onyxia", -- [3]
 		},
 	},
 	["g@ @helpPlatesShown"] = {
@@ -31,11 +35,13 @@ TradeSkillMaster_VendoringDB = {
 	["_currentProfile"] = {
 		["Lyt - Azshara"] = "Default",
 		["Intergalacto - Tarren Mill"] = "Default",
-		["Enthusiastus - Azshara"] = "Default",
+		["Intergalacto - Azshara"] = "Default",
 		["Ieni - Tarren Mill"] = "Default",
-		["Mihri - Tarren Mill"] = "Default",
-		["Mamiko - Azshara"] = "Default",
+		["Intergalacto - Onyxia"] = "Default",
 		["Enthusiastus - Tarren Mill"] = "Default",
+		["Mamiko - Azshara"] = "Default",
+		["Mihri - Tarren Mill"] = "Default",
+		["Enthusiastus - Azshara"] = "Default",
 	},
 	["g@ @qsHideSoulbound"] = true,
 	["g@ @defaultPage"] = 1,

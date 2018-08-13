@@ -1,0 +1,8 @@
+Version: 1
+Frame: DetailsPluginContainerWindow
+FrameLevel: 1
+Anchor: CENTER
+X: 248
+Y: -9
+W: 925
+H: 600

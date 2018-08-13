@@ -15,6 +15,7 @@ TradeSkillMaster_WarehousingDB = {
 			"Mihri - Tarren Mill", -- [11]
 			"Enthusiastus - Tarren Mill", -- [12]
 			"Intergalacto - Tarren Mill", -- [13]
+			"Intergalacto - Onyxia", -- [14]
 		},
 		["realm"] = {
 			"Azshara", -- [1]
@@ -50,6 +51,7 @@ TradeSkillMaster_WarehousingDB = {
 		["Rynllor - Onyxia"] = "Default",
 		["Miamisaurus - Onyxia"] = "Default",
 		["Lyt - Onyxia"] = "Default",
+		["Intergalacto - Onyxia"] = "Default",
 		["Ieni - Mal'Ganis"] = "Default",
 		["Enthusiastus - Tarren Mill"] = "Default",
 		["Mamiko - Azshara"] = "Default",

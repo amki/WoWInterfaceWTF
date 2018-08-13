@@ -3,11 +3,13 @@ GladiatorlosSADB = {
 	["profileKeys"] = {
 		["Lyt - Azshara"] = "Default",
 		["Intergalacto - Tarren Mill"] = "Default",
-		["Enthusiastus - Azshara"] = "Default",
+		["Intergalacto - Azshara"] = "Default",
+		["Ieni - Tarren Mill"] = "Default",
+		["Intergalacto - Onyxia"] = "Default",
+		["Enthusiastus - Tarren Mill"] = "Default",
 		["Mamiko - Azshara"] = "Default",
 		["Mihri - Tarren Mill"] = "Default",
-		["Ieni - Tarren Mill"] = "Default",
-		["Enthusiastus - Tarren Mill"] = "Default",
+		["Enthusiastus - Azshara"] = "Default",
 	},
 	["profiles"] = {
 		["Default"] = {

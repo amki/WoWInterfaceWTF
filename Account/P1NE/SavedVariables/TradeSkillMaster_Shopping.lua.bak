@@ -19,6 +19,7 @@ TradeSkillMaster_ShoppingDB = {
 			"Mihri - Tarren Mill", -- [11]
 			"Enthusiastus - Tarren Mill", -- [12]
 			"Intergalacto - Tarren Mill", -- [13]
+			"Intergalacto - Onyxia", -- [14]
 		},
 		["realm"] = {
 			"Azshara", -- [1]
@@ -40,610 +41,610 @@ TradeSkillMaster_ShoppingDB = {
 		["auction"] = true,
 	},
 	["g@ @sniperVendorPrice"] = true,
-	["g@ @sniperSound"] = "TSM_NO_SOUND",
+	["_hash"] = 1861581,
 	["g@ @savedSearches"] = {
+		{
+			["searchMode"] = "normal",
+			["lastSearch"] = 1532402436,
+			["name"] = "eye of shadow",
+			["filter"] = "eye of shadow",
+		}, -- [1]
+		{
+			["searchMode"] = "normal",
+			["lastSearch"] = 1532371090,
+			["name"] = "roast",
+			["filter"] = "roast",
+		}, -- [2]
+		{
+			["searchMode"] = "normal",
+			["lastSearch"] = 1532371083,
+			["name"] = "silkweave bandage",
+			["filter"] = "silkweave bandage",
+		}, -- [3]
+		{
+			["searchMode"] = "normal",
+			["lastSearch"] = 1532371058,
+			["name"] = "Highmountain Salmon/exact",
+			["filter"] = "Highmountain Salmon/exact",
+		}, -- [4]
 		{
 			["searchMode"] = "normal",
 			["lastSearch"] = 1524996915,
 			["name"] = "astral glory",
 			["filter"] = "astral glory",
-		}, -- [1]
+		}, -- [5]
 		{
 			["searchMode"] = "normal",
 			["lastSearch"] = 1524996873,
 			["name"] = "felwort",
 			["filter"] = "felwort",
-		}, -- [2]
+		}, -- [6]
 		{
 			["searchMode"] = "normal",
 			["lastSearch"] = 1524996852,
 			["name"] = "infernal brimstone",
 			["filter"] = "infernal brimstone",
-		}, -- [3]
+		}, -- [7]
 		{
 			["searchMode"] = "normal",
 			["lastSearch"] = 1523997633,
 			["name"] = "Corrupted Mantle of the Felseekers",
 			["filter"] = "Corrupted Mantle of the Felseekers",
-		}, -- [4]
+		}, -- [8]
 		{
 			["searchMode"] = "normal",
 			["lastSearch"] = 1523751014,
 			["name"] = "leystone ore/exact",
 			["filter"] = "leystone ore/exact",
-		}, -- [5]
+		}, -- [9]
 		{
 			["searchMode"] = "normal",
 			["lastSearch"] = 1523750984,
 			["name"] = "felslate/exact",
 			["filter"] = "felslate/exact",
-		}, -- [6]
+		}, -- [10]
 		{
 			["searchMode"] = "normal",
 			["lastSearch"] = 1523230844,
 			["name"] = "Flask of the Whispered Pact/exact",
 			["filter"] = "Flask of the Whispered Pact/exact",
-		}, -- [7]
+		}, -- [11]
 		{
 			["searchMode"] = "normal",
 			["lastSearch"] = 1522719536,
 			["name"] = "flask of the countless armies/exact",
 			["filter"] = "flask of the countless armies/exact",
-		}, -- [8]
+		}, -- [12]
 		{
 			["searchMode"] = "normal",
 			["lastSearch"] = 1522719498,
 			["name"] = "flask of the seventh demon/exact",
 			["filter"] = "flask of the seventh demon/exact",
-		}, -- [9]
+		}, -- [13]
 		{
 			["searchMode"] = "normal",
 			["lastSearch"] = 1522719474,
 			["name"] = "flask of ten thousand scars/exact",
 			["filter"] = "flask of ten thousand scars/exact",
-		}, -- [10]
+		}, -- [14]
 		{
 			["searchMode"] = "normal",
 			["lastSearch"] = 1522715467,
 			["name"] = "potion of deadly grace/exact",
 			["filter"] = "potion of deadly grace/exact",
-		}, -- [11]
+		}, -- [15]
 		{
 			["searchMode"] = "normal",
 			["lastSearch"] = 1522715465,
 			["name"] = "potion of deadly grace/exac",
 			["filter"] = "potion of deadly grace/exac",
-		}, -- [12]
+		}, -- [16]
 		{
 			["searchMode"] = "normal",
 			["lastSearch"] = 1522715410,
 			["name"] = "potion of the old war/exact",
 			["filter"] = "potion of the old war/exact",
-		}, -- [13]
+		}, -- [17]
 		{
 			["searchMode"] = "normal",
 			["lastSearch"] = 1522715380,
 			["name"] = "unbending potion/exact",
 			["filter"] = "unbending potion/exact",
-		}, -- [14]
+		}, -- [18]
 		{
 			["searchMode"] = "normal",
 			["lastSearch"] = 1522715351,
 			["name"] = "leytorrent potion",
 			["filter"] = "leytorrent potion",
-		}, -- [15]
+		}, -- [19]
 		{
 			["searchMode"] = "normal",
 			["lastSearch"] = 1522715235,
 			["name"] = "skaggldrynk/exact",
 			["filter"] = "skaggldrynk/exact",
-		}, -- [16]
+		}, -- [20]
 		{
 			["searchMode"] = "normal",
 			["lastSearch"] = 1522715196,
 			["name"] = "Yseralline Seed/exact",
 			["filter"] = "Yseralline Seed/exact",
-		}, -- [17]
+		}, -- [21]
 		{
 			["searchMode"] = "normal",
 			["lastSearch"] = 1522715172,
 			["name"] = "felhide/exact",
 			["filter"] = "felhide/exact",
-		}, -- [18]
+		}, -- [22]
 		{
 			["searchMode"] = "normal",
 			["lastSearch"] = 1522712865,
 			["name"] = "dreamleaf/exact",
 			["filter"] = "dreamleaf/exact",
-		}, -- [19]
+		}, -- [23]
 		{
 			["searchMode"] = "normal",
 			["lastSearch"] = 1522712807,
 			["name"] = "foxflower",
 			["filter"] = "foxflower",
-		}, -- [20]
+		}, -- [24]
 		{
 			["searchMode"] = "normal",
 			["lastSearch"] = 1522292037,
 			["name"] = "deadly Deep Chemirine/exact",
 			["filter"] = "deadly Deep Chemirine/exact",
-		}, -- [21]
+		}, -- [25]
 		{
 			["searchMode"] = "normal",
 			["lastSearch"] = 1522288533,
 			["name"] = "Arkhana/exact",
 			["filter"] = "Arkhana/exact",
-		}, -- [22]
+		}, -- [26]
 		{
 			["searchMode"] = "normal",
 			["lastSearch"] = 1521755618,
 			["name"] = "saber's Eye of Intellect",
 			["filter"] = "saber's Eye of Intellect",
-		}, -- [23]
+		}, -- [27]
 		{
 			["searchMode"] = "normal",
 			["lastSearch"] = 1518756527,
 			["name"] = "netherweave bag",
 			["filter"] = "netherweave bag",
-		}, -- [24]
+		}, -- [28]
 		{
 			["searchMode"] = "normal",
 			["lastSearch"] = 1518574172,
 			["name"] = "quick Lightsphene",
 			["filter"] = "quick Lightsphene",
-		}, -- [25]
+		}, -- [29]
 		{
 			["searchMode"] = "normal",
 			["lastSearch"] = 1518388001,
 			["name"] = "fjarnskaggl/exact",
 			["filter"] = "fjarnskaggl/exact",
-		}, -- [26]
+		}, -- [30]
 		{
 			["searchMode"] = "normal",
 			["lastSearch"] = 1518387979,
 			["name"] = "runescale koi",
 			["filter"] = "runescale koi",
-		}, -- [27]
+		}, -- [31]
 		{
 			["searchMode"] = "normal",
 			["lastSearch"] = 1518383448,
 			["name"] = "starlight rose/exact",
 			["filter"] = "starlight rose/exact",
-		}, -- [28]
+		}, -- [32]
 		{
 			["searchMode"] = "normal",
 			["lastSearch"] = 1518382288,
 			["name"] = "Gloves of Abhorrent Strategies",
 			["filter"] = "Gloves of Abhorrent Strategies",
-		}, -- [29]
+		}, -- [33]
 		{
 			["searchMode"] = "normal",
 			["lastSearch"] = 1518137715,
 			["name"] = "Fatty Bearsteak/exact",
 			["filter"] = "Fatty Bearsteak/exact",
-		}, -- [30]
-		{
-			["searchMode"] = "normal",
-			["lastSearch"] = 1518137564,
-			["name"] = "Highmountain Salmon/exact",
-			["filter"] = "Highmountain Salmon/exact",
-		}, -- [31]
+		}, -- [34]
 		{
 			["searchMode"] = "normal",
 			["lastSearch"] = 1517963580,
 			["name"] = "[Corrupted Mantle of the Felseekers]",
 			["filter"] = "[Corrupted Mantle of the Felseekers]",
-		}, -- [32]
+		}, -- [35]
 		{
 			["searchMode"] = "normal",
 			["lastSearch"] = 1515810066,
 			["name"] = "netherweave",
 			["filter"] = "netherweave",
-		}, -- [33]
+		}, -- [36]
 		{
 			["searchMode"] = "normal",
 			["lastSearch"] = 1515641672,
 			["name"] = "masterful argu",
 			["filter"] = "masterful argu",
-		}, -- [34]
+		}, -- [37]
 		{
 			["searchMode"] = "normal",
 			["lastSearch"] = 1515641667,
 			["name"] = "masterful Shadowruby",
 			["filter"] = "masterful Shadowruby",
-		}, -- [35]
+		}, -- [38]
 		{
 			["searchMode"] = "normal",
 			["lastSearch"] = 1515641651,
 			["name"] = "Prydaz, Xavaric's Magnum Opus",
 			["filter"] = "Prydaz, Xavaric's Magnum Opus",
-		}, -- [36]
+		}, -- [39]
 		{
 			["searchMode"] = "normal",
 			["lastSearch"] = 1508285071,
 			["name"] = "magister",
 			["filter"] = "magister",
-		}, -- [37]
+		}, -- [40]
 		{
 			["searchMode"] = "normal",
 			["lastSearch"] = 1507599316,
 			["name"] = "Sash of the Unredeemed",
 			["filter"] = "Sash of the Unredeemed",
-		}, -- [38]
+		}, -- [41]
 		{
 			["searchMode"] = "normal",
 			["lastSearch"] = 1506723931,
 			["name"] = "lean shank",
 			["filter"] = "lean shank",
-		}, -- [39]
+		}, -- [42]
 		{
 			["searchMode"] = "normal",
 			["lastSearch"] = 1506297680,
 			["name"] = "gold bar",
 			["filter"] = "gold bar",
-		}, -- [40]
+		}, -- [43]
 		{
 			["searchMode"] = "normal",
 			["lastSearch"] = 1506297659,
 			["name"] = "iron bar",
 			["filter"] = "iron bar",
-		}, -- [41]
+		}, -- [44]
 		{
 			["searchMode"] = "normal",
 			["lastSearch"] = 1506297609,
 			["name"] = "mithril bar",
 			["filter"] = "mithril bar",
-		}, -- [42]
+		}, -- [45]
 		{
 			["searchMode"] = "normal",
 			["lastSearch"] = 1506297594,
 			["name"] = "snowball",
 			["filter"] = "snowball",
-		}, -- [43]
+		}, -- [46]
 		{
 			["searchMode"] = "normal",
 			["lastSearch"] = 1506239745,
 			["name"] = "Sea Star of the Depthmother",
 			["filter"] = "Sea Star of the Depthmother",
-		}, -- [44]
+		}, -- [47]
 		{
 			["searchMode"] = "normal",
 			["lastSearch"] = 1506239729,
 			["name"] = "starlight",
 			["filter"] = "starlight",
-		}, -- [45]
+		}, -- [48]
 		{
 			["searchMode"] = "normal",
 			["lastSearch"] = 1505429520,
 			["name"] = "Fel-Flecked Grips",
 			["filter"] = "Fel-Flecked Grips",
-		}, -- [46]
+		}, -- [49]
 		{
 			["searchMode"] = "normal",
 			["lastSearch"] = 1505408080,
 			["name"] = "lightspawn",
 			["filter"] = "lightspawn",
-		}, -- [47]
+		}, -- [50]
 		{
 			["searchMode"] = "normal",
 			["lastSearch"] = 1505408076,
 			["name"] = "glyph of lightspawn",
 			["filter"] = "glyph of lightspawn",
-		}, -- [48]
+		}, -- [51]
 		{
 			["searchMode"] = "normal",
 			["lastSearch"] = 1504799883,
 			["name"] = "empyrium",
 			["filter"] = "empyrium",
-		}, -- [49]
+		}, -- [52]
 		{
 			["searchMode"] = "normal",
 			["lastSearch"] = 1504266100,
 			["name"] = "fiendish leather",
 			["filter"] = "fiendish leather",
-		}, -- [50]
+		}, -- [53]
 		{
 			["searchMode"] = "normal",
 			["lastSearch"] = 1499909536,
 			["name"] = "Quick Dawnlight/exact",
 			["filter"] = "Quick Dawnlight/exact",
-		}, -- [51]
+		}, -- [54]
 		{
 			["searchMode"] = "normal",
 			["lastSearch"] = 1499285728,
 			["name"] = "Ink-Smudged Handwraps",
 			["filter"] = "Ink-Smudged Handwraps",
-		}, -- [52]
+		}, -- [55]
 		{
 			["searchMode"] = "normal",
 			["lastSearch"] = 1499128881,
 			["name"] = "drums",
 			["filter"] = "drums",
-		}, -- [53]
+		}, -- [56]
 		{
 			["searchMode"] = "normal",
 			["lastSearch"] = 1498786690,
 			["name"] = "Wildfowl Egg/exact",
 			["filter"] = "Wildfowl Egg/exact",
-		}, -- [54]
+		}, -- [57]
 		{
 			["searchMode"] = "normal",
 			["lastSearch"] = 1498786435,
 			["name"] = "Abyssal Gulper Eel Flesh/exact",
 			["filter"] = "Abyssal Gulper Eel Flesh/exact",
-		}, -- [55]
+		}, -- [58]
 		{
 			["searchMode"] = "normal",
 			["lastSearch"] = 1498786420,
 			["name"] = "Grilled Gulper/exact",
 			["filter"] = "Grilled Gulper/exact",
-		}, -- [56]
+		}, -- [59]
 		{
 			["searchMode"] = "normal",
 			["lastSearch"] = 1498786402,
 			["name"] = "Fireweed/exact",
 			["filter"] = "Fireweed/exact",
-		}, -- [57]
+		}, -- [60]
 		{
 			["searchMode"] = "normal",
 			["lastSearch"] = 1498786211,
 			["name"] = "Raw Boar Meat/exact",
 			["filter"] = "Raw Boar Meat/exact",
-		}, -- [58]
+		}, -- [61]
 		{
 			["searchMode"] = "normal",
 			["lastSearch"] = 1498785799,
 			["name"] = "Crescent Saberfish Flesh/exact",
 			["filter"] = "Crescent Saberfish Flesh/exact",
-		}, -- [59]
+		}, -- [62]
 		{
 			["searchMode"] = "normal",
 			["lastSearch"] = 1498714833,
 			["name"] = "Falcosaur Egg/exact",
 			["filter"] = "Falcosaur Egg/exact",
-		}, -- [60]
+		}, -- [63]
 		{
 			["searchMode"] = "normal",
 			["lastSearch"] = 1498447193,
 			["name"] = "sorcerous fire",
 			["filter"] = "sorcerous fire",
-		}, -- [61]
+		}, -- [64]
 		{
 			["searchMode"] = "normal",
 			["lastSearch"] = 1498447108,
 			["name"] = "reflecting prism",
 			["filter"] = "reflecting prism",
-		}, -- [62]
+		}, -- [65]
 		{
 			["searchMode"] = "normal",
 			["lastSearch"] = 1498400967,
 			["name"] = "Ageless Bronze Drake/exact",
 			["filter"] = "Ageless Bronze Drake/exact",
-		}, -- [63]
+		}, -- [66]
 		{
 			["searchMode"] = "normal",
 			["lastSearch"] = 1498400951,
 			["name"] = "Bronze Proto-Whelp/exact",
 			["filter"] = "Bronze Proto-Whelp/exact",
-		}, -- [64]
+		}, -- [67]
 		{
 			["searchMode"] = "normal",
 			["lastSearch"] = 1497905343,
 			["name"] = "obliterum",
 			["filter"] = "obliterum",
-		}, -- [65]
+		}, -- [68]
 		{
 			["searchMode"] = "normal",
 			["lastSearch"] = 1497839647,
 			["name"] = "promises",
 			["filter"] = "promises",
-		}, -- [66]
+		}, -- [69]
 		{
 			["searchMode"] = "normal",
 			["lastSearch"] = 1496708507,
 			["name"] = "Waistclasp of Unethical Power",
 			["filter"] = "Waistclasp of Unethical Power",
-		}, -- [67]
+		}, -- [70]
 		{
 			["searchMode"] = "normal",
 			["lastSearch"] = 1495929045,
 			["name"] = "Hexweave Bag",
 			["filter"] = "Hexweave Bag",
-		}, -- [68]
+		}, -- [71]
 		{
 			["searchMode"] = "normal",
 			["lastSearch"] = 1494634500,
 			["name"] = "Mana-Cord of Deception",
 			["filter"] = "Mana-Cord of Deception",
-		}, -- [69]
+		}, -- [72]
 		{
 			["searchMode"] = "normal",
 			["lastSearch"] = 1494617783,
 			["name"] = "prophecy",
 			["filter"] = "prophecy",
-		}, -- [70]
+		}, -- [73]
 		{
 			["searchMode"] = "normal",
 			["lastSearch"] = 1490914079,
 			["name"] = "Furystone/exact",
 			["filter"] = "Furystone/exact",
-		}, -- [71]
+		}, -- [74]
 		{
 			["searchMode"] = "normal",
 			["lastSearch"] = 1490913929,
 			["name"] = "stonehide",
 			["filter"] = "stonehide",
-		}, -- [72]
+		}, -- [75]
 		{
 			["searchMode"] = "normal",
 			["lastSearch"] = 1490908955,
 			["name"] = "aethril",
 			["filter"] = "aethril",
-		}, -- [73]
+		}, -- [76]
 		{
 			["searchMode"] = "normal",
 			["lastSearch"] = 1490908930,
 			["name"] = "aetryl",
 			["filter"] = "aetryl",
-		}, -- [74]
+		}, -- [77]
 		{
 			["searchMode"] = "normal",
 			["lastSearch"] = 1490908927,
 			["name"] = "aethryl",
 			["filter"] = "aethryl",
-		}, -- [75]
+		}, -- [78]
 		{
 			["searchMode"] = "normal",
 			["lastSearch"] = 1487818213,
 			["name"] = "Aristocrat's Winter Drape",
 			["filter"] = "Aristocrat's Winter Drape",
-		}, -- [76]
+		}, -- [79]
 		{
 			["searchMode"] = "normal",
 			["lastSearch"] = 1487283113,
 			["name"] = "Stormscale/exact",
 			["filter"] = "Stormscale/exact",
-		}, -- [77]
+		}, -- [80]
 		{
 			["searchMode"] = "normal",
 			["lastSearch"] = 1487282412,
 			["name"] = "stonehide Leather/exact",
 			["filter"] = "stonehide Leather/exact",
-		}, -- [78]
+		}, -- [81]
 		{
 			["searchMode"] = "normal",
 			["lastSearch"] = 1486086884,
 			["name"] = "ghost iron",
 			["filter"] = "ghost iron",
-		}, -- [79]
+		}, -- [82]
 		{
 			["searchMode"] = "normal",
 			["lastSearch"] = 1485994786,
 			["name"] = "Robes of the Ancient Chronicle",
 			["filter"] = "Robes of the Ancient Chronicle",
-		}, -- [80]
+		}, -- [83]
 		{
 			["searchMode"] = "normal",
 			["lastSearch"] = 1485984426,
 			["name"] = "deadly Eye of Prophecy/exact",
 			["filter"] = "deadly Eye of Prophecy/exact",
-		}, -- [81]
+		}, -- [84]
 		{
 			["searchMode"] = "normal",
 			["lastSearch"] = 1485726302,
 			["name"] = "auto-hammer",
 			["filter"] = "auto-hammer",
-		}, -- [82]
+		}, -- [85]
 		{
 			["searchMode"] = "normal",
 			["lastSearch"] = 1485708798,
 			["name"] = "Ulfgor's Greaves of Bravery",
 			["filter"] = "Ulfgor's Greaves of Bravery",
-		}, -- [83]
+		}, -- [86]
 		{
 			["searchMode"] = "normal",
 			["lastSearch"] = 1485459544,
 			["name"] = "Shal'dorei Silk/exact",
 			["filter"] = "Shal'dorei Silk/exact",
-		}, -- [84]
+		}, -- [87]
 		{
 			["searchMode"] = "normal",
 			["lastSearch"] = 1484172024,
 			["name"] = "brawler",
 			["filter"] = "brawler",
-		}, -- [85]
+		}, -- [88]
 		{
 			["searchMode"] = "normal",
 			["lastSearch"] = 1483535518,
 			["name"] = "vial of the sands",
 			["filter"] = "vial of the sands",
-		}, -- [86]
+		}, -- [89]
 		{
 			["searchMode"] = "normal",
 			["lastSearch"] = 1483484801,
 			["name"] = "lesser invis",
 			["filter"] = "lesser invis",
-		}, -- [87]
+		}, -- [90]
 		{
 			["searchMode"] = "normal",
 			["lastSearch"] = 1483482998,
 			["name"] = "fjarnskaggl",
 			["filter"] = "fjarnskaggl",
-		}, -- [88]
+		}, -- [91]
 		{
 			["searchMode"] = "normal",
 			["lastSearch"] = 1483096682,
 			["name"] = "trigger",
 			["filter"] = "trigger",
-		}, -- [89]
+		}, -- [92]
 		{
 			["searchMode"] = "normal",
 			["lastSearch"] = 1482546357,
 			["name"] = "vantus",
 			["filter"] = "vantus",
-		}, -- [90]
+		}, -- [93]
 		{
 			["searchMode"] = "normal",
 			["lastSearch"] = 1480994157,
 			["name"] = "demonsteel armguards",
 			["filter"] = "demonsteel armguards",
-		}, -- [91]
+		}, -- [94]
 		{
 			["searchMode"] = "normal",
 			["lastSearch"] = 1480994141,
 			["name"] = "gravenscale armbands",
 			["filter"] = "gravenscale armbands",
-		}, -- [92]
+		}, -- [95]
 		{
 			["searchMode"] = "normal",
 			["lastSearch"] = 1480994133,
 			["name"] = "Dreadleather Bindings/exact",
 			["filter"] = "Dreadleather Bindings/exact",
-		}, -- [93]
+		}, -- [96]
 		{
 			["searchMode"] = "normal",
 			["lastSearch"] = 1480994126,
 			["name"] = "imbued silkweave bracers",
 			["filter"] = "imbued silkweave bracers",
-		}, -- [94]
+		}, -- [97]
 		{
 			["searchMode"] = "normal",
 			["lastSearch"] = 1480570369,
 			["name"] = "Blingtron's Circuit Design Tutorial/exact",
 			["filter"] = "Blingtron's Circuit Design Tutorial/exact",
-		}, -- [95]
+		}, -- [98]
 		{
 			["searchMode"] = "normal",
 			["lastSearch"] = 1480570147,
 			["name"] = "Blackrock Ore/exact",
 			["filter"] = "Blackrock Ore/exact",
-		}, -- [96]
+		}, -- [99]
 		{
 			["searchMode"] = "normal",
 			["lastSearch"] = 1480570136,
 			["name"] = "True Iron Ore/exact",
 			["filter"] = "True Iron Ore/exact",
-		}, -- [97]
-		{
-			["searchMode"] = "normal",
-			["lastSearch"] = 1479877710,
-			["name"] = "Eternal Air/exact",
-			["filter"] = "Eternal Air/exact",
-		}, -- [98]
-		{
-			["searchMode"] = "normal",
-			["lastSearch"] = 1479877423,
-			["name"] = "King's Amber/exact",
-			["filter"] = "King's Amber/exact",
-		}, -- [99]
-		{
-			["searchMode"] = "normal",
-			["lastSearch"] = 1479876159,
-			["name"] = "titansteel bar",
-			["filter"] = "titansteel bar",
 		}, -- [100]
 	},
-	["_hash"] = 1861581,
+	["g@ @sniperSound"] = "TSM_NO_SOUND",
 	["g@ @marketValueSource"] = "dbmarket",
 	["g@ @maxDeSearchLvl"] = 735,
 	["g@ @minDeSearchLvl"] = 1,
@@ -656,6 +657,7 @@ TradeSkillMaster_ShoppingDB = {
 		["Rynllor - Onyxia"] = "Default",
 		["Miamisaurus - Onyxia"] = "Default",
 		["Lyt - Onyxia"] = "Default",
+		["Intergalacto - Onyxia"] = "Default",
 		["Ieni - Mal'Ganis"] = "Default",
 		["Enthusiastus - Tarren Mill"] = "Default",
 		["Mamiko - Azshara"] = "Default",

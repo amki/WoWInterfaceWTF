@@ -19,6 +19,7 @@ TradeSkillMaster_AuctioningDB = {
 		["Rynllor - Onyxia"] = "Default",
 		["Miamisaurus - Onyxia"] = "Default",
 		["Lyt - Onyxia"] = "Default",
+		["Intergalacto - Onyxia"] = "Default",
 		["Ieni - Mal'Ganis"] = "Default",
 		["Enthusiastus - Tarren Mill"] = "Default",
 		["Mamiko - Azshara"] = "Default",
@@ -29,10 +30,11 @@ TradeSkillMaster_AuctioningDB = {
 	},
 	["g@ @roundNormalPrice"] = false,
 	["f@Horde - Onyxia@player"] = {
-		["Rathok"] = true,
 		["Rynllor"] = true,
-		["Miamisaurus"] = true,
+		["Rathok"] = true,
 		["Lyt"] = true,
+		["Miamisaurus"] = true,
+		["Intergalacto"] = true,
 	},
 	["g@ @priceColumn"] = 1,
 	["f@Horde - Mal'Ganis@player"] = {
@@ -66,6 +68,7 @@ TradeSkillMaster_AuctioningDB = {
 			"Mihri - Tarren Mill", -- [11]
 			"Enthusiastus - Tarren Mill", -- [12]
 			"Intergalacto - Tarren Mill", -- [13]
+			"Intergalacto - Onyxia", -- [14]
 		},
 		["realm"] = {
 			"Azshara", -- [1]

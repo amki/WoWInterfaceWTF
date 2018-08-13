@@ -1,7 +1,7 @@
 
 gOutfitter_Settings = {
 	["LayerIndex"] = {
-		["shapeshift"] = 4,
+		["shapeshift"] = 3,
 	},
 	["Options"] = {
 		["MinimapButtonAngle"] = -1.5708,
@@ -16,8 +16,32 @@ gOutfitter_Settings = {
 			["Name"] = "Druid: Restoration",
 		}, -- [2]
 		{
-			["Name"] = "Druid: Caster Form",
+			["Name"] = "Druid: Tree of Life",
 		}, -- [3]
+		{
+			["Items"] = {
+				["WristSlot"] = {
+					["JewelCode4"] = 0,
+					["UpgradeID"] = 3336,
+					["Code"] = 140889,
+					["JewelCode2"] = 0,
+					["UpgradeTypeID"] = 0,
+					["Level"] = 188,
+					["Quality"] = 4,
+					["InstanceDifficultyID"] = 5,
+					["InvType"] = "INVTYPE_WRIST",
+					["Link"] = "|cffa335ee|Hitem:140889::::::::110:105::5:3:3516:1482:3336:::|h[Bracers of Impossible Choices]|h|r",
+					["SubCode"] = 0,
+					["SubType"] = "Leather",
+					["JewelCode1"] = 0,
+					["Name"] = "Bracers of Impossible Choices",
+					["EnchantCode"] = 0,
+					["JewelCode3"] = 0,
+					["UniqueID"] = 0,
+					["BonusIDs"] = "3:3516:1482",
+				},
+			},
+		}, -- [4]
 	},
 	["RecentCompleteOutfits"] = {
 	},
@@ -385,9 +409,9 @@ gOutfitter_Settings = {
 						["BonusIDs"] = "2:3459:3530",
 					},
 				},
-				["CategoryID"] = "Complete",
 				["Name"] = "Normal",
 				["ScriptLockupCount"] = 0,
+				["CategoryID"] = "Complete",
 			}, -- [1]
 			{
 				["Items"] = {
@@ -662,50 +686,50 @@ gOutfitter_Settings = {
 						["InstanceDifficultyID"] = 0,
 					},
 				},
-				["CategoryID"] = "Complete",
 				["Name"] = "Birthday Suit",
 				["ScriptLockupCount"] = 0,
+				["CategoryID"] = "Complete",
 			}, -- [2]
 		},
 		["Accessory"] = {
 			{
 				["Items"] = {
 				},
-				["CategoryID"] = "Accessory",
 				["ScriptSettings"] = {
 				},
-				["Name"] = "Druid: Balance",
+				["ScriptID"] = "SPECIALIZATION_1",
+				["ScriptLockupCount"] = 0,
 				["OutfitBar"] = {
 					["Texture"] = 136096,
 				},
-				["ScriptLockupCount"] = 0,
-				["ScriptID"] = "SPECIALIZATION_1",
+				["CategoryID"] = "Accessory",
+				["Name"] = "Druid: Balance",
 			}, -- [1]
 			{
 				["Items"] = {
 				},
-				["CategoryID"] = "Accessory",
 				["ScriptSettings"] = {
 				},
-				["Name"] = "Druid: Feral",
+				["ScriptID"] = "SPECIALIZATION_2",
+				["ScriptLockupCount"] = 0,
 				["OutfitBar"] = {
 					["Texture"] = 132115,
 				},
-				["ScriptLockupCount"] = 0,
-				["ScriptID"] = "SPECIALIZATION_2",
+				["CategoryID"] = "Accessory",
+				["Name"] = "Druid: Feral",
 			}, -- [2]
 			{
 				["Items"] = {
 				},
-				["CategoryID"] = "Accessory",
 				["ScriptSettings"] = {
 				},
-				["Name"] = "Druid: Guardian",
+				["ScriptID"] = "SPECIALIZATION_3",
+				["ScriptLockupCount"] = 0,
 				["OutfitBar"] = {
 					["Texture"] = 132276,
 				},
-				["ScriptLockupCount"] = 0,
-				["ScriptID"] = "SPECIALIZATION_3",
+				["CategoryID"] = "Accessory",
+				["Name"] = "Druid: Guardian",
 			}, -- [3]
 			{
 				["ScriptLockupCount"] = 0,
@@ -732,8 +756,8 @@ gOutfitter_Settings = {
 					["Tree4"] = true,
 					["DisableBG"] = false,
 				},
-				["didEquip"] = true,
-				["didUnequip"] = false,
+				["didEquip"] = false,
+				["didUnequip"] = true,
 				["Items"] = {
 				},
 				["CategoryID"] = "Accessory",
@@ -776,11 +800,13 @@ gOutfitter_Settings = {
 				},
 			}, -- [7]
 			{
+				["ScriptID"] = "Travel",
+				["didEquip"] = false,
+				["didUnequip"] = true,
 				["Items"] = {
 				},
-				["ScriptID"] = "Travel",
-				["Name"] = "Druid: Travel Form",
 				["CategoryID"] = "Accessory",
+				["Name"] = "Druid: Travel Form",
 				["ScriptLockupCount"] = 0,
 				["ScriptSettings"] = {
 					["UnequipComplete"] = false,
@@ -810,12 +836,6 @@ gOutfitter_Settings = {
 				},
 			}, -- [9]
 			{
-				["Items"] = {
-				},
-				["ScriptID"] = "Tree",
-				["Name"] = "Druid: Tree of Life",
-				["CategoryID"] = "Accessory",
-				["ScriptLockupCount"] = 0,
 				["ScriptSettings"] = {
 					["UnequipComplete"] = false,
 					["Tree2"] = true,
@@ -825,6 +845,14 @@ gOutfitter_Settings = {
 					["Tree4"] = true,
 					["DisableBG"] = false,
 				},
+				["didEquip"] = true,
+				["didUnequip"] = false,
+				["Items"] = {
+				},
+				["CategoryID"] = "Accessory",
+				["Name"] = "Druid: Tree of Life",
+				["ScriptLockupCount"] = 0,
+				["ScriptID"] = "Tree",
 			}, -- [10]
 			{
 				["Items"] = {

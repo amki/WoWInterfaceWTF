@@ -138,65 +138,71 @@ Bartender4DB = {
 						}, -- [10]
 					},
 				},
-				["Enthusiastus - Azshara"] = {
+				["Intergalacto - Azshara"] = {
 					["actionbars"] = {
 						{
-							["padding"] = 6,
+							["padding"] = 0,
 							["version"] = 3,
 							["position"] = {
-								["y"] = 41.75,
-								["x"] = -510,
+								["y"] = 154.755569458008,
+								["x"] = -221,
 								["point"] = "BOTTOM",
 							},
 						}, -- [1]
 						{
-							["enabled"] = false,
+							["padding"] = 0,
 							["version"] = 3,
 							["position"] = {
-								["y"] = -227.499923706055,
-								["x"] = -231.500183105469,
-								["point"] = "CENTER",
+								["y"] = 116.87036895752,
+								["x"] = -221,
+								["point"] = "BOTTOM",
 							},
 						}, -- [2]
 						{
-							["padding"] = 5,
-							["rows"] = 12,
+							["padding"] = 0,
 							["version"] = 3,
 							["position"] = {
-								["y"] = 610,
-								["x"] = -82,
-								["point"] = "BOTTOMRIGHT",
+								["y"] = 78.9738693237305,
+								["x"] = -220.999969482422,
+								["point"] = "BOTTOM",
 							},
 						}, -- [3]
 						{
-							["padding"] = 5,
-							["rows"] = 12,
+							["padding"] = 0,
 							["version"] = 3,
 							["position"] = {
-								["y"] = 610,
-								["x"] = -42,
-								["point"] = "BOTTOMRIGHT",
+								["y"] = 41,
+								["x"] = -221,
+								["point"] = "BOTTOM",
 							},
 						}, -- [4]
 						{
-							["padding"] = 6,
+							["padding"] = 0,
 							["version"] = 3,
 							["position"] = {
-								["y"] = 83,
-								["x"] = 3,
-								["point"] = "BOTTOM",
+								["y"] = -94.1798400878906,
+								["x"] = 39.3989639282227,
+								["point"] = "LEFT",
 							},
 						}, -- [5]
 						{
-							["padding"] = 6,
+							["padding"] = 0,
 							["version"] = 3,
 							["position"] = {
-								["y"] = 83,
-								["x"] = -510,
-								["point"] = "BOTTOM",
+								["y"] = -171.192993164063,
+								["x"] = 465.2568359375,
+								["point"] = "CENTER",
 							},
 						}, -- [6]
 						{
+							["enabled"] = true,
+							["padding"] = 0,
+							["version"] = 3,
+							["position"] = {
+								["y"] = -132.179840087891,
+								["x"] = 39.3989639282227,
+								["point"] = "LEFT",
+							},
 						}, -- [7]
 						{
 						}, -- [8]
@@ -278,17 +284,92 @@ Bartender4DB = {
 						}, -- [10]
 					},
 				},
-				["Mihri - Tarren Mill"] = {
+				["Intergalacto - Onyxia"] = {
 					["actionbars"] = {
 						{
+							["padding"] = 0,
 							["version"] = 3,
 							["position"] = {
-								["y"] = -227.499923706055,
-								["x"] = -231.500183105469,
-								["point"] = "CENTER",
+								["y"] = 154.755569458008,
+								["x"] = -221,
+								["point"] = "BOTTOM",
 							},
 						}, -- [1]
 						{
+							["padding"] = 0,
+							["version"] = 3,
+							["position"] = {
+								["y"] = 116.87036895752,
+								["x"] = -221,
+								["point"] = "BOTTOM",
+							},
+						}, -- [2]
+						{
+							["padding"] = 0,
+							["version"] = 3,
+							["position"] = {
+								["y"] = 78.9738693237305,
+								["x"] = -220.999969482422,
+								["point"] = "BOTTOM",
+							},
+						}, -- [3]
+						{
+							["padding"] = 0,
+							["version"] = 3,
+							["position"] = {
+								["y"] = 41,
+								["x"] = -221,
+								["point"] = "BOTTOM",
+							},
+						}, -- [4]
+						{
+							["padding"] = 0,
+							["version"] = 3,
+							["position"] = {
+								["y"] = -94.1798400878906,
+								["x"] = 39.3989639282227,
+								["point"] = "LEFT",
+							},
+						}, -- [5]
+						{
+							["padding"] = 0,
+							["version"] = 3,
+							["position"] = {
+								["y"] = -171.192993164063,
+								["x"] = 465.2568359375,
+								["point"] = "CENTER",
+							},
+						}, -- [6]
+						{
+							["enabled"] = true,
+							["padding"] = 0,
+							["version"] = 3,
+							["position"] = {
+								["y"] = -132.179840087891,
+								["x"] = 39.3989639282227,
+								["point"] = "LEFT",
+							},
+						}, -- [7]
+						{
+						}, -- [8]
+						nil, -- [9]
+						{
+						}, -- [10]
+					},
+				},
+				["Enthusiastus - Tarren Mill"] = {
+					["actionbars"] = {
+						{
+							["padding"] = 6,
+							["version"] = 3,
+							["position"] = {
+								["y"] = 41.75,
+								["x"] = -510,
+								["point"] = "BOTTOM",
+							},
+						}, -- [1]
+						{
+							["enabled"] = false,
 							["version"] = 3,
 							["position"] = {
 								["y"] = -227.499923706055,
@@ -297,35 +378,41 @@ Bartender4DB = {
 							},
 						}, -- [2]
 						{
+							["rows"] = 12,
+							["padding"] = 5,
 							["version"] = 3,
 							["position"] = {
-								["y"] = -227.499923706055,
-								["x"] = -231.500183105469,
-								["point"] = "CENTER",
+								["y"] = 610,
+								["x"] = -82,
+								["point"] = "BOTTOMRIGHT",
 							},
 						}, -- [3]
 						{
+							["rows"] = 12,
+							["padding"] = 5,
 							["version"] = 3,
 							["position"] = {
-								["y"] = -227.499923706055,
-								["x"] = -231.500183105469,
-								["point"] = "CENTER",
+								["y"] = 610,
+								["x"] = -42,
+								["point"] = "BOTTOMRIGHT",
 							},
 						}, -- [4]
 						{
+							["padding"] = 6,
 							["version"] = 3,
 							["position"] = {
-								["y"] = -227.499923706055,
-								["x"] = -231.500183105469,
-								["point"] = "CENTER",
+								["y"] = 83,
+								["x"] = 3,
+								["point"] = "BOTTOM",
 							},
 						}, -- [5]
 						{
+							["padding"] = 6,
 							["version"] = 3,
 							["position"] = {
-								["y"] = -227.499923706055,
-								["x"] = -231.500183105469,
-								["point"] = "CENTER",
+								["y"] = 83,
+								["x"] = -510,
+								["point"] = "BOTTOM",
 							},
 						}, -- [6]
 						{
@@ -417,19 +504,17 @@ Bartender4DB = {
 						}, -- [10]
 					},
 				},
-				["Enthusiastus - Tarren Mill"] = {
+				["Mihri - Tarren Mill"] = {
 					["actionbars"] = {
 						{
-							["padding"] = 6,
 							["version"] = 3,
 							["position"] = {
-								["y"] = 41.75,
-								["x"] = -510,
-								["point"] = "BOTTOM",
+								["y"] = -227.499923706055,
+								["x"] = -231.500183105469,
+								["point"] = "CENTER",
 							},
 						}, -- [1]
 						{
-							["enabled"] = false,
 							["version"] = 3,
 							["position"] = {
 								["y"] = -227.499923706055,
@@ -438,44 +523,111 @@ Bartender4DB = {
 							},
 						}, -- [2]
 						{
-							["rows"] = 12,
-							["padding"] = 5,
 							["version"] = 3,
 							["position"] = {
-								["y"] = 610,
-								["x"] = -82,
-								["point"] = "BOTTOMRIGHT",
+								["y"] = -227.499923706055,
+								["x"] = -231.500183105469,
+								["point"] = "CENTER",
 							},
 						}, -- [3]
 						{
-							["rows"] = 12,
-							["padding"] = 5,
 							["version"] = 3,
 							["position"] = {
-								["y"] = 610,
-								["x"] = -42,
-								["point"] = "BOTTOMRIGHT",
+								["y"] = -227.499923706055,
+								["x"] = -231.500183105469,
+								["point"] = "CENTER",
 							},
 						}, -- [4]
 						{
-							["padding"] = 6,
 							["version"] = 3,
 							["position"] = {
-								["y"] = 83,
-								["x"] = 3,
-								["point"] = "BOTTOM",
+								["y"] = -227.499923706055,
+								["x"] = -231.500183105469,
+								["point"] = "CENTER",
 							},
 						}, -- [5]
 						{
-							["padding"] = 6,
 							["version"] = 3,
 							["position"] = {
-								["y"] = 83,
-								["x"] = -510,
-								["point"] = "BOTTOM",
+								["y"] = -227.499923706055,
+								["x"] = -231.500183105469,
+								["point"] = "CENTER",
 							},
 						}, -- [6]
 						{
+						}, -- [7]
+						{
+						}, -- [8]
+						nil, -- [9]
+						{
+						}, -- [10]
+					},
+				},
+				["Enthusiastus - Azshara"] = {
+					["actionbars"] = {
+						{
+							["padding"] = 0,
+							["version"] = 3,
+							["position"] = {
+								["y"] = 154.755569458008,
+								["x"] = -221,
+								["point"] = "BOTTOM",
+							},
+						}, -- [1]
+						{
+							["padding"] = 0,
+							["version"] = 3,
+							["position"] = {
+								["y"] = 116.87036895752,
+								["x"] = -221,
+								["point"] = "BOTTOM",
+							},
+						}, -- [2]
+						{
+							["padding"] = 0,
+							["version"] = 3,
+							["position"] = {
+								["y"] = 78.9738693237305,
+								["x"] = -220.999969482422,
+								["point"] = "BOTTOM",
+							},
+						}, -- [3]
+						{
+							["padding"] = 0,
+							["version"] = 3,
+							["position"] = {
+								["y"] = 41,
+								["x"] = -221,
+								["point"] = "BOTTOM",
+							},
+						}, -- [4]
+						{
+							["padding"] = 0,
+							["version"] = 3,
+							["position"] = {
+								["y"] = -94.1798400878906,
+								["x"] = 39.3989639282227,
+								["point"] = "LEFT",
+							},
+						}, -- [5]
+						{
+							["padding"] = 0,
+							["version"] = 3,
+							["position"] = {
+								["y"] = -171.192993164063,
+								["x"] = 465.2568359375,
+								["point"] = "CENTER",
+							},
+						}, -- [6]
+						{
+							["enabled"] = true,
+							["padding"] = 0,
+							["version"] = 3,
+							["position"] = {
+								["y"] = -132.179840087891,
+								["x"] = 39.3989639282227,
+								["point"] = "LEFT",
+							},
 						}, -- [7]
 						{
 						}, -- [8]
@@ -506,7 +658,31 @@ Bartender4DB = {
 						["point"] = "BOTTOM",
 					},
 				},
-				["Enthusiastus - Azshara"] = {
+				["Intergalacto - Azshara"] = {
+					["version"] = 3,
+					["position"] = {
+						["y"] = 244.906692504883,
+						["x"] = -31.4999389648438,
+						["point"] = "BOTTOM",
+					},
+				},
+				["Ieni - Tarren Mill"] = {
+					["version"] = 3,
+					["position"] = {
+						["y"] = 244.906692504883,
+						["x"] = -31.4999389648438,
+						["point"] = "BOTTOM",
+					},
+				},
+				["Intergalacto - Onyxia"] = {
+					["version"] = 3,
+					["position"] = {
+						["y"] = 244.906692504883,
+						["x"] = -31.4999389648438,
+						["point"] = "BOTTOM",
+					},
+				},
+				["Enthusiastus - Tarren Mill"] = {
 					["version"] = 3,
 					["position"] = {
 						["y"] = 223.000015258789,
@@ -530,19 +706,11 @@ Bartender4DB = {
 						["point"] = "BOTTOM",
 					},
 				},
-				["Ieni - Tarren Mill"] = {
+				["Enthusiastus - Azshara"] = {
 					["version"] = 3,
 					["position"] = {
 						["y"] = 244.906692504883,
 						["x"] = -31.4999389648438,
-						["point"] = "BOTTOM",
-					},
-				},
-				["Enthusiastus - Tarren Mill"] = {
-					["version"] = 3,
-					["position"] = {
-						["y"] = 223.000015258789,
-						["x"] = -31.5000610351563,
 						["point"] = "BOTTOM",
 					},
 				},
@@ -570,7 +738,37 @@ Bartender4DB = {
 						["scale"] = 1,
 					},
 				},
-				["Enthusiastus - Azshara"] = {
+				["Intergalacto - Azshara"] = {
+					["padding"] = -2,
+					["version"] = 3,
+					["position"] = {
+						["y"] = 41,
+						["x"] = 250,
+						["point"] = "BOTTOM",
+						["scale"] = 1,
+					},
+				},
+				["Ieni - Tarren Mill"] = {
+					["padding"] = -2,
+					["version"] = 3,
+					["position"] = {
+						["y"] = 41,
+						["x"] = 250,
+						["point"] = "BOTTOM",
+						["scale"] = 1,
+					},
+				},
+				["Intergalacto - Onyxia"] = {
+					["padding"] = -2,
+					["version"] = 3,
+					["position"] = {
+						["y"] = 41,
+						["x"] = 250,
+						["point"] = "BOTTOM",
+						["scale"] = 1,
+					},
+				},
+				["Enthusiastus - Tarren Mill"] = {
 					["padding"] = -2,
 					["version"] = 3,
 					["position"] = {
@@ -599,22 +797,12 @@ Bartender4DB = {
 						["scale"] = 0.800000011920929,
 					},
 				},
-				["Ieni - Tarren Mill"] = {
+				["Enthusiastus - Azshara"] = {
 					["padding"] = -2,
 					["version"] = 3,
 					["position"] = {
 						["y"] = 41,
 						["x"] = 250,
-						["point"] = "BOTTOM",
-						["scale"] = 1,
-					},
-				},
-				["Enthusiastus - Tarren Mill"] = {
-					["padding"] = -2,
-					["version"] = 3,
-					["position"] = {
-						["y"] = 41.75,
-						["x"] = 37.5,
 						["point"] = "BOTTOM",
 						["scale"] = 1,
 					},
@@ -639,7 +827,31 @@ Bartender4DB = {
 						["point"] = "BOTTOM",
 					},
 				},
-				["Enthusiastus - Azshara"] = {
+				["Intergalacto - Azshara"] = {
+					["version"] = 3,
+					["position"] = {
+						["y"] = -19.1665649414063,
+						["x"] = -385.611206054688,
+						["point"] = "CENTER",
+					},
+				},
+				["Ieni - Tarren Mill"] = {
+					["version"] = 3,
+					["position"] = {
+						["y"] = -19.1665649414063,
+						["x"] = -385.611206054688,
+						["point"] = "CENTER",
+					},
+				},
+				["Intergalacto - Onyxia"] = {
+					["version"] = 3,
+					["position"] = {
+						["y"] = -19.1665649414063,
+						["x"] = -385.611206054688,
+						["point"] = "CENTER",
+					},
+				},
+				["Enthusiastus - Tarren Mill"] = {
 					["version"] = 3,
 					["position"] = {
 						["y"] = 223.000015258789,
@@ -663,20 +875,12 @@ Bartender4DB = {
 						["point"] = "BOTTOM",
 					},
 				},
-				["Ieni - Tarren Mill"] = {
+				["Enthusiastus - Azshara"] = {
 					["version"] = 3,
 					["position"] = {
 						["y"] = -19.1665649414063,
 						["x"] = -385.611206054688,
 						["point"] = "CENTER",
-					},
-				},
-				["Enthusiastus - Tarren Mill"] = {
-					["version"] = 3,
-					["position"] = {
-						["y"] = 223.000015258789,
-						["x"] = -31.5000610351563,
-						["point"] = "BOTTOM",
 					},
 				},
 			},
@@ -706,15 +910,30 @@ Bartender4DB = {
 					},
 				},
 				["Enthusiastus - Azshara"] = {
-					["enabled"] = true,
 					["version"] = 3,
 					["position"] = {
-						["y"] = 47,
-						["x"] = -512,
-						["point"] = "BOTTOM",
+						["y"] = 183.918212890625,
+						["x"] = 447.999938964844,
+						["point"] = "BOTTOMLEFT",
 					},
 				},
 				["Ieni - Tarren Mill"] = {
+					["version"] = 3,
+					["position"] = {
+						["y"] = 183.918212890625,
+						["x"] = 447.999938964844,
+						["point"] = "BOTTOMLEFT",
+					},
+				},
+				["Intergalacto - Onyxia"] = {
+					["version"] = 3,
+					["position"] = {
+						["y"] = 183.918212890625,
+						["x"] = 447.999938964844,
+						["point"] = "BOTTOMLEFT",
+					},
+				},
+				["Intergalacto - Azshara"] = {
 					["version"] = 3,
 					["position"] = {
 						["y"] = 183.918212890625,
@@ -759,13 +978,36 @@ Bartender4DB = {
 						["point"] = "CENTER",
 					},
 				},
-				["Enthusiastus - Azshara"] = {
+				["Intergalacto - Azshara"] = {
 					["version"] = 3,
 					["position"] = {
-						["y"] = 116,
-						["x"] = -460,
+						["y"] = 205.255554199219,
+						["x"] = -222.983276367188,
 						["point"] = "BOTTOM",
-						["scale"] = 1,
+					},
+				},
+				["Ieni - Tarren Mill"] = {
+					["version"] = 3,
+					["position"] = {
+						["y"] = 205.255554199219,
+						["x"] = -222.983276367188,
+						["point"] = "BOTTOM",
+					},
+				},
+				["Intergalacto - Onyxia"] = {
+					["version"] = 3,
+					["position"] = {
+						["y"] = 205.255554199219,
+						["x"] = -222.983276367188,
+						["point"] = "BOTTOM",
+					},
+				},
+				["Enthusiastus - Tarren Mill"] = {
+					["version"] = 3,
+					["position"] = {
+						["y"] = -14.9999618530273,
+						["x"] = -82.5,
+						["point"] = "CENTER",
 					},
 				},
 				["Mamiko - Azshara"] = {
@@ -785,20 +1027,12 @@ Bartender4DB = {
 						["point"] = "CENTER",
 					},
 				},
-				["Ieni - Tarren Mill"] = {
+				["Enthusiastus - Azshara"] = {
 					["version"] = 3,
 					["position"] = {
 						["y"] = 205.255554199219,
 						["x"] = -222.983276367188,
 						["point"] = "BOTTOM",
-					},
-				},
-				["Enthusiastus - Tarren Mill"] = {
-					["version"] = 3,
-					["position"] = {
-						["y"] = -14.9999618530273,
-						["x"] = -82.5,
-						["point"] = "CENTER",
 					},
 				},
 			},
@@ -821,7 +1055,31 @@ Bartender4DB = {
 						["point"] = "BOTTOM",
 					},
 				},
-				["Enthusiastus - Azshara"] = {
+				["Intergalacto - Azshara"] = {
+					["version"] = 3,
+					["position"] = {
+						["y"] = 75.0000076293945,
+						["x"] = 250,
+						["point"] = "BOTTOM",
+					},
+				},
+				["Ieni - Tarren Mill"] = {
+					["version"] = 3,
+					["position"] = {
+						["y"] = 75.0000076293945,
+						["x"] = 250,
+						["point"] = "BOTTOM",
+					},
+				},
+				["Intergalacto - Onyxia"] = {
+					["version"] = 3,
+					["position"] = {
+						["y"] = 75.0000076293945,
+						["x"] = 250,
+						["point"] = "BOTTOM",
+					},
+				},
+				["Enthusiastus - Tarren Mill"] = {
 					["version"] = 3,
 					["position"] = {
 						["y"] = 38.5,
@@ -845,19 +1103,11 @@ Bartender4DB = {
 						["point"] = "CENTER",
 					},
 				},
-				["Ieni - Tarren Mill"] = {
+				["Enthusiastus - Azshara"] = {
 					["version"] = 3,
 					["position"] = {
 						["y"] = 75.0000076293945,
 						["x"] = 250,
-						["point"] = "BOTTOM",
-					},
-				},
-				["Enthusiastus - Tarren Mill"] = {
-					["version"] = 3,
-					["position"] = {
-						["y"] = 38.5,
-						["x"] = 345,
 						["point"] = "BOTTOM",
 					},
 				},
@@ -881,7 +1131,31 @@ Bartender4DB = {
 						["point"] = "CENTER",
 					},
 				},
-				["Enthusiastus - Azshara"] = {
+				["Intergalacto - Azshara"] = {
+					["version"] = 3,
+					["position"] = {
+						["y"] = 47.5000305175781,
+						["x"] = 99.5,
+						["point"] = "CENTER",
+					},
+				},
+				["Ieni - Tarren Mill"] = {
+					["version"] = 3,
+					["position"] = {
+						["y"] = 47.5000305175781,
+						["x"] = 99.5,
+						["point"] = "CENTER",
+					},
+				},
+				["Intergalacto - Onyxia"] = {
+					["version"] = 3,
+					["position"] = {
+						["y"] = 47.5000305175781,
+						["x"] = 99.5,
+						["point"] = "CENTER",
+					},
+				},
+				["Enthusiastus - Tarren Mill"] = {
 					["version"] = 3,
 					["position"] = {
 						["y"] = 47.5000305175781,
@@ -905,15 +1179,7 @@ Bartender4DB = {
 						["point"] = "CENTER",
 					},
 				},
-				["Ieni - Tarren Mill"] = {
-					["version"] = 3,
-					["position"] = {
-						["y"] = 47.5000305175781,
-						["x"] = 99.5,
-						["point"] = "CENTER",
-					},
-				},
-				["Enthusiastus - Tarren Mill"] = {
+				["Enthusiastus - Azshara"] = {
 					["version"] = 3,
 					["position"] = {
 						["y"] = 47.5000305175781,
@@ -941,11 +1207,35 @@ Bartender4DB = {
 						["point"] = "BOTTOM",
 					},
 				},
-				["Enthusiastus - Azshara"] = {
+				["Intergalacto - Azshara"] = {
+					["version"] = 3,
+					["position"] = {
+						["y"] = 188.755554199219,
+						["x"] = -106.499938964844,
+						["point"] = "BOTTOM",
+					},
+				},
+				["Ieni - Tarren Mill"] = {
+					["version"] = 3,
+					["position"] = {
+						["y"] = 188.755554199219,
+						["x"] = -106.499938964844,
+						["point"] = "BOTTOM",
+					},
+				},
+				["Intergalacto - Onyxia"] = {
+					["version"] = 3,
+					["position"] = {
+						["y"] = 188.755554199219,
+						["x"] = -106.499938964844,
+						["point"] = "BOTTOM",
+					},
+				},
+				["Enthusiastus - Tarren Mill"] = {
 					["version"] = 3,
 					["position"] = {
 						["y"] = 116,
-						["x"] = -120,
+						["x"] = -460,
 						["point"] = "BOTTOM",
 					},
 				},
@@ -965,19 +1255,11 @@ Bartender4DB = {
 						["point"] = "CENTER",
 					},
 				},
-				["Ieni - Tarren Mill"] = {
+				["Enthusiastus - Azshara"] = {
 					["version"] = 3,
 					["position"] = {
 						["y"] = 188.755554199219,
 						["x"] = -106.499938964844,
-						["point"] = "BOTTOM",
-					},
-				},
-				["Enthusiastus - Tarren Mill"] = {
-					["version"] = 3,
-					["position"] = {
-						["y"] = 116,
-						["x"] = -460,
 						["point"] = "BOTTOM",
 					},
 				},
@@ -989,11 +1271,13 @@ Bartender4DB = {
 	["profileKeys"] = {
 		["Lyt - Azshara"] = "Lyt - Azshara",
 		["Intergalacto - Tarren Mill"] = "Mamiko - Azshara",
-		["Enthusiastus - Azshara"] = "Enthusiastus - Azshara",
+		["Intergalacto - Azshara"] = "Intergalacto - Azshara",
+		["Ieni - Tarren Mill"] = "Ieni - Tarren Mill",
+		["Intergalacto - Onyxia"] = "Intergalacto - Onyxia",
+		["Enthusiastus - Tarren Mill"] = "Mamiko - Azshara",
 		["Mamiko - Azshara"] = "Mamiko - Azshara",
 		["Mihri - Tarren Mill"] = "Mamiko - Azshara",
-		["Ieni - Tarren Mill"] = "Ieni - Tarren Mill",
-		["Enthusiastus - Tarren Mill"] = "Mamiko - Azshara",
+		["Enthusiastus - Azshara"] = "Enthusiastus - Azshara",
 	},
 	["profiles"] = {
 		["Lyt - Azshara"] = {
@@ -1006,7 +1290,22 @@ Bartender4DB = {
 			["blizzardVehicle"] = true,
 			["outofrange"] = "hotkey",
 		},
-		["Enthusiastus - Azshara"] = {
+		["Intergalacto - Azshara"] = {
+			["focuscastmodifier"] = false,
+			["blizzardVehicle"] = true,
+			["outofrange"] = "hotkey",
+		},
+		["Ieni - Tarren Mill"] = {
+			["focuscastmodifier"] = false,
+			["blizzardVehicle"] = true,
+			["outofrange"] = "hotkey",
+		},
+		["Intergalacto - Onyxia"] = {
+			["focuscastmodifier"] = false,
+			["blizzardVehicle"] = true,
+			["outofrange"] = "hotkey",
+		},
+		["Enthusiastus - Tarren Mill"] = {
 			["focuscastmodifier"] = false,
 			["blizzardVehicle"] = true,
 			["outofrange"] = "hotkey",
@@ -1018,12 +1317,7 @@ Bartender4DB = {
 		},
 		["Mihri - Tarren Mill"] = {
 		},
-		["Ieni - Tarren Mill"] = {
-			["focuscastmodifier"] = false,
-			["blizzardVehicle"] = true,
-			["outofrange"] = "hotkey",
-		},
-		["Enthusiastus - Tarren Mill"] = {
+		["Enthusiastus - Azshara"] = {
 			["focuscastmodifier"] = false,
 			["blizzardVehicle"] = true,
 			["outofrange"] = "hotkey",

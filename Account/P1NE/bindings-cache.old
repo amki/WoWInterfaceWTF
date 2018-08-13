@@ -3,7 +3,7 @@ bind BUTTON3 ACTIONBUTTON11
 bind W CLICK BT4Button16:LeftButton
 bind S STRAFELEFT
 bind A CLICK BT4Button27:LeftButton
-bind D NONE
+bind D CLICK BT4Button17:LeftButton
 bind Q CLICK BT4Button15:LeftButton
 bind E MOVEFORWARD
 bind NUMPAD0 TOGGLEAUTORUN

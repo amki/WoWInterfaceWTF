@@ -6,3 +6,9 @@ CoopCooldowns: disabled
 Gatherer: disabled
 Gatherer_HUD: disabled
 GathererDB_Wowhead: disabled
+RaiderIO_DB_US_H: disabled
+RaiderIO_DB_US_A: disabled
+RaiderIO_DB_TW_H: disabled
+RaiderIO_DB_TW_A: disabled
+RaiderIO_DB_KR_H: disabled
+RaiderIO_DB_KR_A: disabled

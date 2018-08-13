@@ -9,15 +9,15 @@ gOutfitter_Settings = {
 	},
 	["LastOutfitStack"] = {
 		{
-			["Name"] = "Move",
+			["Name"] = "Holy",
 		}, -- [1]
 	},
 	["RecentCompleteOutfits"] = {
 		"Birthday Suit", -- [1]
 		"ilvl", -- [2]
-		"Holy", -- [3]
-		"Tank", -- [4]
-		"Move", -- [5]
+		"Tank", -- [3]
+		"Move", -- [4]
+		"Holy", -- [5]
 	},
 	["Version"] = 22,
 	["OutfitBar"] = {
@@ -599,23 +599,23 @@ gOutfitter_Settings = {
 					},
 					["WaistSlot"] = {
 						["JewelCode4"] = 0,
-						["UpgradeID"] = 3528,
-						["Code"] = 152020,
+						["UpgradeID"] = 3337,
+						["Code"] = 134225,
 						["JewelCode2"] = 0,
 						["UpgradeTypeID"] = 0,
-						["Level"] = 945,
+						["Level"] = 240,
 						["Quality"] = 4,
-						["InstanceDifficultyID"] = 5,
+						["InstanceDifficultyID"] = 35,
 						["InvType"] = "INVTYPE_WAIST",
-						["Link"] = "|cffa335ee|Hitem:152020::::::::110:65::5:3:3611:1487:3528:::|h[Nathrezim Battle Girdle]|h|r",
+						["Link"] = "|cffa335ee|Hitem:134225::::::::110:65::35:3:3536:1551:3337:::|h[Coralplate Girdle]|h|r",
 						["SubCode"] = 0,
 						["SubType"] = "Plate",
 						["JewelCode1"] = 0,
-						["Name"] = "Nathrezim Battle Girdle",
+						["Name"] = "Coralplate Girdle",
 						["EnchantCode"] = 0,
 						["JewelCode3"] = 0,
 						["UniqueID"] = 0,
-						["BonusIDs"] = "3:3611:1487",
+						["BonusIDs"] = "3:3536:1551",
 					},
 					["LegsSlot"] = {
 						["JewelCode4"] = 0,
@@ -1022,11 +1022,11 @@ gOutfitter_Settings = {
 						["BonusIDs"] = "3:3536:1627",
 					},
 				},
+				["CategoryID"] = "Complete",
 				["Name"] = "Move",
-				["ScriptLockupCount"] = 0,
 				["OutfitBar"] = {
 				},
-				["CategoryID"] = "Complete",
+				["ScriptLockupCount"] = 0,
 				["didUnequip"] = false,
 			}, -- [3]
 			{
@@ -1713,16 +1713,16 @@ gOutfitter_Settings = {
 						["BonusIDs"] = "4:3536:40",
 					},
 				},
+				["ScriptLockupCount"] = 0,
+				["CategoryID"] = "Complete",
 				["StatConfig"] = {
 					{
 						["StatID"] = "ITEM_LEVEL",
 					}, -- [1]
 				},
-				["Name"] = "ilvl",
-				["ScriptLockupCount"] = 0,
 				["OutfitBar"] = {
 				},
-				["CategoryID"] = "Complete",
+				["Name"] = "ilvl",
 				["didUnequip"] = false,
 			}, -- [5]
 		},

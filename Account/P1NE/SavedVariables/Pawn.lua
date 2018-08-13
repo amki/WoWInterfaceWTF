@@ -6,8 +6,8 @@ PawnCommon = {
 	["ShowItemID"] = false,
 	["ShowRelicUpgrades"] = true,
 	["ShowValuesForUpgradesOnly"] = true,
-	["Debug"] = false,
 	["IgnoreGemsWhileLeveling"] = true,
+	["Debug"] = false,
 	["ColorTooltipBorder"] = true,
 	["ShowTooltipIcons"] = true,
 	["Scales"] = {
@@ -59,9 +59,6 @@ PawnCommon = {
 		["\"MrRobot\":PRIEST1"] = {
 			["IconTexturePath"] = 135940,
 			["PerCharacterOptions"] = {
-				["Mihri-Tarren Mill"] = {
-					["Visible"] = true,
-				},
 			},
 			["Color"] = "ffffff",
 			["ClassID"] = 5,
@@ -77,6 +74,9 @@ PawnCommon = {
 		["\"MrRobot\":PRIEST3"] = {
 			["IconTexturePath"] = 136207,
 			["PerCharacterOptions"] = {
+				["Mihri-Tarren Mill"] = {
+					["Visible"] = true,
+				},
 			},
 			["Color"] = "ffffff",
 			["ClassID"] = 5,
@@ -326,6 +326,9 @@ PawnCommon = {
 		["\"MrRobot\":SHAMAN3"] = {
 			["IconTexturePath"] = 136052,
 			["PerCharacterOptions"] = {
+				["Intergalacto-Onyxia"] = {
+					["Visible"] = true,
+				},
 				["Intergalacto-Tarren Mill"] = {
 					["Visible"] = true,
 				},
@@ -434,6 +437,9 @@ PawnCommon = {
 		["\"MrRobot\":MONK2"] = {
 			["IconTexturePath"] = 608952,
 			["PerCharacterOptions"] = {
+				["Intergalacto-Azshara"] = {
+					["Visible"] = true,
+				},
 			},
 			["Color"] = "00ff96",
 			["ClassID"] = 10,
@@ -494,9 +500,6 @@ PawnCommon = {
 		["\"MrRobot\":PALADIN2"] = {
 			["IconTexturePath"] = 236264,
 			["PerCharacterOptions"] = {
-				["Ieni-Tarren Mill"] = {
-					["Visible"] = true,
-				},
 			},
 			["Color"] = "f58cba",
 			["ClassID"] = 2,
@@ -528,6 +531,9 @@ PawnCommon = {
 			["IconTexturePath"] = 135920,
 			["PerCharacterOptions"] = {
 				["Lyt-Azshara"] = {
+					["Visible"] = true,
+				},
+				["Ieni-Tarren Mill"] = {
 					["Visible"] = true,
 				},
 			},
@@ -575,7 +581,7 @@ PawnCommon = {
 	},
 	["ShowSocketingAdvisor"] = true,
 	["ShowSpecIcons"] = true,
-	["LastVersion"] = 2.0219,
+	["LastVersion"] = 2.0225,
 	["ButtonPosition"] = 2,
 	["ShowLootUpgradeAdvisor"] = true,
 	["ShowQuestUpgradeAdvisor"] = true,

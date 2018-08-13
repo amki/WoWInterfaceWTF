@@ -1,0 +1,17 @@
+
+RaiderIO_Config = {
+	["enableKeystoneTooltips"] = true,
+	["enableFriendsTooltips"] = true,
+	["enableUnitTooltips"] = true,
+	["alwaysExtendTooltip"] = true,
+	["disableScoreColors"] = false,
+	["showDropDownCopyURL"] = true,
+	["enableWhoTooltips"] = true,
+	["enableLFGTooltips"] = true,
+	["showSimpleScoreColors"] = false,
+	["showMainsScore"] = false,
+	["enableWhoMessages"] = true,
+	["showScoreInCombat"] = false,
+	["enableLFGDropdown"] = true,
+	["enableGuildTooltips"] = true,
+}

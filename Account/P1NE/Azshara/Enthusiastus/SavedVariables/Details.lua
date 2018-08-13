@@ -7,10 +7,8 @@ _detalhes_database = {
 		["tabelas"] = {
 		},
 	},
-	["combat_counter"] = 6,
-	["character_data"] = {
-		["logons"] = 2,
-	},
+	["combat_counter"] = 18,
+	["force_font_outline"] = "",
 	["tabela_instancias"] = {
 	},
 	["local_instances_config"] = {
@@ -32,7 +30,7 @@ _detalhes_database = {
 			["attribute"] = 1,
 			["pos"] = {
 				["normal"] = {
-					["y"] = 48.0001220703125,
+					["y"] = 48.000244140625,
 					["x"] = 773.999755859375,
 					["w"] = 320,
 					["h"] = 129.999984741211,
@@ -47,15 +45,6 @@ _detalhes_database = {
 		}, -- [1]
 	},
 	["cached_talents"] = {
-		["Player-579-056F8788"] = {
-			22404, -- [1]
-			22165, -- [2]
-			18574, -- [3]
-			21704, -- [4]
-			22160, -- [5]
-			18577, -- [6]
-			18570, -- [7]
-		},
 	},
 	["last_instance_id"] = 0,
 	["announce_interrupts"] = {
@@ -71,7 +60,7 @@ _detalhes_database = {
 		["reverse"] = false,
 	},
 	["active_profile"] = "Enthusiastus-Azshara",
-	["last_realversion"] = 127,
+	["last_realversion"] = 132,
 	["benchmark_db"] = {
 		["frame"] = {
 		},
@@ -153,12 +142,12 @@ _detalhes_database = {
 			},
 			["arrow_anchor_x"] = 0,
 			["row_texture"] = "Details Serenity",
-			["font_size"] = 10,
+			["arrow_anchor_y"] = 0,
 			["main_frame_locked"] = false,
-			["use_spark"] = true,
+			["main_frame_strata"] = "LOW",
 			["enabled"] = false,
 			["arrow_size"] = 10,
-			["arrow_anchor_y"] = 0,
+			["y"] = 4.577636718750e-005,
 			["row_spacement"] = 21,
 			["main_frame_color"] = {
 				0, -- [1]
@@ -168,15 +157,6 @@ _detalhes_database = {
 			},
 			["author"] = "Details! Team",
 			["arrow_texture"] = "Interface\\CHATFRAME\\ChatFrameExpandArrow",
-			["row_color"] = {
-				0.1, -- [1]
-				0.1, -- [2]
-				0.1, -- [3]
-				0.4, -- [4]
-			},
-			["y"] = 4.577636718750e-005,
-			["x"] = 0,
-			["font_face"] = "Friz Quadrata TT",
 			["per_second"] = {
 				["enabled"] = false,
 				["point"] = "CENTER",
@@ -188,8 +168,17 @@ _detalhes_database = {
 				["update_speed"] = 0.05,
 				["size"] = 32,
 			},
+			["font_size"] = 10,
+			["x"] = 0,
+			["font_face"] = "Friz Quadrata TT",
+			["use_spark"] = true,
+			["row_color"] = {
+				0.1, -- [1]
+				0.1, -- [2]
+				0.1, -- [3]
+				0.4, -- [4]
+			},
 			["point"] = "CENTER",
-			["main_frame_strata"] = "LOW",
 			["row_height"] = 20,
 			["scale"] = 1,
 		},
@@ -255,16 +244,10 @@ _detalhes_database = {
 		},
 	},
 	["nick_tag_cache"] = {
-		["nextreset"] = 1515192306,
-		["last_version"] = 9,
+		["nextreset"] = 1533693264,
+		["last_version"] = 10,
 	},
 	["ignore_nicktag"] = false,
-	["last_day"] = "21",
-	["last_version"] = "v7.3.0.4830",
-	["combat_id"] = 0,
-	["savedStyles"] = {
-	},
-	["last_instance_time"] = 0,
 	["mythic_dungeon_currentsaved"] = {
 		["dungeon_name"] = "",
 		["started"] = false,
@@ -275,6 +258,15 @@ _detalhes_database = {
 		["level"] = 0,
 		["dungeon_zone_id"] = 0,
 		["previous_boss_killed_at"] = 0,
+	},
+	["last_version"] = "v8.0.1.6003",
+	["combat_id"] = 0,
+	["savedStyles"] = {
+	},
+	["last_instance_time"] = 0,
+	["announce_firsthit"] = {
+		["enabled"] = true,
+		["channel"] = "SELF",
 	},
 	["announce_deaths"] = {
 		["enabled"] = false,
@@ -314,7 +306,7 @@ _detalhes_database = {
 		},
 		["alternate_power"] = {
 		},
-		["combat_counter"] = 4,
+		["combat_counter"] = 16,
 		["totals"] = {
 			0, -- [1]
 			0, -- [2]
@@ -344,7 +336,7 @@ _detalhes_database = {
 		["__call"] = {
 		},
 		["data_inicio"] = 0,
-		["end_time"] = 177538.536,
+		["end_time"] = 1013753.7,
 		["frags"] = {
 		},
 		["data_fim"] = 0,
@@ -371,7 +363,7 @@ _detalhes_database = {
 				["dead"] = 0,
 			}, -- [4]
 		},
-		["start_time"] = 177538.536,
+		["start_time"] = 1013753.7,
 		["TimeData"] = {
 		},
 		["PhaseData"] = {
@@ -389,15 +381,13 @@ _detalhes_database = {
 			},
 		},
 	},
-	["force_font_outline"] = "",
 	["SoloTablesSaved"] = {
-		["LastSelected"] = "DETAILS_PLUGIN_DAMAGE_RANK",
 		["Mode"] = 1,
 	},
-	["announce_firsthit"] = {
-		["enabled"] = true,
-		["channel"] = "SELF",
+	["character_data"] = {
+		["logons"] = 6,
 	},
+	["last_day"] = "29",
 	["announce_cooldowns"] = {
 		["ignored_cooldowns"] = {
 		},
