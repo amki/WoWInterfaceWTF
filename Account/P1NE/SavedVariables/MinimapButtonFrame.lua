@@ -16,8 +16,8 @@ MBFDB = {
 			["MBF_FrameLocation"] = {
 				nil, -- [1]
 				"RIGHT", -- [2]
-				-30.0005512237549, -- [3]
-				264.999965667725, -- [4]
+				-28.7503776550293, -- [3]
+				376.2498779296875, -- [4]
 			},
 			["customChildren"] = {
 				"MinimapButtonFrameDragButton", -- [1]
@@ -35,6 +35,8 @@ MBFDB = {
 				"OutfitterMinimapButton", -- [13]
 				"GuildInstanceDifficulty", -- [14]
 				"LibDBIcon10_WoWProIcon", -- [15]
+				"LibDBIcon10_MethodDungeonTools", -- [16]
+				"LibDBIcon10_WeakAuras", -- [17]
 			},
 		},
 	},

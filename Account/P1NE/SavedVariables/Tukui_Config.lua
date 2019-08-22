@@ -154,6 +154,27 @@ TukuiConfigShared = {
 			},
 		},
 		["Enthusiastus"] = {
+			["Party"] = {
+				["Enable"] = false,
+			},
+			["Loot"] = {
+				["Enable"] = false,
+			},
+			["ActionBars"] = {
+				["Enable"] = false,
+			},
+			["Raid"] = {
+				["MaxUnitPerColumn"] = 5,
+			},
+			["Bags"] = {
+				["Enable"] = false,
+			},
+			["NamePlates"] = {
+				["Enable"] = false,
+			},
+			["UnitFrames"] = {
+				["UnlinkCastBar"] = true,
+			},
 		},
 	},
 	["Account"] = {

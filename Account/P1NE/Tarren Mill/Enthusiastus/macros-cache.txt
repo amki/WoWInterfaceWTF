@@ -1,7 +1,3 @@
-VER 3 0100000000000006 " " "INV_MISC_QUESTIONMARK"
-#showtooltip
-/use [@mouseover,exists,help,nodead][] Nature's Cure
-END
 VER 3 0100000000000002 " " "INV_MISC_QUESTIONMARK"
 #showtooltip
 /use [@mouseover,exists,help,nodead][] Regrowth
@@ -29,4 +25,24 @@ END
 VER 3 0100000000000005 " " "INV_MISC_QUESTIONMARK"
 #showtooltip
 /use [@mouseover,exists,help,nodead][] Lifebloom
+END
+VER 3 0100000000000006 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/use [@mouseover,exists,help,nodead][] Nature's Cure
+END
+VER 3 0100000000000009 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/use [@cursor] Force of Nature
+END
+VER 3 010000000000000A " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/use [@cursor] Starfall
+END
+VER 3 010000000000000B " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/use [@cursor] Ursol's Vortex
+END
+VER 3 010000000000000C " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/use [@mouseover,exists,help,nodead][] Nourish
 END

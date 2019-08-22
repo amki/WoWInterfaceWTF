@@ -18,8 +18,8 @@ XLootADB = {
 		["Frame"] = {
 			["profiles"] = {
 				["Default"] = {
-					["frame_position_y"] = 570.999938964844,
 					["frame_position_x"] = 914.000244140625,
+					["frame_position_y"] = 570.999938964844,
 				},
 			},
 		},
@@ -27,7 +27,6 @@ XLootADB = {
 			["profiles"] = {
 				["Default"] = {
 					["threshold_own"] = 3,
-					["show_ilvl"] = true,
 					["fade_other"] = 30,
 					["anchor"] = {
 						["visible"] = false,
@@ -35,6 +34,7 @@ XLootADB = {
 						["x"] = 552.99951171875,
 					},
 					["fade_own"] = 30,
+					["show_ilvl"] = true,
 				},
 			},
 		},

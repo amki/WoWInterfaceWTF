@@ -15,13 +15,13 @@ XToLevelDB = {
 				},
 				["dungeonList"] = {
 					{
-						["killCount"] = 67,
-						["name"] = "Bloodmaul Slag Mines",
 						["inProgress"] = false,
+						["totalXP"] = 54033,
+						["killCount"] = 67,
 						["killTotal"] = 54033,
 						["level"] = 90,
 						["rested"] = 54033,
-						["totalXP"] = 54033,
+						["name"] = "Bloodmaul Slag Mines",
 					}, -- [1]
 				},
 				["killList"] = {
@@ -714,22 +714,22 @@ XToLevelDB = {
 				},
 				["dungeonList"] = {
 					{
-						["name"] = "The Deadmines",
 						["totalXP"] = 19373,
+						["name"] = "The Deadmines",
 						["rested"] = 0,
 						["killTotal"] = 19373,
 						["level"] = 25,
-						["inProgress"] = false,
 						["killCount"] = 96,
+						["inProgress"] = false,
 					}, -- [1]
 					{
-						["name"] = "The Wailing Caverns",
 						["totalXP"] = 36931,
+						["name"] = "The Wailing Caverns",
 						["rested"] = 0,
 						["killTotal"] = 36931,
 						["level"] = 22,
-						["inProgress"] = false,
 						["killCount"] = 167,
+						["inProgress"] = false,
 					}, -- [2]
 				},
 				["questAverage"] = 6705.4,
@@ -1188,94 +1188,94 @@ XToLevelDB = {
 				},
 				["dungeonList"] = {
 					{
-						["killCount"] = 57,
-						["name"] = "Eye of Azshara",
 						["inProgress"] = false,
+						["totalXP"] = 46985,
+						["killCount"] = 57,
 						["killTotal"] = 46985,
 						["level"] = 106,
 						["rested"] = 0,
-						["totalXP"] = 46985,
+						["name"] = "Eye of Azshara",
 					}, -- [1]
 					{
-						["totalXP"] = 59971,
 						["name"] = "Darkheart Thicket",
+						["totalXP"] = 59971,
 						["rested"] = 363,
 						["killTotal"] = 59971,
 						["level"] = 104,
-						["killCount"] = 100,
 						["inProgress"] = false,
+						["killCount"] = 100,
 					}, -- [2]
 					{
-						["inProgress"] = false,
-						["totalXP"] = 66003,
 						["killCount"] = 105,
+						["name"] = "Darkheart Thicket",
+						["inProgress"] = false,
 						["killTotal"] = 66003,
 						["level"] = 101,
 						["rested"] = 0,
-						["name"] = "Darkheart Thicket",
+						["totalXP"] = 66003,
 					}, -- [3]
 					{
-						["inProgress"] = false,
-						["totalXP"] = 51010,
 						["killCount"] = 62,
+						["name"] = "Bloodmaul Slag Mines",
+						["inProgress"] = false,
 						["killTotal"] = 51010,
 						["level"] = 92,
 						["rested"] = 0,
-						["name"] = "Bloodmaul Slag Mines",
+						["totalXP"] = 51010,
 					}, -- [4]
 					{
-						["killCount"] = 290,
-						["name"] = "Siege of Niuzao Temple",
 						["inProgress"] = false,
+						["totalXP"] = 129705,
+						["killCount"] = 290,
 						["killTotal"] = 129705,
 						["level"] = 89,
 						["rested"] = 0,
-						["totalXP"] = 129705,
+						["name"] = "Siege of Niuzao Temple",
 					}, -- [5]
 					{
-						["killCount"] = 1092,
-						["name"] = "Stormstout Brewery",
 						["inProgress"] = false,
+						["totalXP"] = 578049,
+						["killCount"] = 1092,
 						["killTotal"] = 578049,
 						["level"] = 85,
 						["rested"] = 0,
-						["totalXP"] = 578049,
+						["name"] = "Stormstout Brewery",
 					}, -- [6]
 					{
-						["killCount"] = 63,
-						["name"] = "Lost City of the Tol'vir",
 						["inProgress"] = false,
+						["totalXP"] = 49052,
+						["killCount"] = 63,
 						["killTotal"] = 49052,
 						["level"] = 85,
 						["rested"] = 0,
-						["totalXP"] = 49052,
+						["name"] = "Lost City of the Tol'vir",
 					}, -- [7]
 					{
-						["killCount"] = 121,
-						["name"] = "The Stonecore",
 						["inProgress"] = false,
+						["totalXP"] = 55834,
+						["killCount"] = 121,
 						["killTotal"] = 55834,
 						["level"] = 85,
 						["rested"] = 21,
-						["totalXP"] = 55834,
+						["name"] = "The Stonecore",
 					}, -- [8]
 					{
-						["killCount"] = 115,
-						["name"] = "Grim Batol",
 						["inProgress"] = false,
+						["totalXP"] = 71364,
+						["killCount"] = 115,
 						["killTotal"] = 71364,
 						["level"] = 84,
 						["rested"] = 0,
-						["totalXP"] = 71364,
+						["name"] = "Grim Batol",
 					}, -- [9]
 					{
-						["killCount"] = 266,
-						["name"] = "Gate of the Setting Sun",
 						["inProgress"] = false,
+						["totalXP"] = 87475,
+						["killCount"] = 266,
 						["killTotal"] = 87475,
 						["level"] = 83,
 						["rested"] = 5846,
-						["totalXP"] = 87475,
+						["name"] = "Gate of the Setting Sun",
 					}, -- [10]
 				},
 				["questAverage"] = 16070.9,
@@ -1800,22 +1800,22 @@ XToLevelDB = {
 				},
 				["dungeonList"] = {
 					{
-						["name"] = "Violet Hold",
 						["totalXP"] = 1293,
+						["name"] = "Violet Hold",
 						["rested"] = 1293,
 						["killTotal"] = 1293,
 						["level"] = 109,
-						["inProgress"] = true,
 						["killCount"] = 9,
+						["inProgress"] = true,
 					}, -- [1]
 					{
-						["killCount"] = 56,
-						["name"] = "Eye of Azshara",
 						["inProgress"] = false,
+						["totalXP"] = 48042,
+						["killCount"] = 56,
 						["killTotal"] = 48042,
 						["level"] = 109,
 						["rested"] = 48042,
-						["totalXP"] = 48042,
+						["name"] = "Eye of Azshara",
 					}, -- [2]
 				},
 				["questList"] = {

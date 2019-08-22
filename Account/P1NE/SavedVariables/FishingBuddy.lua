@@ -1,34 +1,39 @@
 
 FishingBuddy_Info = {
 	["FishTotals"] = {
-		[3000] = 194,
-		[3001] = 194,
+		[407000] = 194,
+		[407001] = 194,
 	},
 	["HiddenFishies"] = {
 	},
 	["FishingSkill"] = {
-		[3001] = 0,
+		[407001] = 0,
 	},
 	["DataFish"] = 0,
 	["Locales"] = {
 	},
+	["KnownZones"] = {
+		[625] = "Dalaran (Broken Isles)",
+		[407] = "Darkmoon Island",
+	},
 	["FishingHoles"] = {
-		[3001] = {
+		[407001] = {
 			[73953] = 1,
 			[124669] = 169,
 			[124670] = 11,
 			[127141] = 13,
 		},
 	},
-	["KnownZones"] = {
+	["FishSchools"] = {
 	},
-	["Version"] = 18000,
+	["SubZones"] = {
+		[407001] = "Darkmoon Boardwalk",
+		[625001] = "Margoss's Retreat",
+		[625000] = 1,
+		[407000] = 1,
+	},
+	["Version"] = 19500,
 	["FishInfo2"] = 0,
-	["ZoneIndex"] = {
-		"Dalaran (Broken Isles)", -- [1]
-		"The Great Sea", -- [2]
-		"Darkmoon Island", -- [3]
-	},
 	["ImppDBLoaded"] = 0,
 	["Fishies"] = {
 		[73953] = {
@@ -65,15 +70,7 @@ FishingBuddy_Info = {
 			["quality"] = 1,
 		},
 	},
-	["SubZones"] = {
-		[3001] = "Darkmoon Boardwalk",
-		[1000] = 4,
-		[1002] = "Dalaran",
-		[1004] = "Krasus' Landing",
-		[2001] = "The Great Sea",
-		[1001] = "Margoss's Retreat",
-		[1003] = "Antonidas Memorial",
-		[3000] = 1,
-		[2000] = 1,
+	["missing"] = {
+		["The Great Sea"] = true,
 	},
 }

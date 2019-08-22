@@ -1349,7 +1349,7 @@ TukuiData = {
 		["Tarren Mill"] = {
 			["Ieni"] = 74038486,
 			["Mihri"] = 6916705897,
-			["Enthusiastus"] = 195528123,
+			["Enthusiastus"] = 210748479,
 		},
 	},
 }

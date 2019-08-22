@@ -7,6 +7,148 @@ RelicInspectorCharDB = {
 		["Enthusiastus - Tarren Mill"] = {
 			["crucibleUsed"] = true,
 			["artifactCache"] = {
+				[128858] = {
+					{
+						["relic"] = {
+							"Enchanted Pool Garnet", -- [1]
+							134100, -- [2]
+							"Arcane", -- [3]
+							"|cff1eff00|Hitem:132282:::::::::::11:3:664:1531:1809:::|h[Enchanted Pool Garnet]|h|r", -- [4]
+						},
+						["traits"] = {
+							{
+								["requiredArtifactLevel"] = 0,
+								["tier"] = 1,
+								["canChoose"] = false,
+								["powerID"] = 1739,
+								["icon"] = 1033184,
+								["isChosen"] = true,
+								["spellID"] = 250879,
+							}, -- [1]
+							{
+								["requiredArtifactLevel"] = 60,
+								["tier"] = 2,
+								["canChoose"] = false,
+								["powerID"] = 1780,
+								["icon"] = 615101,
+								["isChosen"] = false,
+								["spellID"] = 252906,
+							}, -- [2]
+							{
+								["requiredArtifactLevel"] = 60,
+								["tier"] = 2,
+								["canChoose"] = false,
+								["powerID"] = 1770,
+								["icon"] = 132307,
+								["isChosen"] = false,
+								["spellID"] = 252088,
+							}, -- [3]
+							{
+								["requiredArtifactLevel"] = 69,
+								["tier"] = 3,
+								["canChoose"] = false,
+								["powerID"] = 1040,
+								["icon"] = 136096,
+								["isChosen"] = false,
+								["spellID"] = 202445,
+							}, -- [4]
+							{
+								["requiredArtifactLevel"] = 69,
+								["tier"] = 3,
+								["canChoose"] = false,
+								["powerID"] = 1501,
+								["icon"] = 236168,
+								["isChosen"] = false,
+								["spellID"] = 238047,
+							}, -- [5]
+							{
+								["requiredArtifactLevel"] = 69,
+								["tier"] = 3,
+								["canChoose"] = false,
+								["powerID"] = 1042,
+								["icon"] = 1041232,
+								["isChosen"] = false,
+								["spellID"] = 202464,
+							}, -- [6]
+						},
+					}, -- [1]
+					{
+						["relic"] = {
+							"Yotnar's Gratitude", -- [1]
+							840976, -- [2]
+							"Life", -- [3]
+							"|cff1eff00|Hitem:132782:::::::::::11:3:767:1577:1809:::|h[Yotnar's Gratitude]|h|r", -- [4]
+						},
+						["traits"] = {
+							{
+								["requiredArtifactLevel"] = 0,
+								["tier"] = 1,
+								["canChoose"] = false,
+								["powerID"] = 1739,
+								["icon"] = 1033184,
+								["isChosen"] = true,
+								["spellID"] = 250879,
+							}, -- [1]
+							{
+								["requiredArtifactLevel"] = 63,
+								["tier"] = 2,
+								["canChoose"] = false,
+								["powerID"] = 1780,
+								["icon"] = 615101,
+								["isChosen"] = false,
+								["spellID"] = 252906,
+							}, -- [2]
+							{
+								["requiredArtifactLevel"] = 63,
+								["tier"] = 2,
+								["canChoose"] = false,
+								["powerID"] = 1782,
+								["icon"] = 1360764,
+								["isChosen"] = false,
+								["spellID"] = 253070,
+							}, -- [3]
+							{
+								["requiredArtifactLevel"] = 72,
+								["tier"] = 3,
+								["canChoose"] = false,
+								["powerID"] = 1040,
+								["icon"] = 136096,
+								["isChosen"] = false,
+								["spellID"] = 202445,
+							}, -- [4]
+							{
+								["requiredArtifactLevel"] = 72,
+								["tier"] = 3,
+								["canChoose"] = false,
+								["powerID"] = 1041,
+								["icon"] = 1033487,
+								["isChosen"] = false,
+								["spellID"] = 202466,
+							}, -- [5]
+							{
+								["requiredArtifactLevel"] = 72,
+								["tier"] = 3,
+								["canChoose"] = false,
+								["powerID"] = 1042,
+								["icon"] = 1041232,
+								["isChosen"] = false,
+								["spellID"] = 202464,
+							}, -- [6]
+						},
+					}, -- [2]
+					{
+						["relic"] = {
+						},
+					}, -- [3]
+					["level"] = 55,
+					["timestamp"] = 2024767.095,
+					["crucibled"] = true,
+				},
+				[128860] = {
+					["timestamp"] = 23853.653,
+					["level"] = 57,
+					["crucibled"] = false,
+				},
 				[128306] = {
 					{
 						["relic"] = {
@@ -208,148 +350,6 @@ RelicInspectorCharDB = {
 					["timestamp"] = 2026793.406,
 					["crucibled"] = false,
 					["level"] = 55,
-				},
-				[128858] = {
-					{
-						["relic"] = {
-							"Enchanted Pool Garnet", -- [1]
-							134100, -- [2]
-							"Arcane", -- [3]
-							"|cff1eff00|Hitem:132282:::::::::::11:3:664:1531:1809:::|h[Enchanted Pool Garnet]|h|r", -- [4]
-						},
-						["traits"] = {
-							{
-								["requiredArtifactLevel"] = 0,
-								["tier"] = 1,
-								["canChoose"] = false,
-								["powerID"] = 1739,
-								["icon"] = 1033184,
-								["isChosen"] = true,
-								["spellID"] = 250879,
-							}, -- [1]
-							{
-								["requiredArtifactLevel"] = 60,
-								["tier"] = 2,
-								["canChoose"] = false,
-								["powerID"] = 1780,
-								["icon"] = 615101,
-								["isChosen"] = false,
-								["spellID"] = 252906,
-							}, -- [2]
-							{
-								["requiredArtifactLevel"] = 60,
-								["tier"] = 2,
-								["canChoose"] = false,
-								["powerID"] = 1770,
-								["icon"] = 132307,
-								["isChosen"] = false,
-								["spellID"] = 252088,
-							}, -- [3]
-							{
-								["requiredArtifactLevel"] = 69,
-								["tier"] = 3,
-								["canChoose"] = false,
-								["powerID"] = 1040,
-								["icon"] = 136096,
-								["isChosen"] = false,
-								["spellID"] = 202445,
-							}, -- [4]
-							{
-								["requiredArtifactLevel"] = 69,
-								["tier"] = 3,
-								["canChoose"] = false,
-								["powerID"] = 1501,
-								["icon"] = 236168,
-								["isChosen"] = false,
-								["spellID"] = 238047,
-							}, -- [5]
-							{
-								["requiredArtifactLevel"] = 69,
-								["tier"] = 3,
-								["canChoose"] = false,
-								["powerID"] = 1042,
-								["icon"] = 1041232,
-								["isChosen"] = false,
-								["spellID"] = 202464,
-							}, -- [6]
-						},
-					}, -- [1]
-					{
-						["relic"] = {
-							"Yotnar's Gratitude", -- [1]
-							840976, -- [2]
-							"Life", -- [3]
-							"|cff1eff00|Hitem:132782:::::::::::11:3:767:1577:1809:::|h[Yotnar's Gratitude]|h|r", -- [4]
-						},
-						["traits"] = {
-							{
-								["requiredArtifactLevel"] = 0,
-								["tier"] = 1,
-								["canChoose"] = false,
-								["powerID"] = 1739,
-								["icon"] = 1033184,
-								["isChosen"] = true,
-								["spellID"] = 250879,
-							}, -- [1]
-							{
-								["requiredArtifactLevel"] = 63,
-								["tier"] = 2,
-								["canChoose"] = false,
-								["powerID"] = 1780,
-								["icon"] = 615101,
-								["isChosen"] = false,
-								["spellID"] = 252906,
-							}, -- [2]
-							{
-								["requiredArtifactLevel"] = 63,
-								["tier"] = 2,
-								["canChoose"] = false,
-								["powerID"] = 1782,
-								["icon"] = 1360764,
-								["isChosen"] = false,
-								["spellID"] = 253070,
-							}, -- [3]
-							{
-								["requiredArtifactLevel"] = 72,
-								["tier"] = 3,
-								["canChoose"] = false,
-								["powerID"] = 1040,
-								["icon"] = 136096,
-								["isChosen"] = false,
-								["spellID"] = 202445,
-							}, -- [4]
-							{
-								["requiredArtifactLevel"] = 72,
-								["tier"] = 3,
-								["canChoose"] = false,
-								["powerID"] = 1041,
-								["icon"] = 1033487,
-								["isChosen"] = false,
-								["spellID"] = 202466,
-							}, -- [5]
-							{
-								["requiredArtifactLevel"] = 72,
-								["tier"] = 3,
-								["canChoose"] = false,
-								["powerID"] = 1042,
-								["icon"] = 1041232,
-								["isChosen"] = false,
-								["spellID"] = 202464,
-							}, -- [6]
-						},
-					}, -- [2]
-					{
-						["relic"] = {
-						},
-					}, -- [3]
-					["level"] = 55,
-					["timestamp"] = 2024767.095,
-					["crucibled"] = true,
-				},
-				[128860] = {
-					["timestamp"] = 23853.653,
-					["level"] = 57,
-					["crucibled"] = false,
 				},
 			},
 		},

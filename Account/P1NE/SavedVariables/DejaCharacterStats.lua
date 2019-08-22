@@ -4,6 +4,12 @@ DejaCharacterStatsDB = {
 		["dejacharacterstatsShowAverageRepairChecked"] = {
 			["ShowAverageRepairSetChecked"] = false,
 		},
+		["dejacharacterstatsScrollbarChecked"] = {
+			["ScrollbarSetChecked"] = false,
+		},
+		["dejacharacterstatsShowDuraTextureChecked"] = {
+			["ShowDuraTextureSetChecked"] = false,
+		},
 		["dejacharacterstatsItemLevelChecked"] = {
 			["ItemLevelTwoDecimalsSetChecked"] = false,
 			["ItemLevelEQ_AV_SetChecked"] = true,
@@ -19,26 +25,30 @@ DejaCharacterStatsDB = {
 		["dejacharacterstatsShowDecimalsChecked"] = {
 			["SetChecked"] = true,
 		},
-		["dejacharacterstatsScrollbarChecked"] = {
-			["ScrollbarSetChecked"] = false,
-		},
-		["dejacharacterstatsShowDuraTextureChecked"] = {
-			["ShowDuraTextureSetChecked"] = false,
-		},
 		["dejacharacterstatsShowItemLevelChecked"] = {
 			["ShowItemLevelSetChecked"] = true,
 		},
-		["dejacharacterstatsClassBackgroundChecked"] = {
-			["ClassBackgroundChecked"] = true,
+		["dejacharacterstatsSimpleItemColorChecked"] = {
+			["SimpleItemColorChecked"] = false,
+			["DarkerItemColorChecked"] = false,
+		},
+		["dejacharacterstatsHideMasteryChecked"] = {
+			["SetChecked"] = true,
 		},
 		["dejacharacterstatsDCSZeroChecked"] = {
 			["SetChecked"] = false,
 		},
-		["dejacharacterstatsExpandChecked"] = {
-			["ExpandSetChecked"] = true,
+		["dejacharacterstatsClassBackgroundChecked"] = {
+			["ClassBackgroundChecked"] = true,
 		},
 		["dejacharacterstatsShowDuraChecked"] = {
 			["ShowDuraSetChecked"] = false,
+		},
+		["dejacharacterstatsExpandChecked"] = {
+			["ExpandSetChecked"] = true,
+		},
+		["dejacharacterstatsAlternateInfoPlacement"] = {
+			["AlternateInfoPlacementChecked"] = false,
 		},
 		["dejacharacterstatsExpandButtonChecked"] = {
 			["ExpandButtonSetChecked"] = true,
@@ -964,7 +974,24 @@ DCS_ClassSpecDB = {
 		}, -- [46]
 		{
 			["statKey"] = "SPEED",
+			["hideAt"] = 0,
+			["hidden"] = true,
 		}, -- [47]
+		{
+			["statKey"] = "STAGGER",
+			["hideAt"] = 0,
+			["roles"] = {
+				"TANK", -- [1]
+			},
+		}, -- [48]
+		{
+			["statKey"] = "DCS_MOVESPEED",
+		}, -- [49]
+		{
+			["statKey"] = "SPEED_RATING",
+			["hideAt"] = 0,
+			["hidden"] = true,
+		}, -- [50]
 		["uniqueKey"] = "Enthusiastus:Tarren Mill:1",
 	},
 	["Enthusiastus:Azshara:4"] = {
@@ -1355,6 +1382,9 @@ DCS_ClassSpecDB = {
 			["hideAt"] = 0,
 			["hidden"] = true,
 		}, -- [49]
+		{
+			["statKey"] = "DCS_MOVESPEED",
+		}, -- [50]
 		["uniqueKey"] = "Enthusiastus:Tarren Mill:4",
 	},
 	["Ieni:Tarren Mill:2"] = {
@@ -1899,8 +1929,8 @@ DCS_ClassSpecDB = {
 		}, -- [48]
 		{
 			["statKey"] = "STAGGER",
-			["hideAt"] = 0,
 			["hidden"] = true,
+			["hideAt"] = 0,
 			["roles"] = {
 				"TANK", -- [1]
 			},
@@ -2084,12 +2114,12 @@ DCS_ClassSpecDB = {
 		}, -- [47]
 		["uniqueKey"] = "Ieni:Tarren Mill:3",
 	},
-	["Ieni:Tarren Mill:1"] = {
+	["Intergalacto:Onyxia:3"] = {
 		{
 			["statKey"] = "ItemLevelFrame",
 		}, -- [1]
 		{
-			["statKey"] = "AttributesCategory",
+			["statKey"] = "GeneralCategory",
 		}, -- [2]
 		{
 			["statKey"] = "HEALTH",
@@ -2101,182 +2131,185 @@ DCS_ClassSpecDB = {
 			["statKey"] = "DCS_ALTERNATEMANA",
 		}, -- [5]
 		{
-			["statKey"] = "ARMOR",
+			["statKey"] = "ITEMLEVEL",
+			["hidden"] = true,
 		}, -- [6]
+		{
+			["statKey"] = "MOVESPEED",
+		}, -- [7]
+		{
+			["statKey"] = "DURABILITY_STAT",
+		}, -- [8]
+		{
+			["statKey"] = "REPAIR_COST",
+		}, -- [9]
+		{
+			["statKey"] = "AttributesCategory",
+		}, -- [10]
 		{
 			["statKey"] = "STRENGTH",
 			["hidden"] = true,
-		}, -- [7]
+		}, -- [11]
 		{
 			["statKey"] = "AGILITY",
 			["hidden"] = true,
-		}, -- [8]
+		}, -- [12]
 		{
 			["statKey"] = "INTELLECT",
-		}, -- [9]
+		}, -- [13]
 		{
 			["statKey"] = "STAMINA",
-		}, -- [10]
+		}, -- [14]
+		{
+			["statKey"] = "ARMOR",
+		}, -- [15]
+		{
+			["statKey"] = "OffenseCategory",
+		}, -- [16]
 		{
 			["statKey"] = "ATTACK_DAMAGE",
 			["hidden"] = true,
-		}, -- [11]
+		}, -- [17]
 		{
 			["statKey"] = "ATTACK_AP",
 			["hidden"] = true,
-		}, -- [12]
+		}, -- [18]
 		{
 			["statKey"] = "DCS_ATTACK_ATTACKSPEED",
 			["hidden"] = true,
-		}, -- [13]
+		}, -- [19]
 		{
 			["statKey"] = "WEAPON_DPS",
 			["hidden"] = true,
-		}, -- [14]
+		}, -- [20]
 		{
 			["statKey"] = "SPELLPOWER",
-		}, -- [15]
+		}, -- [21]
 		{
 			["statKey"] = "MANAREGEN",
-		}, -- [16]
+		}, -- [22]
 		{
 			["statKey"] = "ENERGY_REGEN",
-		}, -- [17]
+		}, -- [23]
 		{
 			["statKey"] = "DCS_RUNEREGEN",
 			["hidden"] = true,
-		}, -- [18]
+		}, -- [24]
 		{
 			["statKey"] = "FOCUS_REGEN",
-		}, -- [19]
-		{
-			["statKey"] = "MOVESPEED",
-		}, -- [20]
+		}, -- [25]
 		{
 			["statKey"] = "GCD",
-		}, -- [21]
-		{
-			["statKey"] = "DURABILITY_STAT",
-		}, -- [22]
-		{
-			["statKey"] = "REPAIR_COST",
-		}, -- [23]
+		}, -- [26]
 		{
 			["statKey"] = "EnhancementsCategory",
-		}, -- [24]
+		}, -- [27]
 		{
 			["statKey"] = "CRITCHANCE",
 			["hideAt"] = 0,
-		}, -- [25]
+		}, -- [28]
 		{
 			["statKey"] = "HASTE",
 			["hideAt"] = 0,
-		}, -- [26]
+		}, -- [29]
 		{
 			["statKey"] = "VERSATILITY",
 			["hideAt"] = 0,
-		}, -- [27]
+		}, -- [30]
 		{
 			["statKey"] = "MASTERY",
 			["hideAt"] = 0,
-		}, -- [28]
+		}, -- [31]
 		{
 			["statKey"] = "LIFESTEAL",
 			["hideAt"] = 0,
-		}, -- [29]
+		}, -- [32]
 		{
 			["statKey"] = "AVOIDANCE",
 			["hideAt"] = 0,
-		}, -- [30]
+		}, -- [33]
+		{
+			["statKey"] = "DefenseCategory",
+			["hidden"] = true,
+		}, -- [34]
 		{
 			["statKey"] = "DODGE",
 			["hideAt"] = 0,
 			["hidden"] = true,
-		}, -- [31]
+		}, -- [35]
 		{
 			["statKey"] = "PARRY",
 			["hideAt"] = 0,
 			["hidden"] = true,
-		}, -- [32]
+		}, -- [36]
 		{
 			["statKey"] = "BLOCK",
 			["hideAt"] = 0,
 			["hidden"] = true,
-		}, -- [33]
+		}, -- [37]
+		{
+			["statKey"] = "RatingCategory",
+			["hidden"] = true,
+		}, -- [38]
 		{
 			["statKey"] = "CRITCHANCE_RATING",
 			["hideAt"] = 0,
 			["hidden"] = true,
-		}, -- [34]
+		}, -- [39]
 		{
 			["statKey"] = "HASTE_RATING",
 			["hideAt"] = 0,
 			["hidden"] = true,
-		}, -- [35]
+		}, -- [40]
 		{
 			["statKey"] = "VERSATILITY_RATING",
 			["hideAt"] = 0,
 			["hidden"] = true,
-		}, -- [36]
+		}, -- [41]
 		{
 			["statKey"] = "MASTERY_RATING",
 			["hideAt"] = 0,
 			["hidden"] = true,
-		}, -- [37]
+		}, -- [42]
 		{
 			["statKey"] = "LIFESTEAL_RATING",
 			["hideAt"] = 0,
 			["hidden"] = true,
-		}, -- [38]
+		}, -- [43]
 		{
 			["statKey"] = "AVOIDANCE_RATING",
 			["hideAt"] = 0,
 			["hidden"] = true,
-		}, -- [39]
+		}, -- [44]
 		{
 			["statKey"] = "DODGE_RATING",
 			["hideAt"] = 0,
 			["hidden"] = true,
-		}, -- [40]
+		}, -- [45]
 		{
 			["statKey"] = "PARRY_RATING",
 			["hideAt"] = 0,
 			["hidden"] = true,
-		}, -- [41]
-		{
-			["statKey"] = "ITEMLEVEL",
-			["hidden"] = true,
-		}, -- [42]
-		{
-			["statKey"] = "RatingCategory",
-		}, -- [43]
-		{
-			["statKey"] = "SPEED",
-			["hideAt"] = 0,
-			["hidden"] = true,
-		}, -- [44]
-		{
-			["statKey"] = "OffenseCategory",
-		}, -- [45]
-		{
-			["statKey"] = "GeneralCategory",
 		}, -- [46]
-		{
-			["statKey"] = "DefenseCategory",
-		}, -- [47]
-		{
-			["statKey"] = "STAGGER",
-			["hideAt"] = 0,
-			["roles"] = {
-				"TANK", -- [1]
-			},
-		}, -- [48]
 		{
 			["statKey"] = "SPEED_RATING",
 			["hideAt"] = 0,
 			["hidden"] = true,
+		}, -- [47]
+		{
+			["statKey"] = "SPEED",
+			["hideAt"] = 0,
+			["hidden"] = true,
+		}, -- [48]
+		{
+			["statKey"] = "STAGGER",
+			["roles"] = {
+				"TANK", -- [1]
+			},
+			["hidden"] = true,
+			["hideAt"] = 0,
 		}, -- [49]
-		["uniqueKey"] = "Ieni:Tarren Mill:1",
+		["uniqueKey"] = "Intergalacto:Onyxia:3",
 	},
 	["Intergalacto:Azshara:3"] = {
 		{
@@ -2465,8 +2498,8 @@ DCS_ClassSpecDB = {
 		}, -- [48]
 		{
 			["statKey"] = "STAGGER",
-			["hideAt"] = 0,
 			["hidden"] = true,
+			["hideAt"] = 0,
 			["roles"] = {
 				"TANK", -- [1]
 			},
@@ -3216,8 +3249,8 @@ DCS_ClassSpecDB = {
 		}, -- [48]
 		{
 			["statKey"] = "STAGGER",
-			["hidden"] = true,
 			["hideAt"] = 0,
+			["hidden"] = true,
 			["roles"] = {
 				"TANK", -- [1]
 			},
@@ -3750,12 +3783,12 @@ DCS_ClassSpecDB = {
 		}, -- [42]
 		["uniqueKey"] = "Mamiko:Azshara:1",
 	},
-	["Intergalacto:Onyxia:3"] = {
+	["Ieni:Tarren Mill:1"] = {
 		{
 			["statKey"] = "ItemLevelFrame",
 		}, -- [1]
 		{
-			["statKey"] = "GeneralCategory",
+			["statKey"] = "AttributesCategory",
 		}, -- [2]
 		{
 			["statKey"] = "HEALTH",
@@ -3767,184 +3800,181 @@ DCS_ClassSpecDB = {
 			["statKey"] = "DCS_ALTERNATEMANA",
 		}, -- [5]
 		{
-			["statKey"] = "ITEMLEVEL",
-			["hidden"] = true,
+			["statKey"] = "ARMOR",
 		}, -- [6]
-		{
-			["statKey"] = "MOVESPEED",
-		}, -- [7]
-		{
-			["statKey"] = "DURABILITY_STAT",
-		}, -- [8]
-		{
-			["statKey"] = "REPAIR_COST",
-		}, -- [9]
-		{
-			["statKey"] = "AttributesCategory",
-		}, -- [10]
 		{
 			["statKey"] = "STRENGTH",
 			["hidden"] = true,
-		}, -- [11]
+		}, -- [7]
 		{
 			["statKey"] = "AGILITY",
 			["hidden"] = true,
-		}, -- [12]
+		}, -- [8]
 		{
 			["statKey"] = "INTELLECT",
-		}, -- [13]
+		}, -- [9]
 		{
 			["statKey"] = "STAMINA",
-		}, -- [14]
-		{
-			["statKey"] = "ARMOR",
-		}, -- [15]
-		{
-			["statKey"] = "OffenseCategory",
-		}, -- [16]
+		}, -- [10]
 		{
 			["statKey"] = "ATTACK_DAMAGE",
 			["hidden"] = true,
-		}, -- [17]
+		}, -- [11]
 		{
 			["statKey"] = "ATTACK_AP",
 			["hidden"] = true,
-		}, -- [18]
+		}, -- [12]
 		{
 			["statKey"] = "DCS_ATTACK_ATTACKSPEED",
 			["hidden"] = true,
-		}, -- [19]
+		}, -- [13]
 		{
 			["statKey"] = "WEAPON_DPS",
 			["hidden"] = true,
-		}, -- [20]
+		}, -- [14]
 		{
 			["statKey"] = "SPELLPOWER",
-		}, -- [21]
+		}, -- [15]
 		{
 			["statKey"] = "MANAREGEN",
-		}, -- [22]
+		}, -- [16]
 		{
 			["statKey"] = "ENERGY_REGEN",
-		}, -- [23]
+		}, -- [17]
 		{
 			["statKey"] = "DCS_RUNEREGEN",
 			["hidden"] = true,
-		}, -- [24]
+		}, -- [18]
 		{
 			["statKey"] = "FOCUS_REGEN",
-		}, -- [25]
+		}, -- [19]
+		{
+			["statKey"] = "MOVESPEED",
+		}, -- [20]
 		{
 			["statKey"] = "GCD",
-		}, -- [26]
+		}, -- [21]
+		{
+			["statKey"] = "DURABILITY_STAT",
+		}, -- [22]
+		{
+			["statKey"] = "REPAIR_COST",
+		}, -- [23]
 		{
 			["statKey"] = "EnhancementsCategory",
-		}, -- [27]
+		}, -- [24]
 		{
 			["statKey"] = "CRITCHANCE",
 			["hideAt"] = 0,
-		}, -- [28]
+		}, -- [25]
 		{
 			["statKey"] = "HASTE",
 			["hideAt"] = 0,
-		}, -- [29]
+		}, -- [26]
 		{
 			["statKey"] = "VERSATILITY",
 			["hideAt"] = 0,
-		}, -- [30]
+		}, -- [27]
 		{
 			["statKey"] = "MASTERY",
 			["hideAt"] = 0,
-		}, -- [31]
+		}, -- [28]
 		{
 			["statKey"] = "LIFESTEAL",
 			["hideAt"] = 0,
-		}, -- [32]
+		}, -- [29]
 		{
 			["statKey"] = "AVOIDANCE",
 			["hideAt"] = 0,
-		}, -- [33]
-		{
-			["statKey"] = "DefenseCategory",
-			["hidden"] = true,
-		}, -- [34]
+		}, -- [30]
 		{
 			["statKey"] = "DODGE",
 			["hideAt"] = 0,
 			["hidden"] = true,
-		}, -- [35]
+		}, -- [31]
 		{
 			["statKey"] = "PARRY",
 			["hideAt"] = 0,
 			["hidden"] = true,
-		}, -- [36]
+		}, -- [32]
 		{
 			["statKey"] = "BLOCK",
 			["hideAt"] = 0,
 			["hidden"] = true,
-		}, -- [37]
-		{
-			["statKey"] = "RatingCategory",
-			["hidden"] = true,
-		}, -- [38]
+		}, -- [33]
 		{
 			["statKey"] = "CRITCHANCE_RATING",
 			["hideAt"] = 0,
 			["hidden"] = true,
-		}, -- [39]
+		}, -- [34]
 		{
 			["statKey"] = "HASTE_RATING",
 			["hideAt"] = 0,
 			["hidden"] = true,
-		}, -- [40]
+		}, -- [35]
 		{
 			["statKey"] = "VERSATILITY_RATING",
 			["hideAt"] = 0,
 			["hidden"] = true,
-		}, -- [41]
+		}, -- [36]
 		{
 			["statKey"] = "MASTERY_RATING",
 			["hideAt"] = 0,
 			["hidden"] = true,
-		}, -- [42]
+		}, -- [37]
 		{
 			["statKey"] = "LIFESTEAL_RATING",
 			["hideAt"] = 0,
 			["hidden"] = true,
-		}, -- [43]
+		}, -- [38]
 		{
 			["statKey"] = "AVOIDANCE_RATING",
 			["hideAt"] = 0,
 			["hidden"] = true,
-		}, -- [44]
+		}, -- [39]
 		{
 			["statKey"] = "DODGE_RATING",
 			["hideAt"] = 0,
 			["hidden"] = true,
-		}, -- [45]
+		}, -- [40]
 		{
 			["statKey"] = "PARRY_RATING",
 			["hideAt"] = 0,
 			["hidden"] = true,
-		}, -- [46]
+		}, -- [41]
 		{
-			["statKey"] = "SPEED_RATING",
-			["hideAt"] = 0,
+			["statKey"] = "ITEMLEVEL",
 			["hidden"] = true,
-		}, -- [47]
+		}, -- [42]
+		{
+			["statKey"] = "RatingCategory",
+		}, -- [43]
 		{
 			["statKey"] = "SPEED",
 			["hideAt"] = 0,
 			["hidden"] = true,
-		}, -- [48]
+		}, -- [44]
+		{
+			["statKey"] = "OffenseCategory",
+		}, -- [45]
+		{
+			["statKey"] = "GeneralCategory",
+		}, -- [46]
+		{
+			["statKey"] = "DefenseCategory",
+		}, -- [47]
 		{
 			["statKey"] = "STAGGER",
+			["hideAt"] = 0,
 			["roles"] = {
 				"TANK", -- [1]
 			},
+		}, -- [48]
+		{
+			["statKey"] = "SPEED_RATING",
 			["hideAt"] = 0,
 			["hidden"] = true,
 		}, -- [49]
-		["uniqueKey"] = "Intergalacto:Onyxia:3",
+		["uniqueKey"] = "Ieni:Tarren Mill:1",
 	},
 }
