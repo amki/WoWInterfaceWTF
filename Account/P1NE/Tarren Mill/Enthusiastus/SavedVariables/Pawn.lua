@@ -1,37 +1,37 @@
 
 PawnOptions = {
-	["LastVersion"] = 2.0246,
+	["LastVersion"] = 2.0335,
 	["ItemLevels"] = {
 		{
-			["ID"] = 167762,
-			["Level"] = 385,
-			["Link"] = "|cffa335ee|Hitem:167762::::::::120:102:::5:6296:6300:1472:4786:5414:::|h[Fathomstalker Headcover]|h|r",
+			["ID"] = 157913,
+			["Level"] = 420,
+			["Link"] = "|cffa335ee|Hitem:157913::::::::120:105::28:4:1607:4786:6264:4775:::|h[Gonk Outrunner Mask]|h|r",
 		}, -- [1]
 		{
 			["ID"] = 158075,
-			["Level"] = 419,
-			["Link"] = "|cffe6cc80|Hitem:158075::::::::120:105::11:4:4932:4933:6316:1556:::|h[Heart of Azeroth]|h|r",
+			["Level"] = 447,
+			["Link"] = "|cffe6cc80|Hitem:158075::::::::120:105::11:4:4932:4933:6316:1584:::|h[Heart of Azeroth]|h|r",
 		}, -- [2]
 		{
-			["ID"] = 170531,
-			["Level"] = 385,
-			["Link"] = "|cffa335ee|Hitem:170531::::::::120:102::11:3:1577:4786:5415:::|h[Honorbound Outrider's Shoulderguards]|h|r",
+			["ID"] = 167764,
+			["Level"] = 405,
+			["Link"] = "|cffa335ee|Hitem:167764::::::::120:105:::6:6300:6297:1487:4786:6262:4775:::|h[Fathomstalker Shoulderpads]|h|r",
 		}, -- [3]
 		nil, -- [4]
 		{
-			["ID"] = 159298,
-			["Level"] = 385,
-			["Link"] = "|cffa335ee|Hitem:159298::::::::120:105::35:3:5061:1557:4786:::|h[Venture Co. Plenipotentiary Vest]|h|r",
+			["ID"] = 169073,
+			["Level"] = 420,
+			["Link"] = "|cffa335ee|Hitem:169073::::::::120:105::23:5:4819:1472:4786:6263:4775:::|h[Type II Bomber Jacket]|h|r",
 		}, -- [5]
 		{
-			["ID"] = 170368,
-			["Level"] = 400,
-			["Link"] = "|cffa335ee|Hitem:170368::::::::120:105:::5:6300:4802:6289:1487:4786:::|h[Vim's Scalecrusher Clasp]|h|r",
+			["ID"] = 158306,
+			["Level"] = 440,
+			["Link"] = "|cffa335ee|Hitem:158306::::::::120:105::35:4:5010:40:1612:4783:::|h[Belt of Gleaming Determination]|h|r",
 		}, -- [6]
 		{
-			["ID"] = 159306,
-			["Level"] = 395,
-			["Link"] = "|cffa335ee|Hitem:159306::::::::120:105::35:4:5010:4802:1567:4784:::|h[Singe-Blotched Britches]|h|r",
+			["ID"] = 168968,
+			["Level"] = 415,
+			["Link"] = "|cffa335ee|Hitem:168968::::::::120:102::23:3:4779:1472:4786:::|h[Flame-Seared Leggings]|h|r",
 		}, -- [7]
 		{
 			["ID"] = 167760,
@@ -39,55 +39,54 @@ PawnOptions = {
 			["Link"] = "|cffa335ee|Hitem:167760::::::::120:102:::4:6300:6289:1487:4786:::|h[Fathomstalker Footpads]|h|r",
 		}, -- [8]
 		{
-			["ID"] = 170104,
-			["Level"] = 385,
-			["Link"] = "|cffa335ee|Hitem:170104::::::::120:102:::2:6288:6300:::|h[Fathomstalker Bindings]|h|r",
+			["ID"] = 168377,
+			["Level"] = 415,
+			["Link"] = "|cffa335ee|Hitem:168377::::::::120:105::3:3:4798:1487:4786:::|h[Tideblood Bracers]|h|r",
 		}, -- [9]
 		{
-			["ID"] = 170334,
-			["Level"] = 400,
-			["Link"] = "|cffa335ee|Hitem:170334::::::::120:105:::4:6300:6289:1487:4786:::|h[Poen's Deepsea Grips]|h|r",
+			["ID"] = 159312,
+			["Level"] = 430,
+			["Link"] = "|cffa335ee|Hitem:159312::::::::120:102::16:3:5010:1602:4786:::|h[Desiccator's Blessed Gloves]|h|r",
 		}, -- [10]
 		{
-			["ID"] = 162548,
-			["Level"] = 380,
+			["ID"] = 159459,
+			["Level"] = 430,
 			["AlsoFitsIn"] = 12,
-			["Link"] = "|cffa335ee|Hitem:162548::::::::120:105::35:3:5010:1552:4786:::|h[Thornwoven Band]|h|r",
+			["Link"] = "|cffa335ee|Hitem:159459::::::::120:102::16:3:5010:1602:4786:::|h[Ritual Binder's Ring]|h|r",
 		}, -- [11]
 		{
-			["ID"] = 162548,
-			["Level"] = 380,
+			["ID"] = 159459,
+			["Level"] = 430,
 			["AlsoFitsIn"] = 11,
-			["Link"] = "|cffa335ee|Hitem:162548::::::::120:102::35:3:5010:1552:4786:::|h[Thornwoven Band]|h|r",
+			["Link"] = "|cffa335ee|Hitem:159459::::::::120:105::16:3:5010:1602:4786:::|h[Ritual Binder's Ring]|h|r",
 		}, -- [12]
 		{
-			["ID"] = 158153,
-			["Level"] = 340,
+			["ID"] = 169312,
+			["Level"] = 415,
 			["AlsoFitsIn"] = 14,
-			["Link"] = "|cffa335ee|Hitem:158153::::::::120:105::28:3:4803:1532:4786:::|h[Gilded Loa Figurine]|h|r",
+			["Link"] = "|cffa335ee|Hitem:169312::::::::120:105::3:3:4798:1487:4786:::|h[Luminous Jellyweed]|h|r",
 		}, -- [13]
 		{
-			["ID"] = 158153,
-			["Level"] = 340,
+			["ID"] = 169312,
+			["Level"] = 415,
 			["AlsoFitsIn"] = 13,
-			["Link"] = "|cffa335ee|Hitem:158153::::::::120:102::28:3:4803:1532:4786:::|h[Gilded Loa Figurine]|h|r",
+			["Link"] = "|cffa335ee|Hitem:169312::::::::120:102::3:3:4798:1487:4786:::|h[Luminous Jellyweed]|h|r",
 		}, -- [14]
 		{
-			["ID"] = 167531,
-			["Level"] = 390,
-			["Link"] = "|cff0070dd|Hitem:167531::::::::120:102::47:2:1502:4785:::|h[Notorious Aspirant's Drape]|h|r",
+			["ID"] = 159287,
+			["Level"] = 430,
+			["Link"] = "|cffa335ee|Hitem:159287::::::::120:102::16:3:5010:1602:4786:::|h[Cloak of Questionable Intent]|h|r",
 		}, -- [15]
 		{
-			["ID"] = 158369,
-			["Level"] = 370,
+			["ID"] = 168955,
+			["Level"] = 415,
 			["AlsoFitsIn"] = 17,
-			["Link"] = "|cffa335ee|Hitem:158369::::::::120:105::16:3:5010:1542:4786:::|h[Galvanized Stormcrusher]|h|r",
+			["Link"] = "|cffa335ee|Hitem:168955::::::::120:102::23:3:4779:1472:4786:::|h[Electrifying Cognitive Amplifier]|h|r",
 		}, -- [16]
 		{
-			["ID"] = 158369,
-			["Level"] = 370,
-			["AlsoFitsIn"] = 16,
-			["Link"] = "|cffa335ee|Hitem:158369::::::::120:102::16:3:5010:1542:4786:::|h[Galvanized Stormcrusher]|h|r",
+			["ID"] = 168477,
+			["Level"] = 430,
+			["Link"] = "|cffa335ee|Hitem:168477::::::::120:102::5:3:4799:1502:4786:::|h[Tidebinder's Driftglobe]|h|r",
 		}, -- [17]
 	},
 	["AutoSelectScales"] = true,
@@ -99,3 +98,4 @@ PawnMrRobotScaleProviderOptions = {
 	["LastClass"] = "DRUID",
 	["LastAdded"] = 1,
 }
+PawnClassicScaleProviderOptions = nil

@@ -6,6 +6,7 @@ RelicInspectorDB = {
 		["Intergalacto - Azshara"] = "Default",
 		["Ieni - Tarren Mill"] = "Default",
 		["Intergalacto - Onyxia"] = "Default",
+		["Rynllor - Tarren Mill"] = "Default",
 		["Enthusiastus - Tarren Mill"] = "Default",
 		["Mamiko - Azshara"] = "Default",
 		["Mihri - Tarren Mill"] = "Default",

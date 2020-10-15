@@ -18,9 +18,6 @@ bind 0 NONE
 bind - ACTIONBUTTON10
 bind = NONE
 bind CTRL-4 NONE
-bind SHIFT-4 CLICK BT4Button28:LeftButton
-bind SHIFT-5 CLICK BT4Button29:LeftButton
-bind SHIFT-6 CLICK BT4Button30:LeftButton
 bind G CLICK BT4Button31:LeftButton
 bind F STRAFERIGHT
 bind V CLICK BT4Button42:LeftButton
@@ -37,9 +34,13 @@ bind K MULTIACTIONBAR2BUTTON9
 bind I TOGGLEBACKPACK
 bind Y CLICK BT4Button39:LeftButton
 bind J CLICK BT4Button33:LeftButton
+bind CTRL-B NONE
 bind SHIFT-G CLICK BT4Button35:LeftButton
 bind SHIFT-C CLICK BT4Button46:LeftButton
 bind T CLICK BT4Button19:LeftButton
+bind SHIFT-4 CLICK BT4Button28:LeftButton
+bind SHIFT-5 CLICK BT4Button29:LeftButton
+bind SHIFT-6 CLICK BT4Button30:LeftButton
 bind < CLICK BT4Button38:LeftButton
 bind BUTTON5 CLICK BT4Button24:LeftButton
 bind CAPSLOCK NONE
@@ -53,7 +54,6 @@ bind NUMPADMULTIPLY TOGGLEAUTORUN
 bind SHIFT-F CLICK BT4Button34:LeftButton
 bind SHIFT-E CLICK BT4Button22:LeftButton
 bind SHIFT-D NONE
-bind CTRL-B NONE
 bind ö TOGGLESHEATH
 bind [ PAWN_COMPARE_LEFT
 bind ] PAWN_COMPARE_RIGHT

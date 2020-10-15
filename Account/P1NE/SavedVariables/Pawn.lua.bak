@@ -188,6 +188,9 @@ PawnCommon = {
 				["Enthusiastus-Azshara"] = {
 					["Visible"] = true,
 				},
+				["Enthusiastus-Tarren Mill"] = {
+					["Visible"] = true,
+				},
 			},
 			["Color"] = "ff7d0a",
 			["LocalizedName"] = "Druid: Restoration",
@@ -233,9 +236,6 @@ PawnCommon = {
 		["\"MrRobot\":DRUID1"] = {
 			["IconTexturePath"] = 136096,
 			["PerCharacterOptions"] = {
-				["Enthusiastus-Tarren Mill"] = {
-					["Visible"] = true,
-				},
 			},
 			["Color"] = "ff7d0a",
 			["LocalizedName"] = "Druid: Balance",
@@ -440,6 +440,9 @@ PawnCommon = {
 				["Intergalacto-Azshara"] = {
 					["Visible"] = true,
 				},
+				["Rynllor-Tarren Mill"] = {
+					["Visible"] = true,
+				},
 			},
 			["Color"] = "00ff96",
 			["LocalizedName"] = "Monk: Mistweaver",
@@ -582,7 +585,7 @@ PawnCommon = {
 			["SpecID"] = 3,
 		},
 	},
-	["LastVersion"] = 2.0246,
+	["LastVersion"] = 2.0336,
 	["ButtonPosition"] = 2,
 	["ShowLootUpgradeAdvisor"] = true,
 	["ShowQuestUpgradeAdvisor"] = true,

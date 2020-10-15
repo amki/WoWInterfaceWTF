@@ -1,10 +1,12 @@
 
 OmniBarDB = {
 	["profileKeys"] = {
-		["Mihri - Tarren Mill"] = "Default",
 		["Intergalacto - Onyxia"] = "Default",
+		["Rynllor - Tarren Mill"] = "Default",
 		["Enthusiastus - Tarren Mill"] = "Default",
 		["Ieni - Tarren Mill"] = "Default",
+		["Mihri - Tarren Mill"] = "Default",
+		["Intergalacto - Tarren Mill"] = "Default",
 	},
 	["cooldowns"] = {
 	},

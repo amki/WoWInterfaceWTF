@@ -76,7 +76,7 @@ MasterPlan: enabled
 MasterPlanA: enabled
 MinimapButtonFrame: enabled
 MinimapButtonFrame_SkinPack: enabled
-MPH: enabled
+MPH: disabled
 OmniBar: enabled
 OPie: enabled
 Outfitter: enabled
@@ -124,4 +124,14 @@ TradeSkillMaster_Vendoring: disabled
 TradeSkillMaster_Warehousing: disabled
 Tukui_Config: enabled
 Tukui: enabled
-WoWPro_Leveling: enabled
+WoWPro_Leveling: disabled
+WoWPro: disabled
+ElvUI_VisualAuraTimers: disabled
+ElvUI_ExtraActionBars: disabled
+ElvUI_CastBarOverlay: disabled
+ElvUI_EverySecondCounts: disabled
+ElvUI_AuraBarsMovers: disabled
+ElvUI_CustomTweaks: disabled
+ElvUI_DTBars2: disabled
+WeakAurasCompanion: enabled
+WeakAurasArchive: enabled

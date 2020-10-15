@@ -1,23 +1,6 @@
 
 TukuiConfigShared = {
 	["Azshara"] = {
-		["Intergalacto"] = {
-			["Party"] = {
-				["Enable"] = false,
-			},
-			["ActionBars"] = {
-				["Enable"] = false,
-			},
-			["Bags"] = {
-				["Enable"] = false,
-			},
-			["NamePlates"] = {
-				["Enable"] = false,
-			},
-			["UnitFrames"] = {
-				["UnlinkCastBar"] = true,
-			},
-		},
 		["Enthusiastus"] = {
 			["Misc"] = {
 				["AutoInviteEnable"] = true,
@@ -41,14 +24,31 @@ TukuiConfigShared = {
 				["UnlinkCastBar"] = true,
 			},
 		},
-	},
-	["Onyxia"] = {
 		["Intergalacto"] = {
 			["Party"] = {
 				["Enable"] = false,
 			},
+			["ActionBars"] = {
+				["Enable"] = false,
+			},
+			["Bags"] = {
+				["Enable"] = false,
+			},
+			["NamePlates"] = {
+				["Enable"] = false,
+			},
+			["UnitFrames"] = {
+				["UnlinkCastBar"] = true,
+			},
+		},
+	},
+	["Onyxia"] = {
+		["Intergalacto"] = {
 			["Misc"] = {
 				["AutoInviteEnable"] = true,
+			},
+			["Party"] = {
+				["Enable"] = false,
 			},
 			["General"] = {
 				["AFKSaver"] = false,
@@ -72,24 +72,24 @@ TukuiConfigShared = {
 	},
 	["Tarren Mill"] = {
 		["Ieni"] = {
-			["Misc"] = {
-				["AutoInviteEnable"] = true,
-			},
 			["Party"] = {
 				["Enable"] = false,
 			},
-			["ActionBars"] = {
-				["Enable"] = false,
+			["Misc"] = {
+				["AutoInviteEnable"] = true,
 			},
 			["DataTexts"] = {
 				["Time24HrFormat"] = true,
 			},
-			["Bags"] = {
+			["ActionBars"] = {
 				["Enable"] = false,
 			},
 			["Raid"] = {
-				["Font"] = "Tukui Outline",
 				["HealthFont"] = "Tukui Outline",
+				["Font"] = "Tukui Outline",
+			},
+			["Bags"] = {
+				["Enable"] = false,
 			},
 			["NamePlates"] = {
 				["Enable"] = false,
@@ -114,10 +114,10 @@ TukuiConfigShared = {
 					["Options"] = {
 						["Small"] = "Small",
 						["Pixel Perfection"] = "Pixel Perfection",
-						["Medium"] = "Medium",
+						["Large"] = "Large",
 						["Oversize"] = "Oversize",
 						["Smallest"] = "Smallest",
-						["Large"] = "Large",
+						["Medium"] = "Medium",
 					},
 					["Value"] = "Pixel Perfection",
 				},
@@ -133,24 +133,22 @@ TukuiConfigShared = {
 				["Enable"] = false,
 			},
 			["UnitFrames"] = {
-				["CombatLog"] = true,
 				["UnlinkCastBar"] = true,
-				["Font"] = "Tukui Outline",
+				["CombatLog"] = true,
 			},
 			["Party"] = {
 				["Enable"] = false,
 			},
 			["Raid"] = {
-				["HealthFont"] = "Tukui Outline",
 				["MaxUnitPerColumn"] = 5,
 				["Font"] = "Tukui Outline",
+			},
+			["ActionBars"] = {
+				["Enable"] = false,
 			},
 			["Tooltips"] = {
 				["MouseOver"] = true,
 				["HealthFont"] = "Game Font",
-			},
-			["ActionBars"] = {
-				["Enable"] = false,
 			},
 		},
 		["Enthusiastus"] = {
@@ -163,12 +161,11 @@ TukuiConfigShared = {
 			["ActionBars"] = {
 				["Enable"] = false,
 			},
-			["Bags"] = {
-				["Enable"] = false,
-			},
 			["Raid"] = {
 				["MaxUnitPerColumn"] = 5,
-				["RangeAlpha"] = 0.3,
+			},
+			["Bags"] = {
+				["Enable"] = false,
 			},
 			["NamePlates"] = {
 				["Enable"] = false,

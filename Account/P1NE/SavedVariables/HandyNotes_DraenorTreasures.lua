@@ -1,14 +1,15 @@
 
 DraenorTreasuresDB = {
 	["profileKeys"] = {
-		["Intergalacto - Onyxia"] = "Default",
 		["Intergalacto - Tarren Mill"] = "Default",
-		["Enthusiastus - Azshara"] = "Default",
-		["Ieni - Tarren Mill"] = "Default",
-		["Mihri - Tarren Mill"] = "Default",
 		["Intergalacto - Azshara"] = "Default",
-		["Mamiko - Azshara"] = "Default",
+		["Ieni - Tarren Mill"] = "Default",
+		["Intergalacto - Onyxia"] = "Default",
+		["Rynllor - Tarren Mill"] = "Default",
 		["Enthusiastus - Tarren Mill"] = "Default",
+		["Mamiko - Azshara"] = "Default",
+		["Mihri - Tarren Mill"] = "Default",
+		["Enthusiastus - Azshara"] = "Default",
 	},
 	["profiles"] = {
 		["Default"] = {

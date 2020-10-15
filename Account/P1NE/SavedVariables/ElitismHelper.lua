@@ -1,5 +1,5 @@
 
 ElitismHelperDB = {
 	["OutputMode"] = "default",
-	["Loud"] = true,
+	["Loud"] = false,
 }

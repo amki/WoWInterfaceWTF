@@ -62,3 +62,12 @@ VER 3 0100000000000012 " " "INV_MISC_QUESTIONMARK"
 #showtooltip
 /use [@mouseover,exists,help,nodead][] Ishkar's Felshield Emitter
 END
+VER 3 0100000000000013 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [talent:6/2] Divine Star
+/cast [talent:6/3] Halo
+END
+VER 3 0100000000000014 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/use [@cursor][] Shadow Crash
+END

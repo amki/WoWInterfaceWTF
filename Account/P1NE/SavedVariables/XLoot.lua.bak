@@ -18,8 +18,8 @@ XLootADB = {
 		["Frame"] = {
 			["profiles"] = {
 				["Default"] = {
-					["frame_position_x"] = 914.000244140625,
 					["frame_position_y"] = 570.999938964844,
+					["frame_position_x"] = 914.000244140625,
 				},
 			},
 		},
@@ -47,6 +47,7 @@ XLootADB = {
 		["Intergalacto - Azshara"] = "Default",
 		["Ieni - Tarren Mill"] = "Default",
 		["Intergalacto - Onyxia"] = "Default",
+		["Rynllor - Tarren Mill"] = "Default",
 		["Enthusiastus - Tarren Mill"] = "Default",
 		["Mamiko - Azshara"] = "Default",
 		["Mihri - Tarren Mill"] = "Default",

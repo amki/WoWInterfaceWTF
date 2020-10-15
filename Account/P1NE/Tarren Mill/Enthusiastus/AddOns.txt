@@ -2,7 +2,7 @@ WoWPro_Achievements: disabled
 WoWPro_Dailies: disabled
 WowPro_Profession: disabled
 WoWPro_WorldEvents: disabled
-WoWPro_Leveling: enabled
+WoWPro_Leveling: disabled
 CoopCooldowns: disabled
 ACU: disabled
 AchievementsReminder: disabled
@@ -27,3 +27,16 @@ RaiderIO_DB_TW_A_R: disabled
 RaiderIO_DB_KR_H_R: disabled
 RaiderIO_DB_KR_A_R: disabled
 ConfirmSP: disabled
+WoWPro: disabled
+MPH: disabled
+LittleWigs: enabled
+BigWigs_EternalPalace: enabled
+ElvUI_VisualAuraTimers: disabled
+ElvUI_ExtraActionBars: disabled
+ElvUI_CastBarOverlay: disabled
+ElvUI_EverySecondCounts: disabled
+ElvUI_AuraBarsMovers: disabled
+ElvUI_CustomTweaks: disabled
+ElvUI_DTBars2: disabled
+WeakAurasArchive: enabled
+ElvUI_OptionsUI: enabled

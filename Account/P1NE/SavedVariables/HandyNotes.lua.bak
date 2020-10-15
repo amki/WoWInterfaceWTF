@@ -6,6 +6,7 @@ HandyNotesDB = {
 		["Intergalacto - Azshara"] = "Intergalacto - Azshara",
 		["Ieni - Tarren Mill"] = "Ieni - Tarren Mill",
 		["Intergalacto - Onyxia"] = "Intergalacto - Onyxia",
+		["Rynllor - Tarren Mill"] = "Rynllor - Tarren Mill",
 		["Enthusiastus - Tarren Mill"] = "Enthusiastus - Tarren Mill",
 		["Mamiko - Azshara"] = "Mamiko - Azshara",
 		["Mihri - Tarren Mill"] = "Mihri - Tarren Mill",
@@ -21,6 +22,8 @@ HandyNotesDB = {
 		["Ieni - Tarren Mill"] = {
 		},
 		["Intergalacto - Onyxia"] = {
+		},
+		["Rynllor - Tarren Mill"] = {
 		},
 		["Enthusiastus - Tarren Mill"] = {
 		},
@@ -39,6 +42,7 @@ HandyNotes_HandyNotesDB = {
 		["Intergalacto - Azshara"] = "Intergalacto - Azshara",
 		["Ieni - Tarren Mill"] = "Ieni - Tarren Mill",
 		["Intergalacto - Onyxia"] = "Intergalacto - Onyxia",
+		["Rynllor - Tarren Mill"] = "Rynllor - Tarren Mill",
 		["Enthusiastus - Tarren Mill"] = "Enthusiastus - Tarren Mill",
 		["Mamiko - Azshara"] = "Mamiko - Azshara",
 		["Mihri - Tarren Mill"] = "Mihri - Tarren Mill",
@@ -54,6 +58,8 @@ HandyNotes_HandyNotesDB = {
 		["Ieni - Tarren Mill"] = {
 		},
 		["Intergalacto - Onyxia"] = {
+		},
+		["Rynllor - Tarren Mill"] = {
 		},
 		["Enthusiastus - Tarren Mill"] = {
 		},

@@ -443,6 +443,9 @@ PawnCommon = {
 				["Intergalacto-Azshara"] = {
 					["Visible"] = true,
 				},
+				["Rynllor-Tarren Mill"] = {
+					["Visible"] = true,
+				},
 			},
 			["Color"] = "00ff96",
 			["ClassID"] = 10,
@@ -582,7 +585,7 @@ PawnCommon = {
 			["UnenchantedColor"] = "00bf70",
 		},
 	},
-	["LastVersion"] = 2.0246,
+	["LastVersion"] = 2.0336,
 	["ButtonPosition"] = 2,
 	["ShowLootUpgradeAdvisor"] = true,
 	["ShowQuestUpgradeAdvisor"] = true,
