@@ -13,7 +13,7 @@ EasyScrap_IgnoreList = {
 			},
 		},
 	},
-	["addonVersion"] = 24,
+	["addonVersion"] = 30,
 	[168973] = {
 		["isAzeriteArmor"] = false,
 		[415] = {
@@ -147,6 +147,17 @@ EasyScrap_IgnoreList = {
 					"1487", -- [2]
 					"4786", -- [3]
 					"6263", -- [4]
+				}, -- [1]
+			},
+		},
+	},
+	[167524] = {
+		["isAzeriteArmor"] = false,
+		[70] = {
+			["Notorious Aspirant's Band"] = {
+				{
+					"1482", -- [1]
+					"4785", -- [2]
 				}, -- [1]
 			},
 		},

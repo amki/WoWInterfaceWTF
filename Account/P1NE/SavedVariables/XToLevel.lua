@@ -1,6 +1,255 @@
 
 XToLevelDB = {
 	["char"] = {
+		["Thankubliz - Tarren Mill"] = {
+			["data"] = {
+				["total"] = {
+					["dungeonKills"] = 18,
+					["quests"] = 32,
+					["mobKills"] = 86,
+				},
+				["killAverage"] = 65,
+				["timer"] = {
+					["start"] = 499677.329,
+					["total"] = 31160,
+					["lastUpdated"] = 501965.106,
+					["xpPerSec"] = 13.62020861298981,
+				},
+				["dungeonList"] = {
+					{
+						["killCount"] = 18,
+						["name"] = "Darkmaul Citadel",
+						["inProgress"] = false,
+						["killTotal"] = 1113,
+						["level"] = 9,
+						["rested"] = 0,
+						["totalXP"] = 1113,
+					}, -- [1]
+				},
+				["questAverage"] = 1400,
+				["questList"] = {
+					1400, -- [1]
+				},
+			},
+		},
+		["Iridia - Tarren Mill"] = {
+			["data"] = {
+				["total"] = {
+					["dungeonKills"] = 2420,
+					["quests"] = 154,
+					["mobKills"] = 2892,
+				},
+				["killAverage"] = 260,
+				["timer"] = {
+					["start"] = 333735.416,
+					["total"] = 288262,
+					["lastUpdated"] = 339872.652,
+					["xpPerSec"] = 46.96935232733451,
+				},
+				["dungeonList"] = {
+					{
+						["totalXP"] = 12313,
+						["name"] = "Skyreach",
+						["rested"] = 0,
+						["killTotal"] = 12313,
+						["level"] = 48,
+						["killCount"] = 24,
+						["inProgress"] = false,
+					}, -- [1]
+					{
+						["totalXP"] = 2954,
+						["name"] = "Skyreach",
+						["rested"] = 0,
+						["killTotal"] = 2954,
+						["level"] = 48,
+						["killCount"] = 7,
+						["inProgress"] = false,
+					}, -- [2]
+					{
+						["totalXP"] = 3650,
+						["name"] = "Skyreach",
+						["rested"] = 0,
+						["killTotal"] = 3650,
+						["level"] = 48,
+						["killCount"] = 12,
+						["inProgress"] = false,
+					}, -- [3]
+					{
+						["totalXP"] = 23177,
+						["name"] = "Shadowmoon Burial Grounds",
+						["rested"] = 1597,
+						["killTotal"] = 23177,
+						["level"] = 48,
+						["killCount"] = 102,
+						["inProgress"] = false,
+					}, -- [4]
+					{
+						["name"] = "Magisters' Terrace",
+						["totalXP"] = 25304,
+						["rested"] = 0,
+						["killTotal"] = 25304,
+						["level"] = 47,
+						["inProgress"] = false,
+						["killCount"] = 140,
+					}, -- [5]
+					{
+						["name"] = "Stormstout Brewery",
+						["totalXP"] = 18681,
+						["rested"] = 0,
+						["killTotal"] = 18681,
+						["level"] = 45,
+						["inProgress"] = false,
+						["killCount"] = 172,
+					}, -- [6]
+					{
+						["killCount"] = 204,
+						["name"] = "Storm's End",
+						["inProgress"] = false,
+						["killTotal"] = 31972,
+						["level"] = 43,
+						["rested"] = 0,
+						["totalXP"] = 31972,
+					}, -- [7]
+					{
+						["killCount"] = 117,
+						["name"] = "The Everbloom",
+						["inProgress"] = false,
+						["killTotal"] = 20547,
+						["level"] = 41,
+						["rested"] = 0,
+						["totalXP"] = 20547,
+					}, -- [8]
+					{
+						["killCount"] = 74,
+						["name"] = "Iron Docks",
+						["inProgress"] = false,
+						["killTotal"] = 14988,
+						["level"] = 40,
+						["rested"] = 0,
+						["totalXP"] = 14988,
+					}, -- [9]
+					{
+						["killCount"] = 336,
+						["name"] = "The Shattered Halls",
+						["inProgress"] = false,
+						["killTotal"] = 73556,
+						["level"] = 37,
+						["rested"] = 0,
+						["totalXP"] = 73556,
+					}, -- [10]
+					{
+						["killCount"] = 126,
+						["name"] = "Sethekk Halls",
+						["inProgress"] = false,
+						["killTotal"] = 28065,
+						["level"] = 36,
+						["rested"] = 0,
+						["totalXP"] = 28065,
+					}, -- [11]
+					{
+						["killCount"] = 105,
+						["name"] = "The Underbog",
+						["inProgress"] = false,
+						["killTotal"] = 29929,
+						["level"] = 34,
+						["rested"] = 0,
+						["totalXP"] = 29929,
+					}, -- [12]
+					{
+						["killCount"] = 41,
+						["name"] = "Skyreach",
+						["inProgress"] = false,
+						["killTotal"] = 12586,
+						["level"] = 33,
+						["rested"] = 0,
+						["totalXP"] = 12586,
+					}, -- [13]
+					{
+						["killCount"] = 215,
+						["name"] = "Hall of Blackhand",
+						["inProgress"] = false,
+						["killTotal"] = 31767,
+						["level"] = 31,
+						["rested"] = 9197,
+						["totalXP"] = 31767,
+					}, -- [14]
+					{
+						["killCount"] = 66,
+						["name"] = "Bloodmaul Slag Mines",
+						["inProgress"] = false,
+						["killTotal"] = 11750,
+						["level"] = 27,
+						["rested"] = 0,
+						["totalXP"] = 11750,
+					}, -- [15]
+					{
+						["killCount"] = 103,
+						["name"] = "Shadowmoon Burial Grounds",
+						["inProgress"] = false,
+						["killTotal"] = 13632,
+						["level"] = 24,
+						["rested"] = 0,
+						["totalXP"] = 13632,
+					}, -- [16]
+					{
+						["killCount"] = 90,
+						["name"] = "Old Hillsbrad Foothills",
+						["inProgress"] = false,
+						["killTotal"] = 16293,
+						["level"] = 20,
+						["rested"] = 0,
+						["totalXP"] = 16293,
+					}, -- [17]
+					{
+						["killCount"] = 144,
+						["name"] = "Auchenai Crypts",
+						["inProgress"] = false,
+						["killTotal"] = 10401,
+						["level"] = 18,
+						["rested"] = 8,
+						["totalXP"] = 10401,
+					}, -- [18]
+					{
+						["inProgress"] = false,
+						["totalXP"] = 13846,
+						["killCount"] = 118,
+						["killTotal"] = 13846,
+						["level"] = 16,
+						["rested"] = 1,
+						["name"] = "Mana-Tombs",
+					}, -- [19]
+					{
+						["inProgress"] = false,
+						["totalXP"] = 14094,
+						["killCount"] = 108,
+						["killTotal"] = 14094,
+						["level"] = 13,
+						["rested"] = 0,
+						["name"] = "The Underbog",
+					}, -- [20]
+					{
+						["inProgress"] = false,
+						["totalXP"] = 10825,
+						["killCount"] = 116,
+						["killTotal"] = 10825,
+						["level"] = 10,
+						["rested"] = 21,
+						["name"] = "The Slave Pens",
+					}, -- [21]
+				},
+				["questAverage"] = 6800,
+			},
+		},
+		["Ieni - Tarren Mill"] = {
+			["data"] = {
+				["timer"] = {
+					["start"] = 502056.24,
+					["total"] = 0,
+					["lastUpdated"] = 514112.171,
+					["xpPerSec"] = 0,
+				},
+			},
+		},
 		["Intergalacto - Onyxia"] = {
 			["data"] = {
 				["timer"] = {
@@ -293,597 +542,6 @@ XToLevelDB = {
 						["mob"] = "Bloodmaul Overseer",
 						["xp"] = 1056,
 					}, -- [67]
-				},
-			},
-		},
-		["Intergalacto - Tarren Mill"] = {
-			["data"] = {
-				["total"] = {
-					["dungeonKills"] = 521,
-					["quests"] = 38,
-					["mobKills"] = 569,
-				},
-				["killAverage"] = 613,
-				["dungeonList"] = {
-					{
-						["totalXP"] = 52536,
-						["name"] = "Dire Maul",
-						["rested"] = 12628,
-						["killTotal"] = 52536,
-						["level"] = 39,
-						["killCount"] = 167,
-						["inProgress"] = false,
-					}, -- [1]
-					{
-						["totalXP"] = 29403,
-						["name"] = "Scarlet Halls",
-						["rested"] = 29403,
-						["killTotal"] = 29403,
-						["level"] = 37,
-						["killCount"] = 91,
-						["inProgress"] = false,
-					}, -- [2]
-					{
-						["inProgress"] = false,
-						["totalXP"] = 19373,
-						["killCount"] = 96,
-						["killTotal"] = 19373,
-						["level"] = 25,
-						["rested"] = 0,
-						["name"] = "The Deadmines",
-					}, -- [3]
-					{
-						["inProgress"] = false,
-						["totalXP"] = 36931,
-						["killCount"] = 167,
-						["killTotal"] = 36931,
-						["level"] = 22,
-						["rested"] = 0,
-						["name"] = "The Wailing Caverns",
-					}, -- [4]
-				},
-				["questAverage"] = 7639.4,
-				["questList"] = {
-					8575, -- [1]
-					8330, -- [2]
-					8207, -- [3]
-					8207, -- [4]
-					8207, -- [5]
-					7104, -- [6]
-					7104, -- [7]
-					6959, -- [8]
-					6959, -- [9]
-					6742, -- [10]
-					6524, -- [11]
-					6524, -- [12]
-					6524, -- [13]
-					6307, -- [14]
-					6307, -- [15]
-					6307, -- [16]
-					149, -- [17]
-					6162, -- [18]
-					6162, -- [19]
-					6162, -- [20]
-					6162, -- [21]
-					5944, -- [22]
-					2972, -- [23]
-					5944, -- [24]
-					594, -- [25]
-					5944, -- [26]
-					5944, -- [27]
-					5944, -- [28]
-					5944, -- [29]
-					1522, -- [30]
-					5727, -- [31]
-					7177, -- [32]
-					5727, -- [33]
-					5727, -- [34]
-					5727, -- [35]
-					5727, -- [36]
-					5727, -- [37]
-					400, -- [38]
-				},
-				["timer"] = {
-					["start"] = 840237.927,
-					["total"] = 358188,
-					["lastUpdated"] = 843343.4130000001,
-					["xpPerSec"] = 115.3404008261496,
-				},
-			},
-		},
-		["Intergalacto - Azshara"] = {
-			["data"] = {
-				["total"] = {
-					["quests"] = 57,
-					["dungeonKills"] = 65,
-					["mobKills"] = 328,
-				},
-				["killList"] = {
-					{
-						["mob"] = "Wrathlord Bulwark",
-						["xp"] = 72,
-					}, -- [1]
-					{
-						["mob"] = "Blazing Infernal",
-						["xp"] = 72,
-					}, -- [2]
-					{
-						["mob"] = "Infiltrator Assassin",
-						["xp"] = 72,
-					}, -- [3]
-					{
-						["mob"] = "Portal Keeper",
-						["xp"] = 287,
-					}, -- [4]
-					{
-						["mob"] = "Portal Guardian",
-						["xp"] = 287,
-					}, -- [5]
-					{
-						["mob"] = "Wrathlord Bulwark",
-						["xp"] = 72,
-					}, -- [6]
-					{
-						["mob"] = "Infiltrator Assassin",
-						["xp"] = 72,
-					}, -- [7]
-					{
-						["mob"] = "Eredar Shadow Mender",
-						["xp"] = 72,
-					}, -- [8]
-					{
-						["mob"] = "Portal Guardian",
-						["xp"] = 287,
-					}, -- [9]
-					{
-						["mob"] = "Wrath of Azshara",
-						["xp"] = 9582,
-					}, -- [10]
-					{
-						["mob"] = "Mystic Ssa'veh",
-						["xp"] = 1198,
-					}, -- [11]
-					{
-						["mob"] = "Binder Ashioi",
-						["xp"] = 1198,
-					}, -- [12]
-					{
-						["mob"] = "Channeler Varisz",
-						["xp"] = 1198,
-					}, -- [13]
-					{
-						["mob"] = "Ritualist Lesha",
-						["xp"] = 1198,
-					}, -- [14]
-					{
-						["mob"] = "King Deepbeard",
-						["xp"] = 3593,
-					}, -- [15]
-					{
-						["mob"] = "Skrog Tidestomper",
-						["xp"] = 1198,
-					}, -- [16]
-					{
-						["mob"] = "Skrog Wavecrasher",
-						["xp"] = 1198,
-					}, -- [17]
-					{
-						["mob"] = "Saltscale Skulker",
-						["xp"] = 719,
-					}, -- [18]
-					{
-						["mob"] = "Saltscale Lurker",
-						["xp"] = 120,
-					}, -- [19]
-					{
-						["mob"] = "Saltscale Lurker",
-						["xp"] = 120,
-					}, -- [20]
-					{
-						["mob"] = "Saltscale Lurker",
-						["xp"] = 120,
-					}, -- [21]
-					{
-						["mob"] = "Saltscale Lurker",
-						["xp"] = 120,
-					}, -- [22]
-					{
-						["mob"] = "Saltscale Lurker",
-						["xp"] = 120,
-					}, -- [23]
-					{
-						["mob"] = "Saltscale Lurker",
-						["xp"] = 120,
-					}, -- [24]
-					{
-						["mob"] = "Saltscale Lurker",
-						["xp"] = 120,
-					}, -- [25]
-					{
-						["mob"] = "Bitterbrine Slave",
-						["xp"] = 120,
-					}, -- [26]
-					{
-						["mob"] = "Bitterbrine Slave",
-						["xp"] = 120,
-					}, -- [27]
-					{
-						["mob"] = "Bitterbrine Slave",
-						["xp"] = 120,
-					}, -- [28]
-					{
-						["mob"] = "Bitterbrine Slave",
-						["xp"] = 120,
-					}, -- [29]
-					{
-						["mob"] = "Bitterbrine Slave",
-						["xp"] = 120,
-					}, -- [30]
-					{
-						["mob"] = "Bitterbrine Slave",
-						["xp"] = 120,
-					}, -- [31]
-					{
-						["mob"] = "Stormwake Hydra",
-						["xp"] = 1198,
-					}, -- [32]
-					{
-						["mob"] = "Seaspray Crab",
-						["xp"] = 120,
-					}, -- [33]
-					{
-						["mob"] = "Seaspray Crab",
-						["xp"] = 120,
-					}, -- [34]
-					{
-						["mob"] = "Seaspray Crab",
-						["xp"] = 120,
-					}, -- [35]
-					{
-						["mob"] = "Seaspray Crab",
-						["xp"] = 120,
-					}, -- [36]
-					{
-						["mob"] = "Seaspray Crab",
-						["xp"] = 120,
-					}, -- [37]
-					{
-						["mob"] = "Mak'rana Siltwalker",
-						["xp"] = 719,
-					}, -- [38]
-					{
-						["mob"] = "Cove Seagull",
-						["xp"] = 719,
-					}, -- [39]
-					{
-						["mob"] = "Serpentrix",
-						["xp"] = 3593,
-					}, -- [40]
-					{
-						["mob"] = "Seaspray Crab",
-						["xp"] = 120,
-					}, -- [41]
-					{
-						["mob"] = "Seaspray Crab",
-						["xp"] = 120,
-					}, -- [42]
-					{
-						["mob"] = "Seaspray Crab",
-						["xp"] = 120,
-					}, -- [43]
-					{
-						["mob"] = "Seaspray Crab",
-						["xp"] = 120,
-					}, -- [44]
-					{
-						["mob"] = "Seaspray Crab",
-						["xp"] = 120,
-					}, -- [45]
-					{
-						["mob"] = "Lady Hatecoil",
-						["xp"] = 3593,
-					}, -- [46]
-					{
-						["mob"] = "Hatecoil Arcanist",
-						["xp"] = 1198,
-					}, -- [47]
-					{
-						["mob"] = "Saltsea Droplet",
-						["xp"] = 120,
-					}, -- [48]
-					{
-						["mob"] = "Saltsea Droplet",
-						["xp"] = 120,
-					}, -- [49]
-					{
-						["mob"] = "Saltsea Droplet",
-						["xp"] = 120,
-					}, -- [50]
-					{
-						["mob"] = "Saltsea Droplet",
-						["xp"] = 120,
-					}, -- [51]
-					{
-						["mob"] = "Saltsea Droplet",
-						["xp"] = 120,
-					}, -- [52]
-					{
-						["mob"] = "Saltsea Droplet",
-						["xp"] = 120,
-					}, -- [53]
-					{
-						["mob"] = "Hatecoil Arcanist",
-						["xp"] = 1198,
-					}, -- [54]
-					{
-						["mob"] = "Warlord Parjesh",
-						["xp"] = 3593,
-					}, -- [55]
-					{
-						["mob"] = "Hatecoil Oracle",
-						["xp"] = 719,
-					}, -- [56]
-					{
-						["mob"] = "Hatecoil Warrior",
-						["xp"] = 719,
-					}, -- [57]
-					{
-						["mob"] = "Hatecoil Warrior",
-						["xp"] = 719,
-					}, -- [58]
-					{
-						["mob"] = "Hatecoil Stormweaver",
-						["xp"] = 719,
-					}, -- [59]
-					{
-						["mob"] = "Hatecoil Stormweaver",
-						["xp"] = 719,
-					}, -- [60]
-					{
-						["mob"] = "Hatecoil Crusher",
-						["xp"] = 1198,
-					}, -- [61]
-					{
-						["mob"] = "Hatecoil Oracle",
-						["xp"] = 719,
-					}, -- [62]
-					{
-						["mob"] = "Hatecoil Warrior",
-						["xp"] = 719,
-					}, -- [63]
-					{
-						["mob"] = "Hatecoil Stormweaver",
-						["xp"] = 719,
-					}, -- [64]
-					{
-						["mob"] = "Hatecoil Warrior",
-						["xp"] = 719,
-					}, -- [65]
-					{
-						["mob"] = "Nightfallen Overseer",
-						["xp"] = 502,
-					}, -- [66]
-					{
-						["mob"] = "Nightfallen Overseer",
-						["xp"] = 502,
-					}, -- [67]
-					{
-						["mob"] = "Withered Fanatic",
-						["xp"] = 502,
-					}, -- [68]
-					{
-						["mob"] = "Nightfallen Overseer",
-						["xp"] = 502,
-					}, -- [69]
-					{
-						["mob"] = "Ishkaneth",
-						["xp"] = 1006,
-					}, -- [70]
-					{
-						["mob"] = "Withered Fanatic",
-						["xp"] = 502,
-					}, -- [71]
-					{
-						["mob"] = "Nightfallen Overseer",
-						["xp"] = 502,
-					}, -- [72]
-					{
-						["mob"] = "Nightfallen Construct",
-						["xp"] = 502,
-					}, -- [73]
-					{
-						["mob"] = "Withered Fanatic",
-						["xp"] = 502,
-					}, -- [74]
-					{
-						["mob"] = "Nightfallen Construct",
-						["xp"] = 502,
-					}, -- [75]
-					{
-						["mob"] = "Withered Fanatic",
-						["xp"] = 502,
-					}, -- [76]
-					{
-						["mob"] = "Withered Fanatic",
-						["xp"] = 502,
-					}, -- [77]
-					{
-						["mob"] = "Nightfallen Overseer",
-						["xp"] = 502,
-					}, -- [78]
-					{
-						["mob"] = "Nightfallen Construct",
-						["xp"] = 502,
-					}, -- [79]
-					{
-						["mob"] = "Nightfallen Overseer",
-						["xp"] = 502,
-					}, -- [80]
-					{
-						["mob"] = "Tyndrissen",
-						["xp"] = 1006,
-					}, -- [81]
-					{
-						["mob"] = "Withered Mana-Rager",
-						["xp"] = 502,
-					}, -- [82]
-					{
-						["mob"] = "Withered Mana-Rager",
-						["xp"] = 502,
-					}, -- [83]
-					{
-						["mob"] = "Withered Exile",
-						["xp"] = 502,
-					}, -- [84]
-					{
-						["mob"] = "Wild Manarunner",
-						["xp"] = 50,
-					}, -- [85]
-					{
-						["mob"] = "Wild Manarunner",
-						["xp"] = 50,
-					}, -- [86]
-					{
-						["mob"] = "Withered Exile",
-						["xp"] = 502,
-					}, -- [87]
-					{
-						["mob"] = "Withered Exile",
-						["xp"] = 502,
-					}, -- [88]
-					{
-						["mob"] = "Withered Mana-Rager",
-						["xp"] = 502,
-					}, -- [89]
-					{
-						["mob"] = "Withered Exile",
-						["xp"] = 502,
-					}, -- [90]
-					{
-						["mob"] = "Withered Mana-Rager",
-						["xp"] = 502,
-					}, -- [91]
-					{
-						["mob"] = "Withered Exile",
-						["xp"] = 502,
-					}, -- [92]
-					{
-						["mob"] = "Withered Exile",
-						["xp"] = 502,
-					}, -- [93]
-					{
-						["mob"] = "Withered Mana-Rager",
-						["xp"] = 502,
-					}, -- [94]
-					{
-						["mob"] = "Withered Exile",
-						["xp"] = 502,
-					}, -- [95]
-					{
-						["mob"] = "Withered Exile",
-						["xp"] = 502,
-					}, -- [96]
-					{
-						["mob"] = "Withered Exile",
-						["xp"] = 502,
-					}, -- [97]
-					{
-						["mob"] = "Withered Exile",
-						["xp"] = 502,
-					}, -- [98]
-					{
-						["mob"] = "Withered Mana-Rager",
-						["xp"] = 502,
-					}, -- [99]
-					{
-						["mob"] = "Withered Exile",
-						["xp"] = 502,
-					}, -- [100]
-				},
-				["timer"] = {
-					["start"] = 555519.457,
-					["total"] = 2042462,
-					["lastUpdated"] = 567509.206,
-					["xpPerSec"] = 170.350688742526,
-				},
-				["dungeonList"] = {
-					{
-						["inProgress"] = true,
-						["totalXP"] = 1293,
-						["killCount"] = 9,
-						["killTotal"] = 1293,
-						["level"] = 109,
-						["rested"] = 1293,
-						["name"] = "Violet Hold",
-					}, -- [1]
-					{
-						["name"] = "Eye of Azshara",
-						["totalXP"] = 48042,
-						["rested"] = 48042,
-						["killTotal"] = 48042,
-						["level"] = 109,
-						["inProgress"] = false,
-						["killCount"] = 56,
-					}, -- [2]
-				},
-				["questList"] = {
-					25265, -- [1]
-					189224, -- [2]
-					31620, -- [3]
-					50530, -- [4]
-					31620, -- [5]
-					25265, -- [6]
-					25265, -- [7]
-					25032, -- [8]
-					25032, -- [9]
-					25032, -- [10]
-					25032, -- [11]
-					25032, -- [12]
-					25032, -- [13]
-					12555, -- [14]
-					25032, -- [15]
-					25032, -- [16]
-					25032, -- [17]
-					25032, -- [18]
-					25032, -- [19]
-					75175, -- [20]
-					25032, -- [21]
-					7446, -- [22]
-					2480, -- [23]
-					930, -- [24]
-					25032, -- [25]
-					25032, -- [26]
-					37587, -- [27]
-					25032, -- [28]
-					46655, -- [29]
-					2480, -- [30]
-					2480, -- [31]
-					31077, -- [32]
-					24877, -- [33]
-					2480, -- [34]
-					24877, -- [35]
-					24877, -- [36]
-					24877, -- [37]
-					31077, -- [38]
-					24877, -- [39]
-					2480, -- [40]
-					24877, -- [41]
-					592, -- [42]
-					2480, -- [43]
-					24877, -- [44]
-					2480, -- [45]
-					37277, -- [46]
-					100, -- [47]
-					100, -- [48]
-					2480, -- [49]
-					92, -- [50]
-					92, -- [51]
-					92, -- [52]
-					92, -- [53]
-					92, -- [54]
-					92, -- [55]
-					92, -- [56]
-					92, -- [57]
 				},
 			},
 		},
@@ -1678,6 +1336,201 @@ XToLevelDB = {
 					["mobKills"] = 5108,
 				},
 				["killAverage"] = 437,
+				["dungeonList"] = {
+					{
+						["name"] = "Eye of Azshara",
+						["totalXP"] = 46985,
+						["rested"] = 0,
+						["killTotal"] = 46985,
+						["level"] = 106,
+						["inProgress"] = false,
+						["killCount"] = 57,
+					}, -- [1]
+					{
+						["killCount"] = 100,
+						["name"] = "Darkheart Thicket",
+						["inProgress"] = false,
+						["killTotal"] = 59971,
+						["level"] = 104,
+						["rested"] = 363,
+						["totalXP"] = 59971,
+					}, -- [2]
+					{
+						["totalXP"] = 66003,
+						["name"] = "Darkheart Thicket",
+						["rested"] = 0,
+						["killTotal"] = 66003,
+						["level"] = 101,
+						["killCount"] = 105,
+						["inProgress"] = false,
+					}, -- [3]
+					{
+						["totalXP"] = 51010,
+						["name"] = "Bloodmaul Slag Mines",
+						["rested"] = 0,
+						["killTotal"] = 51010,
+						["level"] = 92,
+						["killCount"] = 62,
+						["inProgress"] = false,
+					}, -- [4]
+					{
+						["name"] = "Siege of Niuzao Temple",
+						["totalXP"] = 129705,
+						["rested"] = 0,
+						["killTotal"] = 129705,
+						["level"] = 89,
+						["inProgress"] = false,
+						["killCount"] = 290,
+					}, -- [5]
+					{
+						["name"] = "Stormstout Brewery",
+						["totalXP"] = 578049,
+						["rested"] = 0,
+						["killTotal"] = 578049,
+						["level"] = 85,
+						["inProgress"] = false,
+						["killCount"] = 1092,
+					}, -- [6]
+					{
+						["name"] = "Lost City of the Tol'vir",
+						["totalXP"] = 49052,
+						["rested"] = 0,
+						["killTotal"] = 49052,
+						["level"] = 85,
+						["inProgress"] = false,
+						["killCount"] = 63,
+					}, -- [7]
+					{
+						["name"] = "The Stonecore",
+						["totalXP"] = 55834,
+						["rested"] = 21,
+						["killTotal"] = 55834,
+						["level"] = 85,
+						["inProgress"] = false,
+						["killCount"] = 121,
+					}, -- [8]
+					{
+						["name"] = "Grim Batol",
+						["totalXP"] = 71364,
+						["rested"] = 0,
+						["killTotal"] = 71364,
+						["level"] = 84,
+						["inProgress"] = false,
+						["killCount"] = 115,
+					}, -- [9]
+					{
+						["name"] = "Gate of the Setting Sun",
+						["totalXP"] = 87475,
+						["rested"] = 5846,
+						["killTotal"] = 87475,
+						["level"] = 83,
+						["inProgress"] = false,
+						["killCount"] = 266,
+					}, -- [10]
+				},
+				["questAverage"] = 16070.9,
+				["questList"] = {
+					22004, -- [1]
+					22004, -- [2]
+					22004, -- [3]
+					2227, -- [4]
+					22004, -- [5]
+					22004, -- [6]
+					22004, -- [7]
+					2227, -- [8]
+					2227, -- [9]
+					22004, -- [10]
+					22004, -- [11]
+					22004, -- [12]
+					22004, -- [13]
+					22004, -- [14]
+					22004, -- [15]
+					22004, -- [16]
+					22004, -- [17]
+					22004, -- [18]
+					22004, -- [19]
+					16537, -- [20]
+					22004, -- [21]
+					11002, -- [22]
+					22004, -- [23]
+					16537, -- [24]
+					22004, -- [25]
+					22004, -- [26]
+					21802, -- [27]
+					21802, -- [28]
+					21802, -- [29]
+					21802, -- [30]
+					21802, -- [31]
+					2159, -- [32]
+					2159, -- [33]
+					2159, -- [34]
+					65474, -- [35]
+					21802, -- [36]
+					65474, -- [37]
+					21802, -- [38]
+					21802, -- [39]
+					21802, -- [40]
+					21802, -- [41]
+					21802, -- [42]
+					21802, -- [43]
+					21802, -- [44]
+					21802, -- [45]
+					202, -- [46]
+					21802, -- [47]
+					21802, -- [48]
+					21802, -- [49]
+					21802, -- [50]
+					21802, -- [51]
+					21667, -- [52]
+					21667, -- [53]
+					2159, -- [54]
+					21667, -- [55]
+					2159, -- [56]
+					10799, -- [57]
+					21667, -- [58]
+					16267, -- [59]
+					21667, -- [60]
+					21667, -- [61]
+					21667, -- [62]
+					21667, -- [63]
+					431, -- [64]
+					431, -- [65]
+					2159, -- [66]
+					2159, -- [67]
+					21667, -- [68]
+					21667, -- [69]
+					21667, -- [70]
+					21667, -- [71]
+					21667, -- [72]
+					2159, -- [73]
+					21667, -- [74]
+					21667, -- [75]
+					21667, -- [76]
+					27067, -- [77]
+					2159, -- [78]
+					2159, -- [79]
+					2159, -- [80]
+					2159, -- [81]
+					10799, -- [82]
+					21667, -- [83]
+					21464, -- [84]
+					171719, -- [85]
+					42929, -- [86]
+					26864, -- [87]
+					21464, -- [88]
+					23054, -- [89]
+					23054, -- [90]
+					23054, -- [91]
+					23054, -- [92]
+					23054, -- [93]
+					23054, -- [94]
+					23054, -- [95]
+					11527, -- [96]
+					23054, -- [97]
+					22837, -- [98]
+					22837, -- [99]
+					22837, -- [100]
+				},
 				["killList"] = {
 					{
 						["mob"] = "Valkyra Aspirant",
@@ -2081,232 +1934,871 @@ XToLevelDB = {
 					}, -- [100]
 				},
 				["timer"] = {
-					["start"] = 2760240.348,
-					["total"] = 10621186,
-					["lastUpdated"] = 2805557.931,
+					["start"] = 514135.693,
+					["total"] = 0,
+					["lastUpdated"] = 527459.922,
 					["xpPerSec"] = 234.372296510167,
+				},
+			},
+		},
+		["Mihri - Tarren Mill"] = {
+			["data"] = {
+				["timer"] = {
+					["start"] = 265603.759,
+					["total"] = 0,
+					["lastUpdated"] = 266103.816,
+					["xpPerSec"] = 0,
+				},
+			},
+		},
+		["Intergalacto - Tarren Mill"] = {
+			["data"] = {
+				["total"] = {
+					["quests"] = 103,
+					["dungeonKills"] = 3131,
+					["mobKills"] = 3179,
+				},
+				["killAverage"] = 260,
+				["timer"] = {
+					["start"] = 496479.154,
+					["total"] = 90894,
+					["lastUpdated"] = 498261.304,
+					["xpPerSec"] = 51.00244087197981,
 				},
 				["dungeonList"] = {
 					{
-						["name"] = "Eye of Azshara",
-						["totalXP"] = 46985,
-						["rested"] = 0,
-						["killTotal"] = 46985,
-						["level"] = 106,
+						["killCount"] = 90,
+						["name"] = "Ahn'kahet: The Old Kingdom",
 						["inProgress"] = false,
-						["killCount"] = 57,
+						["killTotal"] = 28128,
+						["level"] = 49,
+						["rested"] = 706,
+						["totalXP"] = 28128,
 					}, -- [1]
 					{
-						["killCount"] = 100,
-						["name"] = "Darkheart Thicket",
 						["inProgress"] = false,
-						["killTotal"] = 59971,
-						["level"] = 104,
-						["rested"] = 363,
-						["totalXP"] = 59971,
+						["totalXP"] = 27385,
+						["killCount"] = 69,
+						["killTotal"] = 27385,
+						["level"] = 49,
+						["rested"] = 0,
+						["name"] = "The Culling of Stratholme",
 					}, -- [2]
 					{
-						["totalXP"] = 66003,
-						["name"] = "Darkheart Thicket",
-						["rested"] = 0,
-						["killTotal"] = 66003,
-						["level"] = 101,
-						["killCount"] = 105,
 						["inProgress"] = false,
+						["totalXP"] = 29669,
+						["killCount"] = 90,
+						["killTotal"] = 29669,
+						["level"] = 48,
+						["rested"] = 0,
+						["name"] = "Drak'Tharon Keep",
 					}, -- [3]
 					{
-						["totalXP"] = 51010,
-						["name"] = "Bloodmaul Slag Mines",
-						["rested"] = 0,
-						["killTotal"] = 51010,
-						["level"] = 92,
-						["killCount"] = 62,
 						["inProgress"] = false,
+						["totalXP"] = 25294,
+						["killCount"] = 75,
+						["killTotal"] = 25294,
+						["level"] = 47,
+						["rested"] = 0,
+						["name"] = "Utgarde Pinnacle",
 					}, -- [4]
 					{
-						["name"] = "Siege of Niuzao Temple",
-						["totalXP"] = 129705,
-						["rested"] = 0,
-						["killTotal"] = 129705,
-						["level"] = 89,
 						["inProgress"] = false,
-						["killCount"] = 290,
+						["totalXP"] = 13076,
+						["killCount"] = 38,
+						["killTotal"] = 13076,
+						["level"] = 47,
+						["rested"] = 12,
+						["name"] = "Azjol-Nerub",
 					}, -- [5]
 					{
-						["name"] = "Stormstout Brewery",
-						["totalXP"] = 578049,
-						["rested"] = 0,
-						["killTotal"] = 578049,
-						["level"] = 85,
 						["inProgress"] = false,
-						["killCount"] = 1092,
+						["totalXP"] = 26261,
+						["killCount"] = 95,
+						["killTotal"] = 26261,
+						["level"] = 46,
+						["rested"] = 13459,
+						["name"] = "The Oculus",
 					}, -- [6]
 					{
-						["name"] = "Lost City of the Tol'vir",
-						["totalXP"] = 49052,
+						["totalXP"] = 29231,
+						["name"] = "Utgarde Keep",
 						["rested"] = 0,
-						["killTotal"] = 49052,
-						["level"] = 85,
+						["killTotal"] = 29231,
+						["level"] = 45,
+						["killCount"] = 100,
 						["inProgress"] = false,
-						["killCount"] = 63,
 					}, -- [7]
 					{
-						["name"] = "The Stonecore",
-						["totalXP"] = 55834,
-						["rested"] = 21,
-						["killTotal"] = 55834,
-						["level"] = 85,
+						["totalXP"] = 25416,
+						["name"] = "The Culling of Stratholme",
+						["rested"] = 23,
+						["killTotal"] = 25416,
+						["level"] = 44,
+						["killCount"] = 69,
 						["inProgress"] = false,
-						["killCount"] = 121,
 					}, -- [8]
 					{
-						["name"] = "Grim Batol",
-						["totalXP"] = 71364,
-						["rested"] = 0,
-						["killTotal"] = 71364,
-						["level"] = 84,
+						["totalXP"] = 31779,
+						["name"] = "Halls of Lightning",
+						["rested"] = 4,
+						["killTotal"] = 31779,
+						["level"] = 43,
+						["killCount"] = 87,
 						["inProgress"] = false,
-						["killCount"] = 115,
 					}, -- [9]
 					{
-						["name"] = "Gate of the Setting Sun",
-						["totalXP"] = 87475,
-						["rested"] = 5846,
-						["killTotal"] = 87475,
-						["level"] = 83,
+						["totalXP"] = 27890,
+						["name"] = "Halls of Stone",
+						["rested"] = 4,
+						["killTotal"] = 27890,
+						["level"] = 42,
+						["killCount"] = 135,
 						["inProgress"] = false,
-						["killCount"] = 266,
 					}, -- [10]
+					{
+						["totalXP"] = 31407,
+						["name"] = "The Nexus",
+						["rested"] = 6,
+						["killTotal"] = 31407,
+						["level"] = 41,
+						["killCount"] = 74,
+						["inProgress"] = false,
+					}, -- [11]
+					{
+						["totalXP"] = 14608,
+						["name"] = "Temple of the Jade Serpent",
+						["rested"] = 8971,
+						["killTotal"] = 14608,
+						["level"] = 40,
+						["killCount"] = 76,
+						["inProgress"] = false,
+					}, -- [12]
+					{
+						["inProgress"] = false,
+						["totalXP"] = 11339,
+						["killCount"] = 117,
+						["killTotal"] = 11339,
+						["level"] = 40,
+						["rested"] = 41,
+						["name"] = "Siege of Niuzao Temple",
+					}, -- [13]
+					{
+						["name"] = "Stormstout Brewery",
+						["totalXP"] = 13880,
+						["rested"] = 7,
+						["killTotal"] = 13880,
+						["level"] = 39,
+						["inProgress"] = false,
+						["killCount"] = 153,
+					}, -- [14]
+					{
+						["name"] = "Shado-Pan Monastery",
+						["totalXP"] = 13600,
+						["rested"] = 112,
+						["killTotal"] = 13600,
+						["level"] = 38,
+						["inProgress"] = false,
+						["killCount"] = 75,
+					}, -- [15]
+					{
+						["killCount"] = 41,
+						["name"] = "Mogu'shan Palace",
+						["inProgress"] = false,
+						["killTotal"] = 15130,
+						["level"] = 37,
+						["rested"] = 3,
+						["totalXP"] = 15130,
+					}, -- [16]
+					{
+						["killCount"] = 42,
+						["name"] = "Gate of the Setting Sun",
+						["inProgress"] = false,
+						["killTotal"] = 5091,
+						["level"] = 36,
+						["rested"] = 0,
+						["totalXP"] = 5091,
+					}, -- [17]
+					{
+						["killCount"] = 76,
+						["name"] = "Stormstout Brewery",
+						["inProgress"] = false,
+						["killTotal"] = 13009,
+						["level"] = 36,
+						["rested"] = 15,
+						["totalXP"] = 13009,
+					}, -- [18]
+					{
+						["killCount"] = 78,
+						["name"] = "The Mechanar",
+						["inProgress"] = false,
+						["killTotal"] = 19855,
+						["level"] = 35,
+						["rested"] = 27,
+						["totalXP"] = 19855,
+					}, -- [19]
+					{
+						["killCount"] = 130,
+						["name"] = "The Shattered Halls",
+						["inProgress"] = false,
+						["killTotal"] = 23470,
+						["level"] = 34,
+						["rested"] = 3,
+						["totalXP"] = 23470,
+					}, -- [20]
+					{
+						["killCount"] = 95,
+						["name"] = "Mana-Tombs",
+						["inProgress"] = false,
+						["killTotal"] = 21362,
+						["level"] = 33,
+						["rested"] = 4,
+						["totalXP"] = 21362,
+					}, -- [21]
+					{
+						["killCount"] = 2,
+						["name"] = "The Underbog",
+						["inProgress"] = false,
+						["killTotal"] = 2545,
+						["level"] = 32,
+						["rested"] = 2,
+						["totalXP"] = 2545,
+					}, -- [22]
+					{
+						["killCount"] = 119,
+						["name"] = "The Blood Furnace",
+						["inProgress"] = false,
+						["killTotal"] = 25386,
+						["level"] = 30,
+						["rested"] = 6,
+						["totalXP"] = 25386,
+					}, -- [23]
+					{
+						["killCount"] = 126,
+						["name"] = "The Arcatraz",
+						["inProgress"] = false,
+						["killTotal"] = 16105,
+						["level"] = 29,
+						["rested"] = 4,
+						["totalXP"] = 16105,
+					}, -- [24]
+					{
+						["killCount"] = 127,
+						["name"] = "The Steamvault",
+						["inProgress"] = false,
+						["killTotal"] = 20969,
+						["level"] = 27,
+						["rested"] = 0,
+						["totalXP"] = 20969,
+					}, -- [25]
+					{
+						["killCount"] = 76,
+						["name"] = "The Mechanar",
+						["inProgress"] = false,
+						["killTotal"] = 15729,
+						["level"] = 25,
+						["rested"] = 1017,
+						["totalXP"] = 15729,
+					}, -- [26]
+					{
+						["totalXP"] = 17484,
+						["name"] = "The Shattered Halls",
+						["rested"] = 0,
+						["killTotal"] = 17484,
+						["level"] = 23,
+						["killCount"] = 130,
+						["inProgress"] = false,
+					}, -- [27]
+					{
+						["totalXP"] = 14618,
+						["name"] = "Hellfire Ramparts",
+						["rested"] = 4267,
+						["killTotal"] = 14618,
+						["level"] = 21,
+						["killCount"] = 96,
+						["inProgress"] = false,
+					}, -- [28]
+					{
+						["totalXP"] = 15718,
+						["name"] = "Sethekk Halls",
+						["rested"] = 15718,
+						["killTotal"] = 15718,
+						["level"] = 18,
+						["killCount"] = 129,
+						["inProgress"] = false,
+					}, -- [29]
+					{
+						["totalXP"] = 52536,
+						["name"] = "Dire Maul",
+						["rested"] = 12628,
+						["killTotal"] = 52536,
+						["level"] = 39,
+						["killCount"] = 167,
+						["inProgress"] = false,
+					}, -- [30]
+					{
+						["totalXP"] = 29403,
+						["name"] = "Scarlet Halls",
+						["rested"] = 29403,
+						["killTotal"] = 29403,
+						["level"] = 37,
+						["killCount"] = 91,
+						["inProgress"] = false,
+					}, -- [31]
+					{
+						["inProgress"] = false,
+						["totalXP"] = 19373,
+						["killCount"] = 96,
+						["killTotal"] = 19373,
+						["level"] = 25,
+						["rested"] = 0,
+						["name"] = "The Deadmines",
+					}, -- [32]
+					{
+						["inProgress"] = false,
+						["totalXP"] = 36931,
+						["killCount"] = 167,
+						["killTotal"] = 36931,
+						["level"] = 22,
+						["rested"] = 0,
+						["name"] = "The Wailing Caverns",
+					}, -- [33]
 				},
-				["questAverage"] = 16070.9,
+				["questAverage"] = 6800,
+			},
+		},
+		["Intergalacto - Azshara"] = {
+			["data"] = {
+				["total"] = {
+					["quests"] = 57,
+					["dungeonKills"] = 65,
+					["mobKills"] = 328,
+				},
+				["killList"] = {
+					{
+						["mob"] = "Wrathlord Bulwark",
+						["xp"] = 72,
+					}, -- [1]
+					{
+						["mob"] = "Blazing Infernal",
+						["xp"] = 72,
+					}, -- [2]
+					{
+						["mob"] = "Infiltrator Assassin",
+						["xp"] = 72,
+					}, -- [3]
+					{
+						["mob"] = "Portal Keeper",
+						["xp"] = 287,
+					}, -- [4]
+					{
+						["mob"] = "Portal Guardian",
+						["xp"] = 287,
+					}, -- [5]
+					{
+						["mob"] = "Wrathlord Bulwark",
+						["xp"] = 72,
+					}, -- [6]
+					{
+						["mob"] = "Infiltrator Assassin",
+						["xp"] = 72,
+					}, -- [7]
+					{
+						["mob"] = "Eredar Shadow Mender",
+						["xp"] = 72,
+					}, -- [8]
+					{
+						["mob"] = "Portal Guardian",
+						["xp"] = 287,
+					}, -- [9]
+					{
+						["mob"] = "Wrath of Azshara",
+						["xp"] = 9582,
+					}, -- [10]
+					{
+						["mob"] = "Mystic Ssa'veh",
+						["xp"] = 1198,
+					}, -- [11]
+					{
+						["mob"] = "Binder Ashioi",
+						["xp"] = 1198,
+					}, -- [12]
+					{
+						["mob"] = "Channeler Varisz",
+						["xp"] = 1198,
+					}, -- [13]
+					{
+						["mob"] = "Ritualist Lesha",
+						["xp"] = 1198,
+					}, -- [14]
+					{
+						["mob"] = "King Deepbeard",
+						["xp"] = 3593,
+					}, -- [15]
+					{
+						["mob"] = "Skrog Tidestomper",
+						["xp"] = 1198,
+					}, -- [16]
+					{
+						["mob"] = "Skrog Wavecrasher",
+						["xp"] = 1198,
+					}, -- [17]
+					{
+						["mob"] = "Saltscale Skulker",
+						["xp"] = 719,
+					}, -- [18]
+					{
+						["mob"] = "Saltscale Lurker",
+						["xp"] = 120,
+					}, -- [19]
+					{
+						["mob"] = "Saltscale Lurker",
+						["xp"] = 120,
+					}, -- [20]
+					{
+						["mob"] = "Saltscale Lurker",
+						["xp"] = 120,
+					}, -- [21]
+					{
+						["mob"] = "Saltscale Lurker",
+						["xp"] = 120,
+					}, -- [22]
+					{
+						["mob"] = "Saltscale Lurker",
+						["xp"] = 120,
+					}, -- [23]
+					{
+						["mob"] = "Saltscale Lurker",
+						["xp"] = 120,
+					}, -- [24]
+					{
+						["mob"] = "Saltscale Lurker",
+						["xp"] = 120,
+					}, -- [25]
+					{
+						["mob"] = "Bitterbrine Slave",
+						["xp"] = 120,
+					}, -- [26]
+					{
+						["mob"] = "Bitterbrine Slave",
+						["xp"] = 120,
+					}, -- [27]
+					{
+						["mob"] = "Bitterbrine Slave",
+						["xp"] = 120,
+					}, -- [28]
+					{
+						["mob"] = "Bitterbrine Slave",
+						["xp"] = 120,
+					}, -- [29]
+					{
+						["mob"] = "Bitterbrine Slave",
+						["xp"] = 120,
+					}, -- [30]
+					{
+						["mob"] = "Bitterbrine Slave",
+						["xp"] = 120,
+					}, -- [31]
+					{
+						["mob"] = "Stormwake Hydra",
+						["xp"] = 1198,
+					}, -- [32]
+					{
+						["mob"] = "Seaspray Crab",
+						["xp"] = 120,
+					}, -- [33]
+					{
+						["mob"] = "Seaspray Crab",
+						["xp"] = 120,
+					}, -- [34]
+					{
+						["mob"] = "Seaspray Crab",
+						["xp"] = 120,
+					}, -- [35]
+					{
+						["mob"] = "Seaspray Crab",
+						["xp"] = 120,
+					}, -- [36]
+					{
+						["mob"] = "Seaspray Crab",
+						["xp"] = 120,
+					}, -- [37]
+					{
+						["mob"] = "Mak'rana Siltwalker",
+						["xp"] = 719,
+					}, -- [38]
+					{
+						["mob"] = "Cove Seagull",
+						["xp"] = 719,
+					}, -- [39]
+					{
+						["mob"] = "Serpentrix",
+						["xp"] = 3593,
+					}, -- [40]
+					{
+						["mob"] = "Seaspray Crab",
+						["xp"] = 120,
+					}, -- [41]
+					{
+						["mob"] = "Seaspray Crab",
+						["xp"] = 120,
+					}, -- [42]
+					{
+						["mob"] = "Seaspray Crab",
+						["xp"] = 120,
+					}, -- [43]
+					{
+						["mob"] = "Seaspray Crab",
+						["xp"] = 120,
+					}, -- [44]
+					{
+						["mob"] = "Seaspray Crab",
+						["xp"] = 120,
+					}, -- [45]
+					{
+						["mob"] = "Lady Hatecoil",
+						["xp"] = 3593,
+					}, -- [46]
+					{
+						["mob"] = "Hatecoil Arcanist",
+						["xp"] = 1198,
+					}, -- [47]
+					{
+						["mob"] = "Saltsea Droplet",
+						["xp"] = 120,
+					}, -- [48]
+					{
+						["mob"] = "Saltsea Droplet",
+						["xp"] = 120,
+					}, -- [49]
+					{
+						["mob"] = "Saltsea Droplet",
+						["xp"] = 120,
+					}, -- [50]
+					{
+						["mob"] = "Saltsea Droplet",
+						["xp"] = 120,
+					}, -- [51]
+					{
+						["mob"] = "Saltsea Droplet",
+						["xp"] = 120,
+					}, -- [52]
+					{
+						["mob"] = "Saltsea Droplet",
+						["xp"] = 120,
+					}, -- [53]
+					{
+						["mob"] = "Hatecoil Arcanist",
+						["xp"] = 1198,
+					}, -- [54]
+					{
+						["mob"] = "Warlord Parjesh",
+						["xp"] = 3593,
+					}, -- [55]
+					{
+						["mob"] = "Hatecoil Oracle",
+						["xp"] = 719,
+					}, -- [56]
+					{
+						["mob"] = "Hatecoil Warrior",
+						["xp"] = 719,
+					}, -- [57]
+					{
+						["mob"] = "Hatecoil Warrior",
+						["xp"] = 719,
+					}, -- [58]
+					{
+						["mob"] = "Hatecoil Stormweaver",
+						["xp"] = 719,
+					}, -- [59]
+					{
+						["mob"] = "Hatecoil Stormweaver",
+						["xp"] = 719,
+					}, -- [60]
+					{
+						["mob"] = "Hatecoil Crusher",
+						["xp"] = 1198,
+					}, -- [61]
+					{
+						["mob"] = "Hatecoil Oracle",
+						["xp"] = 719,
+					}, -- [62]
+					{
+						["mob"] = "Hatecoil Warrior",
+						["xp"] = 719,
+					}, -- [63]
+					{
+						["mob"] = "Hatecoil Stormweaver",
+						["xp"] = 719,
+					}, -- [64]
+					{
+						["mob"] = "Hatecoil Warrior",
+						["xp"] = 719,
+					}, -- [65]
+					{
+						["mob"] = "Nightfallen Overseer",
+						["xp"] = 502,
+					}, -- [66]
+					{
+						["mob"] = "Nightfallen Overseer",
+						["xp"] = 502,
+					}, -- [67]
+					{
+						["mob"] = "Withered Fanatic",
+						["xp"] = 502,
+					}, -- [68]
+					{
+						["mob"] = "Nightfallen Overseer",
+						["xp"] = 502,
+					}, -- [69]
+					{
+						["mob"] = "Ishkaneth",
+						["xp"] = 1006,
+					}, -- [70]
+					{
+						["mob"] = "Withered Fanatic",
+						["xp"] = 502,
+					}, -- [71]
+					{
+						["mob"] = "Nightfallen Overseer",
+						["xp"] = 502,
+					}, -- [72]
+					{
+						["mob"] = "Nightfallen Construct",
+						["xp"] = 502,
+					}, -- [73]
+					{
+						["mob"] = "Withered Fanatic",
+						["xp"] = 502,
+					}, -- [74]
+					{
+						["mob"] = "Nightfallen Construct",
+						["xp"] = 502,
+					}, -- [75]
+					{
+						["mob"] = "Withered Fanatic",
+						["xp"] = 502,
+					}, -- [76]
+					{
+						["mob"] = "Withered Fanatic",
+						["xp"] = 502,
+					}, -- [77]
+					{
+						["mob"] = "Nightfallen Overseer",
+						["xp"] = 502,
+					}, -- [78]
+					{
+						["mob"] = "Nightfallen Construct",
+						["xp"] = 502,
+					}, -- [79]
+					{
+						["mob"] = "Nightfallen Overseer",
+						["xp"] = 502,
+					}, -- [80]
+					{
+						["mob"] = "Tyndrissen",
+						["xp"] = 1006,
+					}, -- [81]
+					{
+						["mob"] = "Withered Mana-Rager",
+						["xp"] = 502,
+					}, -- [82]
+					{
+						["mob"] = "Withered Mana-Rager",
+						["xp"] = 502,
+					}, -- [83]
+					{
+						["mob"] = "Withered Exile",
+						["xp"] = 502,
+					}, -- [84]
+					{
+						["mob"] = "Wild Manarunner",
+						["xp"] = 50,
+					}, -- [85]
+					{
+						["mob"] = "Wild Manarunner",
+						["xp"] = 50,
+					}, -- [86]
+					{
+						["mob"] = "Withered Exile",
+						["xp"] = 502,
+					}, -- [87]
+					{
+						["mob"] = "Withered Exile",
+						["xp"] = 502,
+					}, -- [88]
+					{
+						["mob"] = "Withered Mana-Rager",
+						["xp"] = 502,
+					}, -- [89]
+					{
+						["mob"] = "Withered Exile",
+						["xp"] = 502,
+					}, -- [90]
+					{
+						["mob"] = "Withered Mana-Rager",
+						["xp"] = 502,
+					}, -- [91]
+					{
+						["mob"] = "Withered Exile",
+						["xp"] = 502,
+					}, -- [92]
+					{
+						["mob"] = "Withered Exile",
+						["xp"] = 502,
+					}, -- [93]
+					{
+						["mob"] = "Withered Mana-Rager",
+						["xp"] = 502,
+					}, -- [94]
+					{
+						["mob"] = "Withered Exile",
+						["xp"] = 502,
+					}, -- [95]
+					{
+						["mob"] = "Withered Exile",
+						["xp"] = 502,
+					}, -- [96]
+					{
+						["mob"] = "Withered Exile",
+						["xp"] = 502,
+					}, -- [97]
+					{
+						["mob"] = "Withered Exile",
+						["xp"] = 502,
+					}, -- [98]
+					{
+						["mob"] = "Withered Mana-Rager",
+						["xp"] = 502,
+					}, -- [99]
+					{
+						["mob"] = "Withered Exile",
+						["xp"] = 502,
+					}, -- [100]
+				},
+				["timer"] = {
+					["start"] = 555519.457,
+					["total"] = 2042462,
+					["lastUpdated"] = 567509.206,
+					["xpPerSec"] = 170.350688742526,
+				},
+				["dungeonList"] = {
+					{
+						["inProgress"] = true,
+						["totalXP"] = 1293,
+						["killCount"] = 9,
+						["killTotal"] = 1293,
+						["level"] = 109,
+						["rested"] = 1293,
+						["name"] = "Violet Hold",
+					}, -- [1]
+					{
+						["name"] = "Eye of Azshara",
+						["totalXP"] = 48042,
+						["rested"] = 48042,
+						["killTotal"] = 48042,
+						["level"] = 109,
+						["inProgress"] = false,
+						["killCount"] = 56,
+					}, -- [2]
+				},
 				["questList"] = {
-					22004, -- [1]
-					22004, -- [2]
-					22004, -- [3]
-					2227, -- [4]
-					22004, -- [5]
-					22004, -- [6]
-					22004, -- [7]
-					2227, -- [8]
-					2227, -- [9]
-					22004, -- [10]
-					22004, -- [11]
-					22004, -- [12]
-					22004, -- [13]
-					22004, -- [14]
-					22004, -- [15]
-					22004, -- [16]
-					22004, -- [17]
-					22004, -- [18]
-					22004, -- [19]
-					16537, -- [20]
-					22004, -- [21]
-					11002, -- [22]
-					22004, -- [23]
-					16537, -- [24]
-					22004, -- [25]
-					22004, -- [26]
-					21802, -- [27]
-					21802, -- [28]
-					21802, -- [29]
-					21802, -- [30]
-					21802, -- [31]
-					2159, -- [32]
-					2159, -- [33]
-					2159, -- [34]
-					65474, -- [35]
-					21802, -- [36]
-					65474, -- [37]
-					21802, -- [38]
-					21802, -- [39]
-					21802, -- [40]
-					21802, -- [41]
-					21802, -- [42]
-					21802, -- [43]
-					21802, -- [44]
-					21802, -- [45]
-					202, -- [46]
-					21802, -- [47]
-					21802, -- [48]
-					21802, -- [49]
-					21802, -- [50]
-					21802, -- [51]
-					21667, -- [52]
-					21667, -- [53]
-					2159, -- [54]
-					21667, -- [55]
-					2159, -- [56]
-					10799, -- [57]
-					21667, -- [58]
-					16267, -- [59]
-					21667, -- [60]
-					21667, -- [61]
-					21667, -- [62]
-					21667, -- [63]
-					431, -- [64]
-					431, -- [65]
-					2159, -- [66]
-					2159, -- [67]
-					21667, -- [68]
-					21667, -- [69]
-					21667, -- [70]
-					21667, -- [71]
-					21667, -- [72]
-					2159, -- [73]
-					21667, -- [74]
-					21667, -- [75]
-					21667, -- [76]
-					27067, -- [77]
-					2159, -- [78]
-					2159, -- [79]
-					2159, -- [80]
-					2159, -- [81]
-					10799, -- [82]
-					21667, -- [83]
-					21464, -- [84]
-					171719, -- [85]
-					42929, -- [86]
-					26864, -- [87]
-					21464, -- [88]
-					23054, -- [89]
-					23054, -- [90]
-					23054, -- [91]
-					23054, -- [92]
-					23054, -- [93]
-					23054, -- [94]
-					23054, -- [95]
-					11527, -- [96]
-					23054, -- [97]
-					22837, -- [98]
-					22837, -- [99]
-					22837, -- [100]
+					25265, -- [1]
+					189224, -- [2]
+					31620, -- [3]
+					50530, -- [4]
+					31620, -- [5]
+					25265, -- [6]
+					25265, -- [7]
+					25032, -- [8]
+					25032, -- [9]
+					25032, -- [10]
+					25032, -- [11]
+					25032, -- [12]
+					25032, -- [13]
+					12555, -- [14]
+					25032, -- [15]
+					25032, -- [16]
+					25032, -- [17]
+					25032, -- [18]
+					25032, -- [19]
+					75175, -- [20]
+					25032, -- [21]
+					7446, -- [22]
+					2480, -- [23]
+					930, -- [24]
+					25032, -- [25]
+					25032, -- [26]
+					37587, -- [27]
+					25032, -- [28]
+					46655, -- [29]
+					2480, -- [30]
+					2480, -- [31]
+					31077, -- [32]
+					24877, -- [33]
+					2480, -- [34]
+					24877, -- [35]
+					24877, -- [36]
+					24877, -- [37]
+					31077, -- [38]
+					24877, -- [39]
+					2480, -- [40]
+					24877, -- [41]
+					592, -- [42]
+					2480, -- [43]
+					24877, -- [44]
+					2480, -- [45]
+					37277, -- [46]
+					100, -- [47]
+					100, -- [48]
+					2480, -- [49]
+					92, -- [50]
+					92, -- [51]
+					92, -- [52]
+					92, -- [53]
+					92, -- [54]
+					92, -- [55]
+					92, -- [56]
+					92, -- [57]
 				},
 			},
 		},
 	},
 	["profileKeys"] = {
+		["Thankubliz - Tarren Mill"] = "Thankubliz - Tarren Mill",
+		["Iridia - Tarren Mill"] = "Iridia - Tarren Mill",
+		["Ieni - Tarren Mill"] = "Ieni - Tarren Mill",
 		["Intergalacto - Onyxia"] = "Intergalacto - Onyxia",
-		["Intergalacto - Tarren Mill"] = "Intergalacto - Tarren Mill",
-		["Intergalacto - Azshara"] = "Intergalacto - Azshara",
 		["Rynllor - Tarren Mill"] = "Rynllor - Tarren Mill",
 		["Enthusiastus - Tarren Mill"] = "Enthusiastus - Tarren Mill",
+		["Mihri - Tarren Mill"] = "Mihri - Tarren Mill",
+		["Intergalacto - Tarren Mill"] = "Intergalacto - Tarren Mill",
+		["Intergalacto - Azshara"] = "Intergalacto - Azshara",
 	},
 	["profiles"] = {
+		["Thankubliz - Tarren Mill"] = {
+		},
+		["Iridia - Tarren Mill"] = {
+		},
+		["Ieni - Tarren Mill"] = {
+		},
 		["Intergalacto - Onyxia"] = {
-		},
-		["Intergalacto - Tarren Mill"] = {
-		},
-		["Intergalacto - Azshara"] = {
 		},
 		["Rynllor - Tarren Mill"] = {
 		},
 		["Enthusiastus - Tarren Mill"] = {
-			["messages"] = {
-				["playerFloating"] = false,
-			},
 			["averageDisplay"] = {
 				["combineTooltip"] = true,
 			},
+			["messages"] = {
+				["playerFloating"] = false,
+			},
+		},
+		["Mihri - Tarren Mill"] = {
+		},
+		["Intergalacto - Tarren Mill"] = {
+		},
+		["Intergalacto - Azshara"] = {
 		},
 	},
 }

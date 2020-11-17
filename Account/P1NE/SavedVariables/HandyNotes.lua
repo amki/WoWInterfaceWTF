@@ -10,7 +10,9 @@ HandyNotesDB = {
 		["Enthusiastus - Tarren Mill"] = "Enthusiastus - Tarren Mill",
 		["Mamiko - Azshara"] = "Mamiko - Azshara",
 		["Mihri - Tarren Mill"] = "Mihri - Tarren Mill",
+		["Thankubliz - Tarren Mill"] = "Thankubliz - Tarren Mill",
 		["Enthusiastus - Azshara"] = "Enthusiastus - Azshara",
+		["Iridia - Tarren Mill"] = "Iridia - Tarren Mill",
 	},
 	["profiles"] = {
 		["Lyt - Azshara"] = {
@@ -31,7 +33,11 @@ HandyNotesDB = {
 		},
 		["Mihri - Tarren Mill"] = {
 		},
+		["Thankubliz - Tarren Mill"] = {
+		},
 		["Enthusiastus - Azshara"] = {
+		},
+		["Iridia - Tarren Mill"] = {
 		},
 	},
 }
@@ -46,7 +52,9 @@ HandyNotes_HandyNotesDB = {
 		["Enthusiastus - Tarren Mill"] = "Enthusiastus - Tarren Mill",
 		["Mamiko - Azshara"] = "Mamiko - Azshara",
 		["Mihri - Tarren Mill"] = "Mihri - Tarren Mill",
+		["Thankubliz - Tarren Mill"] = "Thankubliz - Tarren Mill",
 		["Enthusiastus - Azshara"] = "Enthusiastus - Azshara",
+		["Iridia - Tarren Mill"] = "Iridia - Tarren Mill",
 	},
 	["profiles"] = {
 		["Lyt - Azshara"] = {
@@ -67,7 +75,11 @@ HandyNotes_HandyNotesDB = {
 		},
 		["Mihri - Tarren Mill"] = {
 		},
+		["Thankubliz - Tarren Mill"] = {
+		},
 		["Enthusiastus - Azshara"] = {
+		},
+		["Iridia - Tarren Mill"] = {
 		},
 	},
 }

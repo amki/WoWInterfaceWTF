@@ -1,95 +1,95 @@
 
 PawnOptions = {
-	["LastVersion"] = 2.0335,
+	["LastVersion"] = 2.0405,
 	["LastPlayerFullName"] = "Mihri-Tarren Mill",
 	["AutoSelectScales"] = true,
 	["UpgradeTracking"] = false,
 	["ItemLevels"] = {
 		{
-			["ID"] = 155886,
-			["Level"] = 385,
-			["Link"] = "|cffa335ee|Hitem:155886::::::::120:258::35:3:5062:1557:4786:::|h[Smartly Plumed Cap]|h|r",
+			["ID"] = 183663,
+			["Level"] = 110,
+			["Link"] = "|cffa335ee|Hitem:183663::::::::50:256:::2:1482:4786:1:28:1401:::|h[Sightless Capuchin of Ulmaas]|h|r",
 		}, -- [1]
 		{
 			["ID"] = 158075,
-			["Level"] = 381,
-			["Link"] = "|cffe6cc80|Hitem:158075::::::::120:258::11:4:4936:4929:4930:1528:::|h[Heart of Azeroth]|h|r",
+			["Level"] = 83,
+			["Link"] = "|cffe6cc80|Hitem:158075::::::::50:258::11:4:4936:4929:4930:1497::::|h[Heart of Azeroth]|h|r",
 		}, -- [2]
 		{
-			["ID"] = 160613,
-			["Level"] = 370,
-			["Link"] = "|cffa335ee|Hitem:160613::::::::120:258::5:3:4823:1492:4786:::|h[Mantle of Contained Corruption]|h|r",
+			["ID"] = 183574,
+			["Level"] = 100,
+			["Link"] = "|cff0070dd|Hitem:183574::::::::50:256::14::1:28:1401:::|h[Argent Conscript's Mantle]|h|r",
 		}, -- [3]
 		nil, -- [4]
 		{
-			["ID"] = 158301,
-			["Level"] = 385,
-			["Link"] = "|cffa335ee|Hitem:158301::::::::120:258::35:3:5061:1557:4786:::|h[Ruffled Poet Blouse]|h|r",
+			["ID"] = 183535,
+			["Level"] = 100,
+			["Link"] = "|cff0070dd|Hitem:183535::::::::50:256::14::1:28:1401:::|h[Argent Conscript's Robe]|h|r",
 		}, -- [5]
 		{
-			["ID"] = 158346,
-			["Level"] = 395,
-			["Link"] = "|cffa335ee|Hitem:158346::::::::120:258::16:3:5010:1567:4784:::|h[Sailcloth Waistband]|h|r",
+			["ID"] = 183682,
+			["Level"] = 110,
+			["Link"] = "|cffa335ee|Hitem:183682::::::::50:256:::2:1482:4786:1:28:1401:::|h[Cinch of the Servant]|h|r",
 		}, -- [6]
 		{
-			["ID"] = 159250,
-			["Level"] = 380,
-			["Link"] = "|cffa335ee|Hitem:159250::::::::120:258::35:3:5010:1552:4783:::|h[Powder Monkey's Leggings]|h|r",
+			["ID"] = 183674,
+			["Level"] = 110,
+			["Link"] = "|cffa335ee|Hitem:183674::::::::50:256:::2:1482:4786:1:28:1401:::|h[Rimewoven Pantaloons]|h|r",
 		}, -- [7]
 		{
-			["ID"] = 159311,
-			["Level"] = 380,
-			["Link"] = "|cffa335ee|Hitem:159311::::::::120:258::35:4:5010:43:1552:4786:::|h[Blessing Bearer's Waders]|h|r",
+			["ID"] = 183538,
+			["Level"] = 100,
+			["Link"] = "|cff0070dd|Hitem:183538::::::::50:256::14::1:28:1401:::|h[Argent Conscript's Treads]|h|r",
 		}, -- [8]
 		{
-			["ID"] = 159256,
-			["Level"] = 385,
-			["Link"] = "|cffa335ee|Hitem:159256::::::::120:258::16:3:5010:1557:4784:::|h[Iron-Kelp Wristwraps]|h|r",
+			["ID"] = 183664,
+			["Level"] = 110,
+			["Link"] = "|cffa335ee|Hitem:183664::::::::50:256:::2:1482:4786:1:28:1401:::|h[Bracer of Ground Molars]|h|r",
 		}, -- [9]
 		{
-			["ID"] = 159266,
-			["Level"] = 380,
-			["Link"] = "|cffa335ee|Hitem:159266::::::::120:258::35:3:5010:1552:4783:::|h[Claw-Slit Brawler's Handwraps]|h|r",
+			["ID"] = 183576,
+			["Level"] = 100,
+			["Link"] = "|cff0070dd|Hitem:183576::::::::50:256::14::1:28:1401:::|h[Argent Conscript's Gloves]|h|r",
 		}, -- [10]
 		{
-			["ID"] = 160647,
-			["Level"] = 395,
+			["ID"] = 183631,
+			["Level"] = 110,
 			["AlsoFitsIn"] = 12,
-			["Link"] = "|cffa335ee|Hitem:160647:5943:154127::::::120:258::5:4:4799:1808:1517:4784:::|h[Ring of the Infinite Void]|h|r",
+			["Link"] = "|cffa335ee|Hitem:183631::::::::50:256:::2:1482:4786:1:28:1401:::|h[Ring of Carnelian and Sinew]|h|r",
 		}, -- [11]
 		{
-			["ID"] = 158314,
-			["Level"] = 380,
+			["ID"] = 183631,
+			["Level"] = 110,
 			["AlsoFitsIn"] = 11,
-			["Link"] = "|cffa335ee|Hitem:158314:5943:::::::120:258::16:3:5010:1552:4783:::|h[Seal of Questionable Loyalties]|h|r",
+			["Link"] = "|cffa335ee|Hitem:183631::::::::50:258:::2:1482:4786:1:28:1401:::|h[Ring of Carnelian and Sinew]|h|r",
 		}, -- [12]
 		{
 			["ID"] = 159620,
-			["Level"] = 380,
+			["Level"] = 64,
 			["AlsoFitsIn"] = 14,
-			["Link"] = "|cffa335ee|Hitem:159620::::::::120:258::35:3:5010:1552:4786:::|h[Conch of Dark Whispers]|h|r",
+			["Link"] = "|cffa335ee|Hitem:159620::::::::50:258::35:3:5010:1477:4786::::|h[Conch of Dark Whispers]|h|r",
 		}, -- [13]
 		{
 			["ID"] = 158320,
-			["Level"] = 380,
+			["Level"] = 64,
 			["AlsoFitsIn"] = 13,
-			["Link"] = "|cffa335ee|Hitem:158320::154127::::::120:258::16:4:5010:4802:1552:4783:::|h[Revitalizing Voodoo Totem]|h|r",
+			["Link"] = "|cffa335ee|Hitem:158320::154127::::::50:258::16:4:5010:4802:1477:4783::::|h[Revitalizing Voodoo Totem]|h|r",
 		}, -- [14]
 		{
-			["ID"] = 160643,
-			["Level"] = 380,
-			["Link"] = "|cffa335ee|Hitem:160643::::::::120:258::5:3:4799:1502:4783:::|h[Fetid Horror's Tanglecloak]|h|r",
+			["ID"] = 183552,
+			["Level"] = 100,
+			["Link"] = "|cff0070dd|Hitem:183552::::::::50:256::14::1:28:1401:::|h[Argent Conscript's Drape]|h|r",
 		}, -- [15]
 		{
-			["ID"] = 160687,
-			["Level"] = 375,
-			["AlsoFitsIn"] = 17,
-			["Link"] = "|cffa335ee|Hitem:160687:5963:::::::120:258::5:3:4799:1497:4783:::|h[Containment Analysis Baton]|h|r",
+			["ID"] = 165614,
+			["Level"] = 115,
+			["Link"] = "|cffa335ee|Hitem:165614::::::::50:258::81:3:5844:1527:4786:1:28:1401:::|h[Apothecary Spellstaff]|h|r",
 		}, -- [16]
 		{
-			["ID"] = 158322,
-			["Level"] = 370,
-			["Link"] = "|cffa335ee|Hitem:158322::154127::::::120:258::16:4:5010:4802:1542:4786:::|h[Aureus Vessel]|h|r",
+			["ID"] = 160687,
+			["Level"] = 62,
+			["AlsoFitsIn"] = 16,
+			["Link"] = "|cffa335ee|Hitem:160687:5963:::::::50:258::5:3:4799:1474:4783::::|h[Containment Analysis Baton]|h|r",
 		}, -- [17]
 	},
 	["Artifacts"] = {

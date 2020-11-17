@@ -5,6 +5,13 @@ MythicDungeonToolsDB = {
 		["Enthusiastus - Tarren Mill"] = "Enthusiastus - Tarren Mill",
 		["Ieni - Tarren Mill"] = "Ieni - Tarren Mill",
 		["Mihri - Tarren Mill"] = "Mihri - Tarren Mill",
+		["Iridia - Tarren Mill"] = "Iridia - Tarren Mill",
 		["Intergalacto - Tarren Mill"] = "Intergalacto - Tarren Mill",
+		["Thankubliz - Tarren Mill"] = "Thankubliz - Tarren Mill",
+	},
+	["global"] = {
+		["minimap"] = {
+			["minimapPos"] = 191.0324858231473,
+		},
 	},
 }

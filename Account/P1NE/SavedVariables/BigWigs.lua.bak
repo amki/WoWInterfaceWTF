@@ -2,23 +2,17 @@
 BigWigs3DB = {
 	["discord"] = 15,
 	["profileKeys"] = {
-		["Intergalacto - Onyxia"] = "Default",
 		["Intergalacto - Tarren Mill"] = "Default",
+		["Intergalacto - Azshara"] = "Default",
+		["Ieni - Tarren Mill"] = "Default",
+		["Intergalacto - Onyxia"] = "Default",
+		["Rynllor - Tarren Mill"] = "Default",
 		["Enthusiastus - Tarren Mill"] = "Default",
 		["Mamiko - Azshara"] = "Default",
 		["Mihri - Tarren Mill"] = "Default",
-		["Intergalacto - Azshara"] = "Default",
-		["Ieni - Tarren Mill"] = "Default",
-		["Rynllor - Tarren Mill"] = "Default",
+		["Iridia - Tarren Mill"] = "Default",
 	},
 	["namespaces"] = {
-		["BigWigs_Plugins_Victory"] = {
-			["profiles"] = {
-				["Default"] = {
-					["soundName"] = "None",
-				},
-			},
-		},
 		["BigWigs_Plugins_Alt Power"] = {
 			["profiles"] = {
 				["Default"] = {
@@ -30,13 +24,37 @@ BigWigs3DB = {
 		},
 		["BigWigs_Plugins_BossBlock"] = {
 		},
-		["BigWigs_Plugins_Sounds"] = {
-		},
 		["BigWigs_Plugins_Statistics"] = {
 		},
-		["BigWigs_Plugins_Colors"] = {
+		["BigWigs_Plugins_Wipe"] = {
 		},
-		["BigWigs_Plugins_Raid Icons"] = {
+		["BigWigs_Plugins_Messages"] = {
+			["profiles"] = {
+				["Default"] = {
+					["font"] = "Friz Quadrata TT",
+					["BWEmphasizeMessageAnchor_y"] = 615.111212811207,
+					["BWMessageAnchor_y"] = 316.444430405563,
+					["BWMessageAnchor_x"] = 612.97774921788,
+					["BWEmphasizeMessageAnchor_x"] = 609.422367187344,
+				},
+			},
+		},
+		["BigWigs_Plugins_Victory"] = {
+			["profiles"] = {
+				["Default"] = {
+					["soundName"] = "None",
+				},
+			},
+		},
+		["BigWigs_Plugins_Respawn"] = {
+		},
+		["BigWigs_Plugins_Pull"] = {
+		},
+		["BigWigs_Plugins_Sounds"] = {
+		},
+		["LibDualSpec-1.0"] = {
+		},
+		["BigWigs_Plugins_Colors"] = {
 		},
 		["BigWigs_Plugins_InfoBox"] = {
 			["profiles"] = {
@@ -68,20 +86,7 @@ BigWigs3DB = {
 				},
 			},
 		},
-		["LibDualSpec-1.0"] = {
-		},
 		["BigWigs_Plugins_AutoReply"] = {
-		},
-		["BigWigs_Plugins_Messages"] = {
-			["profiles"] = {
-				["Default"] = {
-					["font"] = "Friz Quadrata TT",
-					["BWEmphasizeMessageAnchor_y"] = 615.111212811207,
-					["BWMessageAnchor_y"] = 316.444430405563,
-					["BWMessageAnchor_x"] = 612.97774921788,
-					["BWEmphasizeMessageAnchor_x"] = 609.422367187344,
-				},
-			},
 		},
 		["BigWigs_Plugins_Proximity"] = {
 			["profiles"] = {
@@ -93,11 +98,7 @@ BigWigs3DB = {
 				},
 			},
 		},
-		["BigWigs_Plugins_Respawn"] = {
-		},
-		["BigWigs_Plugins_Wipe"] = {
-		},
-		["BigWigs_Plugins_Pull"] = {
+		["BigWigs_Plugins_Raid Icons"] = {
 		},
 	},
 	["wipe80"] = true,
@@ -110,8 +111,9 @@ BigWigs3DB = {
 			[686] = true,
 			[688] = true,
 			[-1004] = true,
-			[-573] = true,
 			[656] = true,
+			[-573] = true,
+			[-575] = true,
 			[-437] = true,
 		},
 	},
@@ -121,6 +123,7 @@ BigWigs3DB = {
 	},
 }
 BigWigsIconDB = {
+	["minimapPos"] = 181.6961752768762,
 }
 BigWigsStatsDB = {
 	[1520] = {
@@ -168,10 +171,11 @@ BigWigsStatsDB = {
 		},
 	},
 	[2164] = {
-		[2354] = {
+		[2361] = {
 			["normal"] = {
-				["best"] = 199.747000000003,
 				["kills"] = 1,
+				["wipes"] = 1,
+				["best"] = 438.4109999999928,
 			},
 		},
 		[2351] = {
@@ -193,10 +197,10 @@ BigWigsStatsDB = {
 				["kills"] = 1,
 			},
 		},
-		[2347] = {
+		[2354] = {
 			["normal"] = {
-				["best"] = 194.7350000000006,
-				["kills"] = 2,
+				["best"] = 199.747000000003,
+				["kills"] = 1,
 			},
 		},
 		[2359] = {
@@ -212,11 +216,10 @@ BigWigsStatsDB = {
 				["best"] = 247.0580000000045,
 			},
 		},
-		[2361] = {
+		[2347] = {
 			["normal"] = {
-				["kills"] = 1,
-				["wipes"] = 1,
-				["best"] = 438.4109999999928,
+				["best"] = 194.7350000000006,
+				["kills"] = 2,
 			},
 		},
 	},
@@ -236,6 +239,27 @@ BigWigsStatsDB = {
 		[1829] = {
 			["LFR"] = {
 				["best"] = 129.921000000089,
+				["kills"] = 1,
+			},
+		},
+	},
+	[2217] = {
+		[2365] = {
+			["normal"] = {
+				["best"] = 313.4439999999886,
+				["kills"] = 1,
+			},
+		},
+		[2369] = {
+			["normal"] = {
+				["kills"] = 1,
+				["wipes"] = 1,
+				["best"] = 223.1030000000028,
+			},
+		},
+		[2368] = {
+			["normal"] = {
+				["best"] = 322.7010000000009,
 				["kills"] = 1,
 			},
 		},

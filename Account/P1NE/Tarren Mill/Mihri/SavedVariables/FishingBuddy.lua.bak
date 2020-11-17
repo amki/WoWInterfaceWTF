@@ -11,8 +11,6 @@ FishingBuddy_Player = {
 	},
 	["WasWearing"] = {
 	},
-	["Outfit"] = {
-	},
 	["WatcherLocation"] = {
 		["grp_point"] = "TOPRIGHT",
 		["solo_y"] = -207.499816894531,
@@ -26,6 +24,8 @@ FishingBuddy_Player = {
 		["solo_point"] = "TOPRIGHT",
 		["raid_y"] = -207.499816894531,
 		["raid_scale"] = 1,
+	},
+	["Outfit"] = {
 	},
 	["Version"] = 19500,
 }

@@ -19,8 +19,8 @@ PetJournalEnhancedDB = {
 		["Enthusiastus - Tarren Mill"] = "Default",
 		["Ieni - Tarren Mill"] = "Default",
 		["Mihri - Tarren Mill"] = "Default",
-		["Enthusiastus - Azshara"] = "Default",
-		["Intergalacto - Azshara"] = "Default",
 		["Intergalacto - Tarren Mill"] = "Default",
+		["Intergalacto - Azshara"] = "Default",
+		["Enthusiastus - Azshara"] = "Default",
 	},
 }

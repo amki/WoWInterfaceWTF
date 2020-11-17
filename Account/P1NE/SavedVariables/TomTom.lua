@@ -5,17 +5,19 @@ TomTomDB = {
 		["Enthusiastus - Tarren Mill"] = "Default",
 		["Ieni - Tarren Mill"] = "Default",
 		["Mihri - Tarren Mill"] = "Default",
+		["Thankubliz - Tarren Mill"] = "Default",
 		["Intergalacto - Tarren Mill"] = "Default",
+		["Iridia - Tarren Mill"] = "Default",
 	},
 	["profiles"] = {
 		["Default"] = {
 			["arrow"] = {
 				["position"] = {
-					"CENTER", -- [1]
+					"TOP", -- [1]
 					nil, -- [2]
-					"CENTER", -- [3]
-					0, -- [4]
-					0, -- [5]
+					"TOP", -- [3]
+					-1.015547156333923, -- [4]
+					-50.11115264892578, -- [5]
 				},
 			},
 			["block"] = {
@@ -37,7 +39,9 @@ TomTomWaypointsM = {
 		["Enthusiastus - Tarren Mill"] = "Enthusiastus - Tarren Mill",
 		["Ieni - Tarren Mill"] = "Ieni - Tarren Mill",
 		["Mihri - Tarren Mill"] = "Mihri - Tarren Mill",
+		["Thankubliz - Tarren Mill"] = "Thankubliz - Tarren Mill",
 		["Intergalacto - Tarren Mill"] = "Intergalacto - Tarren Mill",
+		["Iridia - Tarren Mill"] = "Iridia - Tarren Mill",
 	},
 	["profiles"] = {
 		["Rynllor - Tarren Mill"] = {
@@ -48,7 +52,11 @@ TomTomWaypointsM = {
 		},
 		["Mihri - Tarren Mill"] = {
 		},
+		["Thankubliz - Tarren Mill"] = {
+		},
 		["Intergalacto - Tarren Mill"] = {
+		},
+		["Iridia - Tarren Mill"] = {
 		},
 	},
 }

@@ -22,7 +22,9 @@ VER 3 000000000000003D " " "INV_ENCHANT_ESSENCEETERNALLARGE"
 /tar Treasure
 END
 VER 3 000000000000003F " " "INV_MISC_QUESTIONMARK"
-/cancelaura Slow Fall
+/script C_GossipInfo.SelectAvailableQuest(2)
+/script CompleteQuest()
+/script GetQuestReward()
 END
 VER 3 0000000000000040 " " "INV_MISC_QUESTIONMARK"
 #showtooltip
@@ -54,9 +56,13 @@ VER 3 0000000000000050 " " "INV_MISC_QUESTIONMARK"
 #showtooltip
 /use [@mouseover,exists,help,nodead][] 14
 END
+VER 3 0000000000000051 " " "136103"
+/inv Talizeadr
+/inv Aschente
+END
 VER 3 000000000000004E "AAP_MACRO" "INV_MISC_QUESTIONMARK"
 #showtooltip
-/use Empowerment Potion
+/click ExtraActionButton1
 END
 VER 3 0000000000000035 "Circle" "INV_MISC_QUESTIONMARK"
 /wm 6
@@ -108,19 +114,10 @@ END
 VER 3 0000000000000031 "Square" "INV_MISC_QUESTIONMARK"
 /wm 1
 END
-VER 3 0000000000000036 "Star" "INV_MISC_QUESTIONMARK"
-/wm 5
-END
-VER 3 0000000000000033 "Triangle" "INV_MISC_QUESTIONMARK"
-/wm 2
-END
 VER 3 000000000000002E "TSMMacro" "Achievement_Faction_GoldenLotus"
 /click TSMShoppingCancelConfirmationButton
 /click TSMAuctioningCancelButton
 /click TSMShoppingBuyoutConfirmationButton
 /click TSMAuctioningPostButton
 /click TSMShoppingBuyoutButton
-END
-VER 3 0000000000000047 "yell" "132093"
-/rw LEAVE THROUGH PORTAL
 END

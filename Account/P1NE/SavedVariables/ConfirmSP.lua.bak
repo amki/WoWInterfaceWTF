@@ -1,13 +1,15 @@
 
 ConfirmSP = {
 	["profileKeys"] = {
-		["Intergalacto - Onyxia"] = "Default",
-		["Intergalacto - Tarren Mill"] = "Default",
-		["Enthusiastus - Tarren Mill"] = "Default",
-		["Ieni - Tarren Mill"] = "Default",
-		["Mihri - Tarren Mill"] = "Default",
-		["Enthusiastus - Azshara"] = "Default",
+		["Thankubliz - Tarren Mill"] = "Default",
 		["Intergalacto - Azshara"] = "Default",
+		["Ieni - Tarren Mill"] = "Default",
+		["Intergalacto - Onyxia"] = "Default",
+		["Enthusiastus - Tarren Mill"] = "Default",
+		["Mihri - Tarren Mill"] = "Default",
+		["Iridia - Tarren Mill"] = "Default",
+		["Intergalacto - Tarren Mill"] = "Default",
+		["Enthusiastus - Azshara"] = "Default",
 	},
 	["profiles"] = {
 		["Default"] = {

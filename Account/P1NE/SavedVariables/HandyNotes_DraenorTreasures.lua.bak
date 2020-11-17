@@ -9,7 +9,9 @@ DraenorTreasuresDB = {
 		["Enthusiastus - Tarren Mill"] = "Default",
 		["Mamiko - Azshara"] = "Default",
 		["Mihri - Tarren Mill"] = "Default",
+		["Iridia - Tarren Mill"] = "Default",
 		["Enthusiastus - Azshara"] = "Default",
+		["Thankubliz - Tarren Mill"] = "Default",
 	},
 	["profiles"] = {
 		["Default"] = {

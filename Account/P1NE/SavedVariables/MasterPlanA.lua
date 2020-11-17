@@ -31,8 +31,8 @@ MasterPlanAG = {
 					[2] = 1507787543,
 				},
 			},
-			["faction"] = "Horde",
 			["curOil"] = 100,
+			["faction"] = "Horde",
 			["class"] = "PALADIN",
 			["curRes"] = 1238,
 			["lastCacheTime"] = 1507860642,
@@ -45,18 +45,35 @@ MasterPlanAG = {
 			["curOil"] = 25,
 		},
 		["Enthusiastus"] = {
-			["lastCacheTime"] = 1516493184,
-			["class"] = "DRUID",
-			["curRes"] = 409,
 			["faction"] = "Horde",
+			["lastCacheTime"] = 1516493184,
+			["curRes"] = 409,
+			["class"] = "DRUID",
+		},
+		["Iridia"] = {
+			["summary"] = {
+				["inProgress"] = {
+					[2] = 1605211048,
+				},
+			},
+			["faction"] = "Horde",
+			["lastCacheTime"] = 1605224476,
+			["curRes"] = 644,
+			["class"] = "MAGE",
 		},
 		["Rynllor"] = {
 			["class"] = "MONK",
 			["faction"] = "Horde",
 		},
-		["Intergalacto"] = {
-			["class"] = "SHAMAN",
+		["Thankubliz"] = {
+			["class"] = "MAGE",
 			["faction"] = "Horde",
 		},
+		["Intergalacto"] = {
+			["faction"] = "Horde",
+			["class"] = "SHAMAN",
+		},
+	},
+	["IgnoreRewards"] = {
 	},
 }

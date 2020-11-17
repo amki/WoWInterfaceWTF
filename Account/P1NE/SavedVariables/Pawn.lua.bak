@@ -77,9 +77,6 @@ PawnCommon = {
 		["\"MrRobot\":PRIEST3"] = {
 			["IconTexturePath"] = 136207,
 			["PerCharacterOptions"] = {
-				["Mihri-Tarren Mill"] = {
-					["Visible"] = true,
-				},
 			},
 			["Color"] = "ffffff",
 			["LocalizedName"] = "Priest: Shadow",
@@ -218,6 +215,17 @@ PawnCommon = {
 			["UnenchantedColor"] = "bfb74e",
 			["SpecID"] = 3,
 		},
+		["Int"] = {
+			["Values"] = {
+				["Intellect"] = 10,
+			},
+			["PerCharacterOptions"] = {
+				["Intergalacto-Tarren Mill"] = {
+					["Visible"] = true,
+				},
+			},
+			["UpgradesFollowSpecialization"] = true,
+		},
 		["\"MrRobot\":WARRIOR3"] = {
 			["IconTexturePath"] = 132341,
 			["PerCharacterOptions"] = {
@@ -252,9 +260,6 @@ PawnCommon = {
 			["IconTexturePath"] = 135920,
 			["PerCharacterOptions"] = {
 				["Lyt-Azshara"] = {
-					["Visible"] = true,
-				},
-				["Ieni-Tarren Mill"] = {
 					["Visible"] = true,
 				},
 			},
@@ -317,6 +322,9 @@ PawnCommon = {
 		["\"MrRobot\":PALADIN2"] = {
 			["IconTexturePath"] = 236264,
 			["PerCharacterOptions"] = {
+				["Ieni-Tarren Mill"] = {
+					["Visible"] = true,
+				},
 			},
 			["Color"] = "f58cba",
 			["LocalizedName"] = "Paladin: Protection",
@@ -362,6 +370,9 @@ PawnCommon = {
 		["\"MrRobot\":MAGE1"] = {
 			["IconTexturePath"] = 135932,
 			["PerCharacterOptions"] = {
+				["Iridia-Tarren Mill"] = {
+					["Visible"] = true,
+				},
 			},
 			["Color"] = "3fc7eb",
 			["LocalizedName"] = "Mage: Arcane",
@@ -464,7 +475,7 @@ PawnCommon = {
 			["ClassID"] = 6,
 			["DoNotShow1HUpgrades"] = false,
 			["Role"] = "DAMAGER",
-			["DoNotShow2HUpgrades"] = true,
+			["DoNotShow2HUpgrades"] = false,
 			["UpgradesFollowSpecialization"] = true,
 			["Provider"] = "MrRobot",
 			["UnenchantedColor"] = "bf3950",
@@ -485,6 +496,24 @@ PawnCommon = {
 			["UnenchantedColor"] = "bf3950",
 			["SpecID"] = 3,
 		},
+		["\"MrRobot\":SHAMAN3"] = {
+			["IconTexturePath"] = 136052,
+			["PerCharacterOptions"] = {
+				["Intergalacto-Onyxia"] = {
+					["Visible"] = true,
+				},
+			},
+			["Color"] = "0070de",
+			["LocalizedName"] = "Shaman: Restoration",
+			["ClassID"] = 7,
+			["DoNotShow1HUpgrades"] = false,
+			["Role"] = "HEALER",
+			["DoNotShow2HUpgrades"] = false,
+			["UpgradesFollowSpecialization"] = true,
+			["Provider"] = "MrRobot",
+			["UnenchantedColor"] = "0054a6",
+			["SpecID"] = 3,
+		},
 		["\"MrRobot\":DEATHKNIGHT1"] = {
 			["IconTexturePath"] = 135770,
 			["PerCharacterOptions"] = {
@@ -499,27 +528,6 @@ PawnCommon = {
 			["Provider"] = "MrRobot",
 			["UnenchantedColor"] = "bf3950",
 			["SpecID"] = 1,
-		},
-		["\"MrRobot\":SHAMAN3"] = {
-			["IconTexturePath"] = 136052,
-			["PerCharacterOptions"] = {
-				["Intergalacto-Onyxia"] = {
-					["Visible"] = true,
-				},
-				["Intergalacto-Tarren Mill"] = {
-					["Visible"] = true,
-				},
-			},
-			["Color"] = "0070de",
-			["LocalizedName"] = "Shaman: Restoration",
-			["ClassID"] = 7,
-			["DoNotShow1HUpgrades"] = false,
-			["Role"] = "HEALER",
-			["DoNotShow2HUpgrades"] = false,
-			["UpgradesFollowSpecialization"] = true,
-			["Provider"] = "MrRobot",
-			["UnenchantedColor"] = "0054a6",
-			["SpecID"] = 3,
 		},
 		["\"MrRobot\":DRUID3"] = {
 			["IconTexturePath"] = 132276,
@@ -540,6 +548,9 @@ PawnCommon = {
 			["IconTexturePath"] = 237542,
 			["PerCharacterOptions"] = {
 				["Mamiko-Azshara"] = {
+					["Visible"] = true,
+				},
+				["Mihri-Tarren Mill"] = {
 					["Visible"] = true,
 				},
 			},
@@ -585,7 +596,7 @@ PawnCommon = {
 			["SpecID"] = 3,
 		},
 	},
-	["LastVersion"] = 2.0336,
+	["LastVersion"] = 2.0405,
 	["ButtonPosition"] = 2,
 	["ShowLootUpgradeAdvisor"] = true,
 	["ShowQuestUpgradeAdvisor"] = true,

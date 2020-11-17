@@ -1,97 +1,113 @@
 
 PawnOptions = {
-	["LastVersion"] = 2.0335,
+	["LastVersion"] = 2.0405,
+	["LastPlayerFullName"] = "Enthusiastus-Tarren Mill",
+	["AutoSelectScales"] = true,
+	["UpgradeTracking"] = false,
 	["ItemLevels"] = {
 		{
-			["ID"] = 157913,
-			["Level"] = 420,
-			["Link"] = "|cffa335ee|Hitem:157913::::::::120:105::28:4:1607:4786:6264:4775:::|h[Gonk Outrunner Mask]|h|r",
+			["ID"] = 183649,
+			["Level"] = 110,
+			["Link"] = "|cffa335ee|Hitem:183649::::::::50:105:::2:1482:4786:1:28:1401:::|h[Bag of Discarded Entrails]|h|r",
 		}, -- [1]
 		{
 			["ID"] = 158075,
-			["Level"] = 447,
-			["Link"] = "|cffe6cc80|Hitem:158075::::::::120:105::11:4:4932:4933:6316:1584:::|h[Heart of Azeroth]|h|r",
+			["Level"] = 133,
+			["Link"] = "|cffe6cc80|Hitem:158075::::::::50:105::11:4:4932:4933:6316:1547::::|h[Heart of Azeroth]|h|r",
 		}, -- [2]
 		{
-			["ID"] = 167764,
-			["Level"] = 405,
-			["Link"] = "|cffa335ee|Hitem:167764::::::::120:105:::6:6300:6297:1487:4786:6262:4775:::|h[Fathomstalker Shoulderpads]|h|r",
+			["ID"] = 183578,
+			["Level"] = 100,
+			["Link"] = "|cff0070dd|Hitem:183578::::::::50:102::14::1:28:1401:::|h[Argent Conscript's Pauldrons]|h|r",
 		}, -- [3]
 		nil, -- [4]
 		{
-			["ID"] = 169073,
-			["Level"] = 420,
-			["Link"] = "|cffa335ee|Hitem:169073::::::::120:105::23:5:4819:1472:4786:6263:4775:::|h[Type II Bomber Jacket]|h|r",
+			["ID"] = 183683,
+			["Level"] = 110,
+			["Link"] = "|cffa335ee|Hitem:183683::::::::50:102:::2:1482:4786:1:28:1401:::|h[Skittering Vestments]|h|r",
 		}, -- [5]
 		{
-			["ID"] = 158306,
-			["Level"] = 440,
-			["Link"] = "|cffa335ee|Hitem:158306::::::::120:105::35:4:5010:40:1612:4783:::|h[Belt of Gleaming Determination]|h|r",
+			["ID"] = 183668,
+			["Level"] = 110,
+			["Link"] = "|cffa335ee|Hitem:183668::::::::50:105:::2:1482:4786:1:28:1401:::|h[Razor-Barbed Leather Belt]|h|r",
 		}, -- [6]
 		{
-			["ID"] = 168968,
-			["Level"] = 415,
-			["Link"] = "|cffa335ee|Hitem:168968::::::::120:102::23:3:4779:1472:4786:::|h[Flame-Seared Leggings]|h|r",
+			["ID"] = 183686,
+			["Level"] = 110,
+			["Link"] = "|cffa335ee|Hitem:183686::::::::50:105:::2:1482:4786:1:28:1401:::|h[Breeches of the Skeletal Serpent]|h|r",
 		}, -- [7]
 		{
-			["ID"] = 167760,
-			["Level"] = 400,
-			["Link"] = "|cffa335ee|Hitem:167760::::::::120:102:::4:6300:6289:1487:4786:::|h[Fathomstalker Footpads]|h|r",
+			["ID"] = 183679,
+			["Level"] = 110,
+			["Link"] = "|cffa335ee|Hitem:183679::::::::50:105:::2:1482:4786:1:28:1401:::|h[Taldaram's Supple Slippers]|h|r",
 		}, -- [8]
 		{
-			["ID"] = 168377,
-			["Level"] = 415,
-			["Link"] = "|cffa335ee|Hitem:168377::::::::120:105::3:3:4798:1487:4786:::|h[Tideblood Bracers]|h|r",
+			["ID"] = 183544,
+			["Level"] = 100,
+			["Link"] = "|cff0070dd|Hitem:183544::::::::50:105::14::1:28:1401:::|h[Argent Conscript's Wriststraps]|h|r",
 		}, -- [9]
 		{
-			["ID"] = 159312,
-			["Level"] = 430,
-			["Link"] = "|cffa335ee|Hitem:159312::::::::120:102::16:3:5010:1602:4786:::|h[Desiccator's Blessed Gloves]|h|r",
+			["ID"] = 168985,
+			["Level"] = 110,
+			["Link"] = "|cffa335ee|Hitem:168985::::::::50:105::16:5:5008:6516:6515:1504:4786:1:28:464:::|h[Self-Sanitizing Handwraps]|h|r",
 		}, -- [10]
 		{
-			["ID"] = 159459,
-			["Level"] = 430,
+			["ID"] = 183631,
+			["Level"] = 110,
 			["AlsoFitsIn"] = 12,
-			["Link"] = "|cffa335ee|Hitem:159459::::::::120:102::16:3:5010:1602:4786:::|h[Ritual Binder's Ring]|h|r",
+			["Link"] = "|cffa335ee|Hitem:183631::::::::50:105:::2:1482:4786:1:28:1401:::|h[Ring of Carnelian and Sinew]|h|r",
 		}, -- [11]
 		{
-			["ID"] = 159459,
-			["Level"] = 430,
+			["ID"] = 183631,
+			["Level"] = 110,
 			["AlsoFitsIn"] = 11,
-			["Link"] = "|cffa335ee|Hitem:159459::::::::120:105::16:3:5010:1602:4786:::|h[Ritual Binder's Ring]|h|r",
+			["Link"] = "|cffa335ee|Hitem:183631::::::::50:102:::2:1482:4786:1:28:1401:::|h[Ring of Carnelian and Sinew]|h|r",
 		}, -- [12]
 		{
-			["ID"] = 169312,
-			["Level"] = 415,
+			["ID"] = 159624,
+			["Level"] = 110,
 			["AlsoFitsIn"] = 14,
-			["Link"] = "|cffa335ee|Hitem:169312::::::::120:105::3:3:4798:1487:4786:::|h[Luminous Jellyweed]|h|r",
+			["Link"] = "|cffa335ee|Hitem:159624::::::::50:105::16:4:5009:6515:1523:4786:1:28:1262:::|h[Rotcrusted Voodoo Doll]|h|r",
 		}, -- [13]
 		{
-			["ID"] = 169312,
-			["Level"] = 415,
+			["ID"] = 159624,
+			["Level"] = 110,
 			["AlsoFitsIn"] = 13,
-			["Link"] = "|cffa335ee|Hitem:169312::::::::120:102::3:3:4798:1487:4786:::|h[Luminous Jellyweed]|h|r",
+			["Link"] = "|cffa335ee|Hitem:159624::::::::50:102::16:4:5009:6515:1523:4786:1:28:1262:::|h[Rotcrusted Voodoo Doll]|h|r",
 		}, -- [14]
 		{
-			["ID"] = 159287,
-			["Level"] = 430,
-			["Link"] = "|cffa335ee|Hitem:159287::::::::120:102::16:3:5010:1602:4786:::|h[Cloak of Questionable Intent]|h|r",
+			["ID"] = 169223,
+			["Level"] = 125,
+			["Link"] = "|cffff8000|Hitem:169223::::::::50:102::11:1:6272:1:28:703:::|h[Ashjra'kamas, Shroud of Resolve]|h|r",
 		}, -- [15]
 		{
-			["ID"] = 168955,
-			["Level"] = 415,
-			["AlsoFitsIn"] = 17,
-			["Link"] = "|cffa335ee|Hitem:168955::::::::120:102::23:3:4779:1472:4786:::|h[Electrifying Cognitive Amplifier]|h|r",
+			["ID"] = 165614,
+			["Level"] = 115,
+			["Link"] = "|cffa335ee|Hitem:165614::::::::50:102::81:3:5844:1527:4786:1:28:1401:::|h[Apothecary Spellstaff]|h|r",
 		}, -- [16]
 		{
 			["ID"] = 168477,
-			["Level"] = 430,
-			["Link"] = "|cffa335ee|Hitem:168477::::::::120:102::5:3:4799:1502:4786:::|h[Tidebinder's Driftglobe]|h|r",
+			["Level"] = 85,
+			["Link"] = "|cffa335ee|Hitem:168477::::::::50:105::5:3:4799:1485:4786::::|h[Tidebinder's Driftglobe]|h|r",
 		}, -- [17]
 	},
-	["AutoSelectScales"] = true,
-	["UpgradeTracking"] = false,
-	["LastPlayerFullName"] = "Enthusiastus-Tarren Mill",
+	["Artifacts"] = {
+		[128821] = {
+			["Relics"] = {
+				{
+					["ItemLevel"] = 16,
+					["Type"] = "Fire",
+				}, -- [1]
+				{
+					["Type"] = "Blood",
+				}, -- [2]
+				{
+					["Type"] = "Life",
+				}, -- [3]
+			},
+			["Name"] = "Claws of Ursoc",
+		},
+	},
 	["LastKeybindingsSet"] = 1,
 }
 PawnMrRobotScaleProviderOptions = {

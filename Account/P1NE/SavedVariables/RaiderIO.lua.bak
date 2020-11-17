@@ -15,7 +15,9 @@ RaiderIO_Config = {
 	["enableLFGDropdown"] = true,
 	["enableGuildTooltips"] = true,
 }
-RaiderIO_LastCharacter = "eu-Intergalacto-tarren-mill"
+RaiderIO_LastCharacter = "eu-Enthusiastus-tarren-mill"
 RaiderIO_MissingCharacters = {
+	["eu-party2-tarren-mill"] = true,
+	["eu-Mayg-draenor"] = true,
 }
 RaiderIO_CachedRuns = nil

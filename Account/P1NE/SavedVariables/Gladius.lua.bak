@@ -6,7 +6,9 @@ Gladius2DB = {
 		["Enthusiastus - Tarren Mill"] = "Enthusiastus - Tarren Mill",
 		["Ieni - Tarren Mill"] = "Ieni - Tarren Mill",
 		["Mihri - Tarren Mill"] = "Mihri - Tarren Mill",
+		["Iridia - Tarren Mill"] = "Iridia - Tarren Mill",
 		["Intergalacto - Tarren Mill"] = "Intergalacto - Tarren Mill",
+		["Thankubliz - Tarren Mill"] = "Thankubliz - Tarren Mill",
 	},
 	["profiles"] = {
 		["Intergalacto - Onyxia"] = {
@@ -52,11 +54,21 @@ Gladius2DB = {
 		["Mihri - Tarren Mill"] = {
 			["auraVersion"] = 1,
 			["tagsVersion"] = 4,
+			["y"] = {
+				["arena1"] = 615.11112600565,
+			},
 			["x"] = {
 				["arena1"] = 958.578148211382,
 			},
+		},
+		["Iridia - Tarren Mill"] = {
+			["auraVersion"] = 1,
+			["tagsVersion"] = 4,
+			["x"] = {
+				["arena1"] = 1128.711101383633,
+			},
 			["y"] = {
-				["arena1"] = 615.11112600565,
+				["arena1"] = 443.4445664227933,
 			},
 		},
 		["Intergalacto - Tarren Mill"] = {
@@ -67,6 +79,16 @@ Gladius2DB = {
 			},
 			["x"] = {
 				["arena1"] = 945.9554770545365,
+			},
+		},
+		["Thankubliz - Tarren Mill"] = {
+			["auraVersion"] = 1,
+			["tagsVersion"] = 4,
+			["x"] = {
+				["arena1"] = 1062.577765107533,
+			},
+			["y"] = {
+				["arena1"] = 521.6667025418501,
 			},
 		},
 	},

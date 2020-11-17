@@ -30,8 +30,8 @@ H: 1
 Frame: ObjectiveTrackerFrame
 FrameLevel: 1
 Anchor: RIGHT
-X: -110
-Y: 24
+X: -111
+Y: 23
 W: 235
 H: 400
 Frame: PlayerPowerBarAlt
@@ -55,3 +55,10 @@ X: -47
 Y: 141
 W: 330
 H: 200
+Frame: PawnUIFrame
+FrameLevel: 1
+Anchor: CENTER
+X: 2
+Y: -2
+W: 800
+H: 525

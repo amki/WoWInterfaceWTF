@@ -10,7 +10,9 @@ GladiatorlosSADB = {
 		["Enthusiastus - Tarren Mill"] = "Default",
 		["Mamiko - Azshara"] = "Default",
 		["Mihri - Tarren Mill"] = "Default",
+		["Thankubliz - Tarren Mill"] = "Default",
 		["Enthusiastus - Azshara"] = "Default",
+		["Iridia - Tarren Mill"] = "Default",
 	},
 	["profiles"] = {
 		["Default"] = {

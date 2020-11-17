@@ -18,9 +18,6 @@ bind 0 NONE
 bind - ACTIONBUTTON10
 bind = NONE
 bind CTRL-4 NONE
-bind SHIFT-4 CLICK BT4Button28:LeftButton
-bind SHIFT-5 CLICK BT4Button29:LeftButton
-bind SHIFT-6 CLICK BT4Button30:LeftButton
 bind G CLICK BT4Button31:LeftButton
 bind F STRAFERIGHT
 bind V CLICK BT4Button42:LeftButton
@@ -39,9 +36,14 @@ bind I TOGGLEBACKPACK
 bind Y CLICK BT4Button39:LeftButton
 bind J CLICK BT4Button33:LeftButton
 bind CTRL-B NONE
+bind NUMPAD5 CLICK BT4Button24:LeftButton
+bind NUMPAD1 CLICK BT4Button36:LeftButton
 bind SHIFT-G CLICK BT4Button35:LeftButton
 bind SHIFT-C SHAPESHIFTBUTTON1
 bind T CLICK BT4Button19:LeftButton
+bind SHIFT-4 CLICK BT4Button28:LeftButton
+bind SHIFT-5 CLICK BT4Button29:LeftButton
+bind SHIFT-6 CLICK BT4Button30:LeftButton
 bind < CLICK BT4Button38:LeftButton
 bind BUTTON5 CLICK BT4Button24:LeftButton
 bind CAPSLOCK NONE
@@ -62,5 +64,6 @@ bind SHIFT-S CLICK BT4Button26:LeftButton
 bind SHIFT-Q CLICK BT4Button13:LeftButton
 bind SHIFT-W CLICK BT4Button14:LeftButton
 bind ALT-V FRIENDNAMEPLATES
+bind NUMPAD9 CLICK BT4Button48:LeftButton
 BINDINGMODE 1
 bind CTRL-ALT-MOUSEWHEELDOWN MACRO TSMMacro

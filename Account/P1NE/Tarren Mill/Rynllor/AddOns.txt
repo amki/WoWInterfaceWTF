@@ -16,3 +16,4 @@ ElvUI_CustomTweaks: disabled
 ElvUI_DTBars2: disabled
 ElvUI_OptionsUI: enabled
 LittleWigs: enabled
+Tukui_MarkBar: disabled

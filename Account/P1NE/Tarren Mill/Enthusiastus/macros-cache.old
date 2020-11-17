@@ -42,3 +42,7 @@ VER 3 010000000000000B " " "INV_MISC_QUESTIONMARK"
 #showtooltip
 /use [@cursor] Ursol's Vortex
 END
+VER 3 010000000000000C " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/use [@mouseover,exists,help,nodead][] Nourish
+END

@@ -1,6 +1,255 @@
 
 XToLevelDB = {
 	["char"] = {
+		["Thankubliz - Tarren Mill"] = {
+			["data"] = {
+				["total"] = {
+					["quests"] = 32,
+					["dungeonKills"] = 18,
+					["mobKills"] = 86,
+				},
+				["killAverage"] = 65,
+				["timer"] = {
+					["start"] = 499677.329,
+					["total"] = 31160,
+					["lastUpdated"] = 501965.106,
+					["xpPerSec"] = 13.62020861298981,
+				},
+				["dungeonList"] = {
+					{
+						["name"] = "Darkmaul Citadel",
+						["totalXP"] = 1113,
+						["rested"] = 0,
+						["killTotal"] = 1113,
+						["level"] = 9,
+						["inProgress"] = false,
+						["killCount"] = 18,
+					}, -- [1]
+				},
+				["questAverage"] = 1400,
+				["questList"] = {
+					1400, -- [1]
+				},
+			},
+		},
+		["Iridia - Tarren Mill"] = {
+			["data"] = {
+				["total"] = {
+					["quests"] = 154,
+					["dungeonKills"] = 2420,
+					["mobKills"] = 2892,
+				},
+				["killAverage"] = 260,
+				["timer"] = {
+					["start"] = 333735.416,
+					["total"] = 288262,
+					["lastUpdated"] = 339872.652,
+					["xpPerSec"] = 46.96935232733451,
+				},
+				["dungeonList"] = {
+					{
+						["killCount"] = 24,
+						["name"] = "Skyreach",
+						["inProgress"] = false,
+						["killTotal"] = 12313,
+						["level"] = 48,
+						["rested"] = 0,
+						["totalXP"] = 12313,
+					}, -- [1]
+					{
+						["killCount"] = 7,
+						["name"] = "Skyreach",
+						["inProgress"] = false,
+						["killTotal"] = 2954,
+						["level"] = 48,
+						["rested"] = 0,
+						["totalXP"] = 2954,
+					}, -- [2]
+					{
+						["killCount"] = 12,
+						["name"] = "Skyreach",
+						["inProgress"] = false,
+						["killTotal"] = 3650,
+						["level"] = 48,
+						["rested"] = 0,
+						["totalXP"] = 3650,
+					}, -- [3]
+					{
+						["killCount"] = 102,
+						["name"] = "Shadowmoon Burial Grounds",
+						["inProgress"] = false,
+						["killTotal"] = 23177,
+						["level"] = 48,
+						["rested"] = 1597,
+						["totalXP"] = 23177,
+					}, -- [4]
+					{
+						["inProgress"] = false,
+						["totalXP"] = 25304,
+						["killCount"] = 140,
+						["killTotal"] = 25304,
+						["level"] = 47,
+						["rested"] = 0,
+						["name"] = "Magisters' Terrace",
+					}, -- [5]
+					{
+						["inProgress"] = false,
+						["totalXP"] = 18681,
+						["killCount"] = 172,
+						["killTotal"] = 18681,
+						["level"] = 45,
+						["rested"] = 0,
+						["name"] = "Stormstout Brewery",
+					}, -- [6]
+					{
+						["name"] = "Storm's End",
+						["totalXP"] = 31972,
+						["rested"] = 0,
+						["killTotal"] = 31972,
+						["level"] = 43,
+						["inProgress"] = false,
+						["killCount"] = 204,
+					}, -- [7]
+					{
+						["name"] = "The Everbloom",
+						["totalXP"] = 20547,
+						["rested"] = 0,
+						["killTotal"] = 20547,
+						["level"] = 41,
+						["inProgress"] = false,
+						["killCount"] = 117,
+					}, -- [8]
+					{
+						["name"] = "Iron Docks",
+						["totalXP"] = 14988,
+						["rested"] = 0,
+						["killTotal"] = 14988,
+						["level"] = 40,
+						["inProgress"] = false,
+						["killCount"] = 74,
+					}, -- [9]
+					{
+						["name"] = "The Shattered Halls",
+						["totalXP"] = 73556,
+						["rested"] = 0,
+						["killTotal"] = 73556,
+						["level"] = 37,
+						["inProgress"] = false,
+						["killCount"] = 336,
+					}, -- [10]
+					{
+						["name"] = "Sethekk Halls",
+						["totalXP"] = 28065,
+						["rested"] = 0,
+						["killTotal"] = 28065,
+						["level"] = 36,
+						["inProgress"] = false,
+						["killCount"] = 126,
+					}, -- [11]
+					{
+						["name"] = "The Underbog",
+						["totalXP"] = 29929,
+						["rested"] = 0,
+						["killTotal"] = 29929,
+						["level"] = 34,
+						["inProgress"] = false,
+						["killCount"] = 105,
+					}, -- [12]
+					{
+						["name"] = "Skyreach",
+						["totalXP"] = 12586,
+						["rested"] = 0,
+						["killTotal"] = 12586,
+						["level"] = 33,
+						["inProgress"] = false,
+						["killCount"] = 41,
+					}, -- [13]
+					{
+						["name"] = "Hall of Blackhand",
+						["totalXP"] = 31767,
+						["rested"] = 9197,
+						["killTotal"] = 31767,
+						["level"] = 31,
+						["inProgress"] = false,
+						["killCount"] = 215,
+					}, -- [14]
+					{
+						["name"] = "Bloodmaul Slag Mines",
+						["totalXP"] = 11750,
+						["rested"] = 0,
+						["killTotal"] = 11750,
+						["level"] = 27,
+						["inProgress"] = false,
+						["killCount"] = 66,
+					}, -- [15]
+					{
+						["name"] = "Shadowmoon Burial Grounds",
+						["totalXP"] = 13632,
+						["rested"] = 0,
+						["killTotal"] = 13632,
+						["level"] = 24,
+						["inProgress"] = false,
+						["killCount"] = 103,
+					}, -- [16]
+					{
+						["name"] = "Old Hillsbrad Foothills",
+						["totalXP"] = 16293,
+						["rested"] = 0,
+						["killTotal"] = 16293,
+						["level"] = 20,
+						["inProgress"] = false,
+						["killCount"] = 90,
+					}, -- [17]
+					{
+						["name"] = "Auchenai Crypts",
+						["totalXP"] = 10401,
+						["rested"] = 8,
+						["killTotal"] = 10401,
+						["level"] = 18,
+						["inProgress"] = false,
+						["killCount"] = 144,
+					}, -- [18]
+					{
+						["totalXP"] = 13846,
+						["name"] = "Mana-Tombs",
+						["rested"] = 1,
+						["killTotal"] = 13846,
+						["level"] = 16,
+						["killCount"] = 118,
+						["inProgress"] = false,
+					}, -- [19]
+					{
+						["totalXP"] = 14094,
+						["name"] = "The Underbog",
+						["rested"] = 0,
+						["killTotal"] = 14094,
+						["level"] = 13,
+						["killCount"] = 108,
+						["inProgress"] = false,
+					}, -- [20]
+					{
+						["totalXP"] = 10825,
+						["name"] = "The Slave Pens",
+						["rested"] = 21,
+						["killTotal"] = 10825,
+						["level"] = 10,
+						["killCount"] = 116,
+						["inProgress"] = false,
+					}, -- [21]
+				},
+				["questAverage"] = 6800,
+			},
+		},
+		["Ieni - Tarren Mill"] = {
+			["data"] = {
+				["timer"] = {
+					["start"] = 502056.24,
+					["total"] = 0,
+					["lastUpdated"] = 514112.171,
+					["xpPerSec"] = 0,
+				},
+			},
+		},
 		["Intergalacto - Onyxia"] = {
 			["data"] = {
 				["timer"] = {
@@ -293,1210 +542,6 @@ XToLevelDB = {
 						["mob"] = "Bloodmaul Overseer",
 						["xp"] = 1056,
 					}, -- [67]
-				},
-			},
-		},
-		["Intergalacto - Tarren Mill"] = {
-			["data"] = {
-				["total"] = {
-					["dungeonKills"] = 521,
-					["quests"] = 38,
-					["mobKills"] = 569,
-				},
-				["killAverage"] = 613,
-				["dungeonList"] = {
-					{
-						["killCount"] = 167,
-						["name"] = "Dire Maul",
-						["inProgress"] = false,
-						["killTotal"] = 52536,
-						["level"] = 39,
-						["rested"] = 12628,
-						["totalXP"] = 52536,
-					}, -- [1]
-					{
-						["killCount"] = 91,
-						["name"] = "Scarlet Halls",
-						["inProgress"] = false,
-						["killTotal"] = 29403,
-						["level"] = 37,
-						["rested"] = 29403,
-						["totalXP"] = 29403,
-					}, -- [2]
-					{
-						["totalXP"] = 19373,
-						["name"] = "The Deadmines",
-						["rested"] = 0,
-						["killTotal"] = 19373,
-						["level"] = 25,
-						["killCount"] = 96,
-						["inProgress"] = false,
-					}, -- [3]
-					{
-						["totalXP"] = 36931,
-						["name"] = "The Wailing Caverns",
-						["rested"] = 0,
-						["killTotal"] = 36931,
-						["level"] = 22,
-						["killCount"] = 167,
-						["inProgress"] = false,
-					}, -- [4]
-				},
-				["questAverage"] = 7639.4,
-				["questList"] = {
-					8575, -- [1]
-					8330, -- [2]
-					8207, -- [3]
-					8207, -- [4]
-					8207, -- [5]
-					7104, -- [6]
-					7104, -- [7]
-					6959, -- [8]
-					6959, -- [9]
-					6742, -- [10]
-					6524, -- [11]
-					6524, -- [12]
-					6524, -- [13]
-					6307, -- [14]
-					6307, -- [15]
-					6307, -- [16]
-					149, -- [17]
-					6162, -- [18]
-					6162, -- [19]
-					6162, -- [20]
-					6162, -- [21]
-					5944, -- [22]
-					2972, -- [23]
-					5944, -- [24]
-					594, -- [25]
-					5944, -- [26]
-					5944, -- [27]
-					5944, -- [28]
-					5944, -- [29]
-					1522, -- [30]
-					5727, -- [31]
-					7177, -- [32]
-					5727, -- [33]
-					5727, -- [34]
-					5727, -- [35]
-					5727, -- [36]
-					5727, -- [37]
-					400, -- [38]
-				},
-				["timer"] = {
-					["start"] = 840237.927,
-					["total"] = 358188,
-					["lastUpdated"] = 843289.925,
-					["xpPerSec"] = 117.3618069212357,
-				},
-			},
-		},
-		["Intergalacto - Azshara"] = {
-			["data"] = {
-				["total"] = {
-					["dungeonKills"] = 65,
-					["quests"] = 57,
-					["mobKills"] = 328,
-				},
-				["killList"] = {
-					{
-						["mob"] = "Wrathlord Bulwark",
-						["xp"] = 72,
-					}, -- [1]
-					{
-						["mob"] = "Blazing Infernal",
-						["xp"] = 72,
-					}, -- [2]
-					{
-						["mob"] = "Infiltrator Assassin",
-						["xp"] = 72,
-					}, -- [3]
-					{
-						["mob"] = "Portal Keeper",
-						["xp"] = 287,
-					}, -- [4]
-					{
-						["mob"] = "Portal Guardian",
-						["xp"] = 287,
-					}, -- [5]
-					{
-						["mob"] = "Wrathlord Bulwark",
-						["xp"] = 72,
-					}, -- [6]
-					{
-						["mob"] = "Infiltrator Assassin",
-						["xp"] = 72,
-					}, -- [7]
-					{
-						["mob"] = "Eredar Shadow Mender",
-						["xp"] = 72,
-					}, -- [8]
-					{
-						["mob"] = "Portal Guardian",
-						["xp"] = 287,
-					}, -- [9]
-					{
-						["mob"] = "Wrath of Azshara",
-						["xp"] = 9582,
-					}, -- [10]
-					{
-						["mob"] = "Mystic Ssa'veh",
-						["xp"] = 1198,
-					}, -- [11]
-					{
-						["mob"] = "Binder Ashioi",
-						["xp"] = 1198,
-					}, -- [12]
-					{
-						["mob"] = "Channeler Varisz",
-						["xp"] = 1198,
-					}, -- [13]
-					{
-						["mob"] = "Ritualist Lesha",
-						["xp"] = 1198,
-					}, -- [14]
-					{
-						["mob"] = "King Deepbeard",
-						["xp"] = 3593,
-					}, -- [15]
-					{
-						["mob"] = "Skrog Tidestomper",
-						["xp"] = 1198,
-					}, -- [16]
-					{
-						["mob"] = "Skrog Wavecrasher",
-						["xp"] = 1198,
-					}, -- [17]
-					{
-						["mob"] = "Saltscale Skulker",
-						["xp"] = 719,
-					}, -- [18]
-					{
-						["mob"] = "Saltscale Lurker",
-						["xp"] = 120,
-					}, -- [19]
-					{
-						["mob"] = "Saltscale Lurker",
-						["xp"] = 120,
-					}, -- [20]
-					{
-						["mob"] = "Saltscale Lurker",
-						["xp"] = 120,
-					}, -- [21]
-					{
-						["mob"] = "Saltscale Lurker",
-						["xp"] = 120,
-					}, -- [22]
-					{
-						["mob"] = "Saltscale Lurker",
-						["xp"] = 120,
-					}, -- [23]
-					{
-						["mob"] = "Saltscale Lurker",
-						["xp"] = 120,
-					}, -- [24]
-					{
-						["mob"] = "Saltscale Lurker",
-						["xp"] = 120,
-					}, -- [25]
-					{
-						["mob"] = "Bitterbrine Slave",
-						["xp"] = 120,
-					}, -- [26]
-					{
-						["mob"] = "Bitterbrine Slave",
-						["xp"] = 120,
-					}, -- [27]
-					{
-						["mob"] = "Bitterbrine Slave",
-						["xp"] = 120,
-					}, -- [28]
-					{
-						["mob"] = "Bitterbrine Slave",
-						["xp"] = 120,
-					}, -- [29]
-					{
-						["mob"] = "Bitterbrine Slave",
-						["xp"] = 120,
-					}, -- [30]
-					{
-						["mob"] = "Bitterbrine Slave",
-						["xp"] = 120,
-					}, -- [31]
-					{
-						["mob"] = "Stormwake Hydra",
-						["xp"] = 1198,
-					}, -- [32]
-					{
-						["mob"] = "Seaspray Crab",
-						["xp"] = 120,
-					}, -- [33]
-					{
-						["mob"] = "Seaspray Crab",
-						["xp"] = 120,
-					}, -- [34]
-					{
-						["mob"] = "Seaspray Crab",
-						["xp"] = 120,
-					}, -- [35]
-					{
-						["mob"] = "Seaspray Crab",
-						["xp"] = 120,
-					}, -- [36]
-					{
-						["mob"] = "Seaspray Crab",
-						["xp"] = 120,
-					}, -- [37]
-					{
-						["mob"] = "Mak'rana Siltwalker",
-						["xp"] = 719,
-					}, -- [38]
-					{
-						["mob"] = "Cove Seagull",
-						["xp"] = 719,
-					}, -- [39]
-					{
-						["mob"] = "Serpentrix",
-						["xp"] = 3593,
-					}, -- [40]
-					{
-						["mob"] = "Seaspray Crab",
-						["xp"] = 120,
-					}, -- [41]
-					{
-						["mob"] = "Seaspray Crab",
-						["xp"] = 120,
-					}, -- [42]
-					{
-						["mob"] = "Seaspray Crab",
-						["xp"] = 120,
-					}, -- [43]
-					{
-						["mob"] = "Seaspray Crab",
-						["xp"] = 120,
-					}, -- [44]
-					{
-						["mob"] = "Seaspray Crab",
-						["xp"] = 120,
-					}, -- [45]
-					{
-						["mob"] = "Lady Hatecoil",
-						["xp"] = 3593,
-					}, -- [46]
-					{
-						["mob"] = "Hatecoil Arcanist",
-						["xp"] = 1198,
-					}, -- [47]
-					{
-						["mob"] = "Saltsea Droplet",
-						["xp"] = 120,
-					}, -- [48]
-					{
-						["mob"] = "Saltsea Droplet",
-						["xp"] = 120,
-					}, -- [49]
-					{
-						["mob"] = "Saltsea Droplet",
-						["xp"] = 120,
-					}, -- [50]
-					{
-						["mob"] = "Saltsea Droplet",
-						["xp"] = 120,
-					}, -- [51]
-					{
-						["mob"] = "Saltsea Droplet",
-						["xp"] = 120,
-					}, -- [52]
-					{
-						["mob"] = "Saltsea Droplet",
-						["xp"] = 120,
-					}, -- [53]
-					{
-						["mob"] = "Hatecoil Arcanist",
-						["xp"] = 1198,
-					}, -- [54]
-					{
-						["mob"] = "Warlord Parjesh",
-						["xp"] = 3593,
-					}, -- [55]
-					{
-						["mob"] = "Hatecoil Oracle",
-						["xp"] = 719,
-					}, -- [56]
-					{
-						["mob"] = "Hatecoil Warrior",
-						["xp"] = 719,
-					}, -- [57]
-					{
-						["mob"] = "Hatecoil Warrior",
-						["xp"] = 719,
-					}, -- [58]
-					{
-						["mob"] = "Hatecoil Stormweaver",
-						["xp"] = 719,
-					}, -- [59]
-					{
-						["mob"] = "Hatecoil Stormweaver",
-						["xp"] = 719,
-					}, -- [60]
-					{
-						["mob"] = "Hatecoil Crusher",
-						["xp"] = 1198,
-					}, -- [61]
-					{
-						["mob"] = "Hatecoil Oracle",
-						["xp"] = 719,
-					}, -- [62]
-					{
-						["mob"] = "Hatecoil Warrior",
-						["xp"] = 719,
-					}, -- [63]
-					{
-						["mob"] = "Hatecoil Stormweaver",
-						["xp"] = 719,
-					}, -- [64]
-					{
-						["mob"] = "Hatecoil Warrior",
-						["xp"] = 719,
-					}, -- [65]
-					{
-						["mob"] = "Nightfallen Overseer",
-						["xp"] = 502,
-					}, -- [66]
-					{
-						["mob"] = "Nightfallen Overseer",
-						["xp"] = 502,
-					}, -- [67]
-					{
-						["mob"] = "Withered Fanatic",
-						["xp"] = 502,
-					}, -- [68]
-					{
-						["mob"] = "Nightfallen Overseer",
-						["xp"] = 502,
-					}, -- [69]
-					{
-						["mob"] = "Ishkaneth",
-						["xp"] = 1006,
-					}, -- [70]
-					{
-						["mob"] = "Withered Fanatic",
-						["xp"] = 502,
-					}, -- [71]
-					{
-						["mob"] = "Nightfallen Overseer",
-						["xp"] = 502,
-					}, -- [72]
-					{
-						["mob"] = "Nightfallen Construct",
-						["xp"] = 502,
-					}, -- [73]
-					{
-						["mob"] = "Withered Fanatic",
-						["xp"] = 502,
-					}, -- [74]
-					{
-						["mob"] = "Nightfallen Construct",
-						["xp"] = 502,
-					}, -- [75]
-					{
-						["mob"] = "Withered Fanatic",
-						["xp"] = 502,
-					}, -- [76]
-					{
-						["mob"] = "Withered Fanatic",
-						["xp"] = 502,
-					}, -- [77]
-					{
-						["mob"] = "Nightfallen Overseer",
-						["xp"] = 502,
-					}, -- [78]
-					{
-						["mob"] = "Nightfallen Construct",
-						["xp"] = 502,
-					}, -- [79]
-					{
-						["mob"] = "Nightfallen Overseer",
-						["xp"] = 502,
-					}, -- [80]
-					{
-						["mob"] = "Tyndrissen",
-						["xp"] = 1006,
-					}, -- [81]
-					{
-						["mob"] = "Withered Mana-Rager",
-						["xp"] = 502,
-					}, -- [82]
-					{
-						["mob"] = "Withered Mana-Rager",
-						["xp"] = 502,
-					}, -- [83]
-					{
-						["mob"] = "Withered Exile",
-						["xp"] = 502,
-					}, -- [84]
-					{
-						["mob"] = "Wild Manarunner",
-						["xp"] = 50,
-					}, -- [85]
-					{
-						["mob"] = "Wild Manarunner",
-						["xp"] = 50,
-					}, -- [86]
-					{
-						["mob"] = "Withered Exile",
-						["xp"] = 502,
-					}, -- [87]
-					{
-						["mob"] = "Withered Exile",
-						["xp"] = 502,
-					}, -- [88]
-					{
-						["mob"] = "Withered Mana-Rager",
-						["xp"] = 502,
-					}, -- [89]
-					{
-						["mob"] = "Withered Exile",
-						["xp"] = 502,
-					}, -- [90]
-					{
-						["mob"] = "Withered Mana-Rager",
-						["xp"] = 502,
-					}, -- [91]
-					{
-						["mob"] = "Withered Exile",
-						["xp"] = 502,
-					}, -- [92]
-					{
-						["mob"] = "Withered Exile",
-						["xp"] = 502,
-					}, -- [93]
-					{
-						["mob"] = "Withered Mana-Rager",
-						["xp"] = 502,
-					}, -- [94]
-					{
-						["mob"] = "Withered Exile",
-						["xp"] = 502,
-					}, -- [95]
-					{
-						["mob"] = "Withered Exile",
-						["xp"] = 502,
-					}, -- [96]
-					{
-						["mob"] = "Withered Exile",
-						["xp"] = 502,
-					}, -- [97]
-					{
-						["mob"] = "Withered Exile",
-						["xp"] = 502,
-					}, -- [98]
-					{
-						["mob"] = "Withered Mana-Rager",
-						["xp"] = 502,
-					}, -- [99]
-					{
-						["mob"] = "Withered Exile",
-						["xp"] = 502,
-					}, -- [100]
-				},
-				["timer"] = {
-					["start"] = 555519.457,
-					["total"] = 2042462,
-					["lastUpdated"] = 567509.206,
-					["xpPerSec"] = 170.350688742526,
-				},
-				["dungeonList"] = {
-					{
-						["totalXP"] = 1293,
-						["name"] = "Violet Hold",
-						["rested"] = 1293,
-						["killTotal"] = 1293,
-						["level"] = 109,
-						["killCount"] = 9,
-						["inProgress"] = true,
-					}, -- [1]
-					{
-						["inProgress"] = false,
-						["totalXP"] = 48042,
-						["killCount"] = 56,
-						["killTotal"] = 48042,
-						["level"] = 109,
-						["rested"] = 48042,
-						["name"] = "Eye of Azshara",
-					}, -- [2]
-				},
-				["questList"] = {
-					25265, -- [1]
-					189224, -- [2]
-					31620, -- [3]
-					50530, -- [4]
-					31620, -- [5]
-					25265, -- [6]
-					25265, -- [7]
-					25032, -- [8]
-					25032, -- [9]
-					25032, -- [10]
-					25032, -- [11]
-					25032, -- [12]
-					25032, -- [13]
-					12555, -- [14]
-					25032, -- [15]
-					25032, -- [16]
-					25032, -- [17]
-					25032, -- [18]
-					25032, -- [19]
-					75175, -- [20]
-					25032, -- [21]
-					7446, -- [22]
-					2480, -- [23]
-					930, -- [24]
-					25032, -- [25]
-					25032, -- [26]
-					37587, -- [27]
-					25032, -- [28]
-					46655, -- [29]
-					2480, -- [30]
-					2480, -- [31]
-					31077, -- [32]
-					24877, -- [33]
-					2480, -- [34]
-					24877, -- [35]
-					24877, -- [36]
-					24877, -- [37]
-					31077, -- [38]
-					24877, -- [39]
-					2480, -- [40]
-					24877, -- [41]
-					592, -- [42]
-					2480, -- [43]
-					24877, -- [44]
-					2480, -- [45]
-					37277, -- [46]
-					100, -- [47]
-					100, -- [48]
-					2480, -- [49]
-					92, -- [50]
-					92, -- [51]
-					92, -- [52]
-					92, -- [53]
-					92, -- [54]
-					92, -- [55]
-					92, -- [56]
-					92, -- [57]
-				},
-			},
-		},
-		["Enthusiastus - Tarren Mill"] = {
-			["data"] = {
-				["total"] = {
-					["quests"] = 425,
-					["dungeonKills"] = 2271,
-					["mobKills"] = 5108,
-				},
-				["killAverage"] = 437,
-				["killList"] = {
-					{
-						["mob"] = "Valkyra Aspirant",
-						["xp"] = 437,
-					}, -- [1]
-					{
-						["mob"] = "Priestess of Eyir",
-						["xp"] = 437,
-					}, -- [2]
-					{
-						["mob"] = "Valkyra Aspirant",
-						["xp"] = 437,
-					}, -- [3]
-					{
-						["mob"] = "Tideskorn Shieldmaiden",
-						["xp"] = 437,
-					}, -- [4]
-					{
-						["mob"] = "Valkyra Aspirant",
-						["xp"] = 437,
-					}, -- [5]
-					{
-						["mob"] = "Priestess of Eyir",
-						["xp"] = 437,
-					}, -- [6]
-					{
-						["mob"] = "Priestess of Eyir",
-						["xp"] = 437,
-					}, -- [7]
-					{
-						["mob"] = "Tideskorn Shieldmaiden",
-						["xp"] = 437,
-					}, -- [8]
-					{
-						["mob"] = "Tideskorn Shieldmaiden",
-						["xp"] = 437,
-					}, -- [9]
-					{
-						["mob"] = "Tideskorn Shieldmaiden",
-						["xp"] = 437,
-					}, -- [10]
-					{
-						["mob"] = "Tideskorn Shieldmaiden",
-						["xp"] = 437,
-					}, -- [11]
-					{
-						["mob"] = "Tideskorn Shieldmaiden",
-						["xp"] = 437,
-					}, -- [12]
-					{
-						["mob"] = "Tideskorn Shieldmaiden",
-						["xp"] = 437,
-					}, -- [13]
-					{
-						["mob"] = "Tideskorn Shieldmaiden",
-						["xp"] = 437,
-					}, -- [14]
-					{
-						["mob"] = "Tideskorn Warbear",
-						["xp"] = 437,
-					}, -- [15]
-					{
-						["mob"] = "Priestess of Eyir",
-						["xp"] = 437,
-					}, -- [16]
-					{
-						["mob"] = "Tideskorn Shieldmaiden",
-						["xp"] = 437,
-					}, -- [17]
-					{
-						["mob"] = "Tideskorn Shieldmaiden",
-						["xp"] = 437,
-					}, -- [18]
-					{
-						["mob"] = "Tideskorn Shieldmaiden",
-						["xp"] = 437,
-					}, -- [19]
-					{
-						["mob"] = "Tideskorn Shieldmaiden",
-						["xp"] = 437,
-					}, -- [20]
-					{
-						["mob"] = "Priestess of Eyir",
-						["xp"] = 437,
-					}, -- [21]
-					{
-						["mob"] = "Tideskorn Warbear",
-						["xp"] = 437,
-					}, -- [22]
-					{
-						["mob"] = "Tideskorn Shieldmaiden",
-						["xp"] = 437,
-					}, -- [23]
-					{
-						["mob"] = "Tideskorn Shieldmaiden",
-						["xp"] = 437,
-					}, -- [24]
-					{
-						["mob"] = "Tideskorn Shieldmaiden",
-						["xp"] = 437,
-					}, -- [25]
-					{
-						["mob"] = "Priestess of Eyir",
-						["xp"] = 437,
-					}, -- [26]
-					{
-						["mob"] = "Tideskorn Shieldmaiden",
-						["xp"] = 437,
-					}, -- [27]
-					{
-						["mob"] = "Priestess of Eyir",
-						["xp"] = 437,
-					}, -- [28]
-					{
-						["mob"] = "Tideskorn Warbear",
-						["xp"] = 437,
-					}, -- [29]
-					{
-						["mob"] = "Priestess of Eyir",
-						["xp"] = 437,
-					}, -- [30]
-					{
-						["mob"] = "Tideskorn Shieldmaiden",
-						["xp"] = 437,
-					}, -- [31]
-					{
-						["mob"] = "Tideskorn Warbear",
-						["xp"] = 437,
-					}, -- [32]
-					{
-						["mob"] = "Tideskorn Shieldmaiden",
-						["xp"] = 437,
-					}, -- [33]
-					{
-						["mob"] = "Tideskorn Shieldmaiden",
-						["xp"] = 437,
-					}, -- [34]
-					{
-						["mob"] = "Tideskorn Shieldmaiden",
-						["xp"] = 437,
-					}, -- [35]
-					{
-						["mob"] = "Tideskorn Shieldmaiden",
-						["xp"] = 437,
-					}, -- [36]
-					{
-						["mob"] = "Tideskorn Shieldmaiden",
-						["xp"] = 437,
-					}, -- [37]
-					{
-						["mob"] = "Tideskorn Shieldmaiden",
-						["xp"] = 437,
-					}, -- [38]
-					{
-						["mob"] = "Priestess of Eyir",
-						["xp"] = 437,
-					}, -- [39]
-					{
-						["mob"] = "Tideskorn Warbear",
-						["xp"] = 437,
-					}, -- [40]
-					{
-						["mob"] = "Tideskorn Warbear",
-						["xp"] = 437,
-					}, -- [41]
-					{
-						["mob"] = "Tideskorn Shieldmaiden",
-						["xp"] = 437,
-					}, -- [42]
-					{
-						["mob"] = "Tideskorn Shieldmaiden",
-						["xp"] = 437,
-					}, -- [43]
-					{
-						["mob"] = "Tideskorn Shieldmaiden",
-						["xp"] = 437,
-					}, -- [44]
-					{
-						["mob"] = "Tideskorn Shieldmaiden",
-						["xp"] = 437,
-					}, -- [45]
-					{
-						["mob"] = "Tideskorn Shieldmaiden",
-						["xp"] = 437,
-					}, -- [46]
-					{
-						["mob"] = "Tideskorn Shieldmaiden",
-						["xp"] = 437,
-					}, -- [47]
-					{
-						["mob"] = "Stout Highlands Runehorn",
-						["xp"] = 437,
-					}, -- [48]
-					{
-						["mob"] = "Stout Highlands Runehorn",
-						["xp"] = 437,
-					}, -- [49]
-					{
-						["mob"] = "Stout Highlands Runehorn",
-						["xp"] = 437,
-					}, -- [50]
-					{
-						["mob"] = "Stout Highlands Runehorn",
-						["xp"] = 437,
-					}, -- [51]
-					{
-						["mob"] = "Stout Highlands Runehorn",
-						["xp"] = 437,
-					}, -- [52]
-					{
-						["mob"] = "Cliffdiver Eagle",
-						["xp"] = 437,
-					}, -- [53]
-					{
-						["mob"] = "Tideskorn Beastbreaker",
-						["xp"] = 437,
-					}, -- [54]
-					{
-						["mob"] = "Stout Highlands Runehorn",
-						["xp"] = 437,
-					}, -- [55]
-					{
-						["mob"] = "Stout Highlands Runehorn",
-						["xp"] = 437,
-					}, -- [56]
-					{
-						["mob"] = "Stout Highlands Runehorn",
-						["xp"] = 437,
-					}, -- [57]
-					{
-						["mob"] = "Stout Highlands Runehorn",
-						["xp"] = 437,
-					}, -- [58]
-					{
-						["mob"] = "Stout Highlands Runehorn",
-						["xp"] = 437,
-					}, -- [59]
-					{
-						["mob"] = "Stout Highlands Runehorn",
-						["xp"] = 437,
-					}, -- [60]
-					{
-						["mob"] = "Stout Highlands Runehorn",
-						["xp"] = 437,
-					}, -- [61]
-					{
-						["mob"] = "Stout Highlands Runehorn",
-						["xp"] = 437,
-					}, -- [62]
-					{
-						["mob"] = "Stout Highlands Runehorn",
-						["xp"] = 437,
-					}, -- [63]
-					{
-						["mob"] = "Stout Highlands Runehorn",
-						["xp"] = 437,
-					}, -- [64]
-					{
-						["mob"] = "Stout Highlands Runehorn",
-						["xp"] = 437,
-					}, -- [65]
-					{
-						["mob"] = "Stout Highlands Runehorn",
-						["xp"] = 437,
-					}, -- [66]
-					{
-						["mob"] = "Greywatch Infiltrator",
-						["xp"] = 437,
-					}, -- [67]
-					{
-						["mob"] = "Stout Highlands Runehorn",
-						["xp"] = 437,
-					}, -- [68]
-					{
-						["mob"] = "Greywatch Infiltrator",
-						["xp"] = 437,
-					}, -- [69]
-					{
-						["mob"] = "Greywatch Saboteur",
-						["xp"] = 437,
-					}, -- [70]
-					{
-						["mob"] = "Greywatch Infiltrator",
-						["xp"] = 437,
-					}, -- [71]
-					{
-						["mob"] = "Greywatch Infiltrator",
-						["xp"] = 437,
-					}, -- [72]
-					{
-						["mob"] = "Greywatch Saboteur",
-						["xp"] = 437,
-					}, -- [73]
-					{
-						["mob"] = "Greywatch Infiltrator",
-						["xp"] = 437,
-					}, -- [74]
-					{
-						["mob"] = "Greywatch Infiltrator",
-						["xp"] = 437,
-					}, -- [75]
-					{
-						["mob"] = "Greywatch Saboteur",
-						["xp"] = 437,
-					}, -- [76]
-					{
-						["mob"] = "Greywatch Infiltrator",
-						["xp"] = 412,
-					}, -- [77]
-					{
-						["mob"] = "Greywatch Infiltrator",
-						["xp"] = 437,
-					}, -- [78]
-					{
-						["mob"] = "Greywatch Infiltrator",
-						["xp"] = 437,
-					}, -- [79]
-					{
-						["mob"] = "Greywatch Infiltrator",
-						["xp"] = 437,
-					}, -- [80]
-					{
-						["mob"] = "Greywatch Infiltrator",
-						["xp"] = 352,
-					}, -- [81]
-					{
-						["mob"] = "Greywatch Infiltrator",
-						["xp"] = 350,
-					}, -- [82]
-					{
-						["mob"] = "Greywatch Infiltrator",
-						["xp"] = 300,
-					}, -- [83]
-					{
-						["mob"] = "Geir",
-						["xp"] = 876,
-					}, -- [84]
-					{
-						["mob"] = "Unworthy Combatant",
-						["xp"] = 219,
-					}, -- [85]
-					{
-						["mob"] = "Unworthy Combatant",
-						["xp"] = 219,
-					}, -- [86]
-					{
-						["mob"] = "Rotting Jailer",
-						["xp"] = 1752,
-					}, -- [87]
-					{
-						["mob"] = "Deepbrine Horror",
-						["xp"] = 219,
-					}, -- [88]
-					{
-						["mob"] = "Deepbrine Horror",
-						["xp"] = 219,
-					}, -- [89]
-					{
-						["mob"] = "Deepbrine Horror",
-						["xp"] = 219,
-					}, -- [90]
-					{
-						["mob"] = "Helarjar Aspirant",
-						["xp"] = 437,
-					}, -- [91]
-					{
-						["mob"] = "Helarjar Aspirant",
-						["xp"] = 437,
-					}, -- [92]
-					{
-						["mob"] = "Rotting Jailer",
-						["xp"] = 1752,
-					}, -- [93]
-					{
-						["mob"] = "Bloodbeard",
-						["xp"] = 876,
-					}, -- [94]
-					{
-						["mob"] = "Kvaldir Cursewalker",
-						["xp"] = 437,
-					}, -- [95]
-					{
-						["mob"] = "Kvaldir Cursewalker",
-						["xp"] = 437,
-					}, -- [96]
-					{
-						["mob"] = "Kvaldir Cursewalker",
-						["xp"] = 437,
-					}, -- [97]
-					{
-						["mob"] = "Kvaldir Mistcaller",
-						["xp"] = 437,
-					}, -- [98]
-					{
-						["mob"] = "Kvaldir Cursewalker",
-						["xp"] = 437,
-					}, -- [99]
-					{
-						["mob"] = "Kvaldir Cursewalker",
-						["xp"] = 437,
-					}, -- [100]
-				},
-				["timer"] = {
-					["start"] = 2760240.348,
-					["total"] = 10621186,
-					["lastUpdated"] = 2805557.931,
-					["xpPerSec"] = 234.372296510167,
-				},
-				["dungeonList"] = {
-					{
-						["inProgress"] = false,
-						["totalXP"] = 46985,
-						["killCount"] = 57,
-						["killTotal"] = 46985,
-						["level"] = 106,
-						["rested"] = 0,
-						["name"] = "Eye of Azshara",
-					}, -- [1]
-					{
-						["name"] = "Darkheart Thicket",
-						["totalXP"] = 59971,
-						["rested"] = 363,
-						["killTotal"] = 59971,
-						["level"] = 104,
-						["inProgress"] = false,
-						["killCount"] = 100,
-					}, -- [2]
-					{
-						["killCount"] = 105,
-						["name"] = "Darkheart Thicket",
-						["inProgress"] = false,
-						["killTotal"] = 66003,
-						["level"] = 101,
-						["rested"] = 0,
-						["totalXP"] = 66003,
-					}, -- [3]
-					{
-						["killCount"] = 62,
-						["name"] = "Bloodmaul Slag Mines",
-						["inProgress"] = false,
-						["killTotal"] = 51010,
-						["level"] = 92,
-						["rested"] = 0,
-						["totalXP"] = 51010,
-					}, -- [4]
-					{
-						["inProgress"] = false,
-						["totalXP"] = 129705,
-						["killCount"] = 290,
-						["killTotal"] = 129705,
-						["level"] = 89,
-						["rested"] = 0,
-						["name"] = "Siege of Niuzao Temple",
-					}, -- [5]
-					{
-						["inProgress"] = false,
-						["totalXP"] = 578049,
-						["killCount"] = 1092,
-						["killTotal"] = 578049,
-						["level"] = 85,
-						["rested"] = 0,
-						["name"] = "Stormstout Brewery",
-					}, -- [6]
-					{
-						["inProgress"] = false,
-						["totalXP"] = 49052,
-						["killCount"] = 63,
-						["killTotal"] = 49052,
-						["level"] = 85,
-						["rested"] = 0,
-						["name"] = "Lost City of the Tol'vir",
-					}, -- [7]
-					{
-						["inProgress"] = false,
-						["totalXP"] = 55834,
-						["killCount"] = 121,
-						["killTotal"] = 55834,
-						["level"] = 85,
-						["rested"] = 21,
-						["name"] = "The Stonecore",
-					}, -- [8]
-					{
-						["inProgress"] = false,
-						["totalXP"] = 71364,
-						["killCount"] = 115,
-						["killTotal"] = 71364,
-						["level"] = 84,
-						["rested"] = 0,
-						["name"] = "Grim Batol",
-					}, -- [9]
-					{
-						["inProgress"] = false,
-						["totalXP"] = 87475,
-						["killCount"] = 266,
-						["killTotal"] = 87475,
-						["level"] = 83,
-						["rested"] = 5846,
-						["name"] = "Gate of the Setting Sun",
-					}, -- [10]
-				},
-				["questAverage"] = 16070.9,
-				["questList"] = {
-					22004, -- [1]
-					22004, -- [2]
-					22004, -- [3]
-					2227, -- [4]
-					22004, -- [5]
-					22004, -- [6]
-					22004, -- [7]
-					2227, -- [8]
-					2227, -- [9]
-					22004, -- [10]
-					22004, -- [11]
-					22004, -- [12]
-					22004, -- [13]
-					22004, -- [14]
-					22004, -- [15]
-					22004, -- [16]
-					22004, -- [17]
-					22004, -- [18]
-					22004, -- [19]
-					16537, -- [20]
-					22004, -- [21]
-					11002, -- [22]
-					22004, -- [23]
-					16537, -- [24]
-					22004, -- [25]
-					22004, -- [26]
-					21802, -- [27]
-					21802, -- [28]
-					21802, -- [29]
-					21802, -- [30]
-					21802, -- [31]
-					2159, -- [32]
-					2159, -- [33]
-					2159, -- [34]
-					65474, -- [35]
-					21802, -- [36]
-					65474, -- [37]
-					21802, -- [38]
-					21802, -- [39]
-					21802, -- [40]
-					21802, -- [41]
-					21802, -- [42]
-					21802, -- [43]
-					21802, -- [44]
-					21802, -- [45]
-					202, -- [46]
-					21802, -- [47]
-					21802, -- [48]
-					21802, -- [49]
-					21802, -- [50]
-					21802, -- [51]
-					21667, -- [52]
-					21667, -- [53]
-					2159, -- [54]
-					21667, -- [55]
-					2159, -- [56]
-					10799, -- [57]
-					21667, -- [58]
-					16267, -- [59]
-					21667, -- [60]
-					21667, -- [61]
-					21667, -- [62]
-					21667, -- [63]
-					431, -- [64]
-					431, -- [65]
-					2159, -- [66]
-					2159, -- [67]
-					21667, -- [68]
-					21667, -- [69]
-					21667, -- [70]
-					21667, -- [71]
-					21667, -- [72]
-					2159, -- [73]
-					21667, -- [74]
-					21667, -- [75]
-					21667, -- [76]
-					27067, -- [77]
-					2159, -- [78]
-					2159, -- [79]
-					2159, -- [80]
-					2159, -- [81]
-					10799, -- [82]
-					21667, -- [83]
-					21464, -- [84]
-					171719, -- [85]
-					42929, -- [86]
-					26864, -- [87]
-					21464, -- [88]
-					23054, -- [89]
-					23054, -- [90]
-					23054, -- [91]
-					23054, -- [92]
-					23054, -- [93]
-					23054, -- [94]
-					23054, -- [95]
-					11527, -- [96]
-					23054, -- [97]
-					22837, -- [98]
-					22837, -- [99]
-					22837, -- [100]
 				},
 			},
 		},
@@ -2283,30 +1328,1477 @@ XToLevelDB = {
 				},
 			},
 		},
-	},
-	["profileKeys"] = {
-		["Intergalacto - Onyxia"] = "Intergalacto - Onyxia",
-		["Intergalacto - Tarren Mill"] = "Intergalacto - Tarren Mill",
-		["Intergalacto - Azshara"] = "Intergalacto - Azshara",
-		["Enthusiastus - Tarren Mill"] = "Enthusiastus - Tarren Mill",
-		["Rynllor - Tarren Mill"] = "Rynllor - Tarren Mill",
-	},
-	["profiles"] = {
-		["Intergalacto - Onyxia"] = {
+		["Enthusiastus - Tarren Mill"] = {
+			["data"] = {
+				["total"] = {
+					["dungeonKills"] = 2271,
+					["quests"] = 425,
+					["mobKills"] = 5108,
+				},
+				["killAverage"] = 437,
+				["dungeonList"] = {
+					{
+						["inProgress"] = false,
+						["totalXP"] = 46985,
+						["killCount"] = 57,
+						["killTotal"] = 46985,
+						["level"] = 106,
+						["rested"] = 0,
+						["name"] = "Eye of Azshara",
+					}, -- [1]
+					{
+						["name"] = "Darkheart Thicket",
+						["totalXP"] = 59971,
+						["rested"] = 363,
+						["killTotal"] = 59971,
+						["level"] = 104,
+						["inProgress"] = false,
+						["killCount"] = 100,
+					}, -- [2]
+					{
+						["killCount"] = 105,
+						["name"] = "Darkheart Thicket",
+						["inProgress"] = false,
+						["killTotal"] = 66003,
+						["level"] = 101,
+						["rested"] = 0,
+						["totalXP"] = 66003,
+					}, -- [3]
+					{
+						["killCount"] = 62,
+						["name"] = "Bloodmaul Slag Mines",
+						["inProgress"] = false,
+						["killTotal"] = 51010,
+						["level"] = 92,
+						["rested"] = 0,
+						["totalXP"] = 51010,
+					}, -- [4]
+					{
+						["inProgress"] = false,
+						["totalXP"] = 129705,
+						["killCount"] = 290,
+						["killTotal"] = 129705,
+						["level"] = 89,
+						["rested"] = 0,
+						["name"] = "Siege of Niuzao Temple",
+					}, -- [5]
+					{
+						["inProgress"] = false,
+						["totalXP"] = 578049,
+						["killCount"] = 1092,
+						["killTotal"] = 578049,
+						["level"] = 85,
+						["rested"] = 0,
+						["name"] = "Stormstout Brewery",
+					}, -- [6]
+					{
+						["inProgress"] = false,
+						["totalXP"] = 49052,
+						["killCount"] = 63,
+						["killTotal"] = 49052,
+						["level"] = 85,
+						["rested"] = 0,
+						["name"] = "Lost City of the Tol'vir",
+					}, -- [7]
+					{
+						["inProgress"] = false,
+						["totalXP"] = 55834,
+						["killCount"] = 121,
+						["killTotal"] = 55834,
+						["level"] = 85,
+						["rested"] = 21,
+						["name"] = "The Stonecore",
+					}, -- [8]
+					{
+						["inProgress"] = false,
+						["totalXP"] = 71364,
+						["killCount"] = 115,
+						["killTotal"] = 71364,
+						["level"] = 84,
+						["rested"] = 0,
+						["name"] = "Grim Batol",
+					}, -- [9]
+					{
+						["inProgress"] = false,
+						["totalXP"] = 87475,
+						["killCount"] = 266,
+						["killTotal"] = 87475,
+						["level"] = 83,
+						["rested"] = 5846,
+						["name"] = "Gate of the Setting Sun",
+					}, -- [10]
+				},
+				["questAverage"] = 16070.9,
+				["questList"] = {
+					22004, -- [1]
+					22004, -- [2]
+					22004, -- [3]
+					2227, -- [4]
+					22004, -- [5]
+					22004, -- [6]
+					22004, -- [7]
+					2227, -- [8]
+					2227, -- [9]
+					22004, -- [10]
+					22004, -- [11]
+					22004, -- [12]
+					22004, -- [13]
+					22004, -- [14]
+					22004, -- [15]
+					22004, -- [16]
+					22004, -- [17]
+					22004, -- [18]
+					22004, -- [19]
+					16537, -- [20]
+					22004, -- [21]
+					11002, -- [22]
+					22004, -- [23]
+					16537, -- [24]
+					22004, -- [25]
+					22004, -- [26]
+					21802, -- [27]
+					21802, -- [28]
+					21802, -- [29]
+					21802, -- [30]
+					21802, -- [31]
+					2159, -- [32]
+					2159, -- [33]
+					2159, -- [34]
+					65474, -- [35]
+					21802, -- [36]
+					65474, -- [37]
+					21802, -- [38]
+					21802, -- [39]
+					21802, -- [40]
+					21802, -- [41]
+					21802, -- [42]
+					21802, -- [43]
+					21802, -- [44]
+					21802, -- [45]
+					202, -- [46]
+					21802, -- [47]
+					21802, -- [48]
+					21802, -- [49]
+					21802, -- [50]
+					21802, -- [51]
+					21667, -- [52]
+					21667, -- [53]
+					2159, -- [54]
+					21667, -- [55]
+					2159, -- [56]
+					10799, -- [57]
+					21667, -- [58]
+					16267, -- [59]
+					21667, -- [60]
+					21667, -- [61]
+					21667, -- [62]
+					21667, -- [63]
+					431, -- [64]
+					431, -- [65]
+					2159, -- [66]
+					2159, -- [67]
+					21667, -- [68]
+					21667, -- [69]
+					21667, -- [70]
+					21667, -- [71]
+					21667, -- [72]
+					2159, -- [73]
+					21667, -- [74]
+					21667, -- [75]
+					21667, -- [76]
+					27067, -- [77]
+					2159, -- [78]
+					2159, -- [79]
+					2159, -- [80]
+					2159, -- [81]
+					10799, -- [82]
+					21667, -- [83]
+					21464, -- [84]
+					171719, -- [85]
+					42929, -- [86]
+					26864, -- [87]
+					21464, -- [88]
+					23054, -- [89]
+					23054, -- [90]
+					23054, -- [91]
+					23054, -- [92]
+					23054, -- [93]
+					23054, -- [94]
+					23054, -- [95]
+					11527, -- [96]
+					23054, -- [97]
+					22837, -- [98]
+					22837, -- [99]
+					22837, -- [100]
+				},
+				["killList"] = {
+					{
+						["mob"] = "Valkyra Aspirant",
+						["xp"] = 437,
+					}, -- [1]
+					{
+						["mob"] = "Priestess of Eyir",
+						["xp"] = 437,
+					}, -- [2]
+					{
+						["mob"] = "Valkyra Aspirant",
+						["xp"] = 437,
+					}, -- [3]
+					{
+						["mob"] = "Tideskorn Shieldmaiden",
+						["xp"] = 437,
+					}, -- [4]
+					{
+						["mob"] = "Valkyra Aspirant",
+						["xp"] = 437,
+					}, -- [5]
+					{
+						["mob"] = "Priestess of Eyir",
+						["xp"] = 437,
+					}, -- [6]
+					{
+						["mob"] = "Priestess of Eyir",
+						["xp"] = 437,
+					}, -- [7]
+					{
+						["mob"] = "Tideskorn Shieldmaiden",
+						["xp"] = 437,
+					}, -- [8]
+					{
+						["mob"] = "Tideskorn Shieldmaiden",
+						["xp"] = 437,
+					}, -- [9]
+					{
+						["mob"] = "Tideskorn Shieldmaiden",
+						["xp"] = 437,
+					}, -- [10]
+					{
+						["mob"] = "Tideskorn Shieldmaiden",
+						["xp"] = 437,
+					}, -- [11]
+					{
+						["mob"] = "Tideskorn Shieldmaiden",
+						["xp"] = 437,
+					}, -- [12]
+					{
+						["mob"] = "Tideskorn Shieldmaiden",
+						["xp"] = 437,
+					}, -- [13]
+					{
+						["mob"] = "Tideskorn Shieldmaiden",
+						["xp"] = 437,
+					}, -- [14]
+					{
+						["mob"] = "Tideskorn Warbear",
+						["xp"] = 437,
+					}, -- [15]
+					{
+						["mob"] = "Priestess of Eyir",
+						["xp"] = 437,
+					}, -- [16]
+					{
+						["mob"] = "Tideskorn Shieldmaiden",
+						["xp"] = 437,
+					}, -- [17]
+					{
+						["mob"] = "Tideskorn Shieldmaiden",
+						["xp"] = 437,
+					}, -- [18]
+					{
+						["mob"] = "Tideskorn Shieldmaiden",
+						["xp"] = 437,
+					}, -- [19]
+					{
+						["mob"] = "Tideskorn Shieldmaiden",
+						["xp"] = 437,
+					}, -- [20]
+					{
+						["mob"] = "Priestess of Eyir",
+						["xp"] = 437,
+					}, -- [21]
+					{
+						["mob"] = "Tideskorn Warbear",
+						["xp"] = 437,
+					}, -- [22]
+					{
+						["mob"] = "Tideskorn Shieldmaiden",
+						["xp"] = 437,
+					}, -- [23]
+					{
+						["mob"] = "Tideskorn Shieldmaiden",
+						["xp"] = 437,
+					}, -- [24]
+					{
+						["mob"] = "Tideskorn Shieldmaiden",
+						["xp"] = 437,
+					}, -- [25]
+					{
+						["mob"] = "Priestess of Eyir",
+						["xp"] = 437,
+					}, -- [26]
+					{
+						["mob"] = "Tideskorn Shieldmaiden",
+						["xp"] = 437,
+					}, -- [27]
+					{
+						["mob"] = "Priestess of Eyir",
+						["xp"] = 437,
+					}, -- [28]
+					{
+						["mob"] = "Tideskorn Warbear",
+						["xp"] = 437,
+					}, -- [29]
+					{
+						["mob"] = "Priestess of Eyir",
+						["xp"] = 437,
+					}, -- [30]
+					{
+						["mob"] = "Tideskorn Shieldmaiden",
+						["xp"] = 437,
+					}, -- [31]
+					{
+						["mob"] = "Tideskorn Warbear",
+						["xp"] = 437,
+					}, -- [32]
+					{
+						["mob"] = "Tideskorn Shieldmaiden",
+						["xp"] = 437,
+					}, -- [33]
+					{
+						["mob"] = "Tideskorn Shieldmaiden",
+						["xp"] = 437,
+					}, -- [34]
+					{
+						["mob"] = "Tideskorn Shieldmaiden",
+						["xp"] = 437,
+					}, -- [35]
+					{
+						["mob"] = "Tideskorn Shieldmaiden",
+						["xp"] = 437,
+					}, -- [36]
+					{
+						["mob"] = "Tideskorn Shieldmaiden",
+						["xp"] = 437,
+					}, -- [37]
+					{
+						["mob"] = "Tideskorn Shieldmaiden",
+						["xp"] = 437,
+					}, -- [38]
+					{
+						["mob"] = "Priestess of Eyir",
+						["xp"] = 437,
+					}, -- [39]
+					{
+						["mob"] = "Tideskorn Warbear",
+						["xp"] = 437,
+					}, -- [40]
+					{
+						["mob"] = "Tideskorn Warbear",
+						["xp"] = 437,
+					}, -- [41]
+					{
+						["mob"] = "Tideskorn Shieldmaiden",
+						["xp"] = 437,
+					}, -- [42]
+					{
+						["mob"] = "Tideskorn Shieldmaiden",
+						["xp"] = 437,
+					}, -- [43]
+					{
+						["mob"] = "Tideskorn Shieldmaiden",
+						["xp"] = 437,
+					}, -- [44]
+					{
+						["mob"] = "Tideskorn Shieldmaiden",
+						["xp"] = 437,
+					}, -- [45]
+					{
+						["mob"] = "Tideskorn Shieldmaiden",
+						["xp"] = 437,
+					}, -- [46]
+					{
+						["mob"] = "Tideskorn Shieldmaiden",
+						["xp"] = 437,
+					}, -- [47]
+					{
+						["mob"] = "Stout Highlands Runehorn",
+						["xp"] = 437,
+					}, -- [48]
+					{
+						["mob"] = "Stout Highlands Runehorn",
+						["xp"] = 437,
+					}, -- [49]
+					{
+						["mob"] = "Stout Highlands Runehorn",
+						["xp"] = 437,
+					}, -- [50]
+					{
+						["mob"] = "Stout Highlands Runehorn",
+						["xp"] = 437,
+					}, -- [51]
+					{
+						["mob"] = "Stout Highlands Runehorn",
+						["xp"] = 437,
+					}, -- [52]
+					{
+						["mob"] = "Cliffdiver Eagle",
+						["xp"] = 437,
+					}, -- [53]
+					{
+						["mob"] = "Tideskorn Beastbreaker",
+						["xp"] = 437,
+					}, -- [54]
+					{
+						["mob"] = "Stout Highlands Runehorn",
+						["xp"] = 437,
+					}, -- [55]
+					{
+						["mob"] = "Stout Highlands Runehorn",
+						["xp"] = 437,
+					}, -- [56]
+					{
+						["mob"] = "Stout Highlands Runehorn",
+						["xp"] = 437,
+					}, -- [57]
+					{
+						["mob"] = "Stout Highlands Runehorn",
+						["xp"] = 437,
+					}, -- [58]
+					{
+						["mob"] = "Stout Highlands Runehorn",
+						["xp"] = 437,
+					}, -- [59]
+					{
+						["mob"] = "Stout Highlands Runehorn",
+						["xp"] = 437,
+					}, -- [60]
+					{
+						["mob"] = "Stout Highlands Runehorn",
+						["xp"] = 437,
+					}, -- [61]
+					{
+						["mob"] = "Stout Highlands Runehorn",
+						["xp"] = 437,
+					}, -- [62]
+					{
+						["mob"] = "Stout Highlands Runehorn",
+						["xp"] = 437,
+					}, -- [63]
+					{
+						["mob"] = "Stout Highlands Runehorn",
+						["xp"] = 437,
+					}, -- [64]
+					{
+						["mob"] = "Stout Highlands Runehorn",
+						["xp"] = 437,
+					}, -- [65]
+					{
+						["mob"] = "Stout Highlands Runehorn",
+						["xp"] = 437,
+					}, -- [66]
+					{
+						["mob"] = "Greywatch Infiltrator",
+						["xp"] = 437,
+					}, -- [67]
+					{
+						["mob"] = "Stout Highlands Runehorn",
+						["xp"] = 437,
+					}, -- [68]
+					{
+						["mob"] = "Greywatch Infiltrator",
+						["xp"] = 437,
+					}, -- [69]
+					{
+						["mob"] = "Greywatch Saboteur",
+						["xp"] = 437,
+					}, -- [70]
+					{
+						["mob"] = "Greywatch Infiltrator",
+						["xp"] = 437,
+					}, -- [71]
+					{
+						["mob"] = "Greywatch Infiltrator",
+						["xp"] = 437,
+					}, -- [72]
+					{
+						["mob"] = "Greywatch Saboteur",
+						["xp"] = 437,
+					}, -- [73]
+					{
+						["mob"] = "Greywatch Infiltrator",
+						["xp"] = 437,
+					}, -- [74]
+					{
+						["mob"] = "Greywatch Infiltrator",
+						["xp"] = 437,
+					}, -- [75]
+					{
+						["mob"] = "Greywatch Saboteur",
+						["xp"] = 437,
+					}, -- [76]
+					{
+						["mob"] = "Greywatch Infiltrator",
+						["xp"] = 412,
+					}, -- [77]
+					{
+						["mob"] = "Greywatch Infiltrator",
+						["xp"] = 437,
+					}, -- [78]
+					{
+						["mob"] = "Greywatch Infiltrator",
+						["xp"] = 437,
+					}, -- [79]
+					{
+						["mob"] = "Greywatch Infiltrator",
+						["xp"] = 437,
+					}, -- [80]
+					{
+						["mob"] = "Greywatch Infiltrator",
+						["xp"] = 352,
+					}, -- [81]
+					{
+						["mob"] = "Greywatch Infiltrator",
+						["xp"] = 350,
+					}, -- [82]
+					{
+						["mob"] = "Greywatch Infiltrator",
+						["xp"] = 300,
+					}, -- [83]
+					{
+						["mob"] = "Geir",
+						["xp"] = 876,
+					}, -- [84]
+					{
+						["mob"] = "Unworthy Combatant",
+						["xp"] = 219,
+					}, -- [85]
+					{
+						["mob"] = "Unworthy Combatant",
+						["xp"] = 219,
+					}, -- [86]
+					{
+						["mob"] = "Rotting Jailer",
+						["xp"] = 1752,
+					}, -- [87]
+					{
+						["mob"] = "Deepbrine Horror",
+						["xp"] = 219,
+					}, -- [88]
+					{
+						["mob"] = "Deepbrine Horror",
+						["xp"] = 219,
+					}, -- [89]
+					{
+						["mob"] = "Deepbrine Horror",
+						["xp"] = 219,
+					}, -- [90]
+					{
+						["mob"] = "Helarjar Aspirant",
+						["xp"] = 437,
+					}, -- [91]
+					{
+						["mob"] = "Helarjar Aspirant",
+						["xp"] = 437,
+					}, -- [92]
+					{
+						["mob"] = "Rotting Jailer",
+						["xp"] = 1752,
+					}, -- [93]
+					{
+						["mob"] = "Bloodbeard",
+						["xp"] = 876,
+					}, -- [94]
+					{
+						["mob"] = "Kvaldir Cursewalker",
+						["xp"] = 437,
+					}, -- [95]
+					{
+						["mob"] = "Kvaldir Cursewalker",
+						["xp"] = 437,
+					}, -- [96]
+					{
+						["mob"] = "Kvaldir Cursewalker",
+						["xp"] = 437,
+					}, -- [97]
+					{
+						["mob"] = "Kvaldir Mistcaller",
+						["xp"] = 437,
+					}, -- [98]
+					{
+						["mob"] = "Kvaldir Cursewalker",
+						["xp"] = 437,
+					}, -- [99]
+					{
+						["mob"] = "Kvaldir Cursewalker",
+						["xp"] = 437,
+					}, -- [100]
+				},
+				["timer"] = {
+					["start"] = 514135.693,
+					["total"] = 0,
+					["lastUpdated"] = 515184.562,
+					["xpPerSec"] = 234.372296510167,
+				},
+			},
 		},
-		["Intergalacto - Tarren Mill"] = {
+		["Mihri - Tarren Mill"] = {
+			["data"] = {
+				["timer"] = {
+					["start"] = 265603.759,
+					["total"] = 0,
+					["lastUpdated"] = 266103.816,
+					["xpPerSec"] = 0,
+				},
+			},
 		},
 		["Intergalacto - Azshara"] = {
+			["data"] = {
+				["total"] = {
+					["dungeonKills"] = 65,
+					["quests"] = 57,
+					["mobKills"] = 328,
+				},
+				["killList"] = {
+					{
+						["mob"] = "Wrathlord Bulwark",
+						["xp"] = 72,
+					}, -- [1]
+					{
+						["mob"] = "Blazing Infernal",
+						["xp"] = 72,
+					}, -- [2]
+					{
+						["mob"] = "Infiltrator Assassin",
+						["xp"] = 72,
+					}, -- [3]
+					{
+						["mob"] = "Portal Keeper",
+						["xp"] = 287,
+					}, -- [4]
+					{
+						["mob"] = "Portal Guardian",
+						["xp"] = 287,
+					}, -- [5]
+					{
+						["mob"] = "Wrathlord Bulwark",
+						["xp"] = 72,
+					}, -- [6]
+					{
+						["mob"] = "Infiltrator Assassin",
+						["xp"] = 72,
+					}, -- [7]
+					{
+						["mob"] = "Eredar Shadow Mender",
+						["xp"] = 72,
+					}, -- [8]
+					{
+						["mob"] = "Portal Guardian",
+						["xp"] = 287,
+					}, -- [9]
+					{
+						["mob"] = "Wrath of Azshara",
+						["xp"] = 9582,
+					}, -- [10]
+					{
+						["mob"] = "Mystic Ssa'veh",
+						["xp"] = 1198,
+					}, -- [11]
+					{
+						["mob"] = "Binder Ashioi",
+						["xp"] = 1198,
+					}, -- [12]
+					{
+						["mob"] = "Channeler Varisz",
+						["xp"] = 1198,
+					}, -- [13]
+					{
+						["mob"] = "Ritualist Lesha",
+						["xp"] = 1198,
+					}, -- [14]
+					{
+						["mob"] = "King Deepbeard",
+						["xp"] = 3593,
+					}, -- [15]
+					{
+						["mob"] = "Skrog Tidestomper",
+						["xp"] = 1198,
+					}, -- [16]
+					{
+						["mob"] = "Skrog Wavecrasher",
+						["xp"] = 1198,
+					}, -- [17]
+					{
+						["mob"] = "Saltscale Skulker",
+						["xp"] = 719,
+					}, -- [18]
+					{
+						["mob"] = "Saltscale Lurker",
+						["xp"] = 120,
+					}, -- [19]
+					{
+						["mob"] = "Saltscale Lurker",
+						["xp"] = 120,
+					}, -- [20]
+					{
+						["mob"] = "Saltscale Lurker",
+						["xp"] = 120,
+					}, -- [21]
+					{
+						["mob"] = "Saltscale Lurker",
+						["xp"] = 120,
+					}, -- [22]
+					{
+						["mob"] = "Saltscale Lurker",
+						["xp"] = 120,
+					}, -- [23]
+					{
+						["mob"] = "Saltscale Lurker",
+						["xp"] = 120,
+					}, -- [24]
+					{
+						["mob"] = "Saltscale Lurker",
+						["xp"] = 120,
+					}, -- [25]
+					{
+						["mob"] = "Bitterbrine Slave",
+						["xp"] = 120,
+					}, -- [26]
+					{
+						["mob"] = "Bitterbrine Slave",
+						["xp"] = 120,
+					}, -- [27]
+					{
+						["mob"] = "Bitterbrine Slave",
+						["xp"] = 120,
+					}, -- [28]
+					{
+						["mob"] = "Bitterbrine Slave",
+						["xp"] = 120,
+					}, -- [29]
+					{
+						["mob"] = "Bitterbrine Slave",
+						["xp"] = 120,
+					}, -- [30]
+					{
+						["mob"] = "Bitterbrine Slave",
+						["xp"] = 120,
+					}, -- [31]
+					{
+						["mob"] = "Stormwake Hydra",
+						["xp"] = 1198,
+					}, -- [32]
+					{
+						["mob"] = "Seaspray Crab",
+						["xp"] = 120,
+					}, -- [33]
+					{
+						["mob"] = "Seaspray Crab",
+						["xp"] = 120,
+					}, -- [34]
+					{
+						["mob"] = "Seaspray Crab",
+						["xp"] = 120,
+					}, -- [35]
+					{
+						["mob"] = "Seaspray Crab",
+						["xp"] = 120,
+					}, -- [36]
+					{
+						["mob"] = "Seaspray Crab",
+						["xp"] = 120,
+					}, -- [37]
+					{
+						["mob"] = "Mak'rana Siltwalker",
+						["xp"] = 719,
+					}, -- [38]
+					{
+						["mob"] = "Cove Seagull",
+						["xp"] = 719,
+					}, -- [39]
+					{
+						["mob"] = "Serpentrix",
+						["xp"] = 3593,
+					}, -- [40]
+					{
+						["mob"] = "Seaspray Crab",
+						["xp"] = 120,
+					}, -- [41]
+					{
+						["mob"] = "Seaspray Crab",
+						["xp"] = 120,
+					}, -- [42]
+					{
+						["mob"] = "Seaspray Crab",
+						["xp"] = 120,
+					}, -- [43]
+					{
+						["mob"] = "Seaspray Crab",
+						["xp"] = 120,
+					}, -- [44]
+					{
+						["mob"] = "Seaspray Crab",
+						["xp"] = 120,
+					}, -- [45]
+					{
+						["mob"] = "Lady Hatecoil",
+						["xp"] = 3593,
+					}, -- [46]
+					{
+						["mob"] = "Hatecoil Arcanist",
+						["xp"] = 1198,
+					}, -- [47]
+					{
+						["mob"] = "Saltsea Droplet",
+						["xp"] = 120,
+					}, -- [48]
+					{
+						["mob"] = "Saltsea Droplet",
+						["xp"] = 120,
+					}, -- [49]
+					{
+						["mob"] = "Saltsea Droplet",
+						["xp"] = 120,
+					}, -- [50]
+					{
+						["mob"] = "Saltsea Droplet",
+						["xp"] = 120,
+					}, -- [51]
+					{
+						["mob"] = "Saltsea Droplet",
+						["xp"] = 120,
+					}, -- [52]
+					{
+						["mob"] = "Saltsea Droplet",
+						["xp"] = 120,
+					}, -- [53]
+					{
+						["mob"] = "Hatecoil Arcanist",
+						["xp"] = 1198,
+					}, -- [54]
+					{
+						["mob"] = "Warlord Parjesh",
+						["xp"] = 3593,
+					}, -- [55]
+					{
+						["mob"] = "Hatecoil Oracle",
+						["xp"] = 719,
+					}, -- [56]
+					{
+						["mob"] = "Hatecoil Warrior",
+						["xp"] = 719,
+					}, -- [57]
+					{
+						["mob"] = "Hatecoil Warrior",
+						["xp"] = 719,
+					}, -- [58]
+					{
+						["mob"] = "Hatecoil Stormweaver",
+						["xp"] = 719,
+					}, -- [59]
+					{
+						["mob"] = "Hatecoil Stormweaver",
+						["xp"] = 719,
+					}, -- [60]
+					{
+						["mob"] = "Hatecoil Crusher",
+						["xp"] = 1198,
+					}, -- [61]
+					{
+						["mob"] = "Hatecoil Oracle",
+						["xp"] = 719,
+					}, -- [62]
+					{
+						["mob"] = "Hatecoil Warrior",
+						["xp"] = 719,
+					}, -- [63]
+					{
+						["mob"] = "Hatecoil Stormweaver",
+						["xp"] = 719,
+					}, -- [64]
+					{
+						["mob"] = "Hatecoil Warrior",
+						["xp"] = 719,
+					}, -- [65]
+					{
+						["mob"] = "Nightfallen Overseer",
+						["xp"] = 502,
+					}, -- [66]
+					{
+						["mob"] = "Nightfallen Overseer",
+						["xp"] = 502,
+					}, -- [67]
+					{
+						["mob"] = "Withered Fanatic",
+						["xp"] = 502,
+					}, -- [68]
+					{
+						["mob"] = "Nightfallen Overseer",
+						["xp"] = 502,
+					}, -- [69]
+					{
+						["mob"] = "Ishkaneth",
+						["xp"] = 1006,
+					}, -- [70]
+					{
+						["mob"] = "Withered Fanatic",
+						["xp"] = 502,
+					}, -- [71]
+					{
+						["mob"] = "Nightfallen Overseer",
+						["xp"] = 502,
+					}, -- [72]
+					{
+						["mob"] = "Nightfallen Construct",
+						["xp"] = 502,
+					}, -- [73]
+					{
+						["mob"] = "Withered Fanatic",
+						["xp"] = 502,
+					}, -- [74]
+					{
+						["mob"] = "Nightfallen Construct",
+						["xp"] = 502,
+					}, -- [75]
+					{
+						["mob"] = "Withered Fanatic",
+						["xp"] = 502,
+					}, -- [76]
+					{
+						["mob"] = "Withered Fanatic",
+						["xp"] = 502,
+					}, -- [77]
+					{
+						["mob"] = "Nightfallen Overseer",
+						["xp"] = 502,
+					}, -- [78]
+					{
+						["mob"] = "Nightfallen Construct",
+						["xp"] = 502,
+					}, -- [79]
+					{
+						["mob"] = "Nightfallen Overseer",
+						["xp"] = 502,
+					}, -- [80]
+					{
+						["mob"] = "Tyndrissen",
+						["xp"] = 1006,
+					}, -- [81]
+					{
+						["mob"] = "Withered Mana-Rager",
+						["xp"] = 502,
+					}, -- [82]
+					{
+						["mob"] = "Withered Mana-Rager",
+						["xp"] = 502,
+					}, -- [83]
+					{
+						["mob"] = "Withered Exile",
+						["xp"] = 502,
+					}, -- [84]
+					{
+						["mob"] = "Wild Manarunner",
+						["xp"] = 50,
+					}, -- [85]
+					{
+						["mob"] = "Wild Manarunner",
+						["xp"] = 50,
+					}, -- [86]
+					{
+						["mob"] = "Withered Exile",
+						["xp"] = 502,
+					}, -- [87]
+					{
+						["mob"] = "Withered Exile",
+						["xp"] = 502,
+					}, -- [88]
+					{
+						["mob"] = "Withered Mana-Rager",
+						["xp"] = 502,
+					}, -- [89]
+					{
+						["mob"] = "Withered Exile",
+						["xp"] = 502,
+					}, -- [90]
+					{
+						["mob"] = "Withered Mana-Rager",
+						["xp"] = 502,
+					}, -- [91]
+					{
+						["mob"] = "Withered Exile",
+						["xp"] = 502,
+					}, -- [92]
+					{
+						["mob"] = "Withered Exile",
+						["xp"] = 502,
+					}, -- [93]
+					{
+						["mob"] = "Withered Mana-Rager",
+						["xp"] = 502,
+					}, -- [94]
+					{
+						["mob"] = "Withered Exile",
+						["xp"] = 502,
+					}, -- [95]
+					{
+						["mob"] = "Withered Exile",
+						["xp"] = 502,
+					}, -- [96]
+					{
+						["mob"] = "Withered Exile",
+						["xp"] = 502,
+					}, -- [97]
+					{
+						["mob"] = "Withered Exile",
+						["xp"] = 502,
+					}, -- [98]
+					{
+						["mob"] = "Withered Mana-Rager",
+						["xp"] = 502,
+					}, -- [99]
+					{
+						["mob"] = "Withered Exile",
+						["xp"] = 502,
+					}, -- [100]
+				},
+				["timer"] = {
+					["start"] = 555519.457,
+					["total"] = 2042462,
+					["lastUpdated"] = 567509.206,
+					["xpPerSec"] = 170.350688742526,
+				},
+				["dungeonList"] = {
+					{
+						["totalXP"] = 1293,
+						["name"] = "Violet Hold",
+						["rested"] = 1293,
+						["killTotal"] = 1293,
+						["level"] = 109,
+						["killCount"] = 9,
+						["inProgress"] = true,
+					}, -- [1]
+					{
+						["inProgress"] = false,
+						["totalXP"] = 48042,
+						["killCount"] = 56,
+						["killTotal"] = 48042,
+						["level"] = 109,
+						["rested"] = 48042,
+						["name"] = "Eye of Azshara",
+					}, -- [2]
+				},
+				["questList"] = {
+					25265, -- [1]
+					189224, -- [2]
+					31620, -- [3]
+					50530, -- [4]
+					31620, -- [5]
+					25265, -- [6]
+					25265, -- [7]
+					25032, -- [8]
+					25032, -- [9]
+					25032, -- [10]
+					25032, -- [11]
+					25032, -- [12]
+					25032, -- [13]
+					12555, -- [14]
+					25032, -- [15]
+					25032, -- [16]
+					25032, -- [17]
+					25032, -- [18]
+					25032, -- [19]
+					75175, -- [20]
+					25032, -- [21]
+					7446, -- [22]
+					2480, -- [23]
+					930, -- [24]
+					25032, -- [25]
+					25032, -- [26]
+					37587, -- [27]
+					25032, -- [28]
+					46655, -- [29]
+					2480, -- [30]
+					2480, -- [31]
+					31077, -- [32]
+					24877, -- [33]
+					2480, -- [34]
+					24877, -- [35]
+					24877, -- [36]
+					24877, -- [37]
+					31077, -- [38]
+					24877, -- [39]
+					2480, -- [40]
+					24877, -- [41]
+					592, -- [42]
+					2480, -- [43]
+					24877, -- [44]
+					2480, -- [45]
+					37277, -- [46]
+					100, -- [47]
+					100, -- [48]
+					2480, -- [49]
+					92, -- [50]
+					92, -- [51]
+					92, -- [52]
+					92, -- [53]
+					92, -- [54]
+					92, -- [55]
+					92, -- [56]
+					92, -- [57]
+				},
+			},
+		},
+		["Intergalacto - Tarren Mill"] = {
+			["data"] = {
+				["total"] = {
+					["dungeonKills"] = 3131,
+					["quests"] = 103,
+					["mobKills"] = 3179,
+				},
+				["killAverage"] = 260,
+				["timer"] = {
+					["start"] = 496479.154,
+					["total"] = 90894,
+					["lastUpdated"] = 498261.304,
+					["xpPerSec"] = 51.00244087197981,
+				},
+				["dungeonList"] = {
+					{
+						["name"] = "Ahn'kahet: The Old Kingdom",
+						["totalXP"] = 28128,
+						["rested"] = 706,
+						["killTotal"] = 28128,
+						["level"] = 49,
+						["inProgress"] = false,
+						["killCount"] = 90,
+					}, -- [1]
+					{
+						["totalXP"] = 27385,
+						["name"] = "The Culling of Stratholme",
+						["rested"] = 0,
+						["killTotal"] = 27385,
+						["level"] = 49,
+						["killCount"] = 69,
+						["inProgress"] = false,
+					}, -- [2]
+					{
+						["totalXP"] = 29669,
+						["name"] = "Drak'Tharon Keep",
+						["rested"] = 0,
+						["killTotal"] = 29669,
+						["level"] = 48,
+						["killCount"] = 90,
+						["inProgress"] = false,
+					}, -- [3]
+					{
+						["totalXP"] = 25294,
+						["name"] = "Utgarde Pinnacle",
+						["rested"] = 0,
+						["killTotal"] = 25294,
+						["level"] = 47,
+						["killCount"] = 75,
+						["inProgress"] = false,
+					}, -- [4]
+					{
+						["totalXP"] = 13076,
+						["name"] = "Azjol-Nerub",
+						["rested"] = 12,
+						["killTotal"] = 13076,
+						["level"] = 47,
+						["killCount"] = 38,
+						["inProgress"] = false,
+					}, -- [5]
+					{
+						["totalXP"] = 26261,
+						["name"] = "The Oculus",
+						["rested"] = 13459,
+						["killTotal"] = 26261,
+						["level"] = 46,
+						["killCount"] = 95,
+						["inProgress"] = false,
+					}, -- [6]
+					{
+						["killCount"] = 100,
+						["name"] = "Utgarde Keep",
+						["inProgress"] = false,
+						["killTotal"] = 29231,
+						["level"] = 45,
+						["rested"] = 0,
+						["totalXP"] = 29231,
+					}, -- [7]
+					{
+						["killCount"] = 69,
+						["name"] = "The Culling of Stratholme",
+						["inProgress"] = false,
+						["killTotal"] = 25416,
+						["level"] = 44,
+						["rested"] = 23,
+						["totalXP"] = 25416,
+					}, -- [8]
+					{
+						["killCount"] = 87,
+						["name"] = "Halls of Lightning",
+						["inProgress"] = false,
+						["killTotal"] = 31779,
+						["level"] = 43,
+						["rested"] = 4,
+						["totalXP"] = 31779,
+					}, -- [9]
+					{
+						["killCount"] = 135,
+						["name"] = "Halls of Stone",
+						["inProgress"] = false,
+						["killTotal"] = 27890,
+						["level"] = 42,
+						["rested"] = 4,
+						["totalXP"] = 27890,
+					}, -- [10]
+					{
+						["killCount"] = 74,
+						["name"] = "The Nexus",
+						["inProgress"] = false,
+						["killTotal"] = 31407,
+						["level"] = 41,
+						["rested"] = 6,
+						["totalXP"] = 31407,
+					}, -- [11]
+					{
+						["killCount"] = 76,
+						["name"] = "Temple of the Jade Serpent",
+						["inProgress"] = false,
+						["killTotal"] = 14608,
+						["level"] = 40,
+						["rested"] = 8971,
+						["totalXP"] = 14608,
+					}, -- [12]
+					{
+						["totalXP"] = 11339,
+						["name"] = "Siege of Niuzao Temple",
+						["rested"] = 41,
+						["killTotal"] = 11339,
+						["level"] = 40,
+						["killCount"] = 117,
+						["inProgress"] = false,
+					}, -- [13]
+					{
+						["inProgress"] = false,
+						["totalXP"] = 13880,
+						["killCount"] = 153,
+						["killTotal"] = 13880,
+						["level"] = 39,
+						["rested"] = 7,
+						["name"] = "Stormstout Brewery",
+					}, -- [14]
+					{
+						["inProgress"] = false,
+						["totalXP"] = 13600,
+						["killCount"] = 75,
+						["killTotal"] = 13600,
+						["level"] = 38,
+						["rested"] = 112,
+						["name"] = "Shado-Pan Monastery",
+					}, -- [15]
+					{
+						["name"] = "Mogu'shan Palace",
+						["totalXP"] = 15130,
+						["rested"] = 3,
+						["killTotal"] = 15130,
+						["level"] = 37,
+						["inProgress"] = false,
+						["killCount"] = 41,
+					}, -- [16]
+					{
+						["name"] = "Gate of the Setting Sun",
+						["totalXP"] = 5091,
+						["rested"] = 0,
+						["killTotal"] = 5091,
+						["level"] = 36,
+						["inProgress"] = false,
+						["killCount"] = 42,
+					}, -- [17]
+					{
+						["name"] = "Stormstout Brewery",
+						["totalXP"] = 13009,
+						["rested"] = 15,
+						["killTotal"] = 13009,
+						["level"] = 36,
+						["inProgress"] = false,
+						["killCount"] = 76,
+					}, -- [18]
+					{
+						["name"] = "The Mechanar",
+						["totalXP"] = 19855,
+						["rested"] = 27,
+						["killTotal"] = 19855,
+						["level"] = 35,
+						["inProgress"] = false,
+						["killCount"] = 78,
+					}, -- [19]
+					{
+						["name"] = "The Shattered Halls",
+						["totalXP"] = 23470,
+						["rested"] = 3,
+						["killTotal"] = 23470,
+						["level"] = 34,
+						["inProgress"] = false,
+						["killCount"] = 130,
+					}, -- [20]
+					{
+						["name"] = "Mana-Tombs",
+						["totalXP"] = 21362,
+						["rested"] = 4,
+						["killTotal"] = 21362,
+						["level"] = 33,
+						["inProgress"] = false,
+						["killCount"] = 95,
+					}, -- [21]
+					{
+						["name"] = "The Underbog",
+						["totalXP"] = 2545,
+						["rested"] = 2,
+						["killTotal"] = 2545,
+						["level"] = 32,
+						["inProgress"] = false,
+						["killCount"] = 2,
+					}, -- [22]
+					{
+						["name"] = "The Blood Furnace",
+						["totalXP"] = 25386,
+						["rested"] = 6,
+						["killTotal"] = 25386,
+						["level"] = 30,
+						["inProgress"] = false,
+						["killCount"] = 119,
+					}, -- [23]
+					{
+						["name"] = "The Arcatraz",
+						["totalXP"] = 16105,
+						["rested"] = 4,
+						["killTotal"] = 16105,
+						["level"] = 29,
+						["inProgress"] = false,
+						["killCount"] = 126,
+					}, -- [24]
+					{
+						["name"] = "The Steamvault",
+						["totalXP"] = 20969,
+						["rested"] = 0,
+						["killTotal"] = 20969,
+						["level"] = 27,
+						["inProgress"] = false,
+						["killCount"] = 127,
+					}, -- [25]
+					{
+						["name"] = "The Mechanar",
+						["totalXP"] = 15729,
+						["rested"] = 1017,
+						["killTotal"] = 15729,
+						["level"] = 25,
+						["inProgress"] = false,
+						["killCount"] = 76,
+					}, -- [26]
+					{
+						["killCount"] = 130,
+						["name"] = "The Shattered Halls",
+						["inProgress"] = false,
+						["killTotal"] = 17484,
+						["level"] = 23,
+						["rested"] = 0,
+						["totalXP"] = 17484,
+					}, -- [27]
+					{
+						["killCount"] = 96,
+						["name"] = "Hellfire Ramparts",
+						["inProgress"] = false,
+						["killTotal"] = 14618,
+						["level"] = 21,
+						["rested"] = 4267,
+						["totalXP"] = 14618,
+					}, -- [28]
+					{
+						["killCount"] = 129,
+						["name"] = "Sethekk Halls",
+						["inProgress"] = false,
+						["killTotal"] = 15718,
+						["level"] = 18,
+						["rested"] = 15718,
+						["totalXP"] = 15718,
+					}, -- [29]
+					{
+						["killCount"] = 167,
+						["name"] = "Dire Maul",
+						["inProgress"] = false,
+						["killTotal"] = 52536,
+						["level"] = 39,
+						["rested"] = 12628,
+						["totalXP"] = 52536,
+					}, -- [30]
+					{
+						["killCount"] = 91,
+						["name"] = "Scarlet Halls",
+						["inProgress"] = false,
+						["killTotal"] = 29403,
+						["level"] = 37,
+						["rested"] = 29403,
+						["totalXP"] = 29403,
+					}, -- [31]
+					{
+						["totalXP"] = 19373,
+						["name"] = "The Deadmines",
+						["rested"] = 0,
+						["killTotal"] = 19373,
+						["level"] = 25,
+						["killCount"] = 96,
+						["inProgress"] = false,
+					}, -- [32]
+					{
+						["totalXP"] = 36931,
+						["name"] = "The Wailing Caverns",
+						["rested"] = 0,
+						["killTotal"] = 36931,
+						["level"] = 22,
+						["killCount"] = 167,
+						["inProgress"] = false,
+					}, -- [33]
+				},
+				["questAverage"] = 6800,
+			},
+		},
+	},
+	["profileKeys"] = {
+		["Thankubliz - Tarren Mill"] = "Thankubliz - Tarren Mill",
+		["Iridia - Tarren Mill"] = "Iridia - Tarren Mill",
+		["Ieni - Tarren Mill"] = "Ieni - Tarren Mill",
+		["Intergalacto - Onyxia"] = "Intergalacto - Onyxia",
+		["Rynllor - Tarren Mill"] = "Rynllor - Tarren Mill",
+		["Enthusiastus - Tarren Mill"] = "Enthusiastus - Tarren Mill",
+		["Mihri - Tarren Mill"] = "Mihri - Tarren Mill",
+		["Intergalacto - Azshara"] = "Intergalacto - Azshara",
+		["Intergalacto - Tarren Mill"] = "Intergalacto - Tarren Mill",
+	},
+	["profiles"] = {
+		["Thankubliz - Tarren Mill"] = {
+		},
+		["Iridia - Tarren Mill"] = {
+		},
+		["Ieni - Tarren Mill"] = {
+		},
+		["Intergalacto - Onyxia"] = {
+		},
+		["Rynllor - Tarren Mill"] = {
 		},
 		["Enthusiastus - Tarren Mill"] = {
-			["messages"] = {
-				["playerFloating"] = false,
-			},
 			["averageDisplay"] = {
 				["combineTooltip"] = true,
 			},
+			["messages"] = {
+				["playerFloating"] = false,
+			},
 		},
-		["Rynllor - Tarren Mill"] = {
+		["Mihri - Tarren Mill"] = {
+		},
+		["Intergalacto - Azshara"] = {
+		},
+		["Intergalacto - Tarren Mill"] = {
 		},
 	},
 }
