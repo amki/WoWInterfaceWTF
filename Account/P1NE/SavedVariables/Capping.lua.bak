@@ -4,9 +4,10 @@ CappingSettings = {
 		["Intergalacto - Onyxia"] = "Default",
 		["Intergalacto - Tarren Mill"] = "Default",
 		["Intergalacto - Azshara"] = "Default",
-		["Thankubliz - Tarren Mill"] = "Default",
-		["Enthusiastus - Azshara"] = "Default",
+		["Rynllor - Tarren Mill"] = "Default",
 		["Iridia - Tarren Mill"] = "Default",
+		["Enthusiastus - Azshara"] = "Default",
+		["Thankubliz - Tarren Mill"] = "Default",
 	},
 	["profiles"] = {
 		["Default"] = {

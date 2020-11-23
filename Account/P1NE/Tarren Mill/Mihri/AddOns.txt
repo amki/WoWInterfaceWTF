@@ -17,7 +17,7 @@ RaiderIO_DB_KR_A: disabled
 ACU: disabled
 AchievementsReminder: disabled
 Capping: disabled
-Overachiever: disabled
+Overachiever: enabled
 TradeSkillMaster_Accounting: disabled
 TradeSkillMaster_AuctionDB: disabled
 TradeSkillMaster_Auctioning: disabled
@@ -51,3 +51,4 @@ RaiderIO_DB_TW_A_R: disabled
 RaiderIO_DB_KR_H_R: disabled
 RaiderIO_DB_KR_A_R: disabled
 ElvUI_OptionsUI: enabled
+ConfirmSP: enabled

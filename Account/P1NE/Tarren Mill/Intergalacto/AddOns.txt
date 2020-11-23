@@ -39,3 +39,5 @@ RaiderIO_DB_KR_A_R: disabled
 RaiderIO_DB_KR_A: disabled
 ElvUI_QuestXP: disabled
 Tukui_MarkBar: disabled
+Overachiever: enabled
+ConfirmSP: enabled

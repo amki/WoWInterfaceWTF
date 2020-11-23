@@ -41,9 +41,9 @@ XToLevelDB = {
 				},
 				["killAverage"] = 260,
 				["timer"] = {
-					["start"] = 333735.416,
-					["total"] = 288262,
-					["lastUpdated"] = 339872.652,
+					["start"] = 94181.893,
+					["total"] = 0,
+					["lastUpdated"] = 94196.625,
 					["xpPerSec"] = 46.96935232733451,
 				},
 				["dungeonList"] = {
@@ -243,9 +243,9 @@ XToLevelDB = {
 		["Ieni - Tarren Mill"] = {
 			["data"] = {
 				["timer"] = {
-					["start"] = 502056.24,
+					["start"] = 93993.295,
 					["total"] = 0,
-					["lastUpdated"] = 514112.171,
+					["lastUpdated"] = 94046.327,
 					["xpPerSec"] = 0,
 				},
 			},
@@ -548,22 +548,22 @@ XToLevelDB = {
 		["Rynllor - Tarren Mill"] = {
 			["data"] = {
 				["total"] = {
-					["quests"] = 78,
 					["dungeonKills"] = 6447,
+					["quests"] = 78,
 					["mobKills"] = 6470,
 				},
 				["killAverage"] = 1744.8,
 				["timer"] = {
-					["start"] = 835513.648,
-					["total"] = 805875,
-					["lastUpdated"] = 840047.2760000001,
+					["start"] = 94696.389,
+					["total"] = 0,
+					["lastUpdated"] = 94719.332,
 					["xpPerSec"] = 177.7549900432932,
 				},
 				["dungeonList"] = {
 					{
 						["killCount"] = 54,
 						["name"] = "Temple of Sethraliss",
-						["inProgress"] = true,
+						["inProgress"] = false,
 						["killTotal"] = 95909,
 						["level"] = 119,
 						["rested"] = 0,
@@ -1331,206 +1331,11 @@ XToLevelDB = {
 		["Enthusiastus - Tarren Mill"] = {
 			["data"] = {
 				["total"] = {
-					["dungeonKills"] = 2271,
 					["quests"] = 425,
+					["dungeonKills"] = 2271,
 					["mobKills"] = 5108,
 				},
 				["killAverage"] = 437,
-				["dungeonList"] = {
-					{
-						["inProgress"] = false,
-						["totalXP"] = 46985,
-						["killCount"] = 57,
-						["killTotal"] = 46985,
-						["level"] = 106,
-						["rested"] = 0,
-						["name"] = "Eye of Azshara",
-					}, -- [1]
-					{
-						["name"] = "Darkheart Thicket",
-						["totalXP"] = 59971,
-						["rested"] = 363,
-						["killTotal"] = 59971,
-						["level"] = 104,
-						["inProgress"] = false,
-						["killCount"] = 100,
-					}, -- [2]
-					{
-						["killCount"] = 105,
-						["name"] = "Darkheart Thicket",
-						["inProgress"] = false,
-						["killTotal"] = 66003,
-						["level"] = 101,
-						["rested"] = 0,
-						["totalXP"] = 66003,
-					}, -- [3]
-					{
-						["killCount"] = 62,
-						["name"] = "Bloodmaul Slag Mines",
-						["inProgress"] = false,
-						["killTotal"] = 51010,
-						["level"] = 92,
-						["rested"] = 0,
-						["totalXP"] = 51010,
-					}, -- [4]
-					{
-						["inProgress"] = false,
-						["totalXP"] = 129705,
-						["killCount"] = 290,
-						["killTotal"] = 129705,
-						["level"] = 89,
-						["rested"] = 0,
-						["name"] = "Siege of Niuzao Temple",
-					}, -- [5]
-					{
-						["inProgress"] = false,
-						["totalXP"] = 578049,
-						["killCount"] = 1092,
-						["killTotal"] = 578049,
-						["level"] = 85,
-						["rested"] = 0,
-						["name"] = "Stormstout Brewery",
-					}, -- [6]
-					{
-						["inProgress"] = false,
-						["totalXP"] = 49052,
-						["killCount"] = 63,
-						["killTotal"] = 49052,
-						["level"] = 85,
-						["rested"] = 0,
-						["name"] = "Lost City of the Tol'vir",
-					}, -- [7]
-					{
-						["inProgress"] = false,
-						["totalXP"] = 55834,
-						["killCount"] = 121,
-						["killTotal"] = 55834,
-						["level"] = 85,
-						["rested"] = 21,
-						["name"] = "The Stonecore",
-					}, -- [8]
-					{
-						["inProgress"] = false,
-						["totalXP"] = 71364,
-						["killCount"] = 115,
-						["killTotal"] = 71364,
-						["level"] = 84,
-						["rested"] = 0,
-						["name"] = "Grim Batol",
-					}, -- [9]
-					{
-						["inProgress"] = false,
-						["totalXP"] = 87475,
-						["killCount"] = 266,
-						["killTotal"] = 87475,
-						["level"] = 83,
-						["rested"] = 5846,
-						["name"] = "Gate of the Setting Sun",
-					}, -- [10]
-				},
-				["questAverage"] = 16070.9,
-				["questList"] = {
-					22004, -- [1]
-					22004, -- [2]
-					22004, -- [3]
-					2227, -- [4]
-					22004, -- [5]
-					22004, -- [6]
-					22004, -- [7]
-					2227, -- [8]
-					2227, -- [9]
-					22004, -- [10]
-					22004, -- [11]
-					22004, -- [12]
-					22004, -- [13]
-					22004, -- [14]
-					22004, -- [15]
-					22004, -- [16]
-					22004, -- [17]
-					22004, -- [18]
-					22004, -- [19]
-					16537, -- [20]
-					22004, -- [21]
-					11002, -- [22]
-					22004, -- [23]
-					16537, -- [24]
-					22004, -- [25]
-					22004, -- [26]
-					21802, -- [27]
-					21802, -- [28]
-					21802, -- [29]
-					21802, -- [30]
-					21802, -- [31]
-					2159, -- [32]
-					2159, -- [33]
-					2159, -- [34]
-					65474, -- [35]
-					21802, -- [36]
-					65474, -- [37]
-					21802, -- [38]
-					21802, -- [39]
-					21802, -- [40]
-					21802, -- [41]
-					21802, -- [42]
-					21802, -- [43]
-					21802, -- [44]
-					21802, -- [45]
-					202, -- [46]
-					21802, -- [47]
-					21802, -- [48]
-					21802, -- [49]
-					21802, -- [50]
-					21802, -- [51]
-					21667, -- [52]
-					21667, -- [53]
-					2159, -- [54]
-					21667, -- [55]
-					2159, -- [56]
-					10799, -- [57]
-					21667, -- [58]
-					16267, -- [59]
-					21667, -- [60]
-					21667, -- [61]
-					21667, -- [62]
-					21667, -- [63]
-					431, -- [64]
-					431, -- [65]
-					2159, -- [66]
-					2159, -- [67]
-					21667, -- [68]
-					21667, -- [69]
-					21667, -- [70]
-					21667, -- [71]
-					21667, -- [72]
-					2159, -- [73]
-					21667, -- [74]
-					21667, -- [75]
-					21667, -- [76]
-					27067, -- [77]
-					2159, -- [78]
-					2159, -- [79]
-					2159, -- [80]
-					2159, -- [81]
-					10799, -- [82]
-					21667, -- [83]
-					21464, -- [84]
-					171719, -- [85]
-					42929, -- [86]
-					26864, -- [87]
-					21464, -- [88]
-					23054, -- [89]
-					23054, -- [90]
-					23054, -- [91]
-					23054, -- [92]
-					23054, -- [93]
-					23054, -- [94]
-					23054, -- [95]
-					11527, -- [96]
-					23054, -- [97]
-					22837, -- [98]
-					22837, -- [99]
-					22837, -- [100]
-				},
 				["killList"] = {
 					{
 						["mob"] = "Valkyra Aspirant",
@@ -1934,19 +1739,214 @@ XToLevelDB = {
 					}, -- [100]
 				},
 				["timer"] = {
-					["start"] = 514135.693,
+					["start"] = 94736.685,
 					["total"] = 0,
-					["lastUpdated"] = 515184.562,
+					["lastUpdated"] = 96579.707,
 					["xpPerSec"] = 234.372296510167,
+				},
+				["dungeonList"] = {
+					{
+						["inProgress"] = false,
+						["totalXP"] = 46985,
+						["killCount"] = 57,
+						["killTotal"] = 46985,
+						["level"] = 106,
+						["rested"] = 0,
+						["name"] = "Eye of Azshara",
+					}, -- [1]
+					{
+						["name"] = "Darkheart Thicket",
+						["totalXP"] = 59971,
+						["rested"] = 363,
+						["killTotal"] = 59971,
+						["level"] = 104,
+						["inProgress"] = false,
+						["killCount"] = 100,
+					}, -- [2]
+					{
+						["killCount"] = 105,
+						["name"] = "Darkheart Thicket",
+						["inProgress"] = false,
+						["killTotal"] = 66003,
+						["level"] = 101,
+						["rested"] = 0,
+						["totalXP"] = 66003,
+					}, -- [3]
+					{
+						["killCount"] = 62,
+						["name"] = "Bloodmaul Slag Mines",
+						["inProgress"] = false,
+						["killTotal"] = 51010,
+						["level"] = 92,
+						["rested"] = 0,
+						["totalXP"] = 51010,
+					}, -- [4]
+					{
+						["inProgress"] = false,
+						["totalXP"] = 129705,
+						["killCount"] = 290,
+						["killTotal"] = 129705,
+						["level"] = 89,
+						["rested"] = 0,
+						["name"] = "Siege of Niuzao Temple",
+					}, -- [5]
+					{
+						["inProgress"] = false,
+						["totalXP"] = 578049,
+						["killCount"] = 1092,
+						["killTotal"] = 578049,
+						["level"] = 85,
+						["rested"] = 0,
+						["name"] = "Stormstout Brewery",
+					}, -- [6]
+					{
+						["inProgress"] = false,
+						["totalXP"] = 49052,
+						["killCount"] = 63,
+						["killTotal"] = 49052,
+						["level"] = 85,
+						["rested"] = 0,
+						["name"] = "Lost City of the Tol'vir",
+					}, -- [7]
+					{
+						["inProgress"] = false,
+						["totalXP"] = 55834,
+						["killCount"] = 121,
+						["killTotal"] = 55834,
+						["level"] = 85,
+						["rested"] = 21,
+						["name"] = "The Stonecore",
+					}, -- [8]
+					{
+						["inProgress"] = false,
+						["totalXP"] = 71364,
+						["killCount"] = 115,
+						["killTotal"] = 71364,
+						["level"] = 84,
+						["rested"] = 0,
+						["name"] = "Grim Batol",
+					}, -- [9]
+					{
+						["inProgress"] = false,
+						["totalXP"] = 87475,
+						["killCount"] = 266,
+						["killTotal"] = 87475,
+						["level"] = 83,
+						["rested"] = 5846,
+						["name"] = "Gate of the Setting Sun",
+					}, -- [10]
+				},
+				["questAverage"] = 16070.9,
+				["questList"] = {
+					22004, -- [1]
+					22004, -- [2]
+					22004, -- [3]
+					2227, -- [4]
+					22004, -- [5]
+					22004, -- [6]
+					22004, -- [7]
+					2227, -- [8]
+					2227, -- [9]
+					22004, -- [10]
+					22004, -- [11]
+					22004, -- [12]
+					22004, -- [13]
+					22004, -- [14]
+					22004, -- [15]
+					22004, -- [16]
+					22004, -- [17]
+					22004, -- [18]
+					22004, -- [19]
+					16537, -- [20]
+					22004, -- [21]
+					11002, -- [22]
+					22004, -- [23]
+					16537, -- [24]
+					22004, -- [25]
+					22004, -- [26]
+					21802, -- [27]
+					21802, -- [28]
+					21802, -- [29]
+					21802, -- [30]
+					21802, -- [31]
+					2159, -- [32]
+					2159, -- [33]
+					2159, -- [34]
+					65474, -- [35]
+					21802, -- [36]
+					65474, -- [37]
+					21802, -- [38]
+					21802, -- [39]
+					21802, -- [40]
+					21802, -- [41]
+					21802, -- [42]
+					21802, -- [43]
+					21802, -- [44]
+					21802, -- [45]
+					202, -- [46]
+					21802, -- [47]
+					21802, -- [48]
+					21802, -- [49]
+					21802, -- [50]
+					21802, -- [51]
+					21667, -- [52]
+					21667, -- [53]
+					2159, -- [54]
+					21667, -- [55]
+					2159, -- [56]
+					10799, -- [57]
+					21667, -- [58]
+					16267, -- [59]
+					21667, -- [60]
+					21667, -- [61]
+					21667, -- [62]
+					21667, -- [63]
+					431, -- [64]
+					431, -- [65]
+					2159, -- [66]
+					2159, -- [67]
+					21667, -- [68]
+					21667, -- [69]
+					21667, -- [70]
+					21667, -- [71]
+					21667, -- [72]
+					2159, -- [73]
+					21667, -- [74]
+					21667, -- [75]
+					21667, -- [76]
+					27067, -- [77]
+					2159, -- [78]
+					2159, -- [79]
+					2159, -- [80]
+					2159, -- [81]
+					10799, -- [82]
+					21667, -- [83]
+					21464, -- [84]
+					171719, -- [85]
+					42929, -- [86]
+					26864, -- [87]
+					21464, -- [88]
+					23054, -- [89]
+					23054, -- [90]
+					23054, -- [91]
+					23054, -- [92]
+					23054, -- [93]
+					23054, -- [94]
+					23054, -- [95]
+					11527, -- [96]
+					23054, -- [97]
+					22837, -- [98]
+					22837, -- [99]
+					22837, -- [100]
 				},
 			},
 		},
 		["Mihri - Tarren Mill"] = {
 			["data"] = {
 				["timer"] = {
-					["start"] = 265603.759,
+					["start"] = 96598.273,
 					["total"] = 0,
-					["lastUpdated"] = 266103.816,
+					["lastUpdated"] = 97097.413,
 					["xpPerSec"] = 0,
 				},
 			},
@@ -2456,9 +2456,9 @@ XToLevelDB = {
 				},
 				["killAverage"] = 260,
 				["timer"] = {
-					["start"] = 496479.154,
-					["total"] = 90894,
-					["lastUpdated"] = 498261.304,
+					["start"] = 94145.966,
+					["total"] = 0,
+					["lastUpdated"] = 94162.859,
 					["xpPerSec"] = 51.00244087197981,
 				},
 				["dungeonList"] = {
@@ -2787,11 +2787,11 @@ XToLevelDB = {
 		["Rynllor - Tarren Mill"] = {
 		},
 		["Enthusiastus - Tarren Mill"] = {
-			["averageDisplay"] = {
-				["combineTooltip"] = true,
-			},
 			["messages"] = {
 				["playerFloating"] = false,
+			},
+			["averageDisplay"] = {
+				["combineTooltip"] = true,
 			},
 		},
 		["Mihri - Tarren Mill"] = {

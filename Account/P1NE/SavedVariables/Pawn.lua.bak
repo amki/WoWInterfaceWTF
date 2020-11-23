@@ -77,6 +77,9 @@ PawnCommon = {
 		["\"MrRobot\":PRIEST3"] = {
 			["IconTexturePath"] = 136207,
 			["PerCharacterOptions"] = {
+				["Mihri-Tarren Mill"] = {
+					["Visible"] = true,
+				},
 			},
 			["Color"] = "ffffff",
 			["LocalizedName"] = "Priest: Shadow",
@@ -185,9 +188,6 @@ PawnCommon = {
 				["Enthusiastus-Azshara"] = {
 					["Visible"] = true,
 				},
-				["Enthusiastus-Tarren Mill"] = {
-					["Visible"] = true,
-				},
 			},
 			["Color"] = "ff7d0a",
 			["LocalizedName"] = "Druid: Restoration",
@@ -244,6 +244,9 @@ PawnCommon = {
 		["\"MrRobot\":DRUID1"] = {
 			["IconTexturePath"] = 136096,
 			["PerCharacterOptions"] = {
+				["Enthusiastus-Tarren Mill"] = {
+					["Visible"] = true,
+				},
 			},
 			["Color"] = "ff7d0a",
 			["LocalizedName"] = "Druid: Balance",
@@ -550,9 +553,6 @@ PawnCommon = {
 				["Mamiko-Azshara"] = {
 					["Visible"] = true,
 				},
-				["Mihri-Tarren Mill"] = {
-					["Visible"] = true,
-				},
 			},
 			["Color"] = "ffffff",
 			["LocalizedName"] = "Priest: Holy",
@@ -596,7 +596,7 @@ PawnCommon = {
 			["SpecID"] = 3,
 		},
 	},
-	["LastVersion"] = 2.0405,
+	["LastVersion"] = 2.0406,
 	["ButtonPosition"] = 2,
 	["ShowLootUpgradeAdvisor"] = true,
 	["ShowQuestUpgradeAdvisor"] = true,

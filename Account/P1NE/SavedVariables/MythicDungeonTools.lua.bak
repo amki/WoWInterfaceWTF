@@ -13,5 +13,11 @@ MythicDungeonToolsDB = {
 		["minimap"] = {
 			["minimapPos"] = 191.0324858231473,
 		},
+		["dataCollectionGUID"] = {
+		},
+		["dataCollectionCC"] = {
+		},
+		["dataCollection"] = {
+		},
 	},
 }

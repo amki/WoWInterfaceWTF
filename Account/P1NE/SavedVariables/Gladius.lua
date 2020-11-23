@@ -24,11 +24,11 @@ Gladius2DB = {
 		["Rynllor - Tarren Mill"] = {
 			["auraVersion"] = 1,
 			["tagsVersion"] = 4,
-			["y"] = {
-				["arena1"] = 462.2224070257653,
-			},
 			["x"] = {
 				["arena1"] = 1103.644818390749,
+			},
+			["y"] = {
+				["arena1"] = 462.2224070257653,
 			},
 		},
 		["Enthusiastus - Tarren Mill"] = {
@@ -44,11 +44,11 @@ Gladius2DB = {
 		["Ieni - Tarren Mill"] = {
 			["auraVersion"] = 1,
 			["tagsVersion"] = 4,
-			["y"] = {
-				["arena1"] = 663.466595926548,
-			},
 			["x"] = {
 				["arena1"] = 1004.80037155285,
+			},
+			["y"] = {
+				["arena1"] = 663.466595926548,
 			},
 		},
 		["Mihri - Tarren Mill"] = {

@@ -1,6 +1,6 @@
 
 PawnOptions = {
-	["LastVersion"] = 2.0405,
+	["LastVersion"] = 2.0406,
 	["ItemLevels"] = {
 		{
 			["ID"] = 183649,
@@ -9,8 +9,8 @@ PawnOptions = {
 		}, -- [1]
 		{
 			["ID"] = 158075,
-			["Level"] = 128,
-			["Link"] = "|cffe6cc80|Hitem:158075::::::::50:105::11:4:4932:4933:6316:1542::::|h[Heart of Azeroth]|h|r",
+			["Level"] = 134,
+			["Link"] = "|cffe6cc80|Hitem:158075::::::::50:105::11:4:4932:4933:6316:1548::::|h[Heart of Azeroth]|h|r",
 		}, -- [2]
 		{
 			["ID"] = 183578,
@@ -61,16 +61,16 @@ PawnOptions = {
 			["Link"] = "|cffa335ee|Hitem:183631::::::::50:102:::2:1482:4786:1:28:1401:::|h[Ring of Carnelian and Sinew]|h|r",
 		}, -- [12]
 		{
-			["ID"] = 159624,
-			["Level"] = 110,
+			["ID"] = 159620,
+			["Level"] = 115,
 			["AlsoFitsIn"] = 14,
-			["Link"] = "|cffa335ee|Hitem:159624::::::::50:105::16:4:5009:6515:1523:4786:1:28:1262:::|h[Rotcrusted Voodoo Doll]|h|r",
+			["Link"] = "|cffa335ee|Hitem:159620::::::::50:105::16:4:6528:6513:1528:4786:1:28:1257:::|h[Conch of Dark Whispers]|h|r",
 		}, -- [13]
 		{
-			["ID"] = 173944,
-			["Level"] = 100,
+			["ID"] = 159620,
+			["Level"] = 115,
 			["AlsoFitsIn"] = 13,
-			["Link"] = "|cffa335ee|Hitem:173944::::::::50:105::3:4:4822:6513:1487:4786:1:28:785:::|h[Forbidden Obsidian Claw]|h|r",
+			["Link"] = "|cffa335ee|Hitem:159620::::::::50:102::16:4:6528:6513:1528:4786:1:28:1257:::|h[Conch of Dark Whispers]|h|r",
 		}, -- [14]
 		{
 			["ID"] = 169223,

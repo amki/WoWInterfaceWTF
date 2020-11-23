@@ -31,24 +31,24 @@ MasterPlanAG = {
 					[2] = 1507787543,
 				},
 			},
-			["curOil"] = 100,
+			["faction"] = "Horde",
 			["class"] = "PALADIN",
 			["lastCacheTime"] = 1507860642,
 			["curRes"] = 1238,
-			["faction"] = "Horde",
+			["curOil"] = 100,
 		},
 		["Mihri"] = {
-			["faction"] = "Horde",
 			["curOil"] = 25,
+			["faction"] = "Horde",
 			["class"] = "PRIEST",
 			["curRes"] = 71,
 			["lastCacheTime"] = 1516334237,
 		},
 		["Enthusiastus"] = {
-			["faction"] = "Horde",
 			["lastCacheTime"] = 1516493184,
-			["curRes"] = 409,
 			["class"] = "DRUID",
+			["curRes"] = 409,
+			["faction"] = "Horde",
 		},
 		["Iridia"] = {
 			["summary"] = {
@@ -66,8 +66,8 @@ MasterPlanAG = {
 			["class"] = "MAGE",
 		},
 		["Rynllor"] = {
-			["faction"] = "Horde",
 			["class"] = "MONK",
+			["faction"] = "Horde",
 		},
 		["Intergalacto"] = {
 			["class"] = "SHAMAN",

@@ -6,24 +6,24 @@ PawnOptions = {
 	["ItemLevels"] = {
 		{
 			["ID"] = 122250,
-			["Level"] = 56,
-			["Link"] = "|cff00ccff|Hitem:122250::::::::48:62:::1:3592::::|h[Tattered Dreadmist Mask]|h|r",
+			["Level"] = 58,
+			["Link"] = "|cff00ccff|Hitem:122250::::::::49:62:::1:3592::::|h[Tattered Dreadmist Mask]|h|r",
 		}, -- [1]
 		{
 			["ID"] = 153130,
-			["Level"] = 56,
-			["Link"] = "|cff00ccff|Hitem:153130::::::::48:62:::1:3592::::|h[Man'ari Training Amulet]|h|r",
+			["Level"] = 58,
+			["Link"] = "|cff00ccff|Hitem:153130::::::::49:62:::1:3592::::|h[Man'ari Training Amulet]|h|r",
 		}, -- [2]
 		{
 			["ID"] = 122378,
-			["Level"] = 56,
-			["Link"] = "|cff00ccff|Hitem:122378::::::::48:62:::1:3592::::|h[Exquisite Sunderseer Mantle]|h|r",
+			["Level"] = 58,
+			["Link"] = "|cff00ccff|Hitem:122378::::::::49:62:::1:3592::::|h[Exquisite Sunderseer Mantle]|h|r",
 		}, -- [3]
 		nil, -- [4]
 		{
 			["ID"] = 122384,
-			["Level"] = 56,
-			["Link"] = "|cff00ccff|Hitem:122384::::::::48:62:::1:3592::::|h[Tattered Dreadmist Robe]|h|r",
+			["Level"] = 58,
+			["Link"] = "|cff00ccff|Hitem:122384::::::::49:62:::1:3592::::|h[Tattered Dreadmist Robe]|h|r",
 		}, -- [5]
 		{
 			["ID"] = 106157,
@@ -32,8 +32,8 @@ PawnOptions = {
 		}, -- [6]
 		{
 			["ID"] = 122256,
-			["Level"] = 56,
-			["Link"] = "|cff00ccff|Hitem:122256::::::::48:62:::1:3592::::|h[Tattered Dreadmist Leggings]|h|r",
+			["Level"] = 58,
+			["Link"] = "|cff00ccff|Hitem:122256::::::::49:62:::1:3592::::|h[Tattered Dreadmist Leggings]|h|r",
 		}, -- [7]
 		{
 			["ID"] = 113787,
@@ -64,25 +64,25 @@ PawnOptions = {
 		}, -- [12]
 		{
 			["ID"] = 122362,
-			["Level"] = 56,
+			["Level"] = 58,
 			["AlsoFitsIn"] = 14,
-			["Link"] = "|cff00ccff|Hitem:122362::::::::48:62:::1:3592::::|h[Discerning Eye of the Beast]|h|r",
+			["Link"] = "|cff00ccff|Hitem:122362::::::::49:62:::1:3592::::|h[Discerning Eye of the Beast]|h|r",
 		}, -- [13]
 		{
 			["ID"] = 122362,
-			["Level"] = 54,
+			["Level"] = 58,
 			["AlsoFitsIn"] = 13,
-			["Link"] = "|cff00ccff|Hitem:122362::::::::47:62:::1:3592::::|h[Discerning Eye of the Beast]|h|r",
+			["Link"] = "|cff00ccff|Hitem:122362::::::::50:62:::1:3592::::|h[Discerning Eye of the Beast]|h|r",
 		}, -- [14]
 		{
 			["ID"] = 122262,
-			["Level"] = 56,
-			["Link"] = "|cff00ccff|Hitem:122262::::::::48:62:::1:5805::::|h[Ancient Bloodmoon Cloak]|h|r",
+			["Level"] = 58,
+			["Link"] = "|cff00ccff|Hitem:122262::::::::49:62:::1:5805::::|h[Ancient Bloodmoon Cloak]|h|r",
 		}, -- [15]
 		{
 			["ID"] = 122353,
-			["Level"] = 56,
-			["Link"] = "|cff00ccff|Hitem:122353::::::::48:62:::1:582::::|h[Dignified Headmaster's Charge]|h|r",
+			["Level"] = 58,
+			["Link"] = "|cff00ccff|Hitem:122353::::::::49:62:::1:582::::|h[Dignified Headmaster's Charge]|h|r",
 		}, -- [16]
 	},
 	["LastKeybindingsSet"] = 1,

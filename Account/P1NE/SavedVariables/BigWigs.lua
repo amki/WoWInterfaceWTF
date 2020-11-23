@@ -31,15 +31,9 @@ BigWigs3DB = {
 		},
 		["BigWigs_Plugins_BossBlock"] = {
 		},
-		["BigWigs_Bosses_Hadal Darkfathom"] = {
-		},
 		["BigWigs_Plugins_Sounds"] = {
 		},
 		["BigWigs_Plugins_Statistics"] = {
-		},
-		["BigWigs_Bosses_Viq'Goth"] = {
-		},
-		["BigWigs_Bosses_Sergeant Bainbridge"] = {
 		},
 		["BigWigs_Plugins_Colors"] = {
 		},
@@ -57,18 +51,16 @@ BigWigs3DB = {
 			["profiles"] = {
 				["Default"] = {
 					["BigWigsEmphasizeAnchor_y"] = 596.622323474621,
-					["BigWigsAnchor_width"] = 199.9999389648438,
-					["BigWigsAnchor_x"] = 263.822098402179,
-					["BigWigsEmphasizeAnchor_height"] = 22.00003242492676,
-					["BigWigsAnchor_height"] = 15.99998664855957,
 					["fontSize"] = 15,
+					["BigWigsEmphasizeAnchor_height"] = 22.00003242492676,
+					["BigWigsAnchor_width"] = 199.9999389648438,
 					["BigWigsAnchor_y"] = 334.933254637981,
-					["BigWigsEmphasizeAnchor_width"] = 320.0000610351563,
 					["BigWigsEmphasizeAnchor_x"] = 578.844501863587,
+					["BigWigsAnchor_height"] = 15.99998664855957,
+					["BigWigsAnchor_x"] = 263.822098402179,
+					["BigWigsEmphasizeAnchor_width"] = 320.0000610351563,
 				},
 			},
-		},
-		["BigWigs_Bosses_Dread Captain Lockwood"] = {
 		},
 		["BigWigs_Plugins_Super Emphasize"] = {
 			["profiles"] = {
@@ -77,38 +69,36 @@ BigWigs3DB = {
 				},
 			},
 		},
-		["BigWigs_Bosses_Siege of Boralus Trash"] = {
+		["BigWigs_Plugins_AutoReply"] = {
 		},
 		["BigWigs_Plugins_Raid Icons"] = {
 		},
 		["BigWigs_Plugins_Proximity"] = {
 			["profiles"] = {
 				["Default"] = {
-					["width"] = 139.9999847412109,
-					["font"] = "Friz Quadrata TT",
 					["posx"] = 265.955453488559,
+					["font"] = "Friz Quadrata TT",
 					["posy"] = 427.377788126469,
+					["width"] = 139.9999847412109,
 				},
 			},
 		},
-		["BigWigs_Plugins_AutoReply"] = {
+		["BigWigs_Plugins_Respawn"] = {
 		},
 		["BigWigs_Plugins_Messages"] = {
 			["profiles"] = {
 				["Default"] = {
+					["font"] = "Friz Quadrata TT",
 					["BWEmphasizeMessageAnchor_y"] = 615.111212811207,
 					["BWMessageAnchor_y"] = 316.444430405563,
 					["BWMessageAnchor_x"] = 612.97774921788,
-					["font"] = "Friz Quadrata TT",
 					["BWEmphasizeMessageAnchor_x"] = 609.422367187344,
 				},
 			},
 		},
-		["LibDualSpec-1.0"] = {
-		},
 		["BigWigs_Plugins_Pull"] = {
 		},
-		["BigWigs_Plugins_Respawn"] = {
+		["LibDualSpec-1.0"] = {
 		},
 	},
 	["wipe80"] = true,
@@ -564,9 +554,27 @@ BigWigsStatsDB = {
 		},
 	},
 	[2217] = {
-		[2365] = {
+		[2364] = {
+			["LFR"] = {
+				["best"] = 245.7079999999842,
+				["kills"] = 1,
+			},
+		},
+		[2372] = {
+			["LFR"] = {
+				["best"] = 320.7250000000931,
+				["kills"] = 1,
+			},
+		},
+		[2374] = {
+			["LFR"] = {
+				["best"] = 476.3689999999479,
+				["kills"] = 1,
+			},
+		},
+		[2368] = {
 			["normal"] = {
-				["best"] = 313.4439999999886,
+				["best"] = 322.7010000000009,
 				["kills"] = 1,
 			},
 		},
@@ -577,9 +585,9 @@ BigWigsStatsDB = {
 				["best"] = 223.1030000000028,
 			},
 		},
-		[2368] = {
+		[2365] = {
 			["normal"] = {
-				["best"] = 322.7010000000009,
+				["best"] = 313.4439999999886,
 				["kills"] = 1,
 			},
 		},

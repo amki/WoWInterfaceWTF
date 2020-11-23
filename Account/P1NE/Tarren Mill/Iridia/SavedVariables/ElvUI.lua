@@ -1,182 +1,28 @@
 
 ElvCharacterDB = {
 	["ChatEditHistory"] = {
-		"/cw Nibeliino-TarrenMill kopf an kopf", -- [1]
-		"/i excellent job with the orbs", -- [2]
-		"/cw Nibeliino-TarrenMill ...", -- [3]
-		"/cw Nibeliino-TarrenMill immer releasen mit rez alive", -- [4]
-		"/cw Nibeliino-TarrenMill mmi", -- [5]
-		"/cw Nibeliino-TarrenMill mana management interface", -- [6]
-		"/cw Nibeliino-TarrenMill inb4 kein tank", -- [7]
-		"/cw Nibeliino-TarrenMill es fehlt vorallem jemand der dieser blöden kugel ausweiche nkann", -- [8]
-		"/cw Nibeliino-TarrenMill joppes", -- [9]
-		"/cw Nibeliino-TarrenMill knopf an knopf rennen", -- [10]
-		"/i one more?", -- [11]
-		"/i sorry", -- [12]
-		"/i mop :3", -- [13]
-		"/i rez plz", -- [14]
-		"/i i think we can only continue if you bring us back to live tbh", -- [15]
-		"/i lol", -- [16]
-		"/i teleport out", -- [17]
-		"/i repair", -- [18]
-		"/i teleport in", -- [19]
-		"/aap", -- [20]
+		"/i excellent job with the orbs", -- [1]
+		"/cw Nibeliino-TarrenMill ...", -- [2]
+		"/cw Nibeliino-TarrenMill immer releasen mit rez alive", -- [3]
+		"/cw Nibeliino-TarrenMill mmi", -- [4]
+		"/cw Nibeliino-TarrenMill mana management interface", -- [5]
+		"/cw Nibeliino-TarrenMill inb4 kein tank", -- [6]
+		"/cw Nibeliino-TarrenMill es fehlt vorallem jemand der dieser blöden kugel ausweiche nkann", -- [7]
+		"/cw Nibeliino-TarrenMill joppes", -- [8]
+		"/cw Nibeliino-TarrenMill knopf an knopf rennen", -- [9]
+		"/i one more?", -- [10]
+		"/i sorry", -- [11]
+		"/i mop :3", -- [12]
+		"/i rez plz", -- [13]
+		"/i i think we can only continue if you bring us back to live tbh", -- [14]
+		"/i lol", -- [15]
+		"/i teleport out", -- [16]
+		"/i repair", -- [17]
+		"/i teleport in", -- [18]
+		"/aap", -- [19]
+		"/played", -- [20]
 	},
 	["ChatHistoryLog"] = {
-		{
-			"knopf wird abgetrennt", -- [1]
-			"Nibeliino-TarrenMill", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Nibeliino-TarrenMill", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			4898, -- [11]
-			"Player-1084-09EC1D0D", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3ec6eaNibeliino|r",
-			[51] = 1605226626,
-			[50] = "CHAT_MSG_WHISPER",
-		}, -- [1]
-		{
-			"turns her |Hitem:118427|h|cFFFFFFFF[Autographed Hearthstone Card]|r|h card over, revealing an |cFFa335ee[Epic Hearthstone Card]|r!", -- [1]
-			"Nibeliino-TarrenMill", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Nibeliino-TarrenMill", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			4899, -- [11]
-			"Player-1084-09EC1D0D", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3ec6eaNibeliino|r",
-			[51] = 1605226666,
-			[50] = "CHAT_MSG_EMOTE",
-		}, -- [2]
-		{
-			"yo", -- [1]
-			"Xdhehexd-Kazzak", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Xdhehexd-Kazzak", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			4901, -- [11]
-			"Player-1305-094B4E4B", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc31d39Xdhehexd-Kazzak|r",
-			[51] = 1605226694,
-			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [3]
-		{
-			"<Hydra CM> Selling Fire-Watcher Title +|cff71d5ff|Hspell:148428:0|h[Ashhide Mushan Beast]|h|r +Pet 150k. |cffffff00|Hachievement:8721:Player-1084-09CD7ABF:1:11:13:20:4294967295:4294967295:4294967295:4294967295|h[Fire-Watcher]|h|r #Only Mount 50k. /w me", -- [1]
-			"Hydraboostcm-TarrenMill", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Hydraboostcm-TarrenMill", -- [5]
-			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			4963, -- [11]
-			"Player-1084-09CD7ABF", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cffc59a6cHydraboostcm|r",
-			[51] = 1605227069,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [4]
-		{
-			"Time-Lost Proto-drake / / Grey Riding Camel / Phosphorescent Stone Drake / Ratstallion / Jaina mount/ Nzoth HC / Mythic mount /  Any Draenor Rare and many more mounts /w me for more info", -- [1]
-			"Proficek-TarrenMill", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Proficek-TarrenMill", -- [5]
-			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			4964, -- [11]
-			"Player-1084-09E22405", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cfffef367Proficek|r",
-			[51] = 1605227075,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [5]
-		{
-			"<< SYLVANAS BOOST >>  M+15 = 100k + FREE ARMOR STACK   ||   M+20=400k   //   3x+15 = 285k  //   5x M+15 = 420k !     //    Levelup 10-50   //  5MASK  /|cff66bbff|Hjournal:0:1180:14|h[Ny'alotha, the Waking City]|h|r 5x Trader <580k>/JAINA 300k/W", -- [1]
-			"Sylvagold-TarrenMill", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Sylvagold-TarrenMill", -- [5]
-			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			4965, -- [11]
-			"Player-1084-09BEC268", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cff00fe97Sylvagold|r",
-			[51] = 1605227076,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [6]
-		{
-			"priest go ", -- [1]
-			"Ïa-Draenor", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Ïa-Draenor", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			2271, -- [11]
-			"Player-1403-09A26694", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffe7b09Ïa-Draenor|r",
-			[51] = 1605321123,
-			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [7]
 		{
 			"one more?", -- [1]
 			"Iridia-TarrenMill", -- [2]
@@ -198,7 +44,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec6eaIridia|r",
 			[51] = 1605321322,
 			[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
-		}, -- [8]
+		}, -- [1]
 		{
 			"ye", -- [1]
 			"Ásahbi-TwistingNether", -- [2]
@@ -220,7 +66,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeÁsahbi-TwistingNether|r",
 			[51] = 1605321331,
 			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [9]
+		}, -- [2]
 		{
 			"sorry", -- [1]
 			"Iridia-TarrenMill", -- [2]
@@ -242,7 +88,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec6eaIridia|r",
 			[51] = 1605321346,
 			[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
-		}, -- [10]
+		}, -- [3]
 		{
 			"mop :3", -- [1]
 			"Iridia-TarrenMill", -- [2]
@@ -264,7 +110,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec6eaIridia|r",
 			[51] = 1605321347,
 			[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
-		}, -- [11]
+		}, -- [4]
 		{
 			"1111ddddddddwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwaw", -- [1]
 			"Amitee-TwistingNether", -- [2]
@@ -286,7 +132,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec6eaAmitee-TwistingNether|r",
 			[51] = 1605322028,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [12]
+		}, -- [5]
 		{
 			"come", -- [1]
 			"Ïa-Draenor", -- [2]
@@ -308,7 +154,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Ïa-Draenor|r",
 			[51] = 1605322049,
 			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [13]
+		}, -- [6]
 		{
 			"ty all", -- [1]
 			"Ïa-Draenor", -- [2]
@@ -330,7 +176,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Ïa-Draenor|r",
 			[51] = 1605322314,
 			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [14]
+		}, -- [7]
 		{
 			"rez plz", -- [1]
 			"Iridia-TarrenMill", -- [2]
@@ -352,7 +198,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec6eaIridia|r",
 			[51] = 1605322325,
 			[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
-		}, -- [15]
+		}, -- [8]
 		{
 			">>>>  +15 100k  <<<< FREE ARMOR STACK ** S Y L V A N A S**|| 5x15 = 420k || 3x15 = 285k  ||  |cff66bbff|Hjournal:0:1180:14|h[Ny'alotha, the Waking City]|h|rHC  <5 Treader 580k>  <10 Trader 975> <N'zoth Cara Ra-den>   <Jaina 275k> <5mask 70k> / w me", -- [1]
 			"Sylvânboost-TarrenMill", -- [2]
@@ -374,7 +220,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Sylvânboost|r",
 			[51] = 1605322722,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [16]
+		}, -- [9]
 		{
 			"WTS  power leveling boost 10-50  With new method  very fast ..Horrific vision 0- 5 mask  Also +15 with good GP (Free armor stack) you can afk...Mechagon hardmode   /w me for more info", -- [1]
 			"Kattarin-TarrenMill", -- [2]
@@ -396,7 +242,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Kattarin|r",
 			[51] = 1605322726,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [17]
+		}, -- [10]
 		{
 			"<NOVA>is OFFERING {M+15=90K}   ~2x=171K~   ^4x=333K^  *6x=486K*    FREE ARMORSTACK.      (Nyaloth)<[HC]>FULLCLEAR 140K.   ViP TradeR  60K.        [JainaMOUNT]=350k.   Mechagon mount 130K>      <LVLUP> <AchivRUN*MOUNT>     (5MASK=70K.)        Only Gold", -- [1]
 			"Novaboosterx-TarrenMill", -- [2]
@@ -418,7 +264,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Novaboosterx|r",
 			[51] = 1605322752,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [18]
+		}, -- [11]
 		{
 			"rez", -- [1]
 			"Nibeliino-TarrenMill", -- [2]
@@ -440,7 +286,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec6eaNibeliino|r",
 			[51] = 1605323993,
 			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [19]
+		}, -- [12]
 		{
 			"?", -- [1]
 			"Nibeliino-TarrenMill", -- [2]
@@ -462,7 +308,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec6eaNibeliino|r",
 			[51] = 1605323994,
 			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [20]
+		}, -- [13]
 		{
 			"i think we can only continue if you bring us back to live tbh", -- [1]
 			"Iridia-TarrenMill", -- [2]
@@ -484,7 +330,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec6eaIridia|r",
 			[51] = 1605323999,
 			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [21]
+		}, -- [14]
 		{
 			"oh my dayzzzz", -- [1]
 			"Khørne-BurningBlade", -- [2]
@@ -506,7 +352,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cKhørne-BurningBlade|r",
 			[51] = 1605324000,
 			[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
-		}, -- [22]
+		}, -- [15]
 		{
 			"mass rez?", -- [1]
 			"Nibeliino-TarrenMill", -- [2]
@@ -528,7 +374,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec6eaNibeliino|r",
 			[51] = 1605324007,
 			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [23]
+		}, -- [16]
 		{
 			"dont have it", -- [1]
 			"Ksandra-BurningBlade", -- [2]
@@ -550,7 +396,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Ksandra-BurningBlade|r",
 			[51] = 1605324017,
 			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [24]
+		}, -- [17]
 		{
 			"come back", -- [1]
 			"Fooxi-TarrenMill", -- [2]
@@ -572,7 +418,7 @@ ElvCharacterDB = {
 			[52] = "|cff8687edFooxi|r",
 			[51] = 1605324097,
 			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [25]
+		}, -- [18]
 		{
 			"for quest", -- [1]
 			"Fooxi-TarrenMill", -- [2]
@@ -594,7 +440,7 @@ ElvCharacterDB = {
 			[52] = "|cff8687edFooxi|r",
 			[51] = 1605324107,
 			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [26]
+		}, -- [19]
 		{
 			"is everyone from tarren mill a complete twat or wot", -- [1]
 			"Khørne-BurningBlade", -- [2]
@@ -616,7 +462,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cKhørne-BurningBlade|r",
 			[51] = 1605324325,
 			[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
-		}, -- [27]
+		}, -- [20]
 		{
 			"lol", -- [1]
 			"Iridia-TarrenMill", -- [2]
@@ -638,7 +484,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec6eaIridia|r",
 			[51] = 1605324330,
 			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [28]
+		}, -- [21]
 		{
 			"[FIS] Interrupted Shadowmoon Bone-Mender's |cff71d5ff|Hspell:152814:0|h[Shadow Bolt]|h|r", -- [1]
 			"Fatsan-TarrenMill", -- [2]
@@ -660,7 +506,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe97Fatsan|r",
 			[51] = 1605393617,
 			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [29]
+		}, -- [22]
 		{
 			"[FIS] Interrupted Void Spawn's |cff71d5ff|Hspell:152964:0|h[Void Pulse]|h|r", -- [1]
 			"Fatsan-TarrenMill", -- [2]
@@ -682,7 +528,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe97Fatsan|r",
 			[51] = 1605393643,
 			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [30]
+		}, -- [23]
 		{
 			"[FIS] Interrupted Void Spawn's |cff71d5ff|Hspell:152964:0|h[Void Pulse]|h|r", -- [1]
 			"Fatsan-TarrenMill", -- [2]
@@ -704,7 +550,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe97Fatsan|r",
 			[51] = 1605393660,
 			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [31]
+		}, -- [24]
 		{
 			"wrong way", -- [1]
 			"Fatsan-TarrenMill", -- [2]
@@ -726,7 +572,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe97Fatsan|r",
 			[51] = 1605393759,
 			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [32]
+		}, -- [25]
 		{
 			"[FIS] Interrupted Shadowmoon Bone-Mender's |cff71d5ff|Hspell:152814:0|h[Shadow Bolt]|h|r", -- [1]
 			"Fatsan-TarrenMill", -- [2]
@@ -748,7 +594,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe97Fatsan|r",
 			[51] = 1605393831,
 			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [33]
+		}, -- [26]
 		{
 			"[FIS] Interrupted Shadowmoon Bone-Mender's |cff71d5ff|Hspell:152814:0|h[Shadow Bolt]|h|r", -- [1]
 			"Fatsan-TarrenMill", -- [2]
@@ -770,7 +616,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe97Fatsan|r",
 			[51] = 1605393855,
 			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [34]
+		}, -- [27]
 		{
 			"Daggerfall on Iridia", -- [1]
 			"Iridia-TarrenMill", -- [2]
@@ -792,7 +638,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec6eaIridia|r",
 			[51] = 1605393914,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [35]
+		}, -- [28]
 		{
 			"[FIS] Interrupted Shadowmoon Exhumer's |cff71d5ff|Hspell:156722:0|h[Void Bolt]|h|r", -- [1]
 			"Fatsan-TarrenMill", -- [2]
@@ -814,7 +660,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe97Fatsan|r",
 			[51] = 1605394081,
 			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [36]
+		}, -- [29]
 		{
 			"[FIS] Interrupted Shadowmoon Exhumer's |cff71d5ff|Hspell:156722:0|h[Void Bolt]|h|r", -- [1]
 			"Fatsan-TarrenMill", -- [2]
@@ -836,7 +682,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe97Fatsan|r",
 			[51] = 1605394097,
 			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [37]
+		}, -- [30]
 		{
 			"[FIS] Interrupted Shadowmoon Exhumer's |cff71d5ff|Hspell:156722:0|h[Void Bolt]|h|r", -- [1]
 			"Fatsan-TarrenMill", -- [2]
@@ -858,7 +704,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe97Fatsan|r",
 			[51] = 1605394245,
 			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [38]
+		}, -- [31]
 		{
 			"[FIS] Interrupted Shadowmoon Exhumer's |cff71d5ff|Hspell:156722:0|h[Void Bolt]|h|r", -- [1]
 			"Fatsan-TarrenMill", -- [2]
@@ -880,7 +726,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe97Fatsan|r",
 			[51] = 1605394263,
 			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [39]
+		}, -- [32]
 		{
 			"[FIS] Interrupted Monstrous Corpse Spider's |cff71d5ff|Hspell:156717:0|h[Death Venom]|h|r", -- [1]
 			"Fatsan-TarrenMill", -- [2]
@@ -902,7 +748,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe97Fatsan|r",
 			[51] = 1605394306,
 			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [40]
+		}, -- [33]
 		{
 			"[FIS] Interrupted Monstrous Corpse Spider's |cff71d5ff|Hspell:156718:0|h[Necrotic Burst]|h|r", -- [1]
 			"Fatsan-TarrenMill", -- [2]
@@ -924,7 +770,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe97Fatsan|r",
 			[51] = 1605394608,
 			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [41]
+		}, -- [34]
 		{
 			"[FIS] Interrupted Void Spawn's |cff71d5ff|Hspell:152964:0|h[Void Pulse]|h|r", -- [1]
 			"Fatsan-TarrenMill", -- [2]
@@ -946,7 +792,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe97Fatsan|r",
 			[51] = 1605394686,
 			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [42]
+		}, -- [35]
 		{
 			"Does any Guild need an experienced tank? please whisper me your raid days and time thank you. ", -- [1]
 			"Flapjax-TarrenMill", -- [2]
@@ -968,7 +814,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Flapjax|r",
 			[51] = 1605395062,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [43]
+		}, -- [36]
 		{
 			"<NOVA>  [M+15=90k]-[2x M+15=171k] [4x M+15=333k]  Ny'Alotha Heroic  Shareloot 140k  and VIP trader 60k ]  ||Jaine Mount 350k|| [The Hivemind mount: 160k] [ Mount: Smoldering Ember Wyrm 130k][ Mount: Aerial Unit R-21/X Hardmode 130k] **||5mask =70k||**", -- [1]
 			"Novaservices-TarrenMill", -- [2]
@@ -990,7 +836,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Novaservices|r",
 			[51] = 1605395067,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [44]
+		}, -- [37]
 		{
 			"<NOVA> ||M+15=90k|| ||2x M+15=171k|| ||4x M+15=333k|| ||6xM+15 =486k ||  Ny'Alotha Heroic  Shareloot 140k + VIP trader 60k||||Jaine Mount 350k||Mount :Aerial Unit R-21/X 130k|| ||Mount: Smoldering Ember Wyrm 130k|| ||Hive Mind mount 160k|| 5Mask 70k", -- [1]
 			"Novacheapest-TarrenMill", -- [2]
@@ -1012,7 +858,7 @@ ElvCharacterDB = {
 			[52] = "|cff8687edNovacheapest|r",
 			[51] = 1605395080,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [45]
+		}, -- [38]
 		{
 			"><><><>  M+15 =100k  <><><><  FREE ARMOR STACK  < SYLVANAS > ||M+20 450k in Time >> ((2X15 200K))*((3X15 285K))>>5Runs 20% OFF>>((5X15 420K))>>|cff71d5ff|Hspell:290718:0|h[Aerial Unit R-21/X]|h|r>(omask-5mask)*(Lvl up boost)*(jaina)*((RAID VIP))/W ME ", -- [1]
 			"Sylvabez-TarrenMill", -- [2]
@@ -1034,7 +880,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Sylvabez|r",
 			[51] = 1605395081,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [46]
+		}, -- [39]
 		{
 			"<Dawn Community> Pre Book |cffffff00|Hachievement:14717:Player-3674-0A5E97A7:0:0:0:0:0:0:0:0|h[Heroic: Castle Nathria]|h|r Now!! Get the best ilvl gear and achivement first || Offering  |cffa335ee|Hitem:166705::::::::10:102::6:1:3524:1:28:688:::|h[Glacial Tidestorm]|h|r Before it's 1% drop /w me for more info", -- [1]
 			"Jaquetarrenm-TarrenMill", -- [2]
@@ -1056,7 +902,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Jaquetarrenm|r",
 			[51] = 1605395085,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [47]
+		}, -- [40]
 		{
 			"<Dawn Community> Offering Mythic Ny'alotha get your |cffa335ee|Hitem:174872::::::::10:102::6:1:3524:1:28:787:::|h[Ny'alotha Allseer]|h|rNOW!! LAST 2 WEEKS before  it's 1% drop! Only <1.8m!>! Book now slots going fast! /w me for more info!", -- [1]
 			"Jaquetarrenm-TarrenMill", -- [2]
@@ -1078,7 +924,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Jaquetarrenm|r",
 			[51] = 1605395086,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [48]
+		}, -- [41]
 		{
 			"<NOVA> ||M+15=90k|| ||2x M+15=171k|| ||4x M+15=333k|| ||6xM+15 =486k ||  Ny'Alotha Heroic  Shareloot 140k + VIP trader 60k||||Jaine Mount 350k||Mount :Aerial Unit R-21/X 130k|| ||Mount: Smoldering Ember Wyrm 130k|| ||Hive Mind mount 160k|| 5Mask 70k", -- [1]
 			"Novasellert-TarrenMill", -- [2]
@@ -1100,7 +946,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Novasellert|r",
 			[51] = 1605395092,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [49]
+		}, -- [42]
 		{
 			"< NOVA > is OFFERING [M+15=90k] --[2x M+15=171k] -- [4x M+15=333k] --/Nyalotha Heroic 140k- VIP trader only 60k!-/Nyalotha Mythic 12/12+3VIP trader for 3000k-/Jaina mount 350k--/5mask=70k--/Mechagon HM mount 130k--/Mythic N'Zoth +Mount =1.8MIL", -- [1]
 			"Novaboostqtt-TarrenMill", -- [2]
@@ -1122,7 +968,7 @@ ElvCharacterDB = {
 			[52] = "|cff8687edNovaboostqtt|r",
 			[51] = 1605395100,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [50]
+		}, -- [43]
 		{
 			"Does any raiding Guild need an experienced tank? please whisper me your raid days and time thank you.", -- [1]
 			"Flapjax-TarrenMill", -- [2]
@@ -1144,7 +990,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Flapjax|r",
 			[51] = 1605395100,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [51]
+		}, -- [44]
 		{
 			"<Dream Community> WTS  |cffa335ee|Hitem:142369::::::::10:1449:::::::|h[Ivory Hawkstrider]|h|r 400k -----  |cffa335ee|Hitem:156798::::::::10:1449::2:::::|h[The Hivemind]|h|r 150k ----- DRAENOR RARES 50K ----- /w for more information!<3", -- [1]
 			"Dreamsboosts-TarrenMill", -- [2]
@@ -1166,7 +1012,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe97Dreamsboosts|r",
 			[51] = 1605395106,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [52]
+		}, -- [45]
 		{
 			"<Dream Community> WTS |cffa335ee|Hitem:138258::::::::10:1450:::::::|h[Reins of the Long-Forgotten Hippogryph]|h|r 85k ----- /w for more information!<3", -- [1]
 			"Dreamsboosts-TarrenMill", -- [2]
@@ -1188,7 +1034,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe97Dreamsboosts|r",
 			[51] = 1605395106,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [53]
+		}, -- [46]
 		{
 			"<< SYLVANAS BOOST >>  M+15 = 100k + FREE ARMOR STACK   ||   M+20=400k   //   3x+15 = 285k  //   5x M+15 = 420k !    /  |cff71d5ff|Hspell:290718:0|h[Aerial Unit R-21/X]|h|r  <130k> //  5Mask  /Nylotha 5x Trader <580k>/levelup10-50/W", -- [1]
 			"Sylvagold-TarrenMill", -- [2]
@@ -1210,7 +1056,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe97Sylvagold|r",
 			[51] = 1605395119,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [54]
+		}, -- [47]
 		{
 			"|| M+15=100k || 3x+15=285k || <S Y L V A N A S> || 5x +15 = 420k || << FREE ARMORSTACK KEYS >>|||cff66bbff|Hjournal:0:1180:15|h[Ny'alotha, the Waking City]|h|r HC + Trader || 5MASK  || +20=450k || +18=260k || Levelup 10-50 ||Mechagon Mount 130k||W", -- [1]
 			"Silvanboost-TarrenMill", -- [2]
@@ -1232,7 +1078,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeSilvanboost|r",
 			[51] = 1605395119,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [55]
+		}, -- [48]
 		{
 			"<\"NOVA\"> Is OFFERING ||M+15=90k|| ||2x15=171k|| ||4x15=333k||||Nya Full HeroiC=140k, Trader=60k|| ||Nya Full MythiC + 3 Trader=3000k|| ||Nzoth MythiC + Mount=1.8 MILLION||||Jaina Mount=350k|| ||5 Mask=70k|| ||Leveling Boost 10-50||", -- [1]
 			"Sallenøva-TarrenMill", -- [2]
@@ -1254,7 +1100,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe97Sallenøva|r",
 			[51] = 1605395136,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [56]
+		}, -- [49]
 		{
 			"><><><>  M+15 =100k  <><><><  FREE ARMOR STACK  < SYLVANAS > ||M+20 450k in Time >> ((2X15 200K))*((3X15 285K))>>5Runs 20% OFF>>((5X15 420K))>>|cff71d5ff|Hspell:290718:0|h[Aerial Unit R-21/X]|h|r>(omask-5mask)*(Lvl up boost)*(jaina)*((RAID VIP))/W ME ", -- [1]
 			"Sylvabez-TarrenMill", -- [2]
@@ -1276,7 +1122,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Sylvabez|r",
 			[51] = 1605395137,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [57]
+		}, -- [50]
 		{
 			"<DAWN> selling |cffa335ee|Hitem:166705::::::::50:63::6:1:3524:1:28:688:::|h[Glacial Tidestorm]|h|r in the last 2 days! Also prebook |cffffff00|Hachievement:14717:Player-3674-0A5E97A7:0:0:0:0:0:0:0:0|h[Heroic: Castle Nathria]|h|r 10/10 HC!! <GOLD ONLY>", -- [1]
 			"Beshte-TarrenMill", -- [2]
@@ -1298,7 +1144,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec6eaBeshte|r",
 			[51] = 1605395150,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [58]
+		}, -- [51]
 		{
 			"<*NOVA*>OFFERING M+15=[90k]/armor stack on->[2X=171K]/[4x=333K]/nylotha hc 12/12 loot share[140k]-Vip trader[60k]/Nylotha Mythic 12/12 with mount[3500k]---has 3 free vip trader/nezoth Mount[1800k]/5 mask loot[70k]/island PVP[50k]/Glories+TMOG+Mounts", -- [1]
 			"Nbcfast-TarrenMill", -- [2]
@@ -1320,7 +1166,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Nbcfast|r",
 			[51] = 1605395158,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [59]
+		}, -- [52]
 		{
 			"<Just Pull> Semi Hardcore Raiding Guild recruiting! We are looking to finalize our roster for Shadowlands. Looking for progress driven players who are looking for a challenge in SL. Raid Days - Weds,Thurs + Sun  /w for info", -- [1]
 			"Fhuzzy-TarrenMill", -- [2]
@@ -1342,7 +1188,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Fhuzzy|r",
 			[51] = 1605395159,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [60]
+		}, -- [53]
 		{
 			"<Dream Community> WTS  |cffa335ee|Hitem:142369::::::::10:1449:::::::|h[Ivory Hawkstrider]|h|r 400k -----  |cffa335ee|Hitem:156798::::::::10:1449::2:::::|h[The Hivemind]|h|r 150k ----- DRAENOR RARES 50K ----- /w for more information!<3", -- [1]
 			"Dreamsboosts-TarrenMill", -- [2]
@@ -1364,7 +1210,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe97Dreamsboosts|r",
 			[51] = 1605395163,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [61]
+		}, -- [54]
 		{
 			"<NOVA>  [M+15=90k]-[2x M+15=171k] [4x M+15=333k]  Ny'Alotha Heroic  Shareloot 140k  and VIP trader 60k ]  ||Jaine Mount 350k|| [The Hivemind mount: 160k] [ Mount: Smoldering Ember Wyrm 130k][ Mount: Aerial Unit R-21/X Hardmode 130k] **||5mask =70k||**", -- [1]
 			"Novaservices-TarrenMill", -- [2]
@@ -1386,7 +1232,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Novaservices|r",
 			[51] = 1605395164,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [62]
+		}, -- [55]
 		{
 			"<Dream Community> WTS |cffa335ee|Hitem:138258::::::::10:1450:::::::|h[Reins of the Long-Forgotten Hippogryph]|h|r 85k ----- /w for more information!<3", -- [1]
 			"Dreamsboosts-TarrenMill", -- [2]
@@ -1408,7 +1254,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe97Dreamsboosts|r",
 			[51] = 1605395164,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [63]
+		}, -- [56]
 		{
 			"<NOVA> ||M+15=90k|| ||2x M+15=171k|| ||4x M+15=333k|| ||6xM+15 =486k ||  Ny'Alotha Heroic  Shareloot 140k + VIP trader 60k||||Jaine Mount 350k||Mount :Aerial Unit R-21/X 130k|| ||Mount: Smoldering Ember Wyrm 130k|| ||Hive Mind mount 160k|| 5Mask 70k", -- [1]
 			"Novacheapest-TarrenMill", -- [2]
@@ -1430,7 +1276,7 @@ ElvCharacterDB = {
 			[52] = "|cff8687edNovacheapest|r",
 			[51] = 1605395176,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [64]
+		}, -- [57]
 		{
 			"<< SYLVANAS BOOST >>  M+15 = 100k + FREE ARMOR STACK   ||   M+20=400k   //   3x+15 = 285k  //   5x M+15 = 420k !    /  |cff71d5ff|Hspell:290718:0|h[Aerial Unit R-21/X]|h|r  <130k> //  5Mask  /Nylotha 5x Trader <580k>/levelup10-50/W", -- [1]
 			"Sylvagold-TarrenMill", -- [2]
@@ -1452,7 +1298,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe97Sylvagold|r",
 			[51] = 1605395178,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [65]
+		}, -- [58]
 		{
 			"|| M+15=100k || 3x+15=285k || <S Y L V A N A S> || 5x +15 = 420k || << FREE ARMORSTACK KEYS >>|||cff66bbff|Hjournal:0:1180:15|h[Ny'alotha, the Waking City]|h|r HC + Trader || 5MASK  || +20=450k || +18=260k || Levelup 10-50 ||Mechagon Mount 130k||W", -- [1]
 			"Silvanboost-TarrenMill", -- [2]
@@ -1474,7 +1320,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeSilvanboost|r",
 			[51] = 1605395178,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [66]
+		}, -- [59]
 		{
 			"yo what's going on", -- [1]
 			"Tööbbe-TarrenMill", -- [2]
@@ -1496,7 +1342,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec6eaTööbbe|r",
 			[51] = 1605396044,
 			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [67]
+		}, -- [60]
 		{
 			"ur okay?", -- [1]
 			"Nibeliino-TarrenMill", -- [2]
@@ -1518,7 +1364,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec6eaNibeliino|r",
 			[51] = 1605396049,
 			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [68]
+		}, -- [61]
 		{
 			"game too hard for u?", -- [1]
 			"Nibeliino-TarrenMill", -- [2]
@@ -1540,7 +1386,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec6eaNibeliino|r",
 			[51] = 1605396059,
 			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [69]
+		}, -- [62]
 		{
 			"wat", -- [1]
 			"Tombri-TarrenMill", -- [2]
@@ -1562,7 +1408,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Tombri|r",
 			[51] = 1605396068,
 			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [70]
+		}, -- [63]
 		{
 			"CANT   suport dmg", -- [1]
 			"Prometeus-Minahonda", -- [2]
@@ -1584,7 +1430,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe97Prometeus-Minahonda|r",
 			[51] = 1605396082,
 			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [71]
+		}, -- [64]
 		{
 			"??", -- [1]
 			"Nibeliino-TarrenMill", -- [2]
@@ -1606,7 +1452,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec6eaNibeliino|r",
 			[51] = 1605396092,
 			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [72]
+		}, -- [65]
 		{
 			"is it my fault? wtf", -- [1]
 			"Tombri-TarrenMill", -- [2]
@@ -1628,7 +1474,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Tombri|r",
 			[51] = 1605396213,
 			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [73]
+		}, -- [66]
 		{
 			"no", -- [1]
 			"Nibeliino-TarrenMill", -- [2]
@@ -1650,7 +1496,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec6eaNibeliino|r",
 			[51] = 1605396221,
 			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [74]
+		}, -- [67]
 		{
 			"he just dies ", -- [1]
 			"Tombri-TarrenMill", -- [2]
@@ -1672,7 +1518,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Tombri|r",
 			[51] = 1605396221,
 			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [75]
+		}, -- [68]
 		{
 			"that tank was just pepega", -- [1]
 			"Nibeliino-TarrenMill", -- [2]
@@ -1694,7 +1540,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec6eaNibeliino|r",
 			[51] = 1605396227,
 			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [76]
+		}, -- [69]
 		{
 			"NO BAG DROP, UNLUCKY", -- [1]
 			"Vlâd-Draenor", -- [2]
@@ -1716,7 +1562,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Vlâd-Draenor|r",
 			[51] = 1605396324,
 			[50] = "CHAT_MSG_YELL",
-		}, -- [77]
+		}, -- [70]
 		{
 			"hi", -- [1]
 			"Tombri-TarrenMill", -- [2]
@@ -1738,7 +1584,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Tombri|r",
 			[51] = 1605396442,
 			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [78]
+		}, -- [71]
 		{
 			"¨coming", -- [1]
 			"Tööbbe-TarrenMill", -- [2]
@@ -1760,7 +1606,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec6eaTööbbe|r",
 			[51] = 1605396449,
 			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [79]
+		}, -- [72]
 		{
 			"hey", -- [1]
 			"Viertwintig-Trollbane", -- [2]
@@ -1782,7 +1628,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Viertwintig-Trollbane|r",
 			[51] = 1605396453,
 			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [80]
+		}, -- [73]
 		{
 			"one sec", -- [1]
 			"Tööbbe-TarrenMill", -- [2]
@@ -1804,7 +1650,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec6eaTööbbe|r",
 			[51] = 1605396455,
 			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [81]
+		}, -- [74]
 		{
 			"that was easier", -- [1]
 			"Tööbbe-TarrenMill", -- [2]
@@ -1826,7 +1672,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec6eaTööbbe|r",
 			[51] = 1605396588,
 			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [82]
+		}, -- [75]
 		{
 			"mana table pls?", -- [1]
 			"Mackarrigan-Sanguino", -- [2]
@@ -1848,7 +1694,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Mackarrigan-Sanguino|r",
 			[51] = 1605397334,
 			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [83]
+		}, -- [76]
 		{
 			"does any have repair?", -- [1]
 			"Mambachiller-TarrenMill", -- [2]
@@ -1870,7 +1716,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec6eaMambachiller|r",
 			[51] = 1605397561,
 			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [84]
+		}, -- [77]
 		{
 			"teleport out", -- [1]
 			"Iridia-TarrenMill", -- [2]
@@ -1892,7 +1738,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec6eaIridia|r",
 			[51] = 1605397569,
 			[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
-		}, -- [85]
+		}, -- [78]
 		{
 			"repair", -- [1]
 			"Iridia-TarrenMill", -- [2]
@@ -1914,7 +1760,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec6eaIridia|r",
 			[51] = 1605397571,
 			[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
-		}, -- [86]
+		}, -- [79]
 		{
 			"teleport in", -- [1]
 			"Iridia-TarrenMill", -- [2]
@@ -1936,7 +1782,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec6eaIridia|r",
 			[51] = 1605397573,
 			[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
-		}, -- [87]
+		}, -- [80]
 		{
 			"here", -- [1]
 			"Mackarrigan-Sanguino", -- [2]
@@ -1958,7 +1804,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Mackarrigan-Sanguino|r",
 			[51] = 1605398054,
 			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [88]
+		}, -- [81]
 		{
 			"here", -- [1]
 			"Mackarrigan-Sanguino", -- [2]
@@ -1980,7 +1826,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Mackarrigan-Sanguino|r",
 			[51] = 1605398059,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [89]
+		}, -- [82]
 		{
 			"are you fucking retarded", -- [1]
 			"Endorssi-TarrenMill", -- [2]
@@ -2002,7 +1848,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Endorssi|r",
 			[51] = 1605398881,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [90]
+		}, -- [83]
 		{
 			"nu u", -- [1]
 			"Shjv-TarrenMill", -- [2]
@@ -2024,7 +1870,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Shjv|r",
 			[51] = 1605398894,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [91]
+		}, -- [84]
 		{
 			"O.O", -- [1]
 			"Nìff-Draenor", -- [2]
@@ -2046,7 +1892,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcNìff-Draenor|r",
 			[51] = 1605398894,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [92]
+		}, -- [85]
 		{
 			"why yes, how could you tell?", -- [1]
 			"Urdokk-Draenor", -- [2]
@@ -2068,7 +1914,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Urdokk-Draenor|r",
 			[51] = 1605398927,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [93]
+		}, -- [86]
 		{
 			"it was that look in ur eyes :/", -- [1]
 			"Endorssi-TarrenMill", -- [2]
@@ -2090,7 +1936,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Endorssi|r",
 			[51] = 1605398944,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [94]
+		}, -- [87]
 		{
 			"whats up with tarrenmill kids being turbo cringe in gorgrond general today", -- [1]
 			"Builtdifrnt-Draenor", -- [2]
@@ -2112,7 +1958,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Builtdifrnt-Draenor|r",
 			[51] = 1605398968,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [95]
+		}, -- [88]
 		{
 			"wtf", -- [1]
 			"Builtdifrnt-Draenor", -- [2]
@@ -2134,7 +1980,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Builtdifrnt-Draenor|r",
 			[51] = 1605398969,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [96]
+		}, -- [89]
 		{
 			"HAHAHAHA", -- [1]
 			"Nìff-Draenor", -- [2]
@@ -2156,7 +2002,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcNìff-Draenor|r",
 			[51] = 1605398973,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [97]
+		}, -- [90]
 		{
 			"The posh Draenor joins the chat", -- [1]
 			"Shjv-TarrenMill", -- [2]
@@ -2178,7 +2024,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Shjv|r",
 			[51] = 1605398988,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [98]
+		}, -- [91]
 		{
 			"leav the tard mill kids xD", -- [1]
 			"Nìff-Draenor", -- [2]
@@ -2199,6 +2045,160 @@ ElvCharacterDB = {
 			true, -- [17]
 			[52] = "|cff006fdcNìff-Draenor|r",
 			[51] = 1605398992,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [92]
+		{
+			"LF JAINA BOOSTER WITH MOUNT +3k damage ", -- [1]
+			"Holybell-TarrenMill", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Holybell-TarrenMill", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			1, -- [11]
+			"Player-1084-095B265D", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cfff38bb9Holybell|r",
+			[51] = 1605733867,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [93]
+		{
+			"<Hydra> Selling |cffffff00|Hachievement:8721:Player-1084-09CD7ABF:1:11:13:20:4294967295:4294967295:4294967295:4294967295|h[Fire-Watcher]|h|r: Get your Title +Mount +Pet 150k. #Only Mount |cff71d5ff|Hspell:148428:0|h[Ashhide Mushan Beast]|h|r 60k. /w me", -- [1]
+			"Hydraboostcm-TarrenMill", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Hydraboostcm-TarrenMill", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			2, -- [11]
+			"Player-1084-09CD7ABF", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffc59a6cHydraboostcm|r",
+			[51] = 1605733872,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [94]
+		{
+			"<\"NOVA\"> Is OFFERING ||M+15=90k|| ||2x15=171k|| ||4x15=333k|| ||6x15=486k|| ||Nya Full HeroiC=140k, Trader=60k|| ||Mecha HM Mount=130k|| ||Hivemind=160k|| ||MythiC N'Zoth=1.8 MILLION|| ||5 Mask=70k|| ||Leveling Boost 10-50=400k|| ||Jaina Mount=350k||", -- [1]
+			"Sallenøva-TarrenMill", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Sallenøva-TarrenMill", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			3, -- [11]
+			"Player-1084-0986AB8A", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cff00fe97Sallenøva|r",
+			[51] = 1605733872,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [95]
+		{
+			"WTS secret mount |cff71d5ff|Hspell:261395:0|h[The Hivemind]|h|r cheap and fast, team is ready, only for gold", -- [1]
+			"Demoxic-TarrenMill", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Demoxic-TarrenMill", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			4, -- [11]
+			"Player-1084-0972D65E", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffa22fc8Demoxic|r",
+			[51] = 1605733874,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [96]
+		{
+			"some new dailies, but shop still sucks", -- [1]
+			"Felonis-TarrenMill", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Felonis-TarrenMill", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			5, -- [11]
+			"Player-1084-097D482C", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffc31d39Felonis|r",
+			[51] = 1605733876,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [97]
+		{
+			"WTS |cffffff00|Hachievement:12806:Player-1305-0972AE9A:1:6:28:19:4294967295:4294967295:4294967295:4294967295|h[Glory of the Uldir Raider]|h|r Reward is |cff71d5ff|Hspell:250735:0|h[Bloodgorged Crawg]|h|r-Start @ 23:30 Realm Time. Wispher For More info", -- [1]
+			"Shaskhi-TarrenMill", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Shaskhi-TarrenMill", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			6, -- [11]
+			"Player-1084-09F13C54", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cff00fe97Shaskhi|r",
+			[51] = 1605733883,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [98]
+		{
+			"<Icecrown> WTS Jaina mount for 300k. Get it before Shadowlands release.   Contact me or join our Discord server! GOLD ONLY! /w   ", -- [1]
+			"Fathienicc-TarrenMill", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Fathienicc-TarrenMill", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			7, -- [11]
+			"Player-1084-09D03581", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cfffef367Fathienicc|r",
+			[51] = 1605733883,
 			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [99]
 	},

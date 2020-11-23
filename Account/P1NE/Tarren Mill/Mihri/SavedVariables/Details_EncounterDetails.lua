@@ -16776,6 +16776,13 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Illidan Stormrage",
 		},
+		[203153] = {
+			["school"] = 32,
+			["token"] = {
+				["SPELL_DAMAGE"] = true,
+			},
+			["source"] = "Ysondre",
+		},
 		[256388] = {
 			["school"] = 1,
 			["type"] = "BUFF",
@@ -16784,14 +16791,6 @@ EncounterDetailsDB = {
 				["SPELL_CAST_SUCCESS"] = true,
 			},
 			["source"] = "Reorigination Module",
-		},
-		[227723] = {
-			["school"] = 1,
-			["type"] = "BUFF",
-			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
-			},
-			["source"] = "Skywarriorer",
 		},
 		[245532] = {
 			["school"] = 16,
@@ -17400,6 +17399,15 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Umbral War-Adept",
 		},
+		[40953] = {
+			["school"] = 4,
+			["type"] = "DEBUFF",
+			["token"] = {
+				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_PERIODIC_DAMAGE"] = true,
+			},
+			["source"] = "Dragonmaw Sky Stalker",
+		},
 		[196508] = {
 			["school"] = 32,
 			["type"] = "DEBUFF",
@@ -17410,13 +17418,6 @@ EncounterDetailsDB = {
 				["SPELL_PERIODIC_DAMAGE"] = true,
 			},
 			["source"] = "Deranged Mindflayer",
-		},
-		[245648] = {
-			["school"] = 32,
-			["token"] = {
-				["SPELL_DAMAGE"] = true,
-			},
-			["source"] = "Shadowguard Trickster",
 		},
 		[61556] = {
 			["school"] = 8,
@@ -18909,14 +18910,12 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Advisor Melandrus",
 		},
-		[40953] = {
-			["school"] = 4,
-			["type"] = "DEBUFF",
+		[245648] = {
+			["school"] = 32,
 			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
-				["SPELL_PERIODIC_DAMAGE"] = true,
+				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Dragonmaw Sky Stalker",
+			["source"] = "Shadowguard Trickster",
 		},
 		[245671] = {
 			["school"] = 4,
@@ -19243,12 +19242,13 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Naraxas",
 		},
-		[203153] = {
-			["school"] = 32,
+		[227723] = {
+			["school"] = 1,
+			["type"] = "BUFF",
 			["token"] = {
-				["SPELL_DAMAGE"] = true,
+				["SPELL_AURA_APPLIED"] = true,
 			},
-			["source"] = "Ysondre",
+			["source"] = "Skywarriorer",
 		},
 		[245164] = {
 			["school"] = 1,

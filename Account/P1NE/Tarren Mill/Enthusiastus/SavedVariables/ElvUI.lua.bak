@@ -1,722 +1,1344 @@
 
 ElvCharacterDB = {
 	["ChatEditHistory"] = {
-		"/cw Kachorro-Sanguino do you need the wrist?", -- [1]
-		"/cw Caulimoon-Stormscale do you need the trinket?", -- [2]
-		"/p hiho", -- [3]
-		"/p 0 interrupts rogue speaking", -- [4]
-		"/p ready", -- [5]
-		"/p sry", -- [6]
-		"/p bloodlust mia", -- [7]
-		"/tsm", -- [8]
-		"/p if you kicked the heals", -- [9]
-		"/p it would go A LOT faster", -- [10]
-		"/p we can obviously also fight this pack forever", -- [11]
-		"/p !keys", -- [12]
-		"/p i might have been dead", -- [13]
-		"/p but how would you know", -- [14]
-		"/p already gave it away", -- [15]
-		"/p :3", -- [16]
-		"/p gg", -- [17]
-		"/p cyaa", -- [18]
-		"/wa", -- [19]
-		"/s 7RL", -- [20]
+		"/g ich lollierte", -- [1]
+		"/g bin schon 61 tbh", -- [2]
+		"/o dieser hier ist dunkelgrün", -- [3]
+		"/o ich bin so cool", -- [4]
+		"/g mal", -- [5]
+		"/g deswegen mach ich mir die mühe", -- [6]
+		"/g jeden drecks khar einzuladen", -- [7]
+		"/g :3", -- [8]
+		"/g was speckt man so?", -- [9]
+		"/g stufen wir zu 3?", -- [10]
+		"/g um null?", -- [11]
+		"/g warmode off btw", -- [12]
+		"/g :3333", -- [13]
+		"/g wasn nu", -- [14]
+		"/g eulenspeck", -- [15]
+		"/g ich habe auch wrath gebunden", -- [16]
+		"/g auf eine heißtaste", -- [17]
+		"/g - /run local t = time() +15 while time() < t do end", -- [18]
+		"/g das postmeister käse makro", -- [19]
+		"/m", -- [20]
 	},
 	["ChatHistoryLog"] = {
 		{
-			"Interrupted Ashvane Jailer's |cff71d5ff|Hspell:258313:0|h[Handcuff]|h|r!", -- [1]
-			"Talizeadr-TarrenMill", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Talizeadr-TarrenMill", -- [5]
+			"there", -- [1]
+			"Damgdealer-TarrenMill", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Damgdealer-TarrenMill", -- [5]
 			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
 			0, -- [10]
-			872, -- [11]
-			"Player-1084-0853F71A", -- [12]
+			32, -- [11]
+			"Player-1084-09BE6622", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffe7b09Talizeadr|r",
-			[51] = 1605496508,
-			[50] = "CHAT_MSG_SAY",
+			true, -- [17]
+			[52] = "|cff3ec6eaDamgdealer|r",
+			[51] = 1606101109,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [1]
 		{
-			"Interrupted Irontide Thug's |cff71d5ff|Hspell:258128:0|h[Debilitating Shout]|h|r!", -- [1]
-			"Talizeadr-TarrenMill", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Talizeadr-TarrenMill", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			"Skycoach community will help you for ONE TOKEN Price  with Ny'alotha heroic, N'Zoth. Mythic +10, +11,+12,+13,+14,+15 +20 with loottrade and much more! Get your gear today! Please PM", -- [1]
+			"Besstdung-TarrenMill", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Besstdung-TarrenMill", -- [5]
+			"DND", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
 			0, -- [10]
-			876, -- [11]
-			"Player-1084-0853F71A", -- [12]
+			34, -- [11]
+			"Player-1084-09F2FE05", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffe7b09Talizeadr|r",
-			[51] = 1605496550,
-			[50] = "CHAT_MSG_SAY",
+			true, -- [17]
+			[52] = "|cfffefefeBesstdung|r",
+			[51] = 1606101118,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [2]
 		{
-			"Interrupted Ashvane Officer's |cff71d5ff|Hspell:258313:0|h[Handcuff]|h|r!", -- [1]
-			"Talizeadr-TarrenMill", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Talizeadr-TarrenMill", -- [5]
+			"<*NOVA*> Offerin 10-24 in Time ,15=90k/2x=171k/4x=333k/6x=534.5k/10x=810k/nzoth mount only=50k/Hivemind=160k/Smolder=130k/Mechgon=130k/All Glory mounts/BOD FUll Armor TMOG 8/9=500k/Level 10-50/Island PVP WIn=50k/", -- [1]
+			"Novafastruns-TarrenMill", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Novafastruns-TarrenMill", -- [5]
 			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
 			0, -- [10]
-			883, -- [11]
-			"Player-1084-0853F71A", -- [12]
+			59, -- [11]
+			"Player-1084-09EFC069", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffe7b09Talizeadr|r",
-			[51] = 1605496652,
-			[50] = "CHAT_MSG_SAY",
+			true, -- [17]
+			[52] = "|cff00fe97Novafastruns|r",
+			[51] = 1606101410,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [3]
 		{
-			"Interrupted Ashvane Flamecaster's |cff71d5ff|Hspell:258869:0|h[Blaze]|h|r!", -- [1]
-			"Talizeadr-TarrenMill", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Talizeadr-TarrenMill", -- [5]
+			".", -- [1]
+			"Tantetango-TarrenMill", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Tantetango-TarrenMill", -- [5]
 			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
 			0, -- [10]
-			885, -- [11]
-			"Player-1084-0853F71A", -- [12]
+			70, -- [11]
+			"Player-1084-08C3EB82", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffe7b09Talizeadr|r",
-			[51] = 1605496729,
-			[50] = "CHAT_MSG_SAY",
+			true, -- [17]
+			[52] = "|cff3ec6eaTantetango|r",
+			[51] = 1606101669,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [4]
 		{
-			"Interrupted Ashvane Officer's |cff71d5ff|Hspell:258313:0|h[Handcuff]|h|r!", -- [1]
-			"Talizeadr-TarrenMill", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Talizeadr-TarrenMill", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			"Skycoach community will help you for ONE TOKEN Price  with Ny'alotha heroic, N'Zoth. Mythic +10, +11,+12,+13,+14,+15 +20 with loottrade and much more! Get your gear today! Please PM", -- [1]
+			"Besstdung-TarrenMill", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Besstdung-TarrenMill", -- [5]
+			"DND", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
 			0, -- [10]
-			894, -- [11]
-			"Player-1084-0853F71A", -- [12]
+			71, -- [11]
+			"Player-1084-09F2FE05", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffe7b09Talizeadr|r",
-			[51] = 1605496903,
-			[50] = "CHAT_MSG_SAY",
+			true, -- [17]
+			[52] = "|cfffefefeBesstdung|r",
+			[51] = 1606101678,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [5]
 		{
-			"Interrupted Ashvane Flamecaster's |cff71d5ff|Hspell:258869:0|h[Blaze]|h|r!", -- [1]
-			"Talizeadr-TarrenMill", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Talizeadr-TarrenMill", -- [5]
+			"WTS   |cff1eff00|Hitem:109253::::::::50:269:::::::|h[Ultimate Gnomish Army Knife]|h|r", -- [1]
+			"Katniss-Dentarg", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Katniss-Dentarg", -- [5]
 			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
 			0, -- [10]
-			896, -- [11]
-			"Player-1084-0853F71A", -- [12]
+			72, -- [11]
+			"Player-1084-09EBE68F", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffe7b09Talizeadr|r",
-			[51] = 1605496987,
-			[50] = "CHAT_MSG_SAY",
+			true, -- [17]
+			[52] = "|cff00fe97Katniss-Dentarg|r",
+			[51] = 1606101725,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [6]
 		{
-			"Interrupted Ashvane Flamecaster's |cff71d5ff|Hspell:258634:0|h[Fuselighter]|h|r!", -- [1]
-			"Talizeadr-TarrenMill", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Talizeadr-TarrenMill", -- [5]
+			"WTS|cffff8000|Hinstancelock:Player-1084-09D0336E:603:14:8190|h[Ulduar]|h|r<>|cffff8000|Hinstancelock:Player-1084-09D0336E:1136:15:23551|h[Siege of Orgrimmar]|h|rHC<>|cffff8000|Hinstancelock:Player-1084-09D0336E:564:14:255|h[Black Temple]|h|r<>|cffff8000|Hinstancelock:Player-1084-09D0336E:720:14:119|h[Firelands]|h|rLockouts On Both Side(Horde&Alliance) /w For more info", -- [1]
+			"Saveseller-TarrenMill", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Saveseller-TarrenMill", -- [5]
 			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
 			0, -- [10]
-			899, -- [11]
-			"Player-1084-0853F71A", -- [12]
+			73, -- [11]
+			"Player-1084-09D0336E", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffe7b09Talizeadr|r",
-			[51] = 1605497046,
-			[50] = "CHAT_MSG_SAY",
+			true, -- [17]
+			[52] = "|cffc31d39Saveseller|r",
+			[51] = 1606101788,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [7]
 		{
-			"Interrupted Ashvane Priest's |cff71d5ff|Hspell:258935:0|h[Inner Flames]|h|r!", -- [1]
-			"Talizeadr-TarrenMill", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Talizeadr-TarrenMill", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			"Skycoach community will help you for ONE TOKEN Price  with Ny'alotha heroic, N'Zoth. Mythic +10, +11,+12,+13,+14,+15 +20 with loottrade and much more! Get your gear today! Please PM", -- [1]
+			"Besstdung-TarrenMill", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Besstdung-TarrenMill", -- [5]
+			"DND", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
 			0, -- [10]
-			913, -- [11]
-			"Player-1084-0853F71A", -- [12]
+			9, -- [11]
+			"Player-1084-09F2FE05", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffe7b09Talizeadr|r",
-			[51] = 1605497270,
-			[50] = "CHAT_MSG_SAY",
+			true, -- [17]
+			[52] = "|cfffefefeBesstdung|r",
+			[51] = 1606101957,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [8]
 		{
-			"pull", -- [1]
-			"Mizohunt-Lightning'sBlade", -- [2]
+			"Anyone who got time to sign my Guild Charter? That would great ^_^ 500g tip /w me", -- [1]
+			"Morphorius-TarrenMill", -- [2]
 			"", -- [3]
-			"", -- [4]
-			"Mizohunt-Lightning'sBlade", -- [5]
+			"2. Trade - City", -- [4]
+			"Morphorius-TarrenMill", -- [5]
 			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
 			0, -- [10]
-			916, -- [11]
-			"Player-1596-0E846D93", -- [12]
+			1, -- [11]
+			"Player-1084-09C0C91D", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa9d271Mizohunt-Lightning'sBlade|r",
-			[51] = 1605497316,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			true, -- [17]
+			[52] = "|cfffe7b09Morphorius|r",
+			[51] = 1606102085,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [9]
 		{
-			"i might have been dead", -- [1]
-			"Enthusiastus-TarrenMill", -- [2]
+			"Skycoach community will help you for ONE TOKEN Price  with Ny'alotha heroic, N'Zoth. Mythic +10, +11,+12,+13,+14,+15 +20 with loottrade and much more! Get your gear today! Please PM", -- [1]
+			"Besstdung-TarrenMill", -- [2]
 			"", -- [3]
-			"", -- [4]
-			"Enthusiastus-TarrenMill", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			"2. Trade - City", -- [4]
+			"Besstdung-TarrenMill", -- [5]
+			"DND", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
 			0, -- [10]
-			917, -- [11]
-			"Player-1084-0854DAAD", -- [12]
+			2, -- [11]
+			"Player-1084-09F2FE05", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffe7b09Enthusiastus|r",
-			[51] = 1605497336,
-			[50] = "CHAT_MSG_PARTY",
+			true, -- [17]
+			[52] = "|cfffefefeBesstdung|r",
+			[51] = 1606102111,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [10]
 		{
-			"but how would you know", -- [1]
-			"Enthusiastus-TarrenMill", -- [2]
+			"<*NOVA*> Offerin 10-24 in Time ,15=90k/2x=171k/4x=333k/6x=534.5k/10x=810k/nzoth mount only=50k/Hivemind=160k/Smolder=130k/Mechgon=130k/All Glory mounts/BOD FUll Armor TMOG 8/9=500k/Level 10-50/Island PVP WIn=50k/", -- [1]
+			"Novafastruns-TarrenMill", -- [2]
 			"", -- [3]
-			"", -- [4]
-			"Enthusiastus-TarrenMill", -- [5]
+			"2. Trade - City", -- [4]
+			"Novafastruns-TarrenMill", -- [5]
 			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
 			0, -- [10]
-			918, -- [11]
-			"Player-1084-0854DAAD", -- [12]
+			3, -- [11]
+			"Player-1084-09EFC069", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffe7b09Enthusiastus|r",
-			[51] = 1605497340,
-			[50] = "CHAT_MSG_PARTY",
+			true, -- [17]
+			[52] = "|cff00fe97Novafastruns|r",
+			[51] = 1606102111,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [11]
 		{
-			"Explosive Burst on Mizohunt", -- [1]
-			"Mizohunt-Lightning'sBlade", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Mizohunt-Lightning'sBlade", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			"Skycoach community will help you for ONE TOKEN Price  with Ny'alotha heroic, N'Zoth. Mythic +10, +11,+12,+13,+14,+15 +20 with loottrade and much more! Get your gear today! Please PM", -- [1]
+			"Besstdung-TarrenMill", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Besstdung-TarrenMill", -- [5]
+			"DND", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
 			0, -- [10]
-			921, -- [11]
-			"Player-1596-0E846D93", -- [12]
+			4, -- [11]
+			"Player-1084-09F2FE05", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa9d271Mizohunt-Lightning'sBlade|r",
-			[51] = 1605497400,
-			[50] = "CHAT_MSG_SAY",
+			true, -- [17]
+			[52] = "|cfffefefeBesstdung|r",
+			[51] = 1606102238,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [12]
 		{
-			"Explosive Burst on Enthusiastus", -- [1]
-			"Enthusiastus-TarrenMill", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Enthusiastus-TarrenMill", -- [5]
+			"<*NOVA*> Offerin 10-24 in Time ,15=90k/2x=171k/4x=333k/6x=534.5k/10x=810k/nzoth mount only=50k/Hivemind=160k/Smolder=130k/Mechgon=130k/All Glory mounts/BOD FUll Armor TMOG 8/9=500k/Level 10-50/Island PVP WIn=50k/", -- [1]
+			"Novafastruns-TarrenMill", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Novafastruns-TarrenMill", -- [5]
 			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
 			0, -- [10]
-			922, -- [11]
-			"Player-1084-0854DAAD", -- [12]
+			102, -- [11]
+			"Player-1084-09EFC069", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffe7b09Enthusiastus|r",
-			[51] = 1605497400,
-			[50] = "CHAT_MSG_SAY",
+			true, -- [17]
+			[52] = "|cff00fe97Novafastruns|r",
+			[51] = 1606103217,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [13]
 		{
-			"3", -- [1]
-			"Enthusiastus-TarrenMill", -- [2]
-			"Orcish", -- [3]
+			"gf", -- [1]
+			"|Kq10|k", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Enthusiastus-TarrenMill", -- [5]
+			"", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			923, -- [11]
-			"Player-1084-0854DAAD", -- [12]
-			0, -- [13]
+			103, -- [11]
+			false, -- [12]
+			5, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffe7b09Enthusiastus|r",
-			[51] = 1605497401,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffa22fc8xziino|r",
+			[51] = 1606103228,
+			[50] = "CHAT_MSG_BN_WHISPER",
+			[53] = "xziino",
 		}, -- [14]
 		{
-			"2", -- [1]
-			"Enthusiastus-TarrenMill", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Enthusiastus-TarrenMill", -- [5]
+			"<STALKERS> 10/10M NH 4/9M ToS is building its raid team for ToS progression and pushing mythic plus keys. (wed/thurs/sun 21:30-00:30). Recruiting exceptional dps (warlock) and one tank. All are considered. All players considered for M+ Rank!", -- [1]
+			"Jorddo-TarrenMill", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Jorddo-TarrenMill", -- [5]
 			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
 			0, -- [10]
-			924, -- [11]
-			"Player-1084-0854DAAD", -- [12]
+			107, -- [11]
+			"Player-1084-082D64A8", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffe7b09Enthusiastus|r",
-			[51] = 1605497402,
-			[50] = "CHAT_MSG_SAY",
+			true, -- [17]
+			[52] = "|cff3ec6eaJorddo|r",
+			[51] = 1606103264,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [15]
 		{
-			"1", -- [1]
-			"Enthusiastus-TarrenMill", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Enthusiastus-TarrenMill", -- [5]
+			"LF JAINA BOOSTERS NOW", -- [1]
+			"Thislock-TarrenMill", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Thislock-TarrenMill", -- [5]
 			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
 			0, -- [10]
-			925, -- [11]
-			"Player-1084-0854DAAD", -- [12]
+			117, -- [11]
+			"Player-1084-08F679CF", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffe7b09Enthusiastus|r",
-			[51] = 1605497403,
-			[50] = "CHAT_MSG_SAY",
+			true, -- [17]
+			[52] = "|cff8687edThislock|r",
+			[51] = 1606103342,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [16]
 		{
-			"Deadeye on Mizohunt", -- [1]
-			"Mizohunt-Lightning'sBlade", -- [2]
-			"Orcish", -- [3]
+			"ginv", -- [1]
+			"|Kq25|k", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Mizohunt-Lightning'sBlade", -- [5]
+			"", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			929, -- [11]
-			"Player-1596-0E846D93", -- [12]
-			0, -- [13]
+			118, -- [11]
+			false, -- [12]
+			6, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa9d271Mizohunt-Lightning'sBlade|r",
-			[51] = 1605497410,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cfffe7b09Roí|r",
+			[51] = 1606103349,
+			[50] = "CHAT_MSG_BN_WHISPER",
+			[53] = "Roí",
 		}, -- [17]
 		{
-			"Explosive Burst on Enthusiastus", -- [1]
-			"Enthusiastus-TarrenMill", -- [2]
-			"Orcish", -- [3]
+			"jjoin auch community", -- [1]
+			"|Kq25|k", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Enthusiastus-TarrenMill", -- [5]
+			"", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			931, -- [11]
-			"Player-1084-0854DAAD", -- [12]
-			0, -- [13]
+			123, -- [11]
+			false, -- [12]
+			6, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffe7b09Enthusiastus|r",
-			[51] = 1605497416,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cfffe7b09Roí|r",
+			[51] = 1606103369,
+			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
+			[53] = "Roí",
 		}, -- [18]
 		{
-			"3", -- [1]
-			"Enthusiastus-TarrenMill", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Enthusiastus-TarrenMill", -- [5]
+			"can i join", -- [1]
+			"Redjidk-TarrenMill", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Redjidk-TarrenMill", -- [5]
 			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
 			0, -- [10]
-			932, -- [11]
-			"Player-1084-0854DAAD", -- [12]
+			124, -- [11]
+			"Player-1084-082D6992", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffe7b09Enthusiastus|r",
-			[51] = 1605497417,
-			[50] = "CHAT_MSG_SAY",
+			true, -- [17]
+			[52] = "|cffc31d39Redjidk|r",
+			[51] = 1606103371,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [19]
 		{
-			"2", -- [1]
-			"Enthusiastus-TarrenMill", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Enthusiastus-TarrenMill", -- [5]
+			"i need guld", -- [1]
+			"Redjidk-TarrenMill", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Redjidk-TarrenMill", -- [5]
 			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
 			0, -- [10]
-			933, -- [11]
-			"Player-1084-0854DAAD", -- [12]
+			125, -- [11]
+			"Player-1084-082D6992", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffe7b09Enthusiastus|r",
-			[51] = 1605497418,
-			[50] = "CHAT_MSG_SAY",
+			true, -- [17]
+			[52] = "|cffc31d39Redjidk|r",
+			[51] = 1606103373,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [20]
 		{
-			"1", -- [1]
-			"Enthusiastus-TarrenMill", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Enthusiastus-TarrenMill", -- [5]
+			"me too can i boost jaina", -- [1]
+			"Jorddo-TarrenMill", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Jorddo-TarrenMill", -- [5]
 			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
 			0, -- [10]
-			934, -- [11]
-			"Player-1084-0854DAAD", -- [12]
+			126, -- [11]
+			"Player-1084-082D64A8", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffe7b09Enthusiastus|r",
-			[51] = 1605497419,
-			[50] = "CHAT_MSG_SAY",
+			true, -- [17]
+			[52] = "|cff3ec6eaJorddo|r",
+			[51] = 1606103377,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [21]
 		{
-			"Explosive Burst on Enthusiastus", -- [1]
-			"Enthusiastus-TarrenMill", -- [2]
-			"Orcish", -- [3]
+			"g", -- [1]
+			"|Kq10|k", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Enthusiastus-TarrenMill", -- [5]
+			"", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			936, -- [11]
-			"Player-1084-0854DAAD", -- [12]
-			0, -- [13]
+			127, -- [11]
+			false, -- [12]
+			5, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffe7b09Enthusiastus|r",
-			[51] = 1605497423,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cff00fe97xziino|r",
+			[51] = 1606103398,
+			[50] = "CHAT_MSG_BN_WHISPER",
+			[53] = "xziino",
 		}, -- [22]
 		{
-			"3", -- [1]
-			"Enthusiastus-TarrenMill", -- [2]
-			"Orcish", -- [3]
+			"erstmal invis pots beim mammoth verticken", -- [1]
+			"|Kq25|k", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Enthusiastus-TarrenMill", -- [5]
+			"", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			937, -- [11]
-			"Player-1084-0854DAAD", -- [12]
-			0, -- [13]
+			131, -- [11]
+			false, -- [12]
+			6, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffe7b09Enthusiastus|r",
-			[51] = 1605497424,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cfffe7b09Roí|r",
+			[51] = 1606103428,
+			[50] = "CHAT_MSG_BN_WHISPER",
+			[53] = "Roí",
 		}, -- [23]
 		{
-			"2", -- [1]
-			"Enthusiastus-TarrenMill", -- [2]
-			"Orcish", -- [3]
+			":3", -- [1]
+			"|Kq25|k", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Enthusiastus-TarrenMill", -- [5]
+			"", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			938, -- [11]
-			"Player-1084-0854DAAD", -- [12]
-			0, -- [13]
+			132, -- [11]
+			false, -- [12]
+			6, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffe7b09Enthusiastus|r",
-			[51] = 1605497425,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cfffe7b09Roí|r",
+			[51] = 1606103433,
+			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
+			[53] = "Roí",
 		}, -- [24]
 		{
-			"1", -- [1]
-			"Enthusiastus-TarrenMill", -- [2]
-			"Orcish", -- [3]
+			"j", -- [1]
+			"Xziino-TarrenMill", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Enthusiastus-TarrenMill", -- [5]
+			"Xziino-TarrenMill", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			939, -- [11]
-			"Player-1084-0854DAAD", -- [12]
+			133, -- [11]
+			"Player-1084-0854DA24", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffe7b09Enthusiastus|r",
-			[51] = 1605497426,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffc59a6cXziino|r",
+			[51] = 1606103457,
+			[50] = "CHAT_MSG_WHISPER",
 		}, -- [25]
 		{
-			"Explosive Burst on Enthusiastus", -- [1]
-			"Enthusiastus-TarrenMill", -- [2]
-			"Orcish", -- [3]
+			"ginv", -- [1]
+			"|Kq25|k", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Enthusiastus-TarrenMill", -- [5]
+			"", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			945, -- [11]
-			"Player-1084-0854DAAD", -- [12]
-			0, -- [13]
+			137, -- [11]
+			false, -- [12]
+			6, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffe7b09Enthusiastus|r",
-			[51] = 1605497449,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffc59a6cRoí|r",
+			[51] = 1606103490,
+			[50] = "CHAT_MSG_BN_WHISPER",
+			[53] = "Roí",
 		}, -- [26]
 		{
-			"3", -- [1]
-			"Enthusiastus-TarrenMill", -- [2]
-			"Orcish", -- [3]
+			"f", -- [1]
+			"Pheniisi-TarrenMill", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Enthusiastus-TarrenMill", -- [5]
+			"Pheniisi-TarrenMill", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			946, -- [11]
-			"Player-1084-0854DAAD", -- [12]
+			140, -- [11]
+			"Player-1084-09E921FD", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffe7b09Enthusiastus|r",
-			[51] = 1605497450,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffa9d271Pheniisi|r",
+			[51] = 1606103509,
+			[50] = "CHAT_MSG_WHISPER",
 		}, -- [27]
 		{
-			"2", -- [1]
-			"Enthusiastus-TarrenMill", -- [2]
-			"Orcish", -- [3]
+			"|HclubTicket:b9kZv9cEMP|h[Join: null]|h", -- [1]
+			"|Kq25|k", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Enthusiastus-TarrenMill", -- [5]
+			"", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			947, -- [11]
-			"Player-1084-0854DAAD", -- [12]
-			0, -- [13]
+			143, -- [11]
+			false, -- [12]
+			6, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffe7b09Enthusiastus|r",
-			[51] = 1605497451,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffc59a6cRoí|r",
+			[51] = 1606103536,
+			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
+			[53] = "Roí",
 		}, -- [28]
 		{
-			"1", -- [1]
-			"Enthusiastus-TarrenMill", -- [2]
-			"Orcish", -- [3]
+			"|HclubTicket:b9kZv9cEMP|h[Join: null]|h", -- [1]
+			"|Kq10|k", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Enthusiastus-TarrenMill", -- [5]
+			"", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			948, -- [11]
-			"Player-1084-0854DAAD", -- [12]
-			0, -- [13]
+			144, -- [11]
+			false, -- [12]
+			5, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffe7b09Enthusiastus|r",
-			[51] = 1605497452,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffa9d271xziino|r",
+			[51] = 1606103541,
+			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
+			[53] = "xziino",
 		}, -- [29]
 		{
-			"%s has earned the achievement |cffffff00|Hachievement:12840:Player-1084-0853F71A:1:11:16:20:4294967295:4294967295:4294967295:4294967295|h[Tol Dagor]|h|r!", -- [1]
-			"Talizeadr-TarrenMill", -- [2]
+			"|Hitem:162519::::::::50:73:::::::|h[Mystical Cauldron]|h hab ich hier dinge aus dem vorletzten addon dabei?", -- [1]
+			"|Kq25|k", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Talizeadr-TarrenMill", -- [5]
+			"", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			953, -- [11]
-			"Player-1084-0853F71A", -- [12]
-			0, -- [13]
+			145, -- [11]
+			false, -- [12]
+			6, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffe7b09Talizeadr|r",
-			[51] = 1605497464,
-			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+			[52] = "|cffc59a6cRoí|r",
+			[51] = 1606103547,
+			[50] = "CHAT_MSG_BN_WHISPER",
+			[53] = "Roí",
 		}, -- [30]
 		{
-			"%s has earned the achievement |cffffff00|Hachievement:12841:Player-1084-0853F71A:1:11:16:20:4294967295:4294967295:4294967295:4294967295|h[Heroic: Tol Dagor]|h|r!", -- [1]
-			"Talizeadr-TarrenMill", -- [2]
+			"|cffffd100|HclubTicket:b9kZv9cEMP|h[Join: null]|h|r", -- [1]
+			"Pheniisi-TarrenMill", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Talizeadr-TarrenMill", -- [5]
+			"Pheniisi-TarrenMill", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			954, -- [11]
-			"Player-1084-0853F71A", -- [12]
+			146, -- [11]
+			"Player-1084-09E921FD", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffe7b09Talizeadr|r",
-			[51] = 1605497464,
-			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+			[52] = "|cffa9d271Pheniisi|r",
+			[51] = 1606103547,
+			[50] = "CHAT_MSG_WHISPER_INFORM",
 		}, -- [31]
 		{
-			"%s has earned the achievement |cffffff00|Hachievement:12842:Player-1084-0853F71A:1:11:16:20:4294967295:4294967295:4294967295:4294967295|h[Mythic: Tol Dagor]|h|r!", -- [1]
-			"Talizeadr-TarrenMill", -- [2]
+			"https://www.worldofwarcraft.com/invite/b9kZv9cEMP?region=EU&faction=Horde", -- [1]
+			"Pheniisi-TarrenMill", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Talizeadr-TarrenMill", -- [5]
+			"Pheniisi-TarrenMill", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			955, -- [11]
+			147, -- [11]
+			"Player-1084-09E921FD", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa9d271Pheniisi|r",
+			[51] = 1606103566,
+			[50] = "CHAT_MSG_WHISPER_INFORM",
+		}, -- [32]
+		{
+			"yeehgehe", -- [1]
+			"Shapertti-TarrenMill", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Shapertti-TarrenMill", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			148, -- [11]
+			"Player-1084-09F463DE", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff006fdcShapertti|r",
+			[51] = 1606103581,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [33]
+		{
+			"i lvoe you", -- [1]
+			"Shapertti-TarrenMill", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Shapertti-TarrenMill", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			149, -- [11]
+			"Player-1084-09F463DE", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff006fdcShapertti|r",
+			[51] = 1606103583,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [34]
+		{
+			"f", -- [1]
+			"Nibeliino-TarrenMill", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Nibeliino-TarrenMill", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			150, -- [11]
+			"Player-1084-09EC1D0D", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff3ec6eaNibeliino|r",
+			[51] = 1606103601,
+			[50] = "CHAT_MSG_WHISPER",
+		}, -- [35]
+		{
+			"sollte community nicht accountwide sein?", -- [1]
+			"|Kq25|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			154, -- [11]
+			false, -- [12]
+			6, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc59a6cRoí|r",
+			[51] = 1606103630,
+			[50] = "CHAT_MSG_BN_WHISPER",
+			[53] = "Roí",
+		}, -- [36]
+		{
+			"SOLLTE ABER IOST NICHT", -- [1]
+			"|Kq25|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			155, -- [11]
+			false, -- [12]
+			6, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "Roí",
+			[51] = 1606103638,
+			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
+			[53] = "Roí",
+		}, -- [37]
+		{
+			"gh", -- [1]
+			"Mejyna-TarrenMill", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Mejyna-TarrenMill", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			156, -- [11]
+			"Player-1084-09EBB86E", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffef367Mejyna|r",
+			[51] = 1606103642,
+			[50] = "CHAT_MSG_WHISPER",
+		}, -- [38]
+		{
+			"mein dh ist in null", -- [1]
+			"|Kq25|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			161, -- [11]
+			false, -- [12]
+			6, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa22fc8Roí|r",
+			[51] = 1606103667,
+			[50] = "CHAT_MSG_BN_WHISPER",
+			[53] = "Roí",
+		}, -- [39]
+		{
+			"aber warry war nicht?", -- [1]
+			"|Kq25|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			162, -- [11]
+			false, -- [12]
+			6, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa22fc8Roí|r",
+			[51] = 1606103673,
+			[50] = "CHAT_MSG_BN_WHISPER",
+			[53] = "Roí",
+		}, -- [40]
+		{
+			"ginv", -- [1]
+			"|Kq25|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			163, -- [11]
+			false, -- [12]
+			6, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa22fc8Roí|r",
+			[51] = 1606103674,
+			[50] = "CHAT_MSG_BN_WHISPER",
+			[53] = "Roí",
+		}, -- [41]
+		{
+			"gehört die dir?", -- [1]
+			"|Kq25|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			164, -- [11]
+			false, -- [12]
+			6, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa22fc8Roí|r",
+			[51] = 1606103674,
+			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
+			[53] = "Roí",
+		}, -- [42]
+		{
+			"j", -- [1]
+			"Fluppi-TarrenMill", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Fluppi-TarrenMill", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			167, -- [11]
+			"Player-1084-09EEA76E", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffefefeFluppi|r",
+			[51] = 1606103684,
+			[50] = "CHAT_MSG_WHISPER",
+		}, -- [43]
+		{
+			"aso ja der dh ist drin in der grp jo", -- [1]
+			"|Kq25|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			168, -- [11]
+			false, -- [12]
+			6, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa22fc8Roí|r",
+			[51] = 1606103687,
+			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
+			[53] = "Roí",
+		}, -- [44]
+		{
+			"ginv", -- [1]
+			"|Kq25|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			172, -- [11]
+			false, -- [12]
+			6, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc31d39Roí|r",
+			[51] = 1606103723,
+			[50] = "CHAT_MSG_BN_WHISPER",
+			[53] = "Roí",
+		}, -- [45]
+		{
+			"h", -- [1]
+			"Illumini-TarrenMill", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Illumini-TarrenMill", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			174, -- [11]
+			"Player-1084-09EEA7C2", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff006fdcIllumini|r",
+			[51] = 1606103732,
+			[50] = "CHAT_MSG_WHISPER",
+		}, -- [46]
+		{
+			"h", -- [1]
+			"Lyokii-TarrenMill", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Lyokii-TarrenMill", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			179, -- [11]
+			"Player-1084-09EEA808", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff8687edLyokii|r",
+			[51] = 1606103786,
+			[50] = "CHAT_MSG_WHISPER",
+		}, -- [47]
+		{
+			"ginv", -- [1]
+			"|Kq25|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			184, -- [11]
+			false, -- [12]
+			6, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff38bb9Roí|r",
+			[51] = 1606103805,
+			[50] = "CHAT_MSG_BN_WHISPER",
+			[53] = "Roí",
+		}, -- [48]
+		{
+			"ginv communityinv", -- [1]
+			"|Kq25|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			188, -- [11]
+			false, -- [12]
+			6, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff006fdcRoí|r",
+			[51] = 1606103846,
+			[50] = "CHAT_MSG_BN_WHISPER",
+			[53] = "Roí",
+		}, -- [49]
+		{
+			"alles inv", -- [1]
+			"|Kq25|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			208, -- [11]
+			false, -- [12]
+			6, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa9d271Roí|r",
+			[51] = 1606103967,
+			[50] = "CHAT_MSG_BN_WHISPER",
+			[53] = "Roí",
+		}, -- [50]
+		{
+			"warum haben wir eig. 3 communities?", -- [1]
+			"|Kq25|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			210, -- [11]
+			false, -- [12]
+			6, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa9d271Roí|r",
+			[51] = 1606103979,
+			[50] = "CHAT_MSG_BN_WHISPER",
+			[53] = "Roí",
+		}, -- [51]
+		{
+			"altera", -- [1]
+			"|Kq25|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			214, -- [11]
+			false, -- [12]
+			6, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa9d271Roí|r",
+			[51] = 1606103993,
+			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
+			[53] = "Roí",
+		}, -- [52]
+		{
+			"dy", -- [1]
+			"|Kq25|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			215, -- [11]
+			false, -- [12]
+			6, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa9d271Roí|r",
+			[51] = 1606103993,
+			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
+			[53] = "Roí",
+		}, -- [53]
+		{
+			"in", -- [1]
+			"|Kq25|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			216, -- [11]
+			false, -- [12]
+			6, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa9d271Roí|r",
+			[51] = 1606103994,
+			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
+			[53] = "Roí",
+		}, -- [54]
+		{
+			"guild", -- [1]
+			"|Kq25|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			217, -- [11]
+			false, -- [12]
+			6, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa9d271Roí|r",
+			[51] = 1606103995,
+			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
+			[53] = "Roí",
+		}, -- [55]
+		{
+			"ah sex war der bino", -- [1]
+			"|Kq25|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			218, -- [11]
+			false, -- [12]
+			6, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa9d271Roí|r",
+			[51] = 1606100406,
+			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
+			[53] = "Roí",
+		}, -- [56]
+		{
+			"ginv", -- [1]
+			"|Kq25|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			220, -- [11]
+			false, -- [12]
+			6, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff00fe97Roí|r",
+			[51] = 1606104091,
+			[50] = "CHAT_MSG_BN_WHISPER",
+			[53] = "Roí",
+		}, -- [57]
+		{
+			"\"Midnight Singularity\" has earned the achievement |cffffff00|Hachievement:5145:Guild-1084-000004AD43D4:1:11:23:20:4294967295:4294967295:4294967295:4294967295|h[Dungeon Diplomat]|h|r!", -- [1]
+			"Midnight Singularity", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			224, -- [11]
+			false, -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "Midnight Singularity",
+			[51] = 1606104118,
+			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+		}, -- [58]
+		{
+			"okay, das waren alle meine chars", -- [1]
+			"Talizeadr-TarrenMill", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			226, -- [11]
 			"Player-1084-0853F71A", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -724,21 +1346,65 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cfffe7b09Talizeadr|r",
-			[51] = 1605497464,
-			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [32]
+			[51] = 1606104177,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [59]
 		{
-			"Thank you for travelling with ElitismHelper. Amount of failure damage:", -- [1]
-			"Enthusiastus-TarrenMill", -- [2]
+			"der gildenrank gibt mir auch negeraids", -- [1]
+			"Talizeadr-TarrenMill", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Enthusiastus-TarrenMill", -- [5]
+			"", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			964, -- [11]
+			227, -- [11]
+			"Player-1084-0853F71A", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffe7b09Talizeadr|r",
+			[51] = 1606104189,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [60]
+		{
+			"den hast du verdient", -- [1]
+			"Morphorius-TarrenMill", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			228, -- [11]
+			"Player-1084-09C0C91D", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffe7b09Morphorius|r",
+			[51] = 1606104197,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [61]
+		{
+			":D", -- [1]
+			"Enthusiastus-TarrenMill", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			229, -- [11]
 			"Player-1084-0854DAAD", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -746,21 +1412,43 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cfffe7b09Enthusiastus|r",
-			[51] = 1605497464,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [33]
+			[51] = 1606104205,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [62]
 		{
-			"1. Mizohunt-Lightning'sBlade 40.6k", -- [1]
-			"Enthusiastus-TarrenMill", -- [2]
+			"hoffe ihr habt alle schonmal 25 quests rdy zum turn in für world first level 60", -- [1]
+			"Talizeadr-TarrenMill", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Enthusiastus-TarrenMill", -- [5]
+			"", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			965, -- [11]
+			230, -- [11]
+			"Player-1084-0853F71A", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffe7b09Talizeadr|r",
+			[51] = 1606104253,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [63]
+		{
+			"ich lollierte", -- [1]
+			"Enthusiastus-TarrenMill", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			231, -- [11]
 			"Player-1084-0854DAAD", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -768,21 +1456,65 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cfffe7b09Enthusiastus|r",
-			[51] = 1605497464,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [34]
+			[51] = 1606104268,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [64]
 		{
-			"2. Movida-Kazzak 69.8k", -- [1]
-			"Enthusiastus-TarrenMill", -- [2]
+			"und 16x aufm ptr jeden cheese getestet", -- [1]
+			"Talizeadr-TarrenMill", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Enthusiastus-TarrenMill", -- [5]
+			"", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			966, -- [11]
+			232, -- [11]
+			"Player-1084-0853F71A", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffe7b09Talizeadr|r",
+			[51] = 1606104275,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [65]
+		{
+			"ich bin schon 60", -- [1]
+			"Morphorius-TarrenMill", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			233, -- [11]
+			"Player-1084-09C0C91D", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffe7b09Morphorius|r",
+			[51] = 1606104285,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [66]
+		{
+			"bin schon 61 tbh", -- [1]
+			"Enthusiastus-TarrenMill", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			234, -- [11]
 			"Player-1084-0854DAAD", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -790,21 +1522,65 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cfffe7b09Enthusiastus|r",
-			[51] = 1605497464,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [35]
+			[51] = 1606104318,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [67]
 		{
-			"3. Enthusiastus 92.4k", -- [1]
-			"Enthusiastus-TarrenMill", -- [2]
+			"sach mal", -- [1]
+			"Talizeadr-TarrenMill", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Enthusiastus-TarrenMill", -- [5]
+			"", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			967, -- [11]
+			237, -- [11]
+			"Player-1084-0853F71A", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffe7b09Talizeadr|r",
+			[51] = 1606104345,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [68]
+		{
+			"ma", -- [1]
+			"Morphorius-TarrenMill", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			238, -- [11]
+			"Player-1084-09C0C91D", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffe7b09Morphorius|r",
+			[51] = 1606104348,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [69]
+		{
+			"mal", -- [1]
+			"Enthusiastus-TarrenMill", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			239, -- [11]
 			"Player-1084-0854DAAD", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -812,21 +1588,87 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cfffe7b09Enthusiastus|r",
-			[51] = 1605497464,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [36]
+			[51] = 1606104348,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [70]
 		{
-			"4. Defectum-Draenor 117.0k", -- [1]
-			"Enthusiastus-TarrenMill", -- [2]
-			"", -- [3]
+			"fede svin", -- [1]
+			"Haydendh-TarrenMill", -- [2]
+			"Orcish", -- [3]
 			"", -- [4]
-			"Enthusiastus-TarrenMill", -- [5]
+			"Haydendh-TarrenMill", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			968, -- [11]
+			240, -- [11]
+			"Player-1084-08FD5609", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa22fc8Haydendh|r",
+			[51] = 1606104367,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [71]
+		{
+			"ah man kann ingame nicht die bnet community anzeigen lassen", -- [1]
+			"Talizeadr-TarrenMill", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			241, -- [11]
+			"Player-1084-0853F71A", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffe7b09Talizeadr|r",
+			[51] = 1606104372,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [72]
+		{
+			"aids", -- [1]
+			"Talizeadr-TarrenMill", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			242, -- [11]
+			"Player-1084-0853F71A", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffe7b09Talizeadr|r",
+			[51] = 1606104374,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [73]
+		{
+			"deswegen mach ich mir die mühe", -- [1]
+			"Enthusiastus-TarrenMill", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			243, -- [11]
 			"Player-1084-0854DAAD", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -834,43 +1676,43 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cfffe7b09Enthusiastus|r",
-			[51] = 1605497464,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [37]
+			[51] = 1606104382,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [74]
 		{
-			"u need |cffa335ee|Hitem:159333::::::::50:260::16:5:5009:6516:6515:1523:4786:1:28:1261:::|h[Cincture of the Azerite Arsenal]|h|r?", -- [1]
-			"Defectum-Draenor", -- [2]
+			"das habe ich auch gerade herausgefunden :D", -- [1]
+			"Morphorius-TarrenMill", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Defectum-Draenor", -- [5]
+			"", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			981, -- [11]
-			"Player-1403-099F72A7", -- [12]
+			244, -- [11]
+			"Player-1084-09C0C91D", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffef367Defectum-Draenor|r",
-			[51] = 1605497504,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [38]
+			[52] = "|cfffe7b09Morphorius|r",
+			[51] = 1606104384,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [75]
 		{
-			"already gave it away", -- [1]
+			"jeden drecks khar einzuladen", -- [1]
 			"Enthusiastus-TarrenMill", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Enthusiastus-TarrenMill", -- [5]
+			"", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			983, -- [11]
+			245, -- [11]
 			"Player-1084-0854DAAD", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -878,65 +1720,87 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cfffe7b09Enthusiastus|r",
-			[51] = 1605497515,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [39]
+			[51] = 1606104388,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [76]
 		{
-			"welcome back boys :D", -- [1]
-			"Mizohunt-Lightning'sBlade", -- [2]
+			"meine chars sind nicht dreck", -- [1]
+			"Talizeadr-TarrenMill", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Mizohunt-Lightning'sBlade", -- [5]
+			"", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			998, -- [11]
-			"Player-1596-0E846D93", -- [12]
+			246, -- [11]
+			"Player-1084-0853F71A", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa9d271Mizohunt-Lightning'sBlade|r",
-			[51] = 1605497585,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [40]
+			[52] = "|cfffe7b09Talizeadr|r",
+			[51] = 1606104405,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [77]
 		{
-			"Hi", -- [1]
-			"Вильгефорц-Ревущийфьорд", -- [2]
+			"denk dran nomma deine addons upzudaten", -- [1]
+			"Morphorius-TarrenMill", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Вильгефорц-Ревущийфьорд", -- [5]
+			"", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1000, -- [11]
-			"Player-1615-08690022", -- [12]
+			247, -- [11]
+			"Player-1084-09C0C91D", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff8687edВильгефорц-Ревущийфьорд|r",
-			[51] = 1605497603,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [41]
+			[52] = "|cfffe7b09Morphorius|r",
+			[51] = 1606104420,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [78]
+		{
+			"bevor es disabled wird", -- [1]
+			"Morphorius-TarrenMill", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			248, -- [11]
+			"Player-1084-09C0C91D", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffe7b09Morphorius|r",
+			[51] = 1606104423,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [79]
 		{
 			":3", -- [1]
 			"Enthusiastus-TarrenMill", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Enthusiastus-TarrenMill", -- [5]
+			"", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1001, -- [11]
+			249, -- [11]
 			"Player-1084-0854DAAD", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -944,901 +1808,65 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cfffe7b09Enthusiastus|r",
-			[51] = 1605497607,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [42]
-		{
-			"Yo", -- [1]
-			"Mizohunt-Lightning'sBlade", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Mizohunt-Lightning'sBlade", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1002, -- [11]
-			"Player-1596-0E846D93", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa9d271Mizohunt-Lightning'sBlade|r",
-			[51] = 1605497608,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [43]
-		{
-			"hello Vilgeforc", -- [1]
-			"Talizeadr-TarrenMill", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Talizeadr-TarrenMill", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1003, -- [11]
-			"Player-1084-0853F71A", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffe7b09Talizeadr|r",
-			[51] = 1605497614,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [44]
-		{
-			"hi", -- [1]
-			"Zazadira-Archimonde", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Zazadira-Archimonde", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1008, -- [11]
-			"Player-1302-0B7A845C", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffef367Zazadira-Archimonde|r",
-			[51] = 1605497625,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [45]
-		{
-			"zzzz", -- [1]
-			"Zazadira-Archimonde", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Zazadira-Archimonde", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1017, -- [11]
-			"Player-1302-0B7A845C", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffef367Zazadira-Archimonde|r",
-			[51] = 1605497737,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [46]
-		{
-			"Interrupted Mech Jockey's |cff71d5ff|Hspell:281621:0|h[Concussion Charge]|h|r!", -- [1]
-			"Talizeadr-TarrenMill", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Talizeadr-TarrenMill", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1019, -- [11]
-			"Player-1084-0853F71A", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffe7b09Talizeadr|r",
-			[51] = 1605497782,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [47]
-		{
-			"Interrupted Refreshment Vendor's |cff71d5ff|Hspell:268129:0|h[Kaja'Cola Refresher]|h|r!", -- [1]
-			"Talizeadr-TarrenMill", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Talizeadr-TarrenMill", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1020, -- [11]
-			"Player-1084-0853F71A", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffe7b09Talizeadr|r",
-			[51] = 1605497797,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [48]
-		{
-			"Interrupted Refreshment Vendor's |cff71d5ff|Hspell:280604:0|h[Iced Spritzer]|h|r!", -- [1]
-			"Talizeadr-TarrenMill", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Talizeadr-TarrenMill", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1022, -- [11]
-			"Player-1084-0853F71A", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffe7b09Talizeadr|r",
-			[51] = 1605497829,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [49]
-		{
-			"run here", -- [1]
-			"Zazadira-Archimonde", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Zazadira-Archimonde", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1026, -- [11]
-			"Player-1302-0B7A845C", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffef367Zazadira-Archimonde|r",
-			[51] = 1605497885,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [50]
-		{
-			"int", -- [1]
-			"Zazadira-Archimonde", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Zazadira-Archimonde", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1027, -- [11]
-			"Player-1302-0B7A845C", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffef367Zazadira-Archimonde|r",
-			[51] = 1605497889,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [51]
-		{
-			"we kill here", -- [1]
-			"Zazadira-Archimonde", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Zazadira-Archimonde", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1028, -- [11]
-			"Player-1302-0B7A845C", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffef367Zazadira-Archimonde|r",
-			[51] = 1605497898,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [52]
-		{
-			"Interrupted Mech Jockey's |cff71d5ff|Hspell:281621:0|h[Concussion Charge]|h|r!", -- [1]
-			"Talizeadr-TarrenMill", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Talizeadr-TarrenMill", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1032, -- [11]
-			"Player-1084-0853F71A", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffe7b09Talizeadr|r",
-			[51] = 1605497935,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [53]
-		{
-			"do % here", -- [1]
-			"Zazadira-Archimonde", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Zazadira-Archimonde", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1034, -- [11]
-			"Player-1302-0B7A845C", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffef367Zazadira-Archimonde|r",
-			[51] = 1605497952,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [54]
-		{
-			"Interrupted Refreshment Vendor's |cff71d5ff|Hspell:280604:0|h[Iced Spritzer]|h|r!", -- [1]
-			"Talizeadr-TarrenMill", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Talizeadr-TarrenMill", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1037, -- [11]
-			"Player-1084-0853F71A", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffe7b09Talizeadr|r",
-			[51] = 1605497986,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [55]
-		{
-			"Interrupted Refreshment Vendor's |cff71d5ff|Hspell:268129:0|h[Kaja'Cola Refresher]|h|r!", -- [1]
-			"Talizeadr-TarrenMill", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Talizeadr-TarrenMill", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1039, -- [11]
-			"Player-1084-0853F71A", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffe7b09Talizeadr|r",
-			[51] = 1605498024,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [56]
-		{
-			"do %", -- [1]
-			"Zazadira-Archimonde", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Zazadira-Archimonde", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1041, -- [11]
-			"Player-1302-0B7A845C", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffef367Zazadira-Archimonde|r",
-			[51] = 1605498039,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [57]
-		{
-			"Interrupted Hired Assassin's |cff71d5ff|Hspell:269302:0|h[Toxic Blades]|h|r!", -- [1]
-			"Talizeadr-TarrenMill", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Talizeadr-TarrenMill", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1043, -- [11]
-			"Player-1084-0853F71A", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffe7b09Talizeadr|r",
-			[51] = 1605498043,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [58]
-		{
-			"Interrupted Addled Thug's |cff71d5ff|Hspell:262092:0|h[Inhale Vapors]|h|r!", -- [1]
-			"Talizeadr-TarrenMill", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Talizeadr-TarrenMill", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1044, -- [11]
-			"Player-1084-0853F71A", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffe7b09Talizeadr|r",
-			[51] = 1605498072,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [59]
-		{
-			"Interrupted Mech Jockey's |cff71d5ff|Hspell:281621:0|h[Concussion Charge]|h|r!", -- [1]
-			"Talizeadr-TarrenMill", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Talizeadr-TarrenMill", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1048, -- [11]
-			"Player-1084-0853F71A", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffe7b09Talizeadr|r",
-			[51] = 1605498143,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [60]
-		{
-			"Interrupted Addled Thug's |cff71d5ff|Hspell:262092:0|h[Inhale Vapors]|h|r!", -- [1]
-			"Talizeadr-TarrenMill", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Talizeadr-TarrenMill", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1050, -- [11]
-			"Player-1084-0853F71A", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffe7b09Talizeadr|r",
-			[51] = 1605498163,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [61]
-		{
-			"Interrupted Hired Assassin's |cff71d5ff|Hspell:269302:0|h[Toxic Blades]|h|r!", -- [1]
-			"Talizeadr-TarrenMill", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Talizeadr-TarrenMill", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1060, -- [11]
-			"Player-1084-0853F71A", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffe7b09Talizeadr|r",
-			[51] = 1605498428,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [62]
-		{
-			"Interrupted Venture Co. Earthshaper's |cff71d5ff|Hspell:263202:0|h[Rock Lance]|h|r!", -- [1]
-			"Talizeadr-TarrenMill", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Talizeadr-TarrenMill", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1075, -- [11]
-			"Player-1084-0853F71A", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffe7b09Talizeadr|r",
-			[51] = 1605498562,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [63]
-		{
-			"RUN BOSS", -- [1]
-			"Zazadira-Archimonde", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Zazadira-Archimonde", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1092, -- [11]
-			"Player-1302-0B7A845C", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffef367Zazadira-Archimonde|r",
-			[51] = 1605498782,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [64]
-		{
-			"uups caps", -- [1]
-			"Zazadira-Archimonde", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Zazadira-Archimonde", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1093, -- [11]
-			"Player-1302-0B7A845C", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffef367Zazadira-Archimonde|r",
-			[51] = 1605498785,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [65]
-		{
-			"Raging Gaze on Mizohunt", -- [1]
-			"Mizohunt-Lightning'sBlade", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Mizohunt-Lightning'sBlade", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1094, -- [11]
-			"Player-1596-0E846D93", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa9d271Mizohunt-Lightning'sBlade|r",
-			[51] = 1605498843,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [66]
-		{
-			"Raging Gaze on Enthusiastus", -- [1]
-			"Enthusiastus-TarrenMill", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Enthusiastus-TarrenMill", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1095, -- [11]
-			"Player-1084-0854DAAD", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffe7b09Enthusiastus|r",
-			[51] = 1605498844,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [67]
-		{
-			"Raging Gaze on Enthusiastus", -- [1]
-			"Enthusiastus-TarrenMill", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Enthusiastus-TarrenMill", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1099, -- [11]
-			"Player-1084-0854DAAD", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffe7b09Enthusiastus|r",
-			[51] = 1605498871,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [68]
-		{
-			"Яростный взгляд на Вильгефорц!", -- [1]
-			"Вильгефорц-Ревущийфьорд", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Вильгефорц-Ревущийфьорд", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1104, -- [11]
-			"Player-1615-08690022", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff8687edВильгефорц-Ревущийфьорд|r",
-			[51] = 1605498907,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [69]
-		{
-			"Regard enragé sur Zazadira!", -- [1]
-			"Zazadira-Archimonde", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Zazadira-Archimonde", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1105, -- [11]
-			"Player-1302-0B7A845C", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffef367Zazadira-Archimonde|r",
-			[51] = 1605498911,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [70]
-		{
-			"Interrupted Feckless Assistant's |cff71d5ff|Hspell:263103:0|h[Blowtorch]|h|r!", -- [1]
-			"Talizeadr-TarrenMill", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Talizeadr-TarrenMill", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1110, -- [11]
-			"Player-1084-0853F71A", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffe7b09Talizeadr|r",
-			[51] = 1605498975,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [71]
-		{
-			"Interrupted Voidweaver Mal'thir's |cff71d5ff|Hspell:314411:0|h[Lingering Doubt]|h|r!", -- [1]
-			"Talizeadr-TarrenMill", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Talizeadr-TarrenMill", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1123, -- [11]
-			"Player-1084-0853F71A", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffe7b09Talizeadr|r",
-			[51] = 1605499116,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [72]
-		{
-			"Propellant Blast on Enthusiastus", -- [1]
-			"Enthusiastus-TarrenMill", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Enthusiastus-TarrenMill", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1129, -- [11]
-			"Player-1084-0854DAAD", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffe7b09Enthusiastus|r",
-			[51] = 1605499221,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [73]
-		{
-			"Propellant Blast on Enthusiastus", -- [1]
-			"Enthusiastus-TarrenMill", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Enthusiastus-TarrenMill", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1132, -- [11]
-			"Player-1084-0854DAAD", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffe7b09Enthusiastus|r",
-			[51] = 1605499227,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [74]
-		{
-			"100% zhere?", -- [1]
-			"Talizeadr-TarrenMill", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Talizeadr-TarrenMill", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1137, -- [11]
-			"Player-1084-0853F71A", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffe7b09Talizeadr|r",
-			[51] = 1605499338,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [75]
-		{
-			"before obe?", -- [1]
-			"Talizeadr-TarrenMill", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Talizeadr-TarrenMill", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1138, -- [11]
-			"Player-1084-0853F71A", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffe7b09Talizeadr|r",
-			[51] = 1605499342,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [76]
-		{
-			"yeah", -- [1]
-			"Zazadira-Archimonde", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Zazadira-Archimonde", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1139, -- [11]
-			"Player-1302-0B7A845C", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffef367Zazadira-Archimonde|r",
-			[51] = 1605499348,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [77]
-		{
-			"Homing Missile on Mizohunt", -- [1]
-			"Mizohunt-Lightning'sBlade", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Mizohunt-Lightning'sBlade", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1143, -- [11]
-			"Player-1596-0E846D93", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa9d271Mizohunt-Lightning'sBlade|r",
-			[51] = 1605499535,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [78]
-		{
-			"Азеритовый пронзатель сердец на Вильгефорц!", -- [1]
-			"Вильгефорц-Ревущийфьорд", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Вильгефорц-Ревущийфьорд", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1151, -- [11]
-			"Player-1615-08690022", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff8687edВильгефорц-Ревущийфьорд|r",
-			[51] = 1605499594,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [79]
-		{
-			"Crève-cœur d’azérite sur Zazadira!", -- [1]
-			"Zazadira-Archimonde", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Zazadira-Archimonde", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1153, -- [11]
-			"Player-1302-0B7A845C", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffef367Zazadira-Archimonde|r",
-			[51] = 1605499595,
-			[50] = "CHAT_MSG_SAY",
+			[51] = 1606104434,
+			[50] = "CHAT_MSG_GUILD",
 		}, -- [80]
 		{
-			"Мощный удар буром на Вильгефорц!", -- [1]
-			"Вильгефорц-Ревущийфьорд", -- [2]
-			"Orcish", -- [3]
+			"was speckt man so?", -- [1]
+			"Enthusiastus-TarrenMill", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Вильгефорц-Ревущийфьорд", -- [5]
+			"", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1160, -- [11]
-			"Player-1615-08690022", -- [12]
+			250, -- [11]
+			"Player-1084-0854DAAD", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff8687edВильгефорц-Ревущийфьорд|r",
-			[51] = 1605499620,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cfffe7b09Enthusiastus|r",
+			[51] = 1606104449,
+			[50] = "CHAT_MSG_GUILD",
 		}, -- [81]
 		{
-			"Homing Missile on Enthusiastus", -- [1]
-			"Enthusiastus-TarrenMill", -- [2]
-			"Orcish", -- [3]
+			"moonkin?", -- [1]
+			"Talizeadr-TarrenMill", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Enthusiastus-TarrenMill", -- [5]
+			"", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1163, -- [11]
-			"Player-1084-0854DAAD", -- [12]
+			251, -- [11]
+			"Player-1084-0853F71A", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffe7b09Enthusiastus|r",
-			[51] = 1605499637,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cfffe7b09Talizeadr|r",
+			[51] = 1606104456,
+			[50] = "CHAT_MSG_GUILD",
 		}, -- [82]
 		{
-			"Thank you for travelling with ElitismHelper. Amount of failure damage:", -- [1]
+			"stufen wir zu 3?", -- [1]
 			"Enthusiastus-TarrenMill", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Enthusiastus-TarrenMill", -- [5]
+			"", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1169, -- [11]
+			252, -- [11]
 			"Player-1084-0854DAAD", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -1846,21 +1874,21 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cfffe7b09Enthusiastus|r",
-			[51] = 1605499656,
-			[50] = "CHAT_MSG_PARTY",
+			[51] = 1606104459,
+			[50] = "CHAT_MSG_GUILD",
 		}, -- [83]
 		{
-			"1. Talizeadr 21.0k", -- [1]
+			"um null?", -- [1]
 			"Enthusiastus-TarrenMill", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Enthusiastus-TarrenMill", -- [5]
+			"", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1170, -- [11]
+			253, -- [11]
 			"Player-1084-0854DAAD", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -1868,43 +1896,43 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cfffe7b09Enthusiastus|r",
-			[51] = 1605499656,
-			[50] = "CHAT_MSG_PARTY",
+			[51] = 1606104467,
+			[50] = "CHAT_MSG_GUILD",
 		}, -- [84]
 		{
-			"2. Zazadira-Archimonde 38.7k", -- [1]
-			"Enthusiastus-TarrenMill", -- [2]
+			"\"null\"", -- [1]
+			"Morphorius-TarrenMill", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Enthusiastus-TarrenMill", -- [5]
+			"", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1171, -- [11]
-			"Player-1084-0854DAAD", -- [12]
+			254, -- [11]
+			"Player-1084-09C0C91D", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffe7b09Enthusiastus|r",
-			[51] = 1605499656,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cfffe7b09Morphorius|r",
+			[51] = 1606104482,
+			[50] = "CHAT_MSG_GUILD",
 		}, -- [85]
 		{
-			"3. Вильгефорц-Ревущийфьорд 43.6k", -- [1]
+			"warmode off btw", -- [1]
 			"Enthusiastus-TarrenMill", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Enthusiastus-TarrenMill", -- [5]
+			"", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1172, -- [11]
+			255, -- [11]
 			"Player-1084-0854DAAD", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -1912,219 +1940,285 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cfffe7b09Enthusiastus|r",
-			[51] = 1605499656,
-			[50] = "CHAT_MSG_PARTY",
+			[51] = 1606104514,
+			[50] = "CHAT_MSG_GUILD",
 		}, -- [86]
 		{
-			"4. Mizohunt-Lightning'sBlade 52.6k", -- [1]
-			"Enthusiastus-TarrenMill", -- [2]
+			"???", -- [1]
+			"Morphorius-TarrenMill", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Enthusiastus-TarrenMill", -- [5]
+			"", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1173, -- [11]
-			"Player-1084-0854DAAD", -- [12]
+			256, -- [11]
+			"Player-1084-09C0C91D", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffe7b09Enthusiastus|r",
-			[51] = 1605499656,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cfffe7b09Morphorius|r",
+			[51] = 1606104519,
+			[50] = "CHAT_MSG_GUILD",
 		}, -- [87]
 		{
-			"5. Enthusiastus 104.9k", -- [1]
-			"Enthusiastus-TarrenMill", -- [2]
+			"mein eulenspec hat die besten keybinds", -- [1]
+			"Talizeadr-TarrenMill", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Enthusiastus-TarrenMill", -- [5]
+			"", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1174, -- [11]
-			"Player-1084-0854DAAD", -- [12]
+			258, -- [11]
+			"Player-1084-0853F71A", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffe7b09Enthusiastus|r",
-			[51] = 1605499656,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cfffe7b09Talizeadr|r",
+			[51] = 1606104662,
+			[50] = "CHAT_MSG_GUILD",
 		}, -- [88]
 		{
-			"gg", -- [1]
-			"Enthusiastus-TarrenMill", -- [2]
+			"prolonged power", -- [1]
+			"Talizeadr-TarrenMill", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Enthusiastus-TarrenMill", -- [5]
+			"", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1182, -- [11]
-			"Player-1084-0854DAAD", -- [12]
+			259, -- [11]
+			"Player-1084-0853F71A", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffe7b09Enthusiastus|r",
-			[51] = 1605499701,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cfffe7b09Talizeadr|r",
+			[51] = 1606104665,
+			[50] = "CHAT_MSG_GUILD",
 		}, -- [89]
 		{
-			"cyaa", -- [1]
-			"Enthusiastus-TarrenMill", -- [2]
+			"alles da was man braucht", -- [1]
+			"Talizeadr-TarrenMill", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Enthusiastus-TarrenMill", -- [5]
+			"", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1183, -- [11]
-			"Player-1084-0854DAAD", -- [12]
+			260, -- [11]
+			"Player-1084-0853F71A", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffe7b09Enthusiastus|r",
-			[51] = 1605499702,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cfffe7b09Talizeadr|r",
+			[51] = 1606104669,
+			[50] = "CHAT_MSG_GUILD",
 		}, -- [90]
 		{
-			"WTS  power leveling boost 10-50  With new method  very fast ..Horrific vision 0- 5 mask  Also +15 with good GP (Free armor stack) you can afk...Mechagon hardmode   /w me for more info", -- [1]
-			"Kattarin-TarrenMill", -- [2]
+			":3333", -- [1]
+			"Enthusiastus-TarrenMill", -- [2]
 			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Kattarin-TarrenMill", -- [5]
+			"", -- [4]
+			"", -- [5]
 			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			2368, -- [11]
-			"Player-1084-09202DCE", -- [12]
+			261, -- [11]
+			"Player-1084-0854DAAD", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			true, -- [17]
-			[52] = "|cffa22fc8Kattarin|r",
-			[51] = 1605573294,
-			[50] = "CHAT_MSG_CHANNEL",
+			false, -- [17]
+			[52] = "|cfffe7b09Enthusiastus|r",
+			[51] = 1606104685,
+			[50] = "CHAT_MSG_GUILD",
 		}, -- [91]
 		{
-			"<Hydra> Selling |cffffff00|Hachievement:8721:Player-1084-09CD7ABF:1:11:13:20:4294967295:4294967295:4294967295:4294967295|h[Fire-Watcher]|h|r: Get your Title +Mount +Pet 150k. #Only Mount |cff71d5ff|Hspell:148428:0|h[Ashhide Mushan Beast]|h|r 50k. /w me", -- [1]
-			"Hydraboostcm-TarrenMill", -- [2]
+			"wasn nu", -- [1]
+			"Enthusiastus-TarrenMill", -- [2]
 			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Hydraboostcm-TarrenMill", -- [5]
+			"", -- [4]
+			"", -- [5]
 			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			2369, -- [11]
-			"Player-1084-09CD7ABF", -- [12]
+			262, -- [11]
+			"Player-1084-0854DAAD", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			true, -- [17]
-			[52] = "|cffc59a6cHydraboostcm|r",
-			[51] = 1605573304,
-			[50] = "CHAT_MSG_CHANNEL",
+			false, -- [17]
+			[52] = "|cfffe7b09Enthusiastus|r",
+			[51] = 1606104687,
+			[50] = "CHAT_MSG_GUILD",
 		}, -- [92]
 		{
-			"Interrupted Cyclonic Lieutenant's |cff71d5ff|Hspell:245131:0|h[Chain Lightning]|h|r!", -- [1]
-			"Talizeadr-TarrenMill", -- [2]
-			"Orcish", -- [3]
+			"eulenspeck", -- [1]
+			"Enthusiastus-TarrenMill", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Talizeadr-TarrenMill", -- [5]
+			"", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2450, -- [11]
-			"Player-1084-0853F71A", -- [12]
+			263, -- [11]
+			"Player-1084-0854DAAD", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffe7b09Talizeadr|r",
-			[51] = 1605573864,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cfffe7b09Enthusiastus|r",
+			[51] = 1606104699,
+			[50] = "CHAT_MSG_GUILD",
 		}, -- [93]
 		{
-			"Interrupted Zaliz' Eternal Hound's |cff71d5ff|Hspell:274969:0|h[Spirit Armor]|h|r!", -- [1]
-			"Talizeadr-TarrenMill", -- [2]
-			"Orcish", -- [3]
+			"ich habe auch wrath gebunden", -- [1]
+			"Enthusiastus-TarrenMill", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Talizeadr-TarrenMill", -- [5]
+			"", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2487, -- [11]
-			"Player-1084-0853F71A", -- [12]
+			264, -- [11]
+			"Player-1084-0854DAAD", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffe7b09Talizeadr|r",
-			[51] = 1605574012,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cfffe7b09Enthusiastus|r",
+			[51] = 1606104709,
+			[50] = "CHAT_MSG_GUILD",
 		}, -- [94]
 		{
-			"%s has earned the achievement |cffffff00|Hachievement:13107:Player-1084-0853F71A:1:11:17:20:4294967295:4294967295:4294967295:4294967295|h[Skittering Hollow]|h|r!", -- [1]
-			"Talizeadr-TarrenMill", -- [2]
+			"auf eine heißtaste", -- [1]
+			"Enthusiastus-TarrenMill", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Talizeadr-TarrenMill", -- [5]
+			"", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2525, -- [11]
-			"Player-1084-0853F71A", -- [12]
+			265, -- [11]
+			"Player-1084-0854DAAD", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffe7b09Talizeadr|r",
-			[51] = 1605574137,
-			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+			[52] = "|cfffe7b09Enthusiastus|r",
+			[51] = 1606104712,
+			[50] = "CHAT_MSG_GUILD",
 		}, -- [95]
 		{
-			"%s has earned the achievement |cffffff00|Hachievement:13108:Player-1084-0853F71A:1:11:17:20:4294967295:4294967295:4294967295:4294967295|h[Heroic: Skittering Hollow]|h|r!", -- [1]
-			"Talizeadr-TarrenMill", -- [2]
+			"- /run local t = time() +15 while time() < t do end", -- [1]
+			"Enthusiastus-TarrenMill", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Talizeadr-TarrenMill", -- [5]
+			"", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2526, -- [11]
+			266, -- [11]
+			"Player-1084-0854DAAD", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffe7b09Enthusiastus|r",
+			[51] = 1606104801,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [96]
+		{
+			"das postmeister käse makro", -- [1]
+			"Enthusiastus-TarrenMill", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			267, -- [11]
+			"Player-1084-0854DAAD", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffe7b09Enthusiastus|r",
+			[51] = 1606104809,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [97]
+		{
+			"/run for k, v in pairs({ Galleon = 32098, Sha = 32099, Nalak = 32518, Oondasta = 32519}) do print(format(\"%s: %s\", k, IsQuestFlaggedCompleted(v) and \"\\124cff00ff00Yes\\124r\" or \"\\124cffff0000No\\124r\")) end", -- [1]
+			"Enthusiastus-TarrenMill", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			268, -- [11]
+			"Player-1084-0854DAAD", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffe7b09Enthusiastus|r",
+			[51] = 1606104867,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [98]
+		{
+			"kann man nicht mehr dash prowl macron?", -- [1]
+			"Talizeadr-TarrenMill", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			270, -- [11]
 			"Player-1084-0853F71A", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -2132,74 +2226,8 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cfffe7b09Talizeadr|r",
-			[51] = 1605574137,
-			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [96]
-		{
-			"%s has earned the achievement |cffffff00|Hachievement:13107:Player-1084-0854DAAD:1:11:17:20:4294967295:4294967295:4294967295:4294967295|h[Skittering Hollow]|h|r!", -- [1]
-			"Enthusiastus-TarrenMill", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Enthusiastus-TarrenMill", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			2532, -- [11]
-			"Player-1084-0854DAAD", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffe7b09Enthusiastus|r",
-			[51] = 1605574137,
-			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [97]
-		{
-			"%s has earned the achievement |cffffff00|Hachievement:13108:Player-1084-0854DAAD:1:11:17:20:4294967295:4294967295:4294967295:4294967295|h[Heroic: Skittering Hollow]|h|r!", -- [1]
-			"Enthusiastus-TarrenMill", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Enthusiastus-TarrenMill", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			2533, -- [11]
-			"Player-1084-0854DAAD", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffe7b09Enthusiastus|r",
-			[51] = 1605574137,
-			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [98]
-		{
-			"7RL", -- [1]
-			"Enthusiastus-TarrenMill", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Enthusiastus-TarrenMill", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			2545, -- [11]
-			"Player-1084-0854DAAD", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffe7b09Enthusiastus|r",
-			[51] = 1605574309,
-			[50] = "CHAT_MSG_SAY",
+			[51] = 1606105005,
+			[50] = "CHAT_MSG_GUILD",
 		}, -- [99]
 	},
 }

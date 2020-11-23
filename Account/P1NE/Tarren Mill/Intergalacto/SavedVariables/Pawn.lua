@@ -1,9 +1,6 @@
 
 PawnOptions = {
-	["LastVersion"] = 2.0404,
-	["LastPlayerFullName"] = "Intergalacto-Tarren Mill",
-	["AutoSelectScales"] = false,
-	["UpgradeTracking"] = false,
+	["LastVersion"] = 2.0406,
 	["ItemLevels"] = {
 		{
 			["ID"] = 122247,
@@ -86,6 +83,9 @@ PawnOptions = {
 			["Link"] = "|cff0070dd|Hitem:37099::::::::49:264::1:1:6710:2:28:1881:9:49:::|h[Sempiternal Staff]|h|r",
 		}, -- [16]
 	},
+	["AutoSelectScales"] = false,
+	["UpgradeTracking"] = false,
+	["LastPlayerFullName"] = "Intergalacto-Tarren Mill",
 	["LastKeybindingsSet"] = 1,
 }
 PawnMrRobotScaleProviderOptions = {

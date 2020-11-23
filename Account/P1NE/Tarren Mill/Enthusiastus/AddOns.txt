@@ -26,7 +26,7 @@ RaiderIO_DB_TW_H_R: disabled
 RaiderIO_DB_TW_A_R: disabled
 RaiderIO_DB_KR_H_R: disabled
 RaiderIO_DB_KR_A_R: disabled
-ConfirmSP: disabled
+ConfirmSP: enabled
 WoWPro: disabled
 MPH: disabled
 LittleWigs: enabled
@@ -50,3 +50,4 @@ RaiderIO_DB_KR_H: disabled
 RaiderIO_DB_KR_A: disabled
 TradeSkillMaster: enabled
 BigWigs_Nyalotha: enabled
+Overachiever: enabled

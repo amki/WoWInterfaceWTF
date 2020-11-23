@@ -1,6 +1,9 @@
 
 PawnOptions = {
 	["LastVersion"] = 2.0404,
+	["LastPlayerFullName"] = "Intergalacto-Tarren Mill",
+	["AutoSelectScales"] = false,
+	["UpgradeTracking"] = false,
 	["ItemLevels"] = {
 		{
 			["ID"] = 122247,
@@ -68,9 +71,9 @@ PawnOptions = {
 		}, -- [13]
 		{
 			["ID"] = 122362,
-			["Level"] = 56,
+			["Level"] = 58,
 			["AlsoFitsIn"] = 13,
-			["Link"] = "|cff00ccff|Hitem:122362::::::::48:264:::1:3592::::|h[Discerning Eye of the Beast]|h|r",
+			["Link"] = "|cff00ccff|Hitem:122362::::::::50:264:::1:3592::::|h[Discerning Eye of the Beast]|h|r",
 		}, -- [14]
 		{
 			["ID"] = 122262,
@@ -83,9 +86,6 @@ PawnOptions = {
 			["Link"] = "|cff0070dd|Hitem:37099::::::::49:264::1:1:6710:2:28:1881:9:49:::|h[Sempiternal Staff]|h|r",
 		}, -- [16]
 	},
-	["AutoSelectScales"] = false,
-	["UpgradeTracking"] = false,
-	["LastPlayerFullName"] = "Intergalacto-Tarren Mill",
 	["LastKeybindingsSet"] = 1,
 }
 PawnMrRobotScaleProviderOptions = {

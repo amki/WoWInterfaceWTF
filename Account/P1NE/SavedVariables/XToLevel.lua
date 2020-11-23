@@ -41,9 +41,9 @@ XToLevelDB = {
 				},
 				["killAverage"] = 260,
 				["timer"] = {
-					["start"] = 333735.416,
-					["total"] = 288262,
-					["lastUpdated"] = 339872.652,
+					["start"] = 94181.893,
+					["total"] = 0,
+					["lastUpdated"] = 94196.625,
 					["xpPerSec"] = 46.96935232733451,
 				},
 				["dungeonList"] = {
@@ -243,9 +243,9 @@ XToLevelDB = {
 		["Ieni - Tarren Mill"] = {
 			["data"] = {
 				["timer"] = {
-					["start"] = 502056.24,
+					["start"] = 93993.295,
 					["total"] = 0,
-					["lastUpdated"] = 514112.171,
+					["lastUpdated"] = 94046.327,
 					["xpPerSec"] = 0,
 				},
 			},
@@ -548,15 +548,15 @@ XToLevelDB = {
 		["Rynllor - Tarren Mill"] = {
 			["data"] = {
 				["total"] = {
-					["dungeonKills"] = 6447,
 					["quests"] = 78,
+					["dungeonKills"] = 6447,
 					["mobKills"] = 6470,
 				},
 				["killAverage"] = 1744.8,
 				["timer"] = {
-					["start"] = 835513.648,
-					["total"] = 805875,
-					["lastUpdated"] = 840047.2760000001,
+					["start"] = 94696.389,
+					["total"] = 0,
+					["lastUpdated"] = 94719.332,
 					["xpPerSec"] = 177.7549900432932,
 				},
 				["dungeonList"] = {
@@ -567,7 +567,7 @@ XToLevelDB = {
 						["killTotal"] = 95909,
 						["level"] = 119,
 						["killCount"] = 54,
-						["inProgress"] = true,
+						["inProgress"] = false,
 					}, -- [1]
 					{
 						["totalXP"] = 148459,
@@ -1934,9 +1934,9 @@ XToLevelDB = {
 					}, -- [100]
 				},
 				["timer"] = {
-					["start"] = 514135.693,
+					["start"] = 97116.522,
 					["total"] = 0,
-					["lastUpdated"] = 527459.922,
+					["lastUpdated"] = 98964.13,
 					["xpPerSec"] = 234.372296510167,
 				},
 			},
@@ -1944,9 +1944,9 @@ XToLevelDB = {
 		["Mihri - Tarren Mill"] = {
 			["data"] = {
 				["timer"] = {
-					["start"] = 265603.759,
+					["start"] = 96598.273,
 					["total"] = 0,
-					["lastUpdated"] = 266103.816,
+					["lastUpdated"] = 97097.413,
 					["xpPerSec"] = 0,
 				},
 			},
@@ -1960,9 +1960,9 @@ XToLevelDB = {
 				},
 				["killAverage"] = 260,
 				["timer"] = {
-					["start"] = 496479.154,
-					["total"] = 90894,
-					["lastUpdated"] = 498261.304,
+					["start"] = 94145.966,
+					["total"] = 0,
+					["lastUpdated"] = 94162.859,
 					["xpPerSec"] = 51.00244087197981,
 				},
 				["dungeonList"] = {

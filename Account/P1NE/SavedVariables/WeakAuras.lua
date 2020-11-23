@@ -113,7 +113,7 @@ WeakAurasSaved = {
 				}, -- [2]
 				["activeTriggerMode"] = 1,
 			},
-			["internalVersion"] = 39,
+			["internalVersion"] = 40,
 			["keepAspectRatio"] = false,
 			["animation"] = {
 				["start"] = {
@@ -229,24 +229,39 @@ WeakAurasSaved = {
 				},
 			},
 			["uid"] = "na94x29j3st",
-			["zoom"] = 0,
-			["xOffset"] = 236,
-			["regionType"] = "icon",
-			["parent"] = "Resto Druid - Ablution -EU - BronzeDragonflight",
 			["authorOptions"] = {
 			},
-			["selfPoint"] = "CENTER",
+			["xOffset"] = 236,
+			["regionType"] = "icon",
+			["actions"] = {
+				["start"] = {
+					["glow_frame_type"] = "FRAMESELECTOR",
+					["glow_action"] = "show",
+					["do_message"] = false,
+					["do_sound"] = false,
+					["glow_frame"] = "WeakAuras:Mending up",
+					["glow_type"] = "buttonOverlay",
+					["sound"] = "Interface\\AddOns\\WeakAuras\\Media\\Sounds\\CatMeow2.ogg",
+					["do_glow"] = true,
+				},
+				["init"] = {
+				},
+				["finish"] = {
+				},
+			},
+			["cooldown"] = false,
 			["url"] = "https://wago.io/41diGTjPb/41",
-			["ignoreOptionsEventErrors"] = true,
+			["parent"] = "Resto Druid - Ablution -EU - BronzeDragonflight",
 			["auto"] = true,
-			["cooldownTextDisabled"] = false,
+			["anchorFrameType"] = "SCREEN",
+			["zoom"] = 0,
 			["semver"] = "1.0.9",
 			["tocversion"] = 90001,
 			["id"] = "dps1 off 9",
-			["anchorFrameType"] = "SCREEN",
 			["alpha"] = 1,
-			["width"] = 30,
 			["frameStrata"] = 1,
+			["width"] = 30,
+			["cooldownTextDisabled"] = false,
 			["config"] = {
 			},
 			["inverse"] = false,
@@ -267,23 +282,10 @@ WeakAurasSaved = {
 					},
 				}, -- [1]
 			},
-			["cooldown"] = false,
-			["actions"] = {
-				["start"] = {
-					["glow_frame_type"] = "FRAMESELECTOR",
-					["glow_action"] = "show",
-					["do_message"] = false,
-					["do_sound"] = false,
-					["glow_frame"] = "WeakAuras:Mending up",
-					["glow_type"] = "buttonOverlay",
-					["sound"] = "Interface\\AddOns\\WeakAuras\\Media\\Sounds\\CatMeow2.ogg",
-					["do_glow"] = true,
-				},
-				["init"] = {
-				},
-				["finish"] = {
-				},
+			["information"] = {
+				["ignoreOptionsEventErrors"] = true,
 			},
+			["selfPoint"] = "CENTER",
 		},
 		["15 - T2 - CD - RestoD"] = {
 			["iconSource"] = -1,
@@ -343,7 +345,7 @@ WeakAurasSaved = {
 				}, -- [1]
 				["activeTriggerMode"] = 1,
 			},
-			["internalVersion"] = 39,
+			["internalVersion"] = 40,
 			["keepAspectRatio"] = false,
 			["animation"] = {
 				["start"] = {
@@ -465,31 +467,10 @@ WeakAurasSaved = {
 				},
 			},
 			["uid"] = "EM8uvWQQbSF",
-			["zoom"] = 0,
-			["xOffset"] = 103,
-			["regionType"] = "icon",
-			["parent"] = "Resto Druid - Ablution -EU - BronzeDragonflight",
 			["authorOptions"] = {
 			},
-			["selfPoint"] = "CENTER",
-			["url"] = "https://wago.io/41diGTjPb/41",
-			["ignoreOptionsEventErrors"] = true,
-			["auto"] = true,
-			["cooldownTextDisabled"] = false,
-			["semver"] = "1.0.9",
-			["tocversion"] = 90001,
-			["id"] = "15 - T2 - CD - RestoD",
-			["anchorFrameType"] = "SCREEN",
-			["alpha"] = 1,
-			["width"] = 30,
-			["frameStrata"] = 3,
-			["config"] = {
-			},
-			["inverse"] = false,
-			["stickyDuration"] = false,
-			["conditions"] = {
-			},
-			["cooldown"] = false,
+			["xOffset"] = 103,
+			["regionType"] = "icon",
 			["actions"] = {
 				["start"] = {
 					["do_glow"] = false,
@@ -503,6 +484,29 @@ WeakAurasSaved = {
 					["do_sound"] = false,
 				},
 			},
+			["cooldown"] = false,
+			["url"] = "https://wago.io/41diGTjPb/41",
+			["parent"] = "Resto Druid - Ablution -EU - BronzeDragonflight",
+			["auto"] = true,
+			["anchorFrameType"] = "SCREEN",
+			["zoom"] = 0,
+			["semver"] = "1.0.9",
+			["tocversion"] = 90001,
+			["id"] = "15 - T2 - CD - RestoD",
+			["alpha"] = 1,
+			["frameStrata"] = 3,
+			["width"] = 30,
+			["cooldownTextDisabled"] = false,
+			["config"] = {
+			},
+			["inverse"] = false,
+			["stickyDuration"] = false,
+			["conditions"] = {
+			},
+			["information"] = {
+				["ignoreOptionsEventErrors"] = true,
+			},
+			["selfPoint"] = "CENTER",
 		},
 		["dps10"] = {
 			["iconSource"] = -1,
@@ -559,7 +563,7 @@ WeakAurasSaved = {
 				}, -- [1]
 				["activeTriggerMode"] = 1,
 			},
-			["internalVersion"] = 39,
+			["internalVersion"] = 40,
 			["keepAspectRatio"] = false,
 			["animation"] = {
 				["start"] = {
@@ -679,31 +683,10 @@ WeakAurasSaved = {
 				},
 			},
 			["uid"] = "Ere6N)bV(1q",
-			["zoom"] = 0,
-			["xOffset"] = 175,
-			["regionType"] = "icon",
-			["parent"] = "Resto Druid - Ablution -EU - BronzeDragonflight",
 			["authorOptions"] = {
 			},
-			["selfPoint"] = "CENTER",
-			["url"] = "https://wago.io/41diGTjPb/41",
-			["ignoreOptionsEventErrors"] = true,
-			["auto"] = true,
-			["cooldownTextDisabled"] = false,
-			["semver"] = "1.0.9",
-			["tocversion"] = 90001,
-			["id"] = "dps10",
-			["anchorFrameType"] = "SCREEN",
-			["alpha"] = 1,
-			["width"] = 30,
-			["frameStrata"] = 1,
-			["config"] = {
-			},
-			["inverse"] = false,
-			["stickyDuration"] = false,
-			["conditions"] = {
-			},
-			["cooldown"] = false,
+			["xOffset"] = 175,
+			["regionType"] = "icon",
 			["actions"] = {
 				["start"] = {
 					["do_glow"] = false,
@@ -716,6 +699,29 @@ WeakAurasSaved = {
 				["finish"] = {
 				},
 			},
+			["cooldown"] = false,
+			["url"] = "https://wago.io/41diGTjPb/41",
+			["parent"] = "Resto Druid - Ablution -EU - BronzeDragonflight",
+			["auto"] = true,
+			["anchorFrameType"] = "SCREEN",
+			["zoom"] = 0,
+			["semver"] = "1.0.9",
+			["tocversion"] = 90001,
+			["id"] = "dps10",
+			["alpha"] = 1,
+			["frameStrata"] = 1,
+			["width"] = 30,
+			["cooldownTextDisabled"] = false,
+			["config"] = {
+			},
+			["inverse"] = false,
+			["stickyDuration"] = false,
+			["conditions"] = {
+			},
+			["information"] = {
+				["ignoreOptionsEventErrors"] = true,
+			},
+			["selfPoint"] = "CENTER",
 		},
 		["Light of T'uure 2"] = {
 			["iconSource"] = -1,
@@ -872,8 +878,15 @@ WeakAurasSaved = {
 					},
 				},
 			},
-			["xOffset"] = 0,
+			["selfPoint"] = "CENTER",
 			["regionType"] = "icon",
+			["xOffset"] = 0,
+			["color"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				0.680722117424011, -- [4]
+			},
 			["actions"] = {
 				["start"] = {
 				},
@@ -882,33 +895,28 @@ WeakAurasSaved = {
 				["finish"] = {
 				},
 			},
-			["color"] = {
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-				0.680722117424011, -- [4]
-			},
-			["selfPoint"] = "CENTER",
-			["authorOptions"] = {
-			},
-			["ignoreOptionsEventErrors"] = true,
-			["cooldownTextDisabled"] = false,
-			["zoom"] = 0,
-			["auto"] = true,
+			["cooldown"] = false,
+			["internalVersion"] = 40,
 			["config"] = {
 			},
-			["id"] = "Light of T'uure 2",
+			["zoom"] = 0,
+			["auto"] = true,
 			["frameStrata"] = 1,
-			["alpha"] = 1,
+			["id"] = "Light of T'uure 2",
 			["anchorFrameType"] = "SCREEN",
+			["alpha"] = 1,
 			["width"] = 64,
+			["cooldownTextDisabled"] = false,
 			["uid"] = "hzOvP71BJqv",
 			["inverse"] = false,
-			["internalVersion"] = 39,
+			["desaturate"] = false,
 			["conditions"] = {
 			},
-			["cooldown"] = false,
-			["desaturate"] = false,
+			["information"] = {
+				["ignoreOptionsEventErrors"] = true,
+			},
+			["authorOptions"] = {
+			},
 		},
 		["Rebirth- Off CD - RestoD"] = {
 			["iconSource"] = -1,
@@ -964,7 +972,7 @@ WeakAurasSaved = {
 				}, -- [1]
 				["activeTriggerMode"] = 1,
 			},
-			["internalVersion"] = 39,
+			["internalVersion"] = 40,
 			["keepAspectRatio"] = false,
 			["animation"] = {
 				["start"] = {
@@ -1087,31 +1095,10 @@ WeakAurasSaved = {
 				},
 			},
 			["uid"] = "XC2xPd3zTuI",
-			["zoom"] = 0,
-			["xOffset"] = 230,
-			["regionType"] = "icon",
-			["parent"] = "Resto Druid - Ablution -EU - BronzeDragonflight",
 			["authorOptions"] = {
 			},
-			["selfPoint"] = "CENTER",
-			["url"] = "https://wago.io/41diGTjPb/41",
-			["ignoreOptionsEventErrors"] = true,
-			["auto"] = true,
-			["cooldownTextDisabled"] = false,
-			["semver"] = "1.0.9",
-			["tocversion"] = 90001,
-			["id"] = "Rebirth- Off CD - RestoD",
-			["anchorFrameType"] = "SCREEN",
-			["alpha"] = 1,
-			["width"] = 40,
-			["frameStrata"] = 4,
-			["config"] = {
-			},
-			["inverse"] = false,
-			["stickyDuration"] = false,
-			["conditions"] = {
-			},
-			["cooldown"] = false,
+			["xOffset"] = 230,
+			["regionType"] = "icon",
 			["actions"] = {
 				["start"] = {
 					["do_glow"] = false,
@@ -1125,6 +1112,29 @@ WeakAurasSaved = {
 					["do_sound"] = false,
 				},
 			},
+			["cooldown"] = false,
+			["url"] = "https://wago.io/41diGTjPb/41",
+			["parent"] = "Resto Druid - Ablution -EU - BronzeDragonflight",
+			["auto"] = true,
+			["anchorFrameType"] = "SCREEN",
+			["zoom"] = 0,
+			["semver"] = "1.0.9",
+			["tocversion"] = 90001,
+			["id"] = "Rebirth- Off CD - RestoD",
+			["alpha"] = 1,
+			["frameStrata"] = 4,
+			["width"] = 40,
+			["cooldownTextDisabled"] = false,
+			["config"] = {
+			},
+			["inverse"] = false,
+			["stickyDuration"] = false,
+			["conditions"] = {
+			},
+			["information"] = {
+				["ignoreOptionsEventErrors"] = true,
+			},
+			["selfPoint"] = "CENTER",
 		},
 		["Holy Word: Serenity"] = {
 			["iconSource"] = -1,
@@ -1167,7 +1177,7 @@ WeakAurasSaved = {
 				["disjunctive"] = "all",
 				["activeTriggerMode"] = -10,
 			},
-			["internalVersion"] = 39,
+			["internalVersion"] = 40,
 			["keepAspectRatio"] = false,
 			["selfPoint"] = "CENTER",
 			["stickyDuration"] = false,
@@ -1257,13 +1267,16 @@ WeakAurasSaved = {
 					},
 				},
 			},
+			["useTooltip"] = false,
+			["regionType"] = "icon",
 			["color"] = {
 				1, -- [1]
 				1, -- [2]
 				1, -- [3]
 				0.680722117424011, -- [4]
 			},
-			["regionType"] = "icon",
+			["authorOptions"] = {
+			},
 			["animation"] = {
 				["start"] = {
 					["duration_type"] = "seconds",
@@ -1284,23 +1297,7 @@ WeakAurasSaved = {
 					["easeType"] = "none",
 				},
 			},
-			["authorOptions"] = {
-			},
-			["useTooltip"] = false,
-			["xOffset"] = 0,
-			["ignoreOptionsEventErrors"] = true,
-			["cooldownTextDisabled"] = false,
-			["zoom"] = 0,
-			["auto"] = true,
-			["config"] = {
-			},
-			["id"] = "Holy Word: Serenity",
-			["alpha"] = 1,
-			["frameStrata"] = 1,
-			["anchorFrameType"] = "SCREEN",
-			["width"] = 64,
-			["uid"] = "J(Ay7FvpG9r",
-			["inverse"] = false,
+			["cooldown"] = false,
 			["actions"] = {
 				["start"] = {
 					["sound"] = "Sound\\Interface\\UI_Challenges_MedalExpires.ogg",
@@ -1311,10 +1308,25 @@ WeakAurasSaved = {
 				["init"] = {
 				},
 			},
+			["config"] = {
+			},
+			["zoom"] = 0,
+			["auto"] = true,
+			["alpha"] = 1,
+			["id"] = "Holy Word: Serenity",
+			["anchorFrameType"] = "SCREEN",
+			["frameStrata"] = 1,
+			["width"] = 64,
+			["cooldownTextDisabled"] = false,
+			["uid"] = "J(Ay7FvpG9r",
+			["inverse"] = false,
+			["desaturate"] = false,
 			["conditions"] = {
 			},
-			["cooldown"] = false,
-			["desaturate"] = false,
+			["information"] = {
+				["ignoreOptionsEventErrors"] = true,
+			},
+			["xOffset"] = 0,
 		},
 		["Combo2 "] = {
 			["color"] = {
@@ -1385,7 +1397,7 @@ WeakAurasSaved = {
 				["disjunctive"] = "all",
 				["activeTriggerMode"] = -10,
 			},
-			["internalVersion"] = 39,
+			["internalVersion"] = 40,
 			["animation"] = {
 				["start"] = {
 					["colorR"] = 1,
@@ -1486,11 +1498,11 @@ WeakAurasSaved = {
 			["anchorFrameType"] = "SCREEN",
 			["texture"] = "Interface\\Addons\\WeakAuras\\PowerAurasMedia\\Auras\\Aura45",
 			["xOffset"] = -64,
-			["selfPoint"] = "CENTER",
+			["rotation"] = 0,
 			["semver"] = "1.0.9",
 			["tocversion"] = 90001,
 			["id"] = "Combo2 ",
-			["ignoreOptionsEventErrors"] = true,
+			["parent"] = "Resto Druid - Ablution -EU - BronzeDragonflight",
 			["frameStrata"] = 1,
 			["width"] = 40,
 			["config"] = {
@@ -1501,8 +1513,10 @@ WeakAurasSaved = {
 			["alpha"] = 1,
 			["conditions"] = {
 			},
-			["parent"] = "Resto Druid - Ablution -EU - BronzeDragonflight",
-			["rotation"] = 0,
+			["information"] = {
+				["ignoreOptionsEventErrors"] = true,
+			},
+			["selfPoint"] = "CENTER",
 		},
 		["100- T3  - CD - RestoD"] = {
 			["iconSource"] = -1,
@@ -1558,7 +1572,7 @@ WeakAurasSaved = {
 				}, -- [1]
 				["activeTriggerMode"] = 1,
 			},
-			["internalVersion"] = 39,
+			["internalVersion"] = 40,
 			["keepAspectRatio"] = false,
 			["animation"] = {
 				["start"] = {
@@ -1680,31 +1694,10 @@ WeakAurasSaved = {
 				},
 			},
 			["uid"] = "9Hx3aEY2H2G",
-			["zoom"] = 0,
-			["xOffset"] = 146,
-			["regionType"] = "icon",
-			["parent"] = "Resto Druid - Ablution -EU - BronzeDragonflight",
 			["authorOptions"] = {
 			},
-			["selfPoint"] = "CENTER",
-			["url"] = "https://wago.io/41diGTjPb/41",
-			["ignoreOptionsEventErrors"] = true,
-			["auto"] = true,
-			["cooldownTextDisabled"] = false,
-			["semver"] = "1.0.9",
-			["tocversion"] = 90001,
-			["id"] = "100- T3  - CD - RestoD",
-			["anchorFrameType"] = "SCREEN",
-			["alpha"] = 1,
-			["width"] = 30,
-			["frameStrata"] = 1,
-			["config"] = {
-			},
-			["inverse"] = false,
-			["stickyDuration"] = false,
-			["conditions"] = {
-			},
-			["cooldown"] = false,
+			["xOffset"] = 146,
+			["regionType"] = "icon",
 			["actions"] = {
 				["start"] = {
 					["do_glow"] = false,
@@ -1718,6 +1711,29 @@ WeakAurasSaved = {
 					["do_sound"] = false,
 				},
 			},
+			["cooldown"] = false,
+			["url"] = "https://wago.io/41diGTjPb/41",
+			["parent"] = "Resto Druid - Ablution -EU - BronzeDragonflight",
+			["auto"] = true,
+			["anchorFrameType"] = "SCREEN",
+			["zoom"] = 0,
+			["semver"] = "1.0.9",
+			["tocversion"] = 90001,
+			["id"] = "100- T3  - CD - RestoD",
+			["alpha"] = 1,
+			["frameStrata"] = 1,
+			["width"] = 30,
+			["cooldownTextDisabled"] = false,
+			["config"] = {
+			},
+			["inverse"] = false,
+			["stickyDuration"] = false,
+			["conditions"] = {
+			},
+			["information"] = {
+				["ignoreOptionsEventErrors"] = true,
+			},
+			["selfPoint"] = "CENTER",
 		},
 		["15 - T1 - Pasive - RestoD"] = {
 			["iconSource"] = -1,
@@ -1784,7 +1800,7 @@ WeakAurasSaved = {
 				}, -- [2]
 				["activeTriggerMode"] = 1,
 			},
-			["internalVersion"] = 39,
+			["internalVersion"] = 40,
 			["keepAspectRatio"] = false,
 			["animation"] = {
 				["start"] = {
@@ -1918,27 +1934,29 @@ WeakAurasSaved = {
 				},
 			},
 			["regionType"] = "icon",
-			["xOffset"] = 103,
+			["cooldown"] = false,
 			["displayIcon"] = 132124,
 			["desaturate"] = true,
 			["url"] = "https://wago.io/41diGTjPb/41",
-			["ignoreOptionsEventErrors"] = true,
 			["width"] = 30,
-			["cooldownTextDisabled"] = false,
+			["frameStrata"] = 1,
+			["zoom"] = 0,
 			["auto"] = true,
 			["tocversion"] = 90001,
 			["id"] = "15 - T1 - Pasive - RestoD",
-			["frameStrata"] = 1,
+			["cooldownTextDisabled"] = false,
 			["alpha"] = 1,
 			["anchorFrameType"] = "SCREEN",
-			["zoom"] = 0,
+			["xOffset"] = 103,
 			["config"] = {
 			},
 			["inverse"] = false,
 			["parent"] = "Resto Druid - Ablution -EU - BronzeDragonflight",
 			["conditions"] = {
 			},
-			["cooldown"] = false,
+			["information"] = {
+				["ignoreOptionsEventErrors"] = true,
+			},
 			["authorOptions"] = {
 			},
 		},
@@ -1996,7 +2014,7 @@ WeakAurasSaved = {
 				}, -- [1]
 				["activeTriggerMode"] = 1,
 			},
-			["internalVersion"] = 39,
+			["internalVersion"] = 40,
 			["keepAspectRatio"] = false,
 			["animation"] = {
 				["start"] = {
@@ -2116,31 +2134,10 @@ WeakAurasSaved = {
 				},
 			},
 			["uid"] = "nW5tHJFIePP",
-			["zoom"] = 0,
-			["xOffset"] = -23,
-			["regionType"] = "icon",
-			["parent"] = "Resto Druid - Ablution -EU - BronzeDragonflight",
 			["authorOptions"] = {
 			},
-			["selfPoint"] = "CENTER",
-			["url"] = "https://wago.io/41diGTjPb/41",
-			["ignoreOptionsEventErrors"] = true,
-			["auto"] = true,
-			["cooldownTextDisabled"] = false,
-			["semver"] = "1.0.9",
-			["tocversion"] = 90001,
-			["id"] = "Barkskin - CD - RestoD",
-			["anchorFrameType"] = "SCREEN",
-			["alpha"] = 1,
-			["width"] = 30,
-			["frameStrata"] = 1,
-			["config"] = {
-			},
-			["inverse"] = false,
-			["stickyDuration"] = false,
-			["conditions"] = {
-			},
-			["cooldown"] = false,
+			["xOffset"] = -23,
+			["regionType"] = "icon",
 			["actions"] = {
 				["start"] = {
 					["do_glow"] = false,
@@ -2154,6 +2151,29 @@ WeakAurasSaved = {
 					["do_sound"] = false,
 				},
 			},
+			["cooldown"] = false,
+			["url"] = "https://wago.io/41diGTjPb/41",
+			["parent"] = "Resto Druid - Ablution -EU - BronzeDragonflight",
+			["auto"] = true,
+			["anchorFrameType"] = "SCREEN",
+			["zoom"] = 0,
+			["semver"] = "1.0.9",
+			["tocversion"] = 90001,
+			["id"] = "Barkskin - CD - RestoD",
+			["alpha"] = 1,
+			["frameStrata"] = 1,
+			["width"] = 30,
+			["cooldownTextDisabled"] = false,
+			["config"] = {
+			},
+			["inverse"] = false,
+			["stickyDuration"] = false,
+			["conditions"] = {
+			},
+			["information"] = {
+				["ignoreOptionsEventErrors"] = true,
+			},
+			["selfPoint"] = "CENTER",
 		},
 		["100- T3  - Off CD - RestoD"] = {
 			["iconSource"] = -1,
@@ -2221,7 +2241,7 @@ WeakAurasSaved = {
 				}, -- [2]
 				["activeTriggerMode"] = 1,
 			},
-			["internalVersion"] = 39,
+			["internalVersion"] = 40,
 			["keepAspectRatio"] = false,
 			["animation"] = {
 				["start"] = {
@@ -2339,24 +2359,36 @@ WeakAurasSaved = {
 				},
 			},
 			["uid"] = "i9zHmF(3S5E",
-			["zoom"] = 0,
-			["xOffset"] = 146,
-			["regionType"] = "icon",
-			["parent"] = "Resto Druid - Ablution -EU - BronzeDragonflight",
 			["authorOptions"] = {
 			},
-			["selfPoint"] = "CENTER",
+			["xOffset"] = 146,
+			["regionType"] = "icon",
+			["actions"] = {
+				["start"] = {
+					["do_glow"] = false,
+					["sound"] = "Interface\\AddOns\\WeakAuras\\Media\\Sounds\\BikeHorn.ogg",
+					["do_message"] = false,
+					["do_sound"] = false,
+				},
+				["init"] = {
+				},
+				["finish"] = {
+					["do_sound"] = false,
+				},
+			},
+			["cooldown"] = false,
 			["url"] = "https://wago.io/41diGTjPb/41",
-			["ignoreOptionsEventErrors"] = true,
+			["parent"] = "Resto Druid - Ablution -EU - BronzeDragonflight",
 			["auto"] = true,
-			["cooldownTextDisabled"] = false,
+			["anchorFrameType"] = "SCREEN",
+			["zoom"] = 0,
 			["semver"] = "1.0.9",
 			["tocversion"] = 90001,
 			["id"] = "100- T3  - Off CD - RestoD",
-			["anchorFrameType"] = "SCREEN",
 			["alpha"] = 1,
-			["width"] = 40,
 			["frameStrata"] = 1,
+			["width"] = 40,
+			["cooldownTextDisabled"] = false,
 			["config"] = {
 			},
 			["inverse"] = false,
@@ -2377,20 +2409,10 @@ WeakAurasSaved = {
 					},
 				}, -- [1]
 			},
-			["cooldown"] = false,
-			["actions"] = {
-				["start"] = {
-					["do_glow"] = false,
-					["sound"] = "Interface\\AddOns\\WeakAuras\\Media\\Sounds\\BikeHorn.ogg",
-					["do_message"] = false,
-					["do_sound"] = false,
-				},
-				["init"] = {
-				},
-				["finish"] = {
-					["do_sound"] = false,
-				},
+			["information"] = {
+				["ignoreOptionsEventErrors"] = true,
 			},
+			["selfPoint"] = "CENTER",
 		},
 		["ZenTracker (ZT) Main"] = {
 			["outline"] = "OUTLINE",
@@ -2531,7 +2553,7 @@ WeakAurasSaved = {
 				["disjunctive"] = "any",
 				["activeTriggerMode"] = -10,
 			},
-			["internalVersion"] = 39,
+			["internalVersion"] = 40,
 			["animation"] = {
 				["start"] = {
 					["type"] = "none",
@@ -2614,39 +2636,21 @@ WeakAurasSaved = {
 			["regionType"] = "text",
 			["wordWrap"] = "WordWrap",
 			["_table"] = "d",
-			["yOffset"] = 0,
-			["ignoreOptionsEventErrors"] = true,
-			["automaticWidth"] = "Auto",
+			["selfPoint"] = "BOTTOM",
+			["preferToUpdate"] = false,
 			["color"] = {
 				1, -- [1]
 				1, -- [2]
 				1, -- [3]
 				1, -- [4]
 			},
+			["width"] = 6.9999642372131,
 			["semver"] = "1.1.21",
 			["tocversion"] = 90001,
 			["id"] = "ZenTracker (ZT) Main",
-			["width"] = 6.9999642372131,
+			["uid"] = "ejYTBRnd5n5",
 			["frameStrata"] = 1,
 			["anchorFrameType"] = "SCREEN",
-			["uid"] = "ejYTBRnd5n5",
-			["config"] = {
-				["custom8"] = "",
-				["custom15"] = "",
-				["custom5"] = "",
-				["custom2"] = "",
-				["custom3"] = "",
-				["custom1"] = "",
-				["custom9"] = "",
-				["custom7"] = "",
-				["custom13"] = "",
-				["custom12"] = "",
-				["custom14"] = "",
-				["custom4"] = "",
-				["custom11"] = "",
-				["custom6"] = "",
-				["custom10"] = "",
-			},
 			["authorOptions"] = {
 				{
 					["type"] = "description",
@@ -2820,7 +2824,25 @@ WeakAurasSaved = {
 					["width"] = 2,
 				}, -- [21]
 			},
+			["config"] = {
+				["custom8"] = "",
+				["custom15"] = "",
+				["custom5"] = "",
+				["custom2"] = "",
+				["custom3"] = "",
+				["custom1"] = "",
+				["custom9"] = "",
+				["custom7"] = "",
+				["custom13"] = "",
+				["custom12"] = "",
+				["custom14"] = "",
+				["custom4"] = "",
+				["custom11"] = "",
+				["custom6"] = "",
+				["custom10"] = "",
+			},
 			["justify"] = "LEFT",
+			["automaticWidth"] = "Auto",
 			["shadowColor"] = {
 				0, -- [1]
 				0, -- [2]
@@ -2829,8 +2851,10 @@ WeakAurasSaved = {
 			},
 			["conditions"] = {
 			},
-			["selfPoint"] = "BOTTOM",
-			["preferToUpdate"] = false,
+			["information"] = {
+				["ignoreOptionsEventErrors"] = true,
+			},
+			["yOffset"] = 0,
 		},
 		["75 - T1 - Pasive - RestoD"] = {
 			["iconSource"] = -1,
@@ -2848,7 +2872,7 @@ WeakAurasSaved = {
 			["cooldownEdge"] = false,
 			["icon"] = true,
 			["spellName"] = 208065,
-			["internalVersion"] = 39,
+			["internalVersion"] = 40,
 			["keepAspectRatio"] = false,
 			["selfPoint"] = "CENTER",
 			["stickyDuration"] = false,
@@ -2943,57 +2967,13 @@ WeakAurasSaved = {
 			["fontSize"] = 21,
 			["alpha"] = 1,
 			["anchorFrameType"] = "SCREEN",
-			["parent"] = "Resto Druid - Ablution -EU - BronzeDragonflight",
 			["desaturate"] = false,
 			["authorOptions"] = {
 			},
+			["cooldown"] = true,
 			["displayIcon"] = 236160,
 			["regionType"] = "icon",
 			["xOffset"] = -151,
-			["actions"] = {
-				["start"] = {
-					["do_sound"] = false,
-				},
-				["init"] = {
-				},
-				["finish"] = {
-					["do_sound"] = false,
-				},
-			},
-			["config"] = {
-			},
-			["url"] = "https://wago.io/41diGTjPb/41",
-			["ignoreOptionsEventErrors"] = true,
-			["auto"] = true,
-			["zoom"] = 0,
-			["semver"] = "1.0.9",
-			["tocversion"] = 90001,
-			["id"] = "75 - T1 - Pasive - RestoD",
-			["cooldownTextDisabled"] = false,
-			["frameStrata"] = 1,
-			["width"] = 40,
-			["animation"] = {
-				["start"] = {
-					["type"] = "none",
-					["easeStrength"] = 3,
-					["duration_type"] = "seconds",
-					["easeType"] = "none",
-				},
-				["main"] = {
-					["type"] = "none",
-					["easeStrength"] = 3,
-					["duration_type"] = "seconds",
-					["easeType"] = "none",
-				},
-				["finish"] = {
-					["type"] = "none",
-					["easeStrength"] = 3,
-					["duration_type"] = "seconds",
-					["easeType"] = "none",
-				},
-			},
-			["uid"] = "WPv9JU5m9uN",
-			["inverse"] = false,
 			["triggers"] = {
 				{
 					["trigger"] = {
@@ -3033,9 +3013,55 @@ WeakAurasSaved = {
 				}, -- [1]
 				["activeTriggerMode"] = 1,
 			},
+			["config"] = {
+			},
+			["url"] = "https://wago.io/41diGTjPb/41",
+			["cooldownTextDisabled"] = false,
+			["semver"] = "1.0.9",
+			["zoom"] = 0,
+			["auto"] = true,
+			["tocversion"] = 90001,
+			["id"] = "75 - T1 - Pasive - RestoD",
+			["animation"] = {
+				["start"] = {
+					["type"] = "none",
+					["easeStrength"] = 3,
+					["duration_type"] = "seconds",
+					["easeType"] = "none",
+				},
+				["main"] = {
+					["type"] = "none",
+					["easeStrength"] = 3,
+					["duration_type"] = "seconds",
+					["easeType"] = "none",
+				},
+				["finish"] = {
+					["type"] = "none",
+					["easeStrength"] = 3,
+					["duration_type"] = "seconds",
+					["easeType"] = "none",
+				},
+			},
+			["frameStrata"] = 1,
+			["width"] = 40,
+			["actions"] = {
+				["start"] = {
+					["do_sound"] = false,
+				},
+				["init"] = {
+				},
+				["finish"] = {
+					["do_sound"] = false,
+				},
+			},
+			["uid"] = "WPv9JU5m9uN",
+			["inverse"] = false,
+			["parent"] = "Resto Druid - Ablution -EU - BronzeDragonflight",
 			["conditions"] = {
 			},
-			["cooldown"] = true,
+			["information"] = {
+				["ignoreOptionsEventErrors"] = true,
+			},
 			["textColor"] = {
 				0.91372549019608, -- [1]
 				0.94117647058824, -- [2]
@@ -3156,18 +3182,18 @@ WeakAurasSaved = {
 				1, -- [3]
 				1, -- [4]
 			},
+			["cooldown"] = false,
 			["sparkWidth"] = 10,
 			["sparkTexture"] = "Interface\\CastingBar\\UI-CastingBar-Spark",
 			["config"] = {
 			},
+			["cooldownSwipe"] = true,
 			["sparkColor"] = {
 				1, -- [1]
 				1, -- [2]
 				1, -- [3]
 				1, -- [4]
 			},
-			["cooldownSwipe"] = true,
-			["textSize"] = 16,
 			["customTextUpdate"] = "update",
 			["cooldownEdge"] = false,
 			["displayTextLeft"] = " %p",
@@ -3215,7 +3241,7 @@ WeakAurasSaved = {
 				["activeTriggerMode"] = 1,
 			},
 			["zoom"] = 0,
-			["internalVersion"] = 39,
+			["internalVersion"] = 40,
 			["borderBackdrop"] = "Blizzard Tooltip",
 			["animation"] = {
 				["start"] = {
@@ -3241,7 +3267,7 @@ WeakAurasSaved = {
 			["text"] = false,
 			["anchorFrameType"] = "SCREEN",
 			["stickyDuration"] = false,
-			["stacksFont"] = "Friz Quadrata TT",
+			["uid"] = "Ts)Bzq8HmwR",
 			["actions"] = {
 				["start"] = {
 					["do_sound"] = false,
@@ -3290,32 +3316,37 @@ WeakAurasSaved = {
 					["text_text_format_p_time_dynamic"] = false,
 				}, -- [1]
 			},
-			["height"] = 40,
+			["timer"] = false,
 			["timerFlags"] = "None",
 			["sparkHidden"] = "NEVER",
 			["sparkBlendMode"] = "ADD",
 			["useAdjustededMax"] = false,
 			["semver"] = "1.0.9",
 			["displayTextRight"] = " %n",
-			["backdropColor"] = {
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-				0.5, -- [4]
+			["backgroundColor"] = {
+				0, -- [1]
+				0, -- [2]
+				0, -- [3]
+				0, -- [4]
 			},
 			["sparkRotationMode"] = "AUTO",
 			["spellName"] = "145205",
 			["border"] = false,
 			["borderEdge"] = "None",
-			["borderInFront"] = true,
-			["borderSize"] = 16,
 			["url"] = "https://wago.io/41diGTjPb/41",
-			["icon_side"] = "RIGHT",
+			["borderSize"] = 16,
 			["xOffset"] = 18,
+			["icon_side"] = "RIGHT",
 			["spark"] = true,
+			["borderInFront"] = true,
 			["sparkHeight"] = 30,
-			["ignoreOptionsEventErrors"] = true,
 			["borderColor"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				0.5, -- [4]
+			},
+			["backdropColor"] = {
 				1, -- [1]
 				1, -- [2]
 				1, -- [3]
@@ -3328,18 +3359,13 @@ WeakAurasSaved = {
 				1, -- [4]
 			},
 			["timerSize"] = 16,
-			["backgroundColor"] = {
-				0, -- [1]
-				0, -- [2]
-				0, -- [3]
-				0, -- [4]
-			},
+			["height"] = 40,
 			["id"] = "Efflorescence Progress - RestoD",
-			["timer"] = false,
+			["stacksFont"] = "Friz Quadrata TT",
 			["frameStrata"] = 4,
 			["width"] = 40,
-			["uid"] = "Ts)Bzq8HmwR",
 			["cooldownTextDisabled"] = false,
+			["textSize"] = 16,
 			["inverse"] = false,
 			["sparkDesature"] = false,
 			["orientation"] = "HORIZONTAL",
@@ -3359,7 +3385,9 @@ WeakAurasSaved = {
 					},
 				}, -- [1]
 			},
-			["cooldown"] = false,
+			["information"] = {
+				["ignoreOptionsEventErrors"] = true,
+			},
 			["preferToUpdate"] = false,
 		},
 		["Ironbark  Timer - Holy 2"] = {
@@ -3422,7 +3450,7 @@ WeakAurasSaved = {
 				["activeTriggerMode"] = 1,
 			},
 			["displayText_format_p_format"] = "timed",
-			["internalVersion"] = 39,
+			["internalVersion"] = 40,
 			["animation"] = {
 				["start"] = {
 					["type"] = "none",
@@ -3499,28 +3527,28 @@ WeakAurasSaved = {
 			},
 			["fontSize"] = 14,
 			["shadowXOffset"] = 1,
-			["preferToUpdate"] = false,
-			["regionType"] = "text",
 			["shadowYOffset"] = -1,
-			["selfPoint"] = "BOTTOM",
-			["fixedWidth"] = 200,
+			["regionType"] = "text",
 			["anchorPoint"] = "CENTER",
+			["xOffset"] = 37.1962890625,
+			["fixedWidth"] = 200,
+			["preferToUpdate"] = false,
 			["displayText_format_p_time_precision"] = 1,
-			["ignoreOptionsEventErrors"] = true,
-			["semver"] = "1.0.9",
+			["wordWrap"] = "WordWrap",
 			["uid"] = "RL0FPa95DG8",
+			["semver"] = "1.0.9",
 			["justify"] = "LEFT",
 			["tocversion"] = 90001,
 			["id"] = "Ironbark  Timer - Holy 2",
-			["anchorFrameType"] = "SCREEN",
-			["frameStrata"] = 4,
 			["width"] = 40.600070953369,
-			["wordWrap"] = "WordWrap",
-			["config"] = {
-			},
+			["frameStrata"] = 4,
+			["anchorFrameType"] = "SCREEN",
 			["authorOptions"] = {
 			},
+			["config"] = {
+			},
 			["automaticWidth"] = "Auto",
+			["parent"] = "Resto Druid - Ablution -EU - BronzeDragonflight",
 			["shadowColor"] = {
 				0, -- [1]
 				0, -- [2]
@@ -3529,8 +3557,10 @@ WeakAurasSaved = {
 			},
 			["conditions"] = {
 			},
-			["xOffset"] = 37.1962890625,
-			["parent"] = "Resto Druid - Ablution -EU - BronzeDragonflight",
+			["information"] = {
+				["ignoreOptionsEventErrors"] = true,
+			},
+			["selfPoint"] = "BOTTOM",
 		},
 		["100 - T1 - Pasive - RestoD"] = {
 			["iconSource"] = -1,
@@ -3597,7 +3627,7 @@ WeakAurasSaved = {
 				}, -- [2]
 				["activeTriggerMode"] = 1,
 			},
-			["internalVersion"] = 39,
+			["internalVersion"] = 40,
 			["keepAspectRatio"] = false,
 			["animation"] = {
 				["start"] = {
@@ -3731,27 +3761,29 @@ WeakAurasSaved = {
 				},
 			},
 			["regionType"] = "icon",
-			["xOffset"] = 146,
+			["cooldown"] = false,
 			["displayIcon"] = 464030,
 			["desaturate"] = false,
 			["url"] = "https://wago.io/41diGTjPb/41",
-			["ignoreOptionsEventErrors"] = true,
 			["width"] = 40,
-			["cooldownTextDisabled"] = false,
+			["frameStrata"] = 1,
+			["zoom"] = 0,
 			["auto"] = true,
 			["tocversion"] = 90001,
 			["id"] = "100 - T1 - Pasive - RestoD",
-			["frameStrata"] = 1,
+			["cooldownTextDisabled"] = false,
 			["alpha"] = 1,
 			["anchorFrameType"] = "SCREEN",
-			["zoom"] = 0,
+			["xOffset"] = 146,
 			["config"] = {
 			},
 			["inverse"] = false,
 			["parent"] = "Resto Druid - Ablution -EU - BronzeDragonflight",
 			["conditions"] = {
 			},
-			["cooldown"] = false,
+			["information"] = {
+				["ignoreOptionsEventErrors"] = true,
+			},
 			["authorOptions"] = {
 			},
 		},
@@ -3822,7 +3854,7 @@ WeakAurasSaved = {
 				}, -- [2]
 				["activeTriggerMode"] = 1,
 			},
-			["internalVersion"] = 39,
+			["internalVersion"] = 40,
 			["keepAspectRatio"] = false,
 			["animation"] = {
 				["start"] = {
@@ -3938,24 +3970,39 @@ WeakAurasSaved = {
 				},
 			},
 			["uid"] = "D740)o1041W",
-			["zoom"] = 0,
-			["xOffset"] = 175,
-			["regionType"] = "icon",
-			["parent"] = "Resto Druid - Ablution -EU - BronzeDragonflight",
 			["authorOptions"] = {
 			},
-			["selfPoint"] = "CENTER",
+			["xOffset"] = 175,
+			["regionType"] = "icon",
+			["actions"] = {
+				["start"] = {
+					["glow_frame_type"] = "FRAMESELECTOR",
+					["glow_action"] = "show",
+					["do_message"] = false,
+					["do_sound"] = false,
+					["glow_frame"] = "WeakAuras:Mending up",
+					["glow_type"] = "buttonOverlay",
+					["sound"] = "Interface\\AddOns\\WeakAuras\\Media\\Sounds\\CatMeow2.ogg",
+					["do_glow"] = true,
+				},
+				["init"] = {
+				},
+				["finish"] = {
+				},
+			},
+			["cooldown"] = false,
 			["url"] = "https://wago.io/41diGTjPb/41",
-			["ignoreOptionsEventErrors"] = true,
+			["parent"] = "Resto Druid - Ablution -EU - BronzeDragonflight",
 			["auto"] = true,
-			["cooldownTextDisabled"] = false,
+			["anchorFrameType"] = "SCREEN",
+			["zoom"] = 0,
 			["semver"] = "1.0.9",
 			["tocversion"] = 90001,
 			["id"] = "dps1 off 11",
-			["anchorFrameType"] = "SCREEN",
 			["alpha"] = 1,
-			["width"] = 30,
 			["frameStrata"] = 1,
+			["width"] = 30,
+			["cooldownTextDisabled"] = false,
 			["config"] = {
 			},
 			["inverse"] = false,
@@ -3976,23 +4023,10 @@ WeakAurasSaved = {
 					},
 				}, -- [1]
 			},
-			["cooldown"] = false,
-			["actions"] = {
-				["start"] = {
-					["glow_frame_type"] = "FRAMESELECTOR",
-					["glow_action"] = "show",
-					["do_message"] = false,
-					["do_sound"] = false,
-					["glow_frame"] = "WeakAuras:Mending up",
-					["glow_type"] = "buttonOverlay",
-					["sound"] = "Interface\\AddOns\\WeakAuras\\Media\\Sounds\\CatMeow2.ogg",
-					["do_glow"] = true,
-				},
-				["init"] = {
-				},
-				["finish"] = {
-				},
+			["information"] = {
+				["ignoreOptionsEventErrors"] = true,
 			},
+			["selfPoint"] = "CENTER",
 		},
 		["M+ !keys Shadowlands"] = {
 			["outline"] = "OUTLINE",
@@ -4233,7 +4267,7 @@ WeakAurasSaved = {
 				}, -- [2]
 				["activeTriggerMode"] = 1,
 			},
-			["internalVersion"] = 39,
+			["internalVersion"] = 40,
 			["keepAspectRatio"] = false,
 			["animation"] = {
 				["start"] = {
@@ -4370,20 +4404,20 @@ WeakAurasSaved = {
 				},
 			},
 			["regionType"] = "icon",
-			["xOffset"] = -151,
+			["cooldown"] = false,
 			["displayIcon"] = 132123,
 			["desaturate"] = false,
 			["url"] = "https://wago.io/41diGTjPb/41",
-			["ignoreOptionsEventErrors"] = true,
 			["width"] = 40,
-			["cooldownTextDisabled"] = false,
+			["frameStrata"] = 1,
+			["zoom"] = 0,
 			["auto"] = true,
 			["tocversion"] = 90001,
 			["id"] = "90 - T2 - Off CD - RestoD",
-			["frameStrata"] = 1,
+			["cooldownTextDisabled"] = false,
 			["alpha"] = 1,
 			["anchorFrameType"] = "SCREEN",
-			["zoom"] = 0,
+			["xOffset"] = -151,
 			["config"] = {
 			},
 			["inverse"] = false,
@@ -4404,7 +4438,9 @@ WeakAurasSaved = {
 					},
 				}, -- [1]
 			},
-			["cooldown"] = false,
+			["information"] = {
+				["ignoreOptionsEventErrors"] = true,
+			},
 			["authorOptions"] = {
 			},
 		},
@@ -4471,7 +4507,7 @@ WeakAurasSaved = {
 				["activeTriggerMode"] = 1,
 			},
 			["portraitZoom"] = false,
-			["internalVersion"] = 39,
+			["internalVersion"] = 40,
 			["model_fileId"] = "590094",
 			["selfPoint"] = "BOTTOM",
 			["model_st_ty"] = 0,
@@ -4481,7 +4517,7 @@ WeakAurasSaved = {
 			["version"] = 41,
 			["uid"] = "n2b5s8VsMBc",
 			["height"] = 15,
-			["advance"] = false,
+			["model_st_tx"] = 0,
 			["load"] = {
 				["use_petbattle"] = false,
 				["use_never"] = false,
@@ -4537,17 +4573,38 @@ WeakAurasSaved = {
 					},
 				},
 			},
-			["borderInset"] = 11,
+			["advance"] = false,
 			["backdropColor"] = {
 				1, -- [1]
 				1, -- [2]
 				1, -- [3]
 				0.5, -- [4]
 			},
-			["model_st_tx"] = 0,
+			["model_st_tz"] = 0,
 			["sequence"] = 1,
-			["model_path"] = "spells/dragonbreath_fire_jade.m2",
+			["borderInset"] = 11,
 			["scale"] = 1,
+			["parent"] = "Resto Druid - Ablution -EU - BronzeDragonflight",
+			["border"] = false,
+			["borderEdge"] = "Blizzard Dialog",
+			["regionType"] = "model",
+			["borderSize"] = 5,
+			["model_st_us"] = 40,
+			["authorOptions"] = {
+			},
+			["model_st_rz"] = 0,
+			["width"] = 166,
+			["frameStrata"] = 3,
+			["borderOffset"] = 2,
+			["semver"] = "1.0.9",
+			["tocversion"] = 90001,
+			["id"] = "HW-glow1- RestoD",
+			["model_y"] = 0.55,
+			["model_st_rx"] = 270,
+			["anchorFrameType"] = "SCREEN",
+			["model_z"] = 4.45,
+			["config"] = {
+			},
 			["animation"] = {
 				["start"] = {
 					["type"] = "none",
@@ -4569,32 +4626,13 @@ WeakAurasSaved = {
 					["easeType"] = "none",
 				},
 			},
-			["border"] = false,
-			["borderEdge"] = "Blizzard Dialog",
-			["regionType"] = "model",
-			["borderSize"] = 5,
-			["model_st_us"] = 40,
-			["authorOptions"] = {
-			},
-			["model_st_rz"] = 0,
-			["ignoreOptionsEventErrors"] = true,
-			["width"] = 166,
-			["borderOffset"] = 2,
-			["semver"] = "1.0.9",
-			["tocversion"] = 90001,
-			["id"] = "HW-glow1- RestoD",
-			["model_y"] = 0.55,
-			["frameStrata"] = 3,
-			["anchorFrameType"] = "SCREEN",
-			["model_st_rx"] = 270,
-			["config"] = {
-			},
-			["model_z"] = 4.45,
 			["modelDisplayInfo"] = false,
 			["conditions"] = {
 			},
-			["model_st_tz"] = 0,
-			["parent"] = "Resto Druid - Ablution -EU - BronzeDragonflight",
+			["information"] = {
+				["ignoreOptionsEventErrors"] = true,
+			},
+			["model_path"] = "spells/dragonbreath_fire_jade.m2",
 		},
 		["08 AUTISM!"] = {
 			["user_y"] = 0,
@@ -4652,8 +4690,8 @@ WeakAurasSaved = {
 			["displayIcon"] = "Interface\\AddOns\\WeakAuras\\Media\\Textures\\Circle_White",
 			["backgroundOffset"] = 0,
 			["glowLength"] = 10,
-			["startAngle"] = 0,
 			["compress"] = false,
+			["startAngle"] = 0,
 			["desaturateBackground"] = false,
 			["cooldownSwipe"] = true,
 			["conditions"] = {
@@ -4685,7 +4723,7 @@ WeakAurasSaved = {
 				["activeTriggerMode"] = -10,
 			},
 			["endAngle"] = 360,
-			["internalVersion"] = 39,
+			["internalVersion"] = 40,
 			["glowXOffset"] = 0,
 			["animation"] = {
 				["start"] = {
@@ -4724,21 +4762,76 @@ WeakAurasSaved = {
 					["easeType"] = "none",
 				},
 			},
-			["glowScale"] = 1,
+			["color"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
+			},
 			["text1Point"] = "CENTER",
-			["desaturate"] = false,
+			["config"] = {
+				["showName"] = true,
+				["xOffset"] = 0,
+				["size"] = 12,
+				["display"] = 3,
+				["yOffset"] = 0,
+			},
 			["stickyDuration"] = false,
 			["useglowColor"] = false,
 			["glowType"] = "buttonOverlay",
 			["version"] = 1,
 			["width"] = 45,
 			["height"] = 45,
-			["glow"] = false,
+			["actions"] = {
+				["start"] = {
+					["custom"] = "if not aura_env.region[aura_env.id] then\n    local text = CreateFrame(\"FRAME\", nil, aura_env.region)\n    aura_env.region[aura_env.id] = text\n    aura_env.region[aura_env.id]:SetFrameLevel(aura_env.region:GetFrameLevel()+1)\nend\n\nlocal j = 1\nlocal r = aura_env.region[aura_env.id]\nif r.text then\n    r.text:Hide()\nend\n\nif aura_env and aura_env.state then\n    local c = aura_env.config\n    local r = aura_env.region[aura_env.id]\n    local font = aura_env.ElvUI and \"Interface\\\\addons\\\\ElvUI\\\\Media\\\\Fonts\\\\Expressway.ttf\" or \"Fonts\\\\FRIZQT__.TTF\"\n    local fontFlags = \"OUTLINE\" --\"OUTLINE\", \"THICKOUTLINE\", \"MONOCHROME\" - e.g. \"OUTLINE, MONOCHROME\"\n    local fontSize = c.size\n    \n    if not r.text then\n        local text = r:CreateFontString(nil, \"OVERLAY\")\n        r.text = text\n        aura_env.fs_list[#aura_env.fs_list+1] = text\n    end\n    \n    r.text:SetFont(font, fontSize, fontFlags)\n    r.text:SetText(\"\")\n    r.text:SetWordWrap(true)\n    r.text:SetJustifyH(\"CENTER\")\n    r.text:SetJustifyV(\"MIDDLE\")\n    r.text:SetTextColor(1, 1, 1, 1)\n    if aura_env.state.state == 0 then\n        aura_env.region[aura_env.id].text:SetTextColor(1, 0, 1, 1)\n    end\n    r.text:ClearAllPoints()\n    r.text:SetPoint(\n        \"CENTER\", \n        aura_env.region, \n        \"CENTER\",\n        c.xOffset, \n        c.yOffset\n    )\n    \n    r.text:Show()\n    \nend\n\n\n",
+					["do_custom"] = true,
+				},
+				["finish"] = {
+					["custom"] = "if aura_env.region.text then\n    aura_env.region.text:Hide()\nend",
+					["do_custom"] = true,
+				},
+				["init"] = {
+					["custom"] = "aura_env.ElvUI = IsAddOnLoaded(\"ElvUI\")\n\nlocal diff = GetRaidDifficultyID()\naura_env.difficulty = diff == 14 and 40 or diff == 15 and 35 or diff == 16 and 30 or diff == 17 and 45\n\naura_env.names = {\n    [1] = \"LEFT\",\n    [2] = \"RIGHT\",\n    [3] = \"CONSOLE\",\n    [4] = \"MIDDLE\",\n}\n\nlocal offsets = {\n    [1] = function(x, y, spacing) return (0 - x)/1.02, (0 + y)/1.48 end,\n    [2] = function(x, y, spacing) return (0 + x)/1.02, (0 + y)/1.48 end,\n    [3] = function(x, y, spacing) return 0, (0 - y) - 6 end,\n    [4] = function(x, y, spacing) return 0, 0 end,\n}\n\naura_env.sortAndOffset = function()\n    local offsets = offsets\n    local spacing = 0\n    local t = {}\n    \n    for k, v in pairs(WeakAuras.clones[aura_env.id]) do\n        if v.state and v.state.show and v.state.index then\n            table.insert(t, v)\n        end\n    end\n    \n    for i, region in pairs(t) do\n        if region.toShow then\n            local i = region.state.index\n            local width, height = region.width, region.height\n            local xOffset, yOffset = offsets[i](width, height, spacing)\n            \n            region:SetAnchor(\"CENTER\" , WeakAuras.regions[aura_env.id].region, \"CENTER\")\n            region:SetOffset(xOffset, yOffset)\n        end\n    end\nend\n\n\n\nif aura_env.region[aura_env.id] and aura_env.region[aura_env.id].text then\n    r.text:Hide()\nend\n\naura_env.fs_list = {}\n\nlocal aura_env = aura_env\nif not aura_env.region.hook then\n    hooksecurefunc(WeakAuras, \"OpenOptions\", function()\n            if not InCombatLockdown() then\n                for i=1, #aura_env.fs_list do\n                    aura_env.fs_list[i]:Hide()\n                end\n            end\n    end)\nend\naura_env.region.hook = true",
+					["do_custom"] = true,
+				},
+			},
 			["glowLines"] = 8,
 			["glowFrequency"] = 0.25,
 			["useAdjustededMax"] = false,
-			["fontSize"] = 12,
+			["backgroundTexture"] = "450915",
 			["text2Containment"] = "INSIDE",
+			["fontSize"] = 12,
+			["text1Font"] = "Expressway",
+			["zoom"] = 0,
+			["mirror"] = false,
+			["text2Color"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
+			},
+			["icon"] = true,
+			["text1Enabled"] = true,
+			["alpha"] = 1,
+			["foregroundColor"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
+			},
+			["user_x"] = 0,
+			["text1Color"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
+			},
+			["text1"] = "%c",
+			["text2"] = "%p",
+			["crop_y"] = 0.41,
+			["text1FontFlags"] = "OUTLINE",
+			["semver"] = "1.0.0",
 			["authorOptions"] = {
 				{
 					["text"] = "|cFFFF00FFGENERAL|R",
@@ -4816,76 +4909,23 @@ WeakAurasSaved = {
 					["useDesc"] = false,
 				}, -- [7]
 			},
-			["text1Font"] = "Expressway",
-			["zoom"] = 0,
-			["mirror"] = false,
-			["text2Color"] = {
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-				1, -- [4]
-			},
-			["text1FontFlags"] = "OUTLINE",
-			["text1Enabled"] = true,
-			["alpha"] = 1,
-			["foregroundColor"] = {
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-				1, -- [4]
-			},
-			["text1Color"] = {
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-				1, -- [4]
-			},
-			["user_x"] = 0,
-			["text1"] = "%c",
-			["ignoreOptionsEventErrors"] = true,
-			["text2"] = "%p",
-			["crop_y"] = 0.41,
-			["semver"] = "1.0.0",
-			["icon"] = true,
 			["id"] = "08 AUTISM!",
-			["backgroundTexture"] = "450915",
+			["glow"] = false,
 			["frameStrata"] = 1,
 			["anchorFrameType"] = "SCREEN",
-			["actions"] = {
-				["start"] = {
-					["custom"] = "if not aura_env.region[aura_env.id] then\n    local text = CreateFrame(\"FRAME\", nil, aura_env.region)\n    aura_env.region[aura_env.id] = text\n    aura_env.region[aura_env.id]:SetFrameLevel(aura_env.region:GetFrameLevel()+1)\nend\n\nlocal j = 1\nlocal r = aura_env.region[aura_env.id]\nif r.text then\n    r.text:Hide()\nend\n\nif aura_env and aura_env.state then\n    local c = aura_env.config\n    local r = aura_env.region[aura_env.id]\n    local font = aura_env.ElvUI and \"Interface\\\\addons\\\\ElvUI\\\\Media\\\\Fonts\\\\Expressway.ttf\" or \"Fonts\\\\FRIZQT__.TTF\"\n    local fontFlags = \"OUTLINE\" --\"OUTLINE\", \"THICKOUTLINE\", \"MONOCHROME\" - e.g. \"OUTLINE, MONOCHROME\"\n    local fontSize = c.size\n    \n    if not r.text then\n        local text = r:CreateFontString(nil, \"OVERLAY\")\n        r.text = text\n        aura_env.fs_list[#aura_env.fs_list+1] = text\n    end\n    \n    r.text:SetFont(font, fontSize, fontFlags)\n    r.text:SetText(\"\")\n    r.text:SetWordWrap(true)\n    r.text:SetJustifyH(\"CENTER\")\n    r.text:SetJustifyV(\"MIDDLE\")\n    r.text:SetTextColor(1, 1, 1, 1)\n    if aura_env.state.state == 0 then\n        aura_env.region[aura_env.id].text:SetTextColor(1, 0, 1, 1)\n    end\n    r.text:ClearAllPoints()\n    r.text:SetPoint(\n        \"CENTER\", \n        aura_env.region, \n        \"CENTER\",\n        c.xOffset, \n        c.yOffset\n    )\n    \n    r.text:Show()\n    \nend\n\n\n",
-					["do_custom"] = true,
-				},
-				["finish"] = {
-					["custom"] = "if aura_env.region.text then\n    aura_env.region.text:Hide()\nend",
-					["do_custom"] = true,
-				},
-				["init"] = {
-					["custom"] = "aura_env.ElvUI = IsAddOnLoaded(\"ElvUI\")\n\nlocal diff = GetRaidDifficultyID()\naura_env.difficulty = diff == 14 and 40 or diff == 15 and 35 or diff == 16 and 30 or diff == 17 and 45\n\naura_env.names = {\n    [1] = \"LEFT\",\n    [2] = \"RIGHT\",\n    [3] = \"CONSOLE\",\n    [4] = \"MIDDLE\",\n}\n\nlocal offsets = {\n    [1] = function(x, y, spacing) return (0 - x)/1.02, (0 + y)/1.48 end,\n    [2] = function(x, y, spacing) return (0 + x)/1.02, (0 + y)/1.48 end,\n    [3] = function(x, y, spacing) return 0, (0 - y) - 6 end,\n    [4] = function(x, y, spacing) return 0, 0 end,\n}\n\naura_env.sortAndOffset = function()\n    local offsets = offsets\n    local spacing = 0\n    local t = {}\n    \n    for k, v in pairs(WeakAuras.clones[aura_env.id]) do\n        if v.state and v.state.show and v.state.index then\n            table.insert(t, v)\n        end\n    end\n    \n    for i, region in pairs(t) do\n        if region.toShow then\n            local i = region.state.index\n            local width, height = region.width, region.height\n            local xOffset, yOffset = offsets[i](width, height, spacing)\n            \n            region:SetAnchor(\"CENTER\" , WeakAuras.regions[aura_env.id].region, \"CENTER\")\n            region:SetOffset(xOffset, yOffset)\n        end\n    end\nend\n\n\n\nif aura_env.region[aura_env.id] and aura_env.region[aura_env.id].text then\n    r.text:Hide()\nend\n\naura_env.fs_list = {}\n\nlocal aura_env = aura_env\nif not aura_env.region.hook then\n    hooksecurefunc(WeakAuras, \"OpenOptions\", function()\n            if not InCombatLockdown() then\n                for i=1, #aura_env.fs_list do\n                    aura_env.fs_list[i]:Hide()\n                end\n            end\n    end)\nend\naura_env.region.hook = true",
-					["do_custom"] = true,
-				},
-			},
 			["glowColor"] = {
 				1, -- [1]
 				1, -- [2]
 				1, -- [3]
 				1, -- [4]
 			},
+			["desaturate"] = false,
 			["inverse"] = false,
-			["config"] = {
-				["showName"] = true,
-				["xOffset"] = 0,
-				["size"] = 12,
-				["display"] = 3,
-				["yOffset"] = 0,
-			},
+			["glowScale"] = 1,
 			["orientation"] = "ANTICLOCKWISE",
 			["crop_x"] = 0.41,
-			["color"] = {
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-				1, -- [4]
+			["information"] = {
+				["ignoreOptionsEventErrors"] = true,
 			},
 			["glowBorder"] = false,
 		},
@@ -5114,7 +5154,7 @@ WeakAurasSaved = {
 				}, -- [1]
 				["activeTriggerMode"] = 1,
 			},
-			["internalVersion"] = 39,
+			["internalVersion"] = 40,
 			["keepAspectRatio"] = false,
 			["animation"] = {
 				["start"] = {
@@ -5236,31 +5276,10 @@ WeakAurasSaved = {
 				},
 			},
 			["uid"] = "kVVucmiG823",
-			["zoom"] = 0,
-			["xOffset"] = 230,
-			["regionType"] = "icon",
-			["parent"] = "Resto Druid - Ablution -EU - BronzeDragonflight",
 			["authorOptions"] = {
 			},
-			["selfPoint"] = "CENTER",
-			["url"] = "https://wago.io/41diGTjPb/41",
-			["ignoreOptionsEventErrors"] = true,
-			["auto"] = true,
-			["cooldownTextDisabled"] = false,
-			["semver"] = "1.0.9",
-			["tocversion"] = 90001,
-			["id"] = "30 - T3 - Off CD - RestoD",
-			["anchorFrameType"] = "SCREEN",
-			["alpha"] = 1,
-			["width"] = 40,
-			["frameStrata"] = 1,
-			["config"] = {
-			},
-			["inverse"] = false,
-			["stickyDuration"] = false,
-			["conditions"] = {
-			},
-			["cooldown"] = false,
+			["xOffset"] = 230,
+			["regionType"] = "icon",
 			["actions"] = {
 				["start"] = {
 					["do_glow"] = false,
@@ -5274,6 +5293,29 @@ WeakAurasSaved = {
 					["do_sound"] = false,
 				},
 			},
+			["cooldown"] = false,
+			["url"] = "https://wago.io/41diGTjPb/41",
+			["parent"] = "Resto Druid - Ablution -EU - BronzeDragonflight",
+			["auto"] = true,
+			["anchorFrameType"] = "SCREEN",
+			["zoom"] = 0,
+			["semver"] = "1.0.9",
+			["tocversion"] = 90001,
+			["id"] = "30 - T3 - Off CD - RestoD",
+			["alpha"] = 1,
+			["frameStrata"] = 1,
+			["width"] = 40,
+			["cooldownTextDisabled"] = false,
+			["config"] = {
+			},
+			["inverse"] = false,
+			["stickyDuration"] = false,
+			["conditions"] = {
+			},
+			["information"] = {
+				["ignoreOptionsEventErrors"] = true,
+			},
+			["selfPoint"] = "CENTER",
 		},
 		["WG-glow - RestoD"] = {
 			["sparkWidth"] = 5,
@@ -5417,7 +5459,7 @@ WeakAurasSaved = {
 				["disjunctive"] = "all",
 				["activeTriggerMode"] = 1,
 			},
-			["internalVersion"] = 39,
+			["internalVersion"] = 40,
 			["advance"] = false,
 			["animation"] = {
 				["start"] = {
@@ -5569,14 +5611,14 @@ WeakAurasSaved = {
 				1, -- [4]
 			},
 			["uid"] = "aqhfgGXOcQG",
-			["sparkTexture"] = "Textures\\SpellActivationOverlays\\Eclipse_Moon",
-			["zoom"] = 0,
+			["parent"] = "Resto Druid - Ablution -EU - BronzeDragonflight",
+			["selfPoint"] = "CENTER",
 			["useAdjustedMax"] = false,
+			["zoom"] = 0,
 			["authorOptions"] = {
 			},
 			["config"] = {
 			},
-			["useAdjustededMax"] = false,
 			["borderInFront"] = true,
 			["spark"] = false,
 			["icon_side"] = "RIGHT",
@@ -5588,7 +5630,7 @@ WeakAurasSaved = {
 			},
 			["width"] = 167,
 			["sparkHeight"] = 50,
-			["ignoreOptionsEventErrors"] = true,
+			["sparkOffsetX"] = 0,
 			["actions"] = {
 				["start"] = {
 					["do_sound"] = false,
@@ -5599,22 +5641,24 @@ WeakAurasSaved = {
 					["do_sound"] = false,
 				},
 			},
-			["useAdjustedMin"] = false,
-			["semver"] = "1.0.9",
 			["sparkHidden"] = "NEVER",
+			["semver"] = "1.0.9",
+			["useAdjustedMin"] = false,
 			["id"] = "WG-glow - RestoD",
 			["model_y"] = 0,
 			["frameStrata"] = 1,
 			["anchorFrameType"] = "SCREEN",
-			["sparkOffsetX"] = 0,
 			["customTextUpdate"] = "update",
+			["useAdjustededMax"] = false,
 			["inverse"] = false,
 			["sparkDesature"] = false,
 			["orientation"] = "HORIZONTAL",
 			["conditions"] = {
 			},
-			["selfPoint"] = "CENTER",
-			["parent"] = "Resto Druid - Ablution -EU - BronzeDragonflight",
+			["information"] = {
+				["ignoreOptionsEventErrors"] = true,
+			},
+			["sparkTexture"] = "Textures\\SpellActivationOverlays\\Eclipse_Moon",
 		},
 		["60 - T3 - Off CD - RestoD"] = {
 			["iconSource"] = -1,
@@ -5667,7 +5711,7 @@ WeakAurasSaved = {
 				}, -- [1]
 				["activeTriggerMode"] = 1,
 			},
-			["internalVersion"] = 39,
+			["internalVersion"] = 40,
 			["keepAspectRatio"] = false,
 			["animation"] = {
 				["start"] = {
@@ -5789,31 +5833,10 @@ WeakAurasSaved = {
 				},
 			},
 			["uid"] = "NpVlKkADt8R",
-			["zoom"] = 0,
-			["xOffset"] = 240,
-			["regionType"] = "icon",
-			["parent"] = "Resto Druid - Ablution -EU - BronzeDragonflight",
 			["authorOptions"] = {
 			},
-			["selfPoint"] = "CENTER",
-			["url"] = "https://wago.io/41diGTjPb/41",
-			["ignoreOptionsEventErrors"] = true,
-			["auto"] = true,
-			["cooldownTextDisabled"] = false,
-			["semver"] = "1.0.9",
-			["tocversion"] = 90001,
-			["id"] = "60 - T3 - Off CD - RestoD",
-			["anchorFrameType"] = "SCREEN",
-			["alpha"] = 1,
-			["width"] = 17,
-			["frameStrata"] = 1,
-			["config"] = {
-			},
-			["inverse"] = false,
-			["stickyDuration"] = false,
-			["conditions"] = {
-			},
-			["cooldown"] = false,
+			["xOffset"] = 240,
+			["regionType"] = "icon",
 			["actions"] = {
 				["start"] = {
 					["do_glow"] = false,
@@ -5827,6 +5850,29 @@ WeakAurasSaved = {
 					["do_sound"] = false,
 				},
 			},
+			["cooldown"] = false,
+			["url"] = "https://wago.io/41diGTjPb/41",
+			["parent"] = "Resto Druid - Ablution -EU - BronzeDragonflight",
+			["auto"] = true,
+			["anchorFrameType"] = "SCREEN",
+			["zoom"] = 0,
+			["semver"] = "1.0.9",
+			["tocversion"] = 90001,
+			["id"] = "60 - T3 - Off CD - RestoD",
+			["alpha"] = 1,
+			["frameStrata"] = 1,
+			["width"] = 17,
+			["cooldownTextDisabled"] = false,
+			["config"] = {
+			},
+			["inverse"] = false,
+			["stickyDuration"] = false,
+			["conditions"] = {
+			},
+			["information"] = {
+				["ignoreOptionsEventErrors"] = true,
+			},
+			["selfPoint"] = "CENTER",
 		},
 		["60 - T3 - CD - RestoD"] = {
 			["iconSource"] = -1,
@@ -5882,7 +5928,7 @@ WeakAurasSaved = {
 				}, -- [1]
 				["activeTriggerMode"] = 1,
 			},
-			["internalVersion"] = 39,
+			["internalVersion"] = 40,
 			["keepAspectRatio"] = false,
 			["animation"] = {
 				["start"] = {
@@ -6007,31 +6053,10 @@ WeakAurasSaved = {
 				},
 			},
 			["uid"] = "GRg9yu(uDj)",
-			["zoom"] = 0,
-			["xOffset"] = 240,
-			["regionType"] = "icon",
-			["parent"] = "Resto Druid - Ablution -EU - BronzeDragonflight",
 			["authorOptions"] = {
 			},
-			["selfPoint"] = "CENTER",
-			["url"] = "https://wago.io/41diGTjPb/41",
-			["ignoreOptionsEventErrors"] = true,
-			["auto"] = true,
-			["cooldownTextDisabled"] = false,
-			["semver"] = "1.0.9",
-			["tocversion"] = 90001,
-			["id"] = "60 - T3 - CD - RestoD",
-			["anchorFrameType"] = "SCREEN",
-			["alpha"] = 1,
-			["width"] = 17,
-			["frameStrata"] = 1,
-			["config"] = {
-			},
-			["inverse"] = false,
-			["stickyDuration"] = false,
-			["conditions"] = {
-			},
-			["cooldown"] = false,
+			["xOffset"] = 240,
+			["regionType"] = "icon",
 			["actions"] = {
 				["start"] = {
 					["do_glow"] = false,
@@ -6045,6 +6070,29 @@ WeakAurasSaved = {
 					["do_sound"] = false,
 				},
 			},
+			["cooldown"] = false,
+			["url"] = "https://wago.io/41diGTjPb/41",
+			["parent"] = "Resto Druid - Ablution -EU - BronzeDragonflight",
+			["auto"] = true,
+			["anchorFrameType"] = "SCREEN",
+			["zoom"] = 0,
+			["semver"] = "1.0.9",
+			["tocversion"] = 90001,
+			["id"] = "60 - T3 - CD - RestoD",
+			["alpha"] = 1,
+			["frameStrata"] = 1,
+			["width"] = 17,
+			["cooldownTextDisabled"] = false,
+			["config"] = {
+			},
+			["inverse"] = false,
+			["stickyDuration"] = false,
+			["conditions"] = {
+			},
+			["information"] = {
+				["ignoreOptionsEventErrors"] = true,
+			},
+			["selfPoint"] = "CENTER",
 		},
 		["Mana % - Resto Druid"] = {
 			["outline"] = "OUTLINE",
@@ -6091,7 +6139,7 @@ WeakAurasSaved = {
 				["disjunctive"] = "all",
 				["activeTriggerMode"] = -10,
 			},
-			["internalVersion"] = 39,
+			["internalVersion"] = 40,
 			["animation"] = {
 				["start"] = {
 					["type"] = "none",
@@ -6170,32 +6218,32 @@ WeakAurasSaved = {
 			},
 			["fontSize"] = 11,
 			["shadowXOffset"] = 1,
-			["selfPoint"] = "BOTTOM",
+			["parent"] = "Resto Druid - Ablution -EU - BronzeDragonflight",
 			["regionType"] = "text",
 			["conditions"] = {
 			},
-			["wordWrap"] = "WordWrap",
 			["color"] = {
 				1, -- [1]
 				1, -- [2]
 				1, -- [3]
 				1, -- [4]
 			},
-			["ignoreOptionsEventErrors"] = true,
+			["wordWrap"] = "WordWrap",
+			["yOffset"] = -253,
 			["semver"] = "1.0.9",
-			["width"] = 16.969314575195,
+			["uid"] = "5A5xkTn8ZPs",
 			["justify"] = "CENTER",
 			["tocversion"] = 90001,
 			["id"] = "Mana % - Resto Druid",
-			["uid"] = "5A5xkTn8ZPs",
+			["width"] = 16.969314575195,
 			["frameStrata"] = 4,
 			["anchorFrameType"] = "SCREEN",
-			["yOffset"] = -253,
-			["config"] = {
-			},
 			["authorOptions"] = {
 			},
+			["config"] = {
+			},
 			["automaticWidth"] = "Auto",
+			["preferToUpdate"] = false,
 			["shadowColor"] = {
 				0, -- [1]
 				0, -- [2]
@@ -6203,8 +6251,10 @@ WeakAurasSaved = {
 				1, -- [4]
 			},
 			["fixedWidth"] = 200,
-			["parent"] = "Resto Druid - Ablution -EU - BronzeDragonflight",
-			["preferToUpdate"] = false,
+			["information"] = {
+				["ignoreOptionsEventErrors"] = true,
+			},
+			["selfPoint"] = "BOTTOM",
 		},
 		["Hope-Timer-Bar - RestoD"] = {
 			["sparkWidth"] = 5,
@@ -6331,7 +6381,7 @@ WeakAurasSaved = {
 				}, -- [1]
 				["activeTriggerMode"] = 1,
 			},
-			["internalVersion"] = 39,
+			["internalVersion"] = 40,
 			["useAdjustedMin"] = false,
 			["animation"] = {
 				["start"] = {
@@ -6485,29 +6535,21 @@ WeakAurasSaved = {
 			["useAdjustedMax"] = false,
 			["config"] = {
 			},
-			["zoom"] = 0,
-			["desaturate"] = false,
+			["parent"] = "Resto Druid - Ablution -EU - BronzeDragonflight",
+			["sparkOffsetX"] = 0,
 			["borderInFront"] = true,
+			["desaturate"] = false,
+			["icon_side"] = "LEFT",
 			["authorOptions"] = {
 			},
-			["icon_side"] = "LEFT",
 			["sparkColor"] = {
 				0.4078431372549, -- [1]
 				0.88235294117647, -- [2]
 				1, -- [3]
 				1, -- [4]
 			},
-			["customTextUpdate"] = "update",
 			["sparkHeight"] = 62,
-			["ignoreOptionsEventErrors"] = true,
 			["spark"] = true,
-			["id"] = "Hope-Timer-Bar - RestoD",
-			["semver"] = "1.0.9",
-			["width"] = 337,
-			["sparkHidden"] = "NEVER",
-			["useAdjustededMax"] = false,
-			["frameStrata"] = 3,
-			["anchorFrameType"] = "SCREEN",
 			["actions"] = {
 				["start"] = {
 					["do_glow"] = false,
@@ -6519,19 +6561,29 @@ WeakAurasSaved = {
 					["do_sound"] = false,
 				},
 			},
+			["width"] = 337,
+			["semver"] = "1.0.9",
+			["sparkHidden"] = "NEVER",
+			["id"] = "Hope-Timer-Bar - RestoD",
+			["useAdjustededMax"] = false,
+			["frameStrata"] = 3,
+			["anchorFrameType"] = "SCREEN",
 			["backgroundColor"] = {
 				0.29803921568628, -- [1]
 				0.29803921568628, -- [2]
 				0.29803921568628, -- [3]
 				1, -- [4]
 			},
+			["customTextUpdate"] = "update",
 			["inverse"] = false,
 			["sparkDesature"] = false,
 			["orientation"] = "HORIZONTAL_INVERSE",
 			["conditions"] = {
 			},
-			["sparkOffsetX"] = 0,
-			["parent"] = "Resto Druid - Ablution -EU - BronzeDragonflight",
+			["information"] = {
+				["ignoreOptionsEventErrors"] = true,
+			},
+			["zoom"] = 0,
 		},
 		["Nature's Cure - CD - RestoD"] = {
 			["iconSource"] = -1,
@@ -6587,7 +6639,7 @@ WeakAurasSaved = {
 				}, -- [1]
 				["activeTriggerMode"] = 1,
 			},
-			["internalVersion"] = 39,
+			["internalVersion"] = 40,
 			["keepAspectRatio"] = false,
 			["animation"] = {
 				["start"] = {
@@ -6707,31 +6759,10 @@ WeakAurasSaved = {
 				},
 			},
 			["uid"] = "hde4ixAb84T",
-			["zoom"] = 0,
-			["xOffset"] = -66,
-			["regionType"] = "icon",
-			["parent"] = "Resto Druid - Ablution -EU - BronzeDragonflight",
 			["authorOptions"] = {
 			},
-			["selfPoint"] = "CENTER",
-			["url"] = "https://wago.io/41diGTjPb/41",
-			["ignoreOptionsEventErrors"] = true,
-			["auto"] = true,
-			["cooldownTextDisabled"] = false,
-			["semver"] = "1.0.9",
-			["tocversion"] = 90001,
-			["id"] = "Nature's Cure - CD - RestoD",
-			["anchorFrameType"] = "SCREEN",
-			["alpha"] = 1,
-			["width"] = 30,
-			["frameStrata"] = 1,
-			["config"] = {
-			},
-			["inverse"] = false,
-			["stickyDuration"] = false,
-			["conditions"] = {
-			},
-			["cooldown"] = false,
+			["xOffset"] = -66,
+			["regionType"] = "icon",
 			["actions"] = {
 				["start"] = {
 					["do_glow"] = false,
@@ -6745,6 +6776,29 @@ WeakAurasSaved = {
 					["do_sound"] = false,
 				},
 			},
+			["cooldown"] = false,
+			["url"] = "https://wago.io/41diGTjPb/41",
+			["parent"] = "Resto Druid - Ablution -EU - BronzeDragonflight",
+			["auto"] = true,
+			["anchorFrameType"] = "SCREEN",
+			["zoom"] = 0,
+			["semver"] = "1.0.9",
+			["tocversion"] = 90001,
+			["id"] = "Nature's Cure - CD - RestoD",
+			["alpha"] = 1,
+			["frameStrata"] = 1,
+			["width"] = 30,
+			["cooldownTextDisabled"] = false,
+			["config"] = {
+			},
+			["inverse"] = false,
+			["stickyDuration"] = false,
+			["conditions"] = {
+			},
+			["information"] = {
+				["ignoreOptionsEventErrors"] = true,
+			},
+			["selfPoint"] = "CENTER",
 		},
 		["Light of T'uure CD"] = {
 			["iconSource"] = -1,
@@ -6797,7 +6851,7 @@ WeakAurasSaved = {
 				["disjunctive"] = "all",
 				["activeTriggerMode"] = -10,
 			},
-			["internalVersion"] = 39,
+			["internalVersion"] = 40,
 			["keepAspectRatio"] = false,
 			["animation"] = {
 				["start"] = {
@@ -6908,36 +6962,38 @@ WeakAurasSaved = {
 					},
 				},
 			},
-			["useTooltip"] = false,
-			["regionType"] = "icon",
-			["icon"] = true,
-			["selfPoint"] = "CENTER",
 			["color"] = {
 				1, -- [1]
 				1, -- [2]
 				1, -- [3]
 				0.680722117424011, -- [4]
 			},
-			["desaturate"] = true,
-			["ignoreOptionsEventErrors"] = true,
-			["cooldownTextDisabled"] = false,
-			["zoom"] = 0,
-			["auto"] = true,
+			["regionType"] = "icon",
+			["useTooltip"] = false,
+			["selfPoint"] = "CENTER",
+			["icon"] = true,
+			["cooldown"] = true,
+			["parent"] = "Holy Left",
 			["config"] = {
 			},
-			["id"] = "Light of T'uure CD",
+			["zoom"] = 0,
+			["auto"] = true,
 			["alpha"] = 1,
-			["frameStrata"] = 1,
+			["id"] = "Light of T'uure CD",
 			["anchorFrameType"] = "SCREEN",
+			["frameStrata"] = 1,
 			["width"] = 64,
+			["cooldownTextDisabled"] = false,
 			["uid"] = "hjcOGd5ajtI",
 			["inverse"] = false,
-			["parent"] = "Holy Left",
-			["conditions"] = {
-			},
-			["cooldown"] = true,
 			["authorOptions"] = {
 			},
+			["conditions"] = {
+			},
+			["information"] = {
+				["ignoreOptionsEventErrors"] = true,
+			},
+			["desaturate"] = true,
 		},
 		["15 - T3 - CD - RestoD"] = {
 			["iconSource"] = -1,
@@ -6993,7 +7049,7 @@ WeakAurasSaved = {
 				}, -- [1]
 				["activeTriggerMode"] = 1,
 			},
-			["internalVersion"] = 39,
+			["internalVersion"] = 40,
 			["keepAspectRatio"] = false,
 			["animation"] = {
 				["start"] = {
@@ -7115,31 +7171,10 @@ WeakAurasSaved = {
 				},
 			},
 			["uid"] = "QMnPI)WptCD",
-			["zoom"] = 0,
-			["xOffset"] = 103,
-			["regionType"] = "icon",
-			["parent"] = "Resto Druid - Ablution -EU - BronzeDragonflight",
 			["authorOptions"] = {
 			},
-			["selfPoint"] = "CENTER",
-			["url"] = "https://wago.io/41diGTjPb/41",
-			["ignoreOptionsEventErrors"] = true,
-			["auto"] = true,
-			["cooldownTextDisabled"] = false,
-			["semver"] = "1.0.9",
-			["tocversion"] = 90001,
-			["id"] = "15 - T3 - CD - RestoD",
-			["anchorFrameType"] = "SCREEN",
-			["alpha"] = 1,
-			["width"] = 30,
-			["frameStrata"] = 1,
-			["config"] = {
-			},
-			["inverse"] = false,
-			["stickyDuration"] = false,
-			["conditions"] = {
-			},
-			["cooldown"] = false,
+			["xOffset"] = 103,
+			["regionType"] = "icon",
 			["actions"] = {
 				["start"] = {
 					["do_glow"] = false,
@@ -7153,6 +7188,29 @@ WeakAurasSaved = {
 					["do_sound"] = false,
 				},
 			},
+			["cooldown"] = false,
+			["url"] = "https://wago.io/41diGTjPb/41",
+			["parent"] = "Resto Druid - Ablution -EU - BronzeDragonflight",
+			["auto"] = true,
+			["anchorFrameType"] = "SCREEN",
+			["zoom"] = 0,
+			["semver"] = "1.0.9",
+			["tocversion"] = 90001,
+			["id"] = "15 - T3 - CD - RestoD",
+			["alpha"] = 1,
+			["frameStrata"] = 1,
+			["width"] = 30,
+			["cooldownTextDisabled"] = false,
+			["config"] = {
+			},
+			["inverse"] = false,
+			["stickyDuration"] = false,
+			["conditions"] = {
+			},
+			["information"] = {
+				["ignoreOptionsEventErrors"] = true,
+			},
+			["selfPoint"] = "CENTER",
 		},
 		["75 - T3 - Off CD - RestoD"] = {
 			["iconSource"] = -1,
@@ -7170,7 +7228,7 @@ WeakAurasSaved = {
 			["cooldownEdge"] = false,
 			["icon"] = true,
 			["spellName"] = 208065,
-			["internalVersion"] = 39,
+			["internalVersion"] = 40,
 			["keepAspectRatio"] = false,
 			["selfPoint"] = "CENTER",
 			["stickyDuration"] = false,
@@ -7265,57 +7323,13 @@ WeakAurasSaved = {
 			["fontSize"] = 21,
 			["alpha"] = 1,
 			["anchorFrameType"] = "SCREEN",
-			["parent"] = "Resto Druid - Ablution -EU - BronzeDragonflight",
 			["desaturate"] = false,
 			["authorOptions"] = {
 			},
+			["cooldown"] = true,
 			["displayIcon"] = 458225,
 			["regionType"] = "icon",
 			["xOffset"] = -151,
-			["actions"] = {
-				["start"] = {
-					["do_sound"] = false,
-				},
-				["init"] = {
-				},
-				["finish"] = {
-					["do_sound"] = false,
-				},
-			},
-			["config"] = {
-			},
-			["url"] = "https://wago.io/41diGTjPb/41",
-			["ignoreOptionsEventErrors"] = true,
-			["auto"] = true,
-			["zoom"] = 0,
-			["semver"] = "1.0.9",
-			["tocversion"] = 90001,
-			["id"] = "75 - T3 - Off CD - RestoD",
-			["cooldownTextDisabled"] = false,
-			["frameStrata"] = 1,
-			["width"] = 40,
-			["animation"] = {
-				["start"] = {
-					["type"] = "none",
-					["easeStrength"] = 3,
-					["duration_type"] = "seconds",
-					["easeType"] = "none",
-				},
-				["main"] = {
-					["type"] = "none",
-					["easeStrength"] = 3,
-					["duration_type"] = "seconds",
-					["easeType"] = "none",
-				},
-				["finish"] = {
-					["type"] = "none",
-					["easeStrength"] = 3,
-					["duration_type"] = "seconds",
-					["easeType"] = "none",
-				},
-			},
-			["uid"] = "klyOyDmKD5E",
-			["inverse"] = false,
 			["triggers"] = {
 				{
 					["trigger"] = {
@@ -7350,9 +7364,55 @@ WeakAurasSaved = {
 				}, -- [1]
 				["activeTriggerMode"] = 1,
 			},
+			["config"] = {
+			},
+			["url"] = "https://wago.io/41diGTjPb/41",
+			["cooldownTextDisabled"] = false,
+			["semver"] = "1.0.9",
+			["zoom"] = 0,
+			["auto"] = true,
+			["tocversion"] = 90001,
+			["id"] = "75 - T3 - Off CD - RestoD",
+			["animation"] = {
+				["start"] = {
+					["type"] = "none",
+					["easeStrength"] = 3,
+					["duration_type"] = "seconds",
+					["easeType"] = "none",
+				},
+				["main"] = {
+					["type"] = "none",
+					["easeStrength"] = 3,
+					["duration_type"] = "seconds",
+					["easeType"] = "none",
+				},
+				["finish"] = {
+					["type"] = "none",
+					["easeStrength"] = 3,
+					["duration_type"] = "seconds",
+					["easeType"] = "none",
+				},
+			},
+			["frameStrata"] = 1,
+			["width"] = 40,
+			["actions"] = {
+				["start"] = {
+					["do_sound"] = false,
+				},
+				["init"] = {
+				},
+				["finish"] = {
+					["do_sound"] = false,
+				},
+			},
+			["uid"] = "klyOyDmKD5E",
+			["inverse"] = false,
+			["parent"] = "Resto Druid - Ablution -EU - BronzeDragonflight",
 			["conditions"] = {
 			},
-			["cooldown"] = true,
+			["information"] = {
+				["ignoreOptionsEventErrors"] = true,
+			},
 			["textColor"] = {
 				0.91372549019608, -- [1]
 				0.94117647058824, -- [2]
@@ -7478,15 +7538,10 @@ WeakAurasSaved = {
 			},
 			["barInFront"] = true,
 			["desc"] = "Starfall bar.  Nothing fancy.",
-			["sparkWidth"] = 5,
-			["borderBackdrop"] = "None",
+			["preferToUpdate"] = false,
+			["parent"] = "Resto Druid - Ablution -EU - BronzeDragonflight",
 			["sparkRotationMode"] = "MANUAL",
-			["sparkColor"] = {
-				1, -- [1]
-				0.85882352941176, -- [2]
-				0.011764705882353, -- [3]
-				1, -- [4]
-			},
+			["borderBackdrop"] = "None",
 			["displayTextLeft"] = "%n",
 			["triggers"] = {
 				{
@@ -7522,18 +7577,14 @@ WeakAurasSaved = {
 				}, -- [1]
 				["activeTriggerMode"] = 1,
 			},
-			["uid"] = "nC2OjdECSCR",
-			["internalVersion"] = 39,
-			["actions"] = {
-				["start"] = {
-					["do_sound"] = false,
-				},
-				["init"] = {
-				},
-				["finish"] = {
-					["do_sound"] = false,
-				},
+			["sparkColor"] = {
+				1, -- [1]
+				0.85882352941176, -- [2]
+				0.011764705882353, -- [3]
+				1, -- [4]
 			},
+			["internalVersion"] = 40,
+			["uid"] = "nC2OjdECSCR",
 			["animation"] = {
 				["start"] = {
 					["type"] = "none",
@@ -7564,7 +7615,8 @@ WeakAurasSaved = {
 			["anchorFrameType"] = "SCREEN",
 			["timer"] = false,
 			["timerFlags"] = "None",
-			["spark"] = false,
+			["authorOptions"] = {
+			},
 			["sparkBlendMode"] = "ADD",
 			["backdropColor"] = {
 				1, -- [1]
@@ -7577,18 +7629,23 @@ WeakAurasSaved = {
 			["sparkHidden"] = "NEVER",
 			["semver"] = "1.0.9",
 			["timerSize"] = 12,
-			["zoom"] = 0,
+			["backgroundColor"] = {
+				0.29803921568628, -- [1]
+				0.29803921568628, -- [2]
+				0.29803921568628, -- [3]
+				1, -- [4]
+			},
 			["mirror"] = false,
 			["borderEdge"] = "Blizzard Dialog",
 			["sparkTexture"] = "Interface\\CastingBar\\UI-CastingBar-Spark",
 			["borderSize"] = 5,
 			["stacksFont"] = "Friz Quadrata TT",
 			["icon_side"] = "RIGHT",
-			["border"] = false,
 			["rotate"] = false,
+			["border"] = false,
 			["sparkHeight"] = 62,
-			["ignoreOptionsEventErrors"] = true,
 			["customTextUpdate"] = "update",
+			["zoom"] = 0,
 			["stacksColor"] = {
 				1, -- [1]
 				1, -- [2]
@@ -7596,26 +7653,31 @@ WeakAurasSaved = {
 				1, -- [4]
 			},
 			["displayTextRight"] = "%p",
-			["backgroundColor"] = {
-				0.29803921568628, -- [1]
-				0.29803921568628, -- [2]
-				0.29803921568628, -- [3]
-				1, -- [4]
-			},
-			["id"] = "BGbar - RestoD",
 			["url"] = "https://wago.io/41diGTjPb/41",
+			["id"] = "BGbar - RestoD",
+			["spark"] = false,
 			["frameStrata"] = 3,
 			["width"] = 337,
-			["authorOptions"] = {
-			},
 			["textSize"] = 12,
+			["actions"] = {
+				["start"] = {
+					["do_sound"] = false,
+				},
+				["init"] = {
+				},
+				["finish"] = {
+					["do_sound"] = false,
+				},
+			},
 			["inverse"] = false,
 			["sparkDesature"] = false,
 			["orientation"] = "HORIZONTAL",
 			["conditions"] = {
 			},
-			["parent"] = "Resto Druid - Ablution -EU - BronzeDragonflight",
-			["preferToUpdate"] = false,
+			["information"] = {
+				["ignoreOptionsEventErrors"] = true,
+			},
+			["sparkWidth"] = 5,
 		},
 		["Innervate-Timer-bar - RestoD"] = {
 			["sparkWidth"] = 5,
@@ -7742,7 +7804,7 @@ WeakAurasSaved = {
 				}, -- [1]
 				["activeTriggerMode"] = 1,
 			},
-			["internalVersion"] = 39,
+			["internalVersion"] = 40,
 			["useAdjustedMin"] = false,
 			["animation"] = {
 				["start"] = {
@@ -7896,29 +7958,21 @@ WeakAurasSaved = {
 			["useAdjustedMax"] = false,
 			["config"] = {
 			},
-			["zoom"] = 0,
-			["desaturate"] = false,
+			["parent"] = "Resto Druid - Ablution -EU - BronzeDragonflight",
+			["sparkOffsetX"] = 0,
 			["borderInFront"] = true,
+			["desaturate"] = false,
+			["icon_side"] = "LEFT",
 			["authorOptions"] = {
 			},
-			["icon_side"] = "LEFT",
 			["sparkColor"] = {
 				0.4078431372549, -- [1]
 				0.88235294117647, -- [2]
 				1, -- [3]
 				1, -- [4]
 			},
-			["customTextUpdate"] = "update",
 			["sparkHeight"] = 62,
-			["ignoreOptionsEventErrors"] = true,
 			["spark"] = true,
-			["id"] = "Innervate-Timer-bar - RestoD",
-			["semver"] = "1.0.9",
-			["width"] = 337,
-			["sparkHidden"] = "NEVER",
-			["useAdjustededMax"] = false,
-			["frameStrata"] = 3,
-			["anchorFrameType"] = "SCREEN",
 			["actions"] = {
 				["start"] = {
 					["do_sound"] = false,
@@ -7929,19 +7983,29 @@ WeakAurasSaved = {
 					["do_sound"] = false,
 				},
 			},
+			["width"] = 337,
+			["semver"] = "1.0.9",
+			["sparkHidden"] = "NEVER",
+			["id"] = "Innervate-Timer-bar - RestoD",
+			["useAdjustededMax"] = false,
+			["frameStrata"] = 3,
+			["anchorFrameType"] = "SCREEN",
 			["backgroundColor"] = {
 				0.29803921568628, -- [1]
 				0.29803921568628, -- [2]
 				0.29803921568628, -- [3]
 				1, -- [4]
 			},
+			["customTextUpdate"] = "update",
 			["inverse"] = false,
 			["sparkDesature"] = false,
 			["orientation"] = "HORIZONTAL_INVERSE",
 			["conditions"] = {
 			},
-			["sparkOffsetX"] = 0,
-			["parent"] = "Resto Druid - Ablution -EU - BronzeDragonflight",
+			["information"] = {
+				["ignoreOptionsEventErrors"] = true,
+			},
+			["zoom"] = 0,
 		},
 		["Incarnation Running - RestoD"] = {
 			["sparkWidth"] = 5,
@@ -8068,7 +8132,7 @@ WeakAurasSaved = {
 				}, -- [1]
 				["activeTriggerMode"] = 1,
 			},
-			["internalVersion"] = 39,
+			["internalVersion"] = 40,
 			["useAdjustedMin"] = false,
 			["animation"] = {
 				["start"] = {
@@ -8222,29 +8286,21 @@ WeakAurasSaved = {
 			["useAdjustedMax"] = false,
 			["config"] = {
 			},
-			["zoom"] = 0,
-			["desaturate"] = false,
+			["parent"] = "Resto Druid - Ablution -EU - BronzeDragonflight",
+			["sparkOffsetX"] = 0,
 			["borderInFront"] = true,
+			["desaturate"] = false,
+			["icon_side"] = "RIGHT",
 			["authorOptions"] = {
 			},
-			["icon_side"] = "RIGHT",
 			["sparkColor"] = {
 				1, -- [1]
 				0.85882352941176, -- [2]
 				0.011764705882353, -- [3]
 				1, -- [4]
 			},
-			["customTextUpdate"] = "update",
 			["sparkHeight"] = 62,
-			["ignoreOptionsEventErrors"] = true,
 			["spark"] = true,
-			["id"] = "Incarnation Running - RestoD",
-			["semver"] = "1.0.9",
-			["width"] = 337,
-			["sparkHidden"] = "NEVER",
-			["useAdjustededMax"] = false,
-			["frameStrata"] = 3,
-			["anchorFrameType"] = "SCREEN",
 			["actions"] = {
 				["start"] = {
 					["do_sound"] = false,
@@ -8255,19 +8311,29 @@ WeakAurasSaved = {
 					["do_sound"] = false,
 				},
 			},
+			["width"] = 337,
+			["semver"] = "1.0.9",
+			["sparkHidden"] = "NEVER",
+			["id"] = "Incarnation Running - RestoD",
+			["useAdjustededMax"] = false,
+			["frameStrata"] = 3,
+			["anchorFrameType"] = "SCREEN",
 			["backgroundColor"] = {
 				0.29803921568628, -- [1]
 				0.29803921568628, -- [2]
 				0.29803921568628, -- [3]
 				1, -- [4]
 			},
+			["customTextUpdate"] = "update",
 			["inverse"] = false,
 			["sparkDesature"] = false,
 			["orientation"] = "HORIZONTAL",
 			["conditions"] = {
 			},
-			["sparkOffsetX"] = 0,
-			["parent"] = "Resto Druid - Ablution -EU - BronzeDragonflight",
+			["information"] = {
+				["ignoreOptionsEventErrors"] = true,
+			},
+			["zoom"] = 0,
 		},
 		["Summon Group"] = {
 			["arcLength"] = 360,
@@ -8320,46 +8386,6 @@ WeakAurasSaved = {
 			["version"] = 3,
 			["subRegions"] = {
 			},
-			["customAnchorPerUnit"] = "\n\n",
-			["grow"] = "DOWN",
-			["load"] = {
-				["use_class"] = false,
-				["class"] = {
-					["multi"] = {
-					},
-				},
-				["spec"] = {
-					["multi"] = {
-					},
-				},
-				["size"] = {
-					["multi"] = {
-					},
-				},
-			},
-			["borderColor"] = {
-				0, -- [1]
-				0, -- [2]
-				0, -- [3]
-				1, -- [4]
-			},
-			["backdropColor"] = {
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-				0.5, -- [4]
-			},
-			["radius"] = 200,
-			["animate"] = false,
-			["stagger"] = 0,
-			["scale"] = 1,
-			["space"] = 2,
-			["border"] = false,
-			["borderEdge"] = "Square Full White",
-			["regionType"] = "dynamicgroup",
-			["borderSize"] = 2,
-			["limit"] = 5,
-			["borderInset"] = 1,
 			["animation"] = {
 				["start"] = {
 					["easeStrength"] = 3,
@@ -8380,6 +8406,46 @@ WeakAurasSaved = {
 					["easeType"] = "none",
 				},
 			},
+			["space"] = 2,
+			["load"] = {
+				["use_class"] = false,
+				["class"] = {
+					["multi"] = {
+					},
+				},
+				["spec"] = {
+					["multi"] = {
+					},
+				},
+				["size"] = {
+					["multi"] = {
+					},
+				},
+			},
+			["grow"] = "DOWN",
+			["backdropColor"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				0.5, -- [4]
+			},
+			["radius"] = 200,
+			["animate"] = false,
+			["selfPoint"] = "CENTER",
+			["scale"] = 1,
+			["borderColor"] = {
+				0, -- [1]
+				0, -- [2]
+				0, -- [3]
+				1, -- [4]
+			},
+			["border"] = false,
+			["borderEdge"] = "Square Full White",
+			["regionType"] = "dynamicgroup",
+			["borderSize"] = 2,
+			["limit"] = 5,
+			["borderInset"] = 1,
+			["rowSpace"] = 1,
 			["constantFactor"] = "RADIUS",
 			["sort"] = "none",
 			["borderOffset"] = 4,
@@ -8392,14 +8458,14 @@ WeakAurasSaved = {
 			["uid"] = "iu4PyXaHMqd",
 			["config"] = {
 			},
-			["gridType"] = "RD",
-			["rowSpace"] = 1,
+			["stagger"] = 0,
+			["customAnchorPerUnit"] = "\n\n",
 			["conditions"] = {
 			},
 			["information"] = {
 				["ignoreOptionsEventErrors"] = true,
 			},
-			["selfPoint"] = "CENTER",
+			["gridType"] = "RD",
 		},
 		["75 - T2 - Pasive - RestoD"] = {
 			["iconSource"] = -1,
@@ -8417,7 +8483,7 @@ WeakAurasSaved = {
 			["cooldownEdge"] = false,
 			["icon"] = true,
 			["spellName"] = 208065,
-			["internalVersion"] = 39,
+			["internalVersion"] = 40,
 			["keepAspectRatio"] = false,
 			["selfPoint"] = "CENTER",
 			["stickyDuration"] = false,
@@ -8512,57 +8578,13 @@ WeakAurasSaved = {
 			["fontSize"] = 21,
 			["alpha"] = 1,
 			["anchorFrameType"] = "SCREEN",
-			["parent"] = "Resto Druid - Ablution -EU - BronzeDragonflight",
 			["desaturate"] = false,
 			["authorOptions"] = {
 			},
+			["cooldown"] = true,
 			["displayIcon"] = 136041,
 			["regionType"] = "icon",
 			["xOffset"] = -151,
-			["actions"] = {
-				["start"] = {
-					["do_sound"] = false,
-				},
-				["init"] = {
-				},
-				["finish"] = {
-					["do_sound"] = false,
-				},
-			},
-			["config"] = {
-			},
-			["url"] = "https://wago.io/41diGTjPb/41",
-			["ignoreOptionsEventErrors"] = true,
-			["auto"] = true,
-			["zoom"] = 0,
-			["semver"] = "1.0.9",
-			["tocversion"] = 90001,
-			["id"] = "75 - T2 - Pasive - RestoD",
-			["cooldownTextDisabled"] = false,
-			["frameStrata"] = 1,
-			["width"] = 40,
-			["animation"] = {
-				["start"] = {
-					["type"] = "none",
-					["easeStrength"] = 3,
-					["duration_type"] = "seconds",
-					["easeType"] = "none",
-				},
-				["main"] = {
-					["type"] = "none",
-					["easeStrength"] = 3,
-					["duration_type"] = "seconds",
-					["easeType"] = "none",
-				},
-				["finish"] = {
-					["type"] = "none",
-					["easeStrength"] = 3,
-					["duration_type"] = "seconds",
-					["easeType"] = "none",
-				},
-			},
-			["uid"] = "W2DqOnCF9lc",
-			["inverse"] = false,
 			["triggers"] = {
 				{
 					["trigger"] = {
@@ -8597,9 +8619,55 @@ WeakAurasSaved = {
 				}, -- [1]
 				["activeTriggerMode"] = 1,
 			},
+			["config"] = {
+			},
+			["url"] = "https://wago.io/41diGTjPb/41",
+			["cooldownTextDisabled"] = false,
+			["semver"] = "1.0.9",
+			["zoom"] = 0,
+			["auto"] = true,
+			["tocversion"] = 90001,
+			["id"] = "75 - T2 - Pasive - RestoD",
+			["animation"] = {
+				["start"] = {
+					["type"] = "none",
+					["easeStrength"] = 3,
+					["duration_type"] = "seconds",
+					["easeType"] = "none",
+				},
+				["main"] = {
+					["type"] = "none",
+					["easeStrength"] = 3,
+					["duration_type"] = "seconds",
+					["easeType"] = "none",
+				},
+				["finish"] = {
+					["type"] = "none",
+					["easeStrength"] = 3,
+					["duration_type"] = "seconds",
+					["easeType"] = "none",
+				},
+			},
+			["frameStrata"] = 1,
+			["width"] = 40,
+			["actions"] = {
+				["start"] = {
+					["do_sound"] = false,
+				},
+				["init"] = {
+				},
+				["finish"] = {
+					["do_sound"] = false,
+				},
+			},
+			["uid"] = "W2DqOnCF9lc",
+			["inverse"] = false,
+			["parent"] = "Resto Druid - Ablution -EU - BronzeDragonflight",
 			["conditions"] = {
 			},
-			["cooldown"] = true,
+			["information"] = {
+				["ignoreOptionsEventErrors"] = true,
+			},
 			["textColor"] = {
 				0.91372549019608, -- [1]
 				0.94117647058824, -- [2]
@@ -8671,7 +8739,7 @@ WeakAurasSaved = {
 				}, -- [2]
 				["activeTriggerMode"] = 1,
 			},
-			["internalVersion"] = 39,
+			["internalVersion"] = 40,
 			["keepAspectRatio"] = false,
 			["animation"] = {
 				["start"] = {
@@ -8789,24 +8857,36 @@ WeakAurasSaved = {
 				},
 			},
 			["uid"] = "EEluNkRGDxF",
-			["zoom"] = 0,
-			["xOffset"] = 103,
-			["regionType"] = "icon",
-			["parent"] = "Resto Druid - Ablution -EU - BronzeDragonflight",
 			["authorOptions"] = {
 			},
-			["selfPoint"] = "CENTER",
+			["xOffset"] = 103,
+			["regionType"] = "icon",
+			["actions"] = {
+				["start"] = {
+					["do_glow"] = false,
+					["sound"] = "Interface\\AddOns\\WeakAuras\\Media\\Sounds\\Shotgun.ogg",
+					["do_message"] = false,
+					["do_sound"] = false,
+				},
+				["init"] = {
+				},
+				["finish"] = {
+					["do_sound"] = false,
+				},
+			},
+			["cooldown"] = false,
 			["url"] = "https://wago.io/41diGTjPb/41",
-			["ignoreOptionsEventErrors"] = true,
+			["parent"] = "Resto Druid - Ablution -EU - BronzeDragonflight",
 			["auto"] = true,
-			["cooldownTextDisabled"] = false,
+			["anchorFrameType"] = "SCREEN",
+			["zoom"] = 0,
 			["semver"] = "1.0.9",
 			["tocversion"] = 90001,
 			["id"] = "15 - T3 - Off CD - RestoD",
-			["anchorFrameType"] = "SCREEN",
 			["alpha"] = 1,
-			["width"] = 40,
 			["frameStrata"] = 1,
+			["width"] = 40,
+			["cooldownTextDisabled"] = false,
 			["config"] = {
 			},
 			["inverse"] = false,
@@ -8827,20 +8907,10 @@ WeakAurasSaved = {
 					},
 				}, -- [1]
 			},
-			["cooldown"] = false,
-			["actions"] = {
-				["start"] = {
-					["do_glow"] = false,
-					["sound"] = "Interface\\AddOns\\WeakAuras\\Media\\Sounds\\Shotgun.ogg",
-					["do_message"] = false,
-					["do_sound"] = false,
-				},
-				["init"] = {
-				},
-				["finish"] = {
-					["do_sound"] = false,
-				},
+			["information"] = {
+				["ignoreOptionsEventErrors"] = true,
 			},
+			["selfPoint"] = "CENTER",
 		},
 		["Tranquility - CD - RestoD"] = {
 			["iconSource"] = -1,
@@ -8896,7 +8966,7 @@ WeakAurasSaved = {
 				}, -- [1]
 				["activeTriggerMode"] = 1,
 			},
-			["internalVersion"] = 39,
+			["internalVersion"] = 40,
 			["keepAspectRatio"] = false,
 			["animation"] = {
 				["start"] = {
@@ -9016,31 +9086,10 @@ WeakAurasSaved = {
 				},
 			},
 			["uid"] = "bsRf9WGDQqy",
-			["zoom"] = 0,
-			["xOffset"] = 187.66,
-			["regionType"] = "icon",
-			["parent"] = "Resto Druid - Ablution -EU - BronzeDragonflight",
 			["authorOptions"] = {
 			},
-			["selfPoint"] = "CENTER",
-			["url"] = "https://wago.io/41diGTjPb/41",
-			["ignoreOptionsEventErrors"] = true,
-			["auto"] = true,
-			["cooldownTextDisabled"] = false,
-			["semver"] = "1.0.9",
-			["tocversion"] = 90001,
-			["id"] = "Tranquility - CD - RestoD",
-			["anchorFrameType"] = "SCREEN",
-			["alpha"] = 1,
-			["width"] = 30,
-			["frameStrata"] = 1,
-			["config"] = {
-			},
-			["inverse"] = false,
-			["stickyDuration"] = false,
-			["conditions"] = {
-			},
-			["cooldown"] = false,
+			["xOffset"] = 187.66,
+			["regionType"] = "icon",
 			["actions"] = {
 				["start"] = {
 					["do_glow"] = false,
@@ -9054,6 +9103,29 @@ WeakAurasSaved = {
 					["do_sound"] = false,
 				},
 			},
+			["cooldown"] = false,
+			["url"] = "https://wago.io/41diGTjPb/41",
+			["parent"] = "Resto Druid - Ablution -EU - BronzeDragonflight",
+			["auto"] = true,
+			["anchorFrameType"] = "SCREEN",
+			["zoom"] = 0,
+			["semver"] = "1.0.9",
+			["tocversion"] = 90001,
+			["id"] = "Tranquility - CD - RestoD",
+			["alpha"] = 1,
+			["frameStrata"] = 1,
+			["width"] = 30,
+			["cooldownTextDisabled"] = false,
+			["config"] = {
+			},
+			["inverse"] = false,
+			["stickyDuration"] = false,
+			["conditions"] = {
+			},
+			["information"] = {
+				["ignoreOptionsEventErrors"] = true,
+			},
+			["selfPoint"] = "CENTER",
 		},
 		["Resto Druid - Ablution -EU - BronzeDragonflight"] = {
 			["controlledChildren"] = {
@@ -9178,7 +9250,7 @@ WeakAurasSaved = {
 				}, -- [1]
 				["activeTriggerMode"] = 1,
 			},
-			["internalVersion"] = 39,
+			["internalVersion"] = 40,
 			["animation"] = {
 				["start"] = {
 					["type"] = "none",
@@ -9260,23 +9332,26 @@ WeakAurasSaved = {
 			["borderEdge"] = "None",
 			["regionType"] = "group",
 			["borderSize"] = 16,
-			["ignoreOptionsEventErrors"] = true,
 			["borderOffset"] = 5,
 			["semver"] = "1.0.9",
 			["tocversion"] = 90001,
 			["id"] = "Resto Druid - Ablution -EU - BronzeDragonflight",
+			["uid"] = "3lkGL8N3sGc",
 			["frameStrata"] = 1,
 			["anchorFrameType"] = "SCREEN",
 			["authorOptions"] = {
 			},
-			["uid"] = "3lkGL8N3sGc",
-			["yOffset"] = 0,
-			["borderInset"] = 11,
-			["conditions"] = {
-			},
-			["selfPoint"] = "CENTER",
 			["config"] = {
 			},
+			["borderInset"] = 11,
+			["selfPoint"] = "BOTTOMLEFT",
+			["conditions"] = {
+			},
+			["information"] = {
+				["groupOffset"] = true,
+				["ignoreOptionsEventErrors"] = true,
+			},
+			["yOffset"] = 0,
 		},
 		["Dash - Off CD - RestoD"] = {
 			["iconSource"] = -1,
@@ -9329,7 +9404,7 @@ WeakAurasSaved = {
 				}, -- [1]
 				["activeTriggerMode"] = 1,
 			},
-			["internalVersion"] = 39,
+			["internalVersion"] = 40,
 			["keepAspectRatio"] = false,
 			["animation"] = {
 				["start"] = {
@@ -9451,31 +9526,10 @@ WeakAurasSaved = {
 				},
 			},
 			["uid"] = "(WoI)PvJKMx",
-			["zoom"] = 0,
-			["xOffset"] = 220,
-			["regionType"] = "icon",
-			["parent"] = "Resto Druid - Ablution -EU - BronzeDragonflight",
 			["authorOptions"] = {
 			},
-			["selfPoint"] = "CENTER",
-			["url"] = "https://wago.io/41diGTjPb/41",
-			["ignoreOptionsEventErrors"] = true,
-			["auto"] = true,
-			["cooldownTextDisabled"] = false,
-			["semver"] = "1.0.9",
-			["tocversion"] = 90001,
-			["id"] = "Dash - Off CD - RestoD",
-			["anchorFrameType"] = "SCREEN",
-			["alpha"] = 1,
-			["width"] = 17,
-			["frameStrata"] = 1,
-			["config"] = {
-			},
-			["inverse"] = false,
-			["stickyDuration"] = false,
-			["conditions"] = {
-			},
-			["cooldown"] = false,
+			["xOffset"] = 220,
+			["regionType"] = "icon",
 			["actions"] = {
 				["start"] = {
 					["do_glow"] = false,
@@ -9489,6 +9543,29 @@ WeakAurasSaved = {
 					["do_sound"] = false,
 				},
 			},
+			["cooldown"] = false,
+			["url"] = "https://wago.io/41diGTjPb/41",
+			["parent"] = "Resto Druid - Ablution -EU - BronzeDragonflight",
+			["auto"] = true,
+			["anchorFrameType"] = "SCREEN",
+			["zoom"] = 0,
+			["semver"] = "1.0.9",
+			["tocversion"] = 90001,
+			["id"] = "Dash - Off CD - RestoD",
+			["alpha"] = 1,
+			["frameStrata"] = 1,
+			["width"] = 17,
+			["cooldownTextDisabled"] = false,
+			["config"] = {
+			},
+			["inverse"] = false,
+			["stickyDuration"] = false,
+			["conditions"] = {
+			},
+			["information"] = {
+				["ignoreOptionsEventErrors"] = true,
+			},
+			["selfPoint"] = "CENTER",
 		},
 		["Combo1 "] = {
 			["color"] = {
@@ -9559,7 +9636,7 @@ WeakAurasSaved = {
 				["disjunctive"] = "all",
 				["activeTriggerMode"] = -10,
 			},
-			["internalVersion"] = 39,
+			["internalVersion"] = 40,
 			["animation"] = {
 				["start"] = {
 					["colorR"] = 1,
@@ -9660,11 +9737,11 @@ WeakAurasSaved = {
 			["anchorFrameType"] = "SCREEN",
 			["texture"] = "Interface\\Addons\\WeakAuras\\PowerAurasMedia\\Auras\\Aura45",
 			["xOffset"] = -91,
-			["selfPoint"] = "CENTER",
+			["rotation"] = 0,
 			["semver"] = "1.0.9",
 			["tocversion"] = 90001,
 			["id"] = "Combo1 ",
-			["ignoreOptionsEventErrors"] = true,
+			["parent"] = "Resto Druid - Ablution -EU - BronzeDragonflight",
 			["frameStrata"] = 1,
 			["width"] = 40,
 			["config"] = {
@@ -9675,8 +9752,10 @@ WeakAurasSaved = {
 			["alpha"] = 1,
 			["conditions"] = {
 			},
-			["parent"] = "Resto Druid - Ablution -EU - BronzeDragonflight",
-			["rotation"] = 0,
+			["information"] = {
+				["ignoreOptionsEventErrors"] = true,
+			},
+			["selfPoint"] = "CENTER",
 		},
 		["dps1 off 10"] = {
 			["iconSource"] = -1,
@@ -9745,7 +9824,7 @@ WeakAurasSaved = {
 				}, -- [2]
 				["activeTriggerMode"] = 1,
 			},
-			["internalVersion"] = 39,
+			["internalVersion"] = 40,
 			["keepAspectRatio"] = false,
 			["animation"] = {
 				["start"] = {
@@ -9861,24 +9940,39 @@ WeakAurasSaved = {
 				},
 			},
 			["uid"] = "FLINS8sJ)rW",
-			["zoom"] = 0,
-			["xOffset"] = 145,
-			["regionType"] = "icon",
-			["parent"] = "Resto Druid - Ablution -EU - BronzeDragonflight",
 			["authorOptions"] = {
 			},
-			["selfPoint"] = "CENTER",
+			["xOffset"] = 145,
+			["regionType"] = "icon",
+			["actions"] = {
+				["start"] = {
+					["glow_frame_type"] = "FRAMESELECTOR",
+					["glow_action"] = "show",
+					["do_message"] = false,
+					["do_sound"] = false,
+					["glow_frame"] = "WeakAuras:Mending up",
+					["glow_type"] = "buttonOverlay",
+					["sound"] = "Interface\\AddOns\\WeakAuras\\Media\\Sounds\\CatMeow2.ogg",
+					["do_glow"] = true,
+				},
+				["init"] = {
+				},
+				["finish"] = {
+				},
+			},
+			["cooldown"] = false,
 			["url"] = "https://wago.io/41diGTjPb/41",
-			["ignoreOptionsEventErrors"] = true,
+			["parent"] = "Resto Druid - Ablution -EU - BronzeDragonflight",
 			["auto"] = true,
-			["cooldownTextDisabled"] = false,
+			["anchorFrameType"] = "SCREEN",
+			["zoom"] = 0,
 			["semver"] = "1.0.9",
 			["tocversion"] = 90001,
 			["id"] = "dps1 off 10",
-			["anchorFrameType"] = "SCREEN",
 			["alpha"] = 1,
-			["width"] = 30,
 			["frameStrata"] = 1,
+			["width"] = 30,
+			["cooldownTextDisabled"] = false,
 			["config"] = {
 			},
 			["inverse"] = false,
@@ -9899,23 +9993,10 @@ WeakAurasSaved = {
 					},
 				}, -- [1]
 			},
-			["cooldown"] = false,
-			["actions"] = {
-				["start"] = {
-					["glow_frame_type"] = "FRAMESELECTOR",
-					["glow_action"] = "show",
-					["do_message"] = false,
-					["do_sound"] = false,
-					["glow_frame"] = "WeakAuras:Mending up",
-					["glow_type"] = "buttonOverlay",
-					["sound"] = "Interface\\AddOns\\WeakAuras\\Media\\Sounds\\CatMeow2.ogg",
-					["do_glow"] = true,
-				},
-				["init"] = {
-				},
-				["finish"] = {
-				},
+			["information"] = {
+				["ignoreOptionsEventErrors"] = true,
 			},
+			["selfPoint"] = "CENTER",
 		},
 		["Covenant 4"] = {
 			["iconSource"] = -1,
@@ -10073,7 +10154,7 @@ WeakAurasSaved = {
 				["disjunctive"] = "any",
 				["activeTriggerMode"] = -10,
 			},
-			["internalVersion"] = 39,
+			["internalVersion"] = 40,
 			["keepAspectRatio"] = false,
 			["animation"] = {
 				["start"] = {
@@ -10210,9 +10291,27 @@ WeakAurasSaved = {
 					},
 				},
 			},
-			["semver"] = "1.0.9",
-			["cooldownTextDisabled"] = false,
+			["zoom"] = 0,
+			["selfPoint"] = "CENTER",
 			["regionType"] = "icon",
+			["parent"] = "Resto Druid - Ablution -EU - BronzeDragonflight",
+			["authorOptions"] = {
+			},
+			["cooldown"] = true,
+			["xOffset"] = -124.33365357944,
+			["uid"] = "L)(2MNPxM)8",
+			["frameStrata"] = 1,
+			["cooldownTextDisabled"] = false,
+			["semver"] = "1.0.9",
+			["tocversion"] = 90001,
+			["id"] = "Covenant 4",
+			["width"] = 30,
+			["alpha"] = 1,
+			["anchorFrameType"] = "SCREEN",
+			["auto"] = true,
+			["config"] = {
+			},
+			["inverse"] = true,
 			["actions"] = {
 				["start"] = {
 				},
@@ -10221,23 +10320,6 @@ WeakAurasSaved = {
 				["finish"] = {
 				},
 			},
-			["cooldownEdge"] = false,
-			["parent"] = "Resto Druid - Ablution -EU - BronzeDragonflight",
-			["xOffset"] = -124.33365357944,
-			["ignoreOptionsEventErrors"] = true,
-			["uid"] = "L)(2MNPxM)8",
-			["zoom"] = 0,
-			["auto"] = true,
-			["tocversion"] = 90001,
-			["id"] = "Covenant 4",
-			["frameStrata"] = 1,
-			["alpha"] = 1,
-			["width"] = 30,
-			["anchorFrameType"] = "SCREEN",
-			["config"] = {
-			},
-			["inverse"] = true,
-			["selfPoint"] = "CENTER",
 			["conditions"] = {
 				{
 					["check"] = {
@@ -10276,9 +10358,10 @@ WeakAurasSaved = {
 					},
 				}, -- [2]
 			},
-			["cooldown"] = true,
-			["authorOptions"] = {
+			["information"] = {
+				["ignoreOptionsEventErrors"] = true,
 			},
+			["cooldownEdge"] = false,
 		},
 		["30 - T1 - CD - RestoD"] = {
 			["iconSource"] = -1,
@@ -10334,7 +10417,7 @@ WeakAurasSaved = {
 				}, -- [1]
 				["activeTriggerMode"] = 1,
 			},
-			["internalVersion"] = 39,
+			["internalVersion"] = 40,
 			["keepAspectRatio"] = false,
 			["animation"] = {
 				["start"] = {
@@ -10459,31 +10542,10 @@ WeakAurasSaved = {
 				},
 			},
 			["uid"] = "EbLVhB3iUYJ",
-			["zoom"] = 0,
-			["xOffset"] = 230,
-			["regionType"] = "icon",
-			["parent"] = "Resto Druid - Ablution -EU - BronzeDragonflight",
 			["authorOptions"] = {
 			},
-			["selfPoint"] = "CENTER",
-			["url"] = "https://wago.io/41diGTjPb/41",
-			["ignoreOptionsEventErrors"] = true,
-			["auto"] = true,
-			["cooldownTextDisabled"] = false,
-			["semver"] = "1.0.9",
-			["tocversion"] = 90001,
-			["id"] = "30 - T1 - CD - RestoD",
-			["anchorFrameType"] = "SCREEN",
-			["alpha"] = 1,
-			["width"] = 40,
-			["frameStrata"] = 1,
-			["config"] = {
-			},
-			["inverse"] = false,
-			["stickyDuration"] = false,
-			["conditions"] = {
-			},
-			["cooldown"] = false,
+			["xOffset"] = 230,
+			["regionType"] = "icon",
 			["actions"] = {
 				["start"] = {
 					["do_glow"] = false,
@@ -10497,6 +10559,29 @@ WeakAurasSaved = {
 					["do_sound"] = false,
 				},
 			},
+			["cooldown"] = false,
+			["url"] = "https://wago.io/41diGTjPb/41",
+			["parent"] = "Resto Druid - Ablution -EU - BronzeDragonflight",
+			["auto"] = true,
+			["anchorFrameType"] = "SCREEN",
+			["zoom"] = 0,
+			["semver"] = "1.0.9",
+			["tocversion"] = 90001,
+			["id"] = "30 - T1 - CD - RestoD",
+			["alpha"] = 1,
+			["frameStrata"] = 1,
+			["width"] = 40,
+			["cooldownTextDisabled"] = false,
+			["config"] = {
+			},
+			["inverse"] = false,
+			["stickyDuration"] = false,
+			["conditions"] = {
+			},
+			["information"] = {
+				["ignoreOptionsEventErrors"] = true,
+			},
+			["selfPoint"] = "CENTER",
 		},
 		["Flask"] = {
 			["iconSource"] = -1,
@@ -10530,7 +10615,7 @@ WeakAurasSaved = {
 				["disjunctive"] = "all",
 				["activeTriggerMode"] = -10,
 			},
-			["internalVersion"] = 39,
+			["internalVersion"] = 40,
 			["keepAspectRatio"] = false,
 			["selfPoint"] = "CENTER",
 			["stickyDuration"] = false,
@@ -10625,6 +10710,7 @@ WeakAurasSaved = {
 			["regionType"] = "icon",
 			["conditions"] = {
 			},
+			["cooldown"] = false,
 			["desaturate"] = false,
 			["color"] = {
 				1, -- [1]
@@ -10632,9 +10718,6 @@ WeakAurasSaved = {
 				1, -- [3]
 				1, -- [4]
 			},
-			["authorOptions"] = {
-			},
-			["ignoreOptionsEventErrors"] = true,
 			["animation"] = {
 				["start"] = {
 					["duration_type"] = "seconds",
@@ -10657,19 +10740,17 @@ WeakAurasSaved = {
 				},
 			},
 			["cooldownTextDisabled"] = false,
+			["zoom"] = 0,
 			["auto"] = true,
-			["alpha"] = 1,
-			["id"] = "Flask",
 			["config"] = {
 			},
-			["frameStrata"] = 1,
+			["id"] = "Flask",
 			["width"] = 64,
+			["alpha"] = 1,
 			["anchorFrameType"] = "SCREEN",
+			["frameStrata"] = 1,
 			["uid"] = "sgirzHQGYFg",
 			["inverse"] = false,
-			["zoom"] = 0,
-			["displayIcon"] = 1385242,
-			["cooldown"] = false,
 			["actions"] = {
 				["start"] = {
 				},
@@ -10677,6 +10758,12 @@ WeakAurasSaved = {
 				},
 				["init"] = {
 				},
+			},
+			["displayIcon"] = 1385242,
+			["information"] = {
+				["ignoreOptionsEventErrors"] = true,
+			},
+			["authorOptions"] = {
 			},
 		},
 		["Background - holy 7"] = {
@@ -10744,7 +10831,7 @@ WeakAurasSaved = {
 				["activeTriggerMode"] = 1,
 			},
 			["portraitZoom"] = false,
-			["internalVersion"] = 39,
+			["internalVersion"] = 40,
 			["advance"] = false,
 			["selfPoint"] = "BOTTOM",
 			["frameStrata"] = 2,
@@ -10752,7 +10839,7 @@ WeakAurasSaved = {
 			["discrete_rotation"] = 0,
 			["uid"] = "Sah2J)DSZ30",
 			["version"] = 41,
-			["desc"] = "Serves as a background and looks pretty sweet.",
+			["xOffset"] = -140.5,
 			["height"] = 33,
 			["rotate"] = false,
 			["load"] = {
@@ -10809,7 +10896,7 @@ WeakAurasSaved = {
 					},
 				},
 			},
-			["xOffset"] = -140.5,
+			["parent"] = "Resto Druid - Ablution -EU - BronzeDragonflight",
 			["backdropColor"] = {
 				1, -- [1]
 				1, -- [2]
@@ -10818,14 +10905,9 @@ WeakAurasSaved = {
 			},
 			["textureWrapMode"] = "CLAMP",
 			["sequence"] = 1,
-			["color"] = {
-				0.11764705882353, -- [1]
-				0.11764705882353, -- [2]
-				0.11764705882353, -- [3]
-				0.75, -- [4]
-			},
-			["scale"] = 1,
 			["rotation"] = 0,
+			["scale"] = 1,
+			["desc"] = "Serves as a background and looks pretty sweet.",
 			["mirror"] = false,
 			["borderEdge"] = "Blizzard Dialog",
 			["regionType"] = "texture",
@@ -10833,7 +10915,7 @@ WeakAurasSaved = {
 			["blendMode"] = "BLEND",
 			["model_path"] = "world/skillactivated/containers/treasurechest06.m2",
 			["borderInset"] = 11,
-			["ignoreOptionsEventErrors"] = true,
+			["texture"] = "Interface\\AddOns\\WeakAuras\\Media\\Textures\\Square_White",
 			["width"] = 68,
 			["borderOffset"] = 2,
 			["semver"] = "1.0.9",
@@ -10845,11 +10927,18 @@ WeakAurasSaved = {
 			["model_z"] = 1.9,
 			["config"] = {
 			},
-			["texture"] = "Interface\\AddOns\\WeakAuras\\Media\\Textures\\Square_White",
 			["border"] = false,
+			["color"] = {
+				0.11764705882353, -- [1]
+				0.11764705882353, -- [2]
+				0.11764705882353, -- [3]
+				0.75, -- [4]
+			},
 			["conditions"] = {
 			},
-			["parent"] = "Resto Druid - Ablution -EU - BronzeDragonflight",
+			["information"] = {
+				["ignoreOptionsEventErrors"] = true,
+			},
 			["animation"] = {
 				["start"] = {
 					["type"] = "none",
@@ -10924,7 +11013,7 @@ WeakAurasSaved = {
 				}, -- [1]
 				["activeTriggerMode"] = 1,
 			},
-			["internalVersion"] = 39,
+			["internalVersion"] = 40,
 			["keepAspectRatio"] = false,
 			["animation"] = {
 				["start"] = {
@@ -11063,27 +11152,29 @@ WeakAurasSaved = {
 				},
 			},
 			["regionType"] = "icon",
-			["xOffset"] = 60,
+			["cooldown"] = false,
 			["displayIcon"] = 134206,
 			["desaturate"] = true,
 			["url"] = "https://wago.io/41diGTjPb/41",
-			["ignoreOptionsEventErrors"] = true,
 			["width"] = 30,
-			["cooldownTextDisabled"] = false,
+			["frameStrata"] = 2,
+			["zoom"] = 0,
 			["auto"] = true,
 			["tocversion"] = 90001,
 			["id"] = "lifebloom - Not On - RestoD",
-			["frameStrata"] = 2,
+			["cooldownTextDisabled"] = false,
 			["alpha"] = 1,
 			["anchorFrameType"] = "SCREEN",
-			["zoom"] = 0,
+			["xOffset"] = 60,
 			["config"] = {
 			},
 			["inverse"] = false,
 			["parent"] = "Resto Druid - Ablution -EU - BronzeDragonflight",
 			["conditions"] = {
 			},
-			["cooldown"] = false,
+			["information"] = {
+				["ignoreOptionsEventErrors"] = true,
+			},
 			["authorOptions"] = {
 			},
 		},
@@ -11124,7 +11215,7 @@ WeakAurasSaved = {
 				["disjunctive"] = "all",
 				["activeTriggerMode"] = -10,
 			},
-			["internalVersion"] = 39,
+			["internalVersion"] = 40,
 			["keepAspectRatio"] = false,
 			["animation"] = {
 				["start"] = {
@@ -11234,27 +11325,23 @@ WeakAurasSaved = {
 			},
 			["regionType"] = "icon",
 			["parent"] = "Holy Left",
-			["xOffset"] = 0,
+			["cooldown"] = true,
 			["authorOptions"] = {
 			},
 			["stickyDuration"] = false,
-			["ignoreOptionsEventErrors"] = true,
-			["cooldownTextDisabled"] = false,
+			["selfPoint"] = "CENTER",
 			["zoom"] = 0,
+			["cooldownTextDisabled"] = false,
 			["auto"] = true,
-			["width"] = 64,
-			["id"] = "T21 Everlasting Hope",
 			["config"] = {
 			},
+			["id"] = "T21 Everlasting Hope",
 			["frameStrata"] = 1,
-			["anchorFrameType"] = "SCREEN",
 			["alpha"] = 1,
+			["width"] = 64,
+			["anchorFrameType"] = "SCREEN",
 			["uid"] = "3YWAjJup)zw",
 			["inverse"] = false,
-			["selfPoint"] = "CENTER",
-			["conditions"] = {
-			},
-			["cooldown"] = true,
 			["actions"] = {
 				["start"] = {
 				},
@@ -11263,6 +11350,12 @@ WeakAurasSaved = {
 				["init"] = {
 				},
 			},
+			["conditions"] = {
+			},
+			["information"] = {
+				["ignoreOptionsEventErrors"] = true,
+			},
+			["xOffset"] = 0,
 		},
 		["60 - T1 - CD - RestoD"] = {
 			["iconSource"] = -1,
@@ -11318,7 +11411,7 @@ WeakAurasSaved = {
 				}, -- [1]
 				["activeTriggerMode"] = 1,
 			},
-			["internalVersion"] = 39,
+			["internalVersion"] = 40,
 			["keepAspectRatio"] = false,
 			["animation"] = {
 				["start"] = {
@@ -11443,31 +11536,10 @@ WeakAurasSaved = {
 				},
 			},
 			["uid"] = "Rji3TWn)Vmu",
-			["zoom"] = 0,
-			["xOffset"] = 240,
-			["regionType"] = "icon",
-			["parent"] = "Resto Druid - Ablution -EU - BronzeDragonflight",
 			["authorOptions"] = {
 			},
-			["selfPoint"] = "CENTER",
-			["url"] = "https://wago.io/41diGTjPb/41",
-			["ignoreOptionsEventErrors"] = true,
-			["auto"] = true,
-			["cooldownTextDisabled"] = false,
-			["semver"] = "1.0.9",
-			["tocversion"] = 90001,
-			["id"] = "60 - T1 - CD - RestoD",
-			["anchorFrameType"] = "SCREEN",
-			["alpha"] = 1,
-			["width"] = 17,
-			["frameStrata"] = 1,
-			["config"] = {
-			},
-			["inverse"] = false,
-			["stickyDuration"] = false,
-			["conditions"] = {
-			},
-			["cooldown"] = false,
+			["xOffset"] = 240,
+			["regionType"] = "icon",
 			["actions"] = {
 				["start"] = {
 					["do_glow"] = false,
@@ -11481,6 +11553,29 @@ WeakAurasSaved = {
 					["do_sound"] = false,
 				},
 			},
+			["cooldown"] = false,
+			["url"] = "https://wago.io/41diGTjPb/41",
+			["parent"] = "Resto Druid - Ablution -EU - BronzeDragonflight",
+			["auto"] = true,
+			["anchorFrameType"] = "SCREEN",
+			["zoom"] = 0,
+			["semver"] = "1.0.9",
+			["tocversion"] = 90001,
+			["id"] = "60 - T1 - CD - RestoD",
+			["alpha"] = 1,
+			["frameStrata"] = 1,
+			["width"] = 17,
+			["cooldownTextDisabled"] = false,
+			["config"] = {
+			},
+			["inverse"] = false,
+			["stickyDuration"] = false,
+			["conditions"] = {
+			},
+			["information"] = {
+				["ignoreOptionsEventErrors"] = true,
+			},
+			["selfPoint"] = "CENTER",
 		},
 		["Background - holy 6"] = {
 			["modelIsUnit"] = false,
@@ -11544,7 +11639,7 @@ WeakAurasSaved = {
 				["activeTriggerMode"] = 1,
 			},
 			["portraitZoom"] = false,
-			["internalVersion"] = 39,
+			["internalVersion"] = 40,
 			["advance"] = false,
 			["selfPoint"] = "BOTTOM",
 			["frameStrata"] = 2,
@@ -11552,7 +11647,7 @@ WeakAurasSaved = {
 			["discrete_rotation"] = 0,
 			["uid"] = "mn7z6KJYTcl",
 			["version"] = 41,
-			["desc"] = "Serves as a background and looks pretty sweet.",
+			["xOffset"] = 190.16680145264,
 			["height"] = 32.999942779541,
 			["rotate"] = false,
 			["load"] = {
@@ -11609,7 +11704,7 @@ WeakAurasSaved = {
 					},
 				},
 			},
-			["xOffset"] = 190.16680145264,
+			["parent"] = "Resto Druid - Ablution -EU - BronzeDragonflight",
 			["backdropColor"] = {
 				1, -- [1]
 				1, -- [2]
@@ -11618,14 +11713,9 @@ WeakAurasSaved = {
 			},
 			["textureWrapMode"] = "CLAMP",
 			["sequence"] = 1,
-			["color"] = {
-				0.11764705882353, -- [1]
-				0.11764705882353, -- [2]
-				0.11764705882353, -- [3]
-				0.75, -- [4]
-			},
-			["scale"] = 1,
 			["rotation"] = 0,
+			["scale"] = 1,
+			["desc"] = "Serves as a background and looks pretty sweet.",
 			["mirror"] = false,
 			["borderEdge"] = "Blizzard Dialog",
 			["regionType"] = "texture",
@@ -11633,7 +11723,7 @@ WeakAurasSaved = {
 			["blendMode"] = "BLEND",
 			["model_path"] = "world/skillactivated/containers/treasurechest06.m2",
 			["borderInset"] = 11,
-			["ignoreOptionsEventErrors"] = true,
+			["texture"] = "Interface\\AddOns\\WeakAuras\\Media\\Textures\\Square_White",
 			["width"] = 128.66639709473,
 			["borderOffset"] = 2,
 			["semver"] = "1.0.9",
@@ -11645,11 +11735,18 @@ WeakAurasSaved = {
 			["model_z"] = 1.9,
 			["config"] = {
 			},
-			["texture"] = "Interface\\AddOns\\WeakAuras\\Media\\Textures\\Square_White",
 			["border"] = false,
+			["color"] = {
+				0.11764705882353, -- [1]
+				0.11764705882353, -- [2]
+				0.11764705882353, -- [3]
+				0.75, -- [4]
+			},
 			["conditions"] = {
 			},
-			["parent"] = "Resto Druid - Ablution -EU - BronzeDragonflight",
+			["information"] = {
+				["ignoreOptionsEventErrors"] = true,
+			},
 			["animation"] = {
 				["start"] = {
 					["type"] = "none",
@@ -11781,17 +11878,18 @@ WeakAurasSaved = {
 				1, -- [3]
 				0.5, -- [4]
 			},
-			["arcLength"] = 360,
+			["useLimit"] = false,
 			["animate"] = false,
 			["fullCircle"] = true,
 			["scale"] = 1,
-			["useLimit"] = false,
+			["internalVersion"] = 40,
 			["border"] = false,
 			["borderEdge"] = "1 Pixel",
 			["regionType"] = "dynamicgroup",
 			["borderSize"] = 2,
 			["sort"] = "none",
-			["internalVersion"] = 39,
+			["authorOptions"] = {
+			},
 			["rotation"] = 0,
 			["constantFactor"] = "RADIUS",
 			["animation"] = {
@@ -11825,12 +11923,13 @@ WeakAurasSaved = {
 			["gridType"] = "RD",
 			["borderInset"] = 0,
 			["limit"] = 5,
-			["ignoreOptionsEventErrors"] = true,
+			["rowSpace"] = 1,
 			["conditions"] = {
 			},
-			["rowSpace"] = 1,
-			["authorOptions"] = {
+			["information"] = {
+				["ignoreOptionsEventErrors"] = true,
 			},
+			["arcLength"] = 360,
 		},
 		["Nature's Swiftness - CD - resto 3 below 59"] = {
 			["iconSource"] = -1,
@@ -11888,7 +11987,7 @@ WeakAurasSaved = {
 				}, -- [1]
 				["activeTriggerMode"] = 1,
 			},
-			["internalVersion"] = 39,
+			["internalVersion"] = 40,
 			["keepAspectRatio"] = false,
 			["animation"] = {
 				["start"] = {
@@ -12028,27 +12127,29 @@ WeakAurasSaved = {
 				},
 			},
 			["regionType"] = "icon",
-			["xOffset"] = 175,
+			["cooldown"] = false,
 			["displayIcon"] = 136076,
 			["desaturate"] = true,
 			["url"] = "https://wago.io/41diGTjPb/41",
-			["ignoreOptionsEventErrors"] = true,
 			["width"] = 30,
-			["cooldownTextDisabled"] = false,
+			["frameStrata"] = 1,
+			["zoom"] = 0,
 			["auto"] = true,
 			["tocversion"] = 90001,
 			["id"] = "Nature's Swiftness - CD - resto 3 below 59",
-			["frameStrata"] = 1,
+			["cooldownTextDisabled"] = false,
 			["alpha"] = 1,
 			["anchorFrameType"] = "SCREEN",
-			["zoom"] = 0,
+			["xOffset"] = 175,
 			["config"] = {
 			},
 			["inverse"] = false,
 			["parent"] = "Resto Druid - Ablution -EU - BronzeDragonflight",
 			["conditions"] = {
 			},
-			["cooldown"] = false,
+			["information"] = {
+				["ignoreOptionsEventErrors"] = true,
+			},
 			["authorOptions"] = {
 			},
 		},
@@ -12096,7 +12197,7 @@ WeakAurasSaved = {
 				["activeTriggerMode"] = 1,
 			},
 			["columnSpace"] = 1,
-			["internalVersion"] = 39,
+			["internalVersion"] = 40,
 			["selfPoint"] = "TOP",
 			["align"] = "CENTER",
 			["stagger"] = 0,
@@ -12152,36 +12253,16 @@ WeakAurasSaved = {
 				1, -- [3]
 				0.5, -- [4]
 			},
-			["rowSpace"] = 1,
+			["arcLength"] = 360,
 			["animate"] = true,
 			["fullCircle"] = true,
 			["scale"] = 1,
-			["arcLength"] = 360,
+			["radius"] = 200,
 			["border"] = false,
 			["borderEdge"] = "1 Pixel",
 			["regionType"] = "dynamicgroup",
 			["borderSize"] = 2,
 			["limit"] = 5,
-			["radius"] = 200,
-			["authorOptions"] = {
-			},
-			["constantFactor"] = "RADIUS",
-			["gridType"] = "RD",
-			["borderOffset"] = 16,
-			["config"] = {
-			},
-			["uid"] = "fEfJqFXVNjZ",
-			["id"] = "Details! Boss Mods Group",
-			["gridWidth"] = 5,
-			["frameStrata"] = 1,
-			["anchorFrameType"] = "SCREEN",
-			["useLimit"] = false,
-			["borderInset"] = 0,
-			["sort"] = "none",
-			["ignoreOptionsEventErrors"] = true,
-			["conditions"] = {
-			},
-			["rotation"] = 0,
 			["animation"] = {
 				["start"] = {
 					["duration_type"] = "seconds",
@@ -12202,6 +12283,28 @@ WeakAurasSaved = {
 					["easeType"] = "none",
 				},
 			},
+			["authorOptions"] = {
+			},
+			["constantFactor"] = "RADIUS",
+			["gridType"] = "RD",
+			["borderOffset"] = 16,
+			["config"] = {
+			},
+			["uid"] = "fEfJqFXVNjZ",
+			["id"] = "Details! Boss Mods Group",
+			["gridWidth"] = 5,
+			["frameStrata"] = 1,
+			["anchorFrameType"] = "SCREEN",
+			["useLimit"] = false,
+			["borderInset"] = 0,
+			["sort"] = "none",
+			["rotation"] = 0,
+			["conditions"] = {
+			},
+			["information"] = {
+				["ignoreOptionsEventErrors"] = true,
+			},
+			["rowSpace"] = 1,
 		},
 		["Covenant 1  3"] = {
 			["iconSource"] = -1,
@@ -12345,7 +12448,7 @@ WeakAurasSaved = {
 				["disjunctive"] = "any",
 				["activeTriggerMode"] = -10,
 			},
-			["internalVersion"] = 39,
+			["internalVersion"] = 40,
 			["keepAspectRatio"] = false,
 			["animation"] = {
 				["start"] = {
@@ -12447,9 +12550,27 @@ WeakAurasSaved = {
 					},
 				},
 			},
-			["semver"] = "1.0.9",
-			["cooldownTextDisabled"] = false,
+			["zoom"] = 0,
+			["selfPoint"] = "CENTER",
 			["regionType"] = "icon",
+			["parent"] = "Resto Druid - Ablution -EU - BronzeDragonflight",
+			["authorOptions"] = {
+			},
+			["cooldown"] = true,
+			["xOffset"] = -155.33365357944,
+			["uid"] = "6s8vYj2kGYG",
+			["frameStrata"] = 1,
+			["cooldownTextDisabled"] = false,
+			["semver"] = "1.0.9",
+			["tocversion"] = 90001,
+			["id"] = "Covenant 1  3",
+			["width"] = 30,
+			["alpha"] = 1,
+			["anchorFrameType"] = "SCREEN",
+			["auto"] = true,
+			["config"] = {
+			},
+			["inverse"] = true,
 			["actions"] = {
 				["start"] = {
 				},
@@ -12458,23 +12579,6 @@ WeakAurasSaved = {
 				["finish"] = {
 				},
 			},
-			["cooldownEdge"] = false,
-			["parent"] = "Resto Druid - Ablution -EU - BronzeDragonflight",
-			["xOffset"] = -155.33365357944,
-			["ignoreOptionsEventErrors"] = true,
-			["uid"] = "6s8vYj2kGYG",
-			["zoom"] = 0,
-			["auto"] = true,
-			["tocversion"] = 90001,
-			["id"] = "Covenant 1  3",
-			["frameStrata"] = 1,
-			["alpha"] = 1,
-			["width"] = 30,
-			["anchorFrameType"] = "SCREEN",
-			["config"] = {
-			},
-			["inverse"] = true,
-			["selfPoint"] = "CENTER",
 			["conditions"] = {
 				{
 					["check"] = {
@@ -12558,9 +12662,10 @@ WeakAurasSaved = {
 					},
 				}, -- [5]
 			},
-			["cooldown"] = true,
-			["authorOptions"] = {
+			["information"] = {
+				["ignoreOptionsEventErrors"] = true,
 			},
+			["cooldownEdge"] = false,
 		},
 		["60 - T1 - Off CD - RestoD"] = {
 			["iconSource"] = -1,
@@ -12613,7 +12718,7 @@ WeakAurasSaved = {
 				}, -- [1]
 				["activeTriggerMode"] = 1,
 			},
-			["internalVersion"] = 39,
+			["internalVersion"] = 40,
 			["keepAspectRatio"] = false,
 			["animation"] = {
 				["start"] = {
@@ -12735,31 +12840,10 @@ WeakAurasSaved = {
 				},
 			},
 			["uid"] = "34D2hP1IziF",
-			["zoom"] = 0,
-			["xOffset"] = 240,
-			["regionType"] = "icon",
-			["parent"] = "Resto Druid - Ablution -EU - BronzeDragonflight",
 			["authorOptions"] = {
 			},
-			["selfPoint"] = "CENTER",
-			["url"] = "https://wago.io/41diGTjPb/41",
-			["ignoreOptionsEventErrors"] = true,
-			["auto"] = true,
-			["cooldownTextDisabled"] = false,
-			["semver"] = "1.0.9",
-			["tocversion"] = 90001,
-			["id"] = "60 - T1 - Off CD - RestoD",
-			["anchorFrameType"] = "SCREEN",
-			["alpha"] = 1,
-			["width"] = 17,
-			["frameStrata"] = 1,
-			["config"] = {
-			},
-			["inverse"] = false,
-			["stickyDuration"] = false,
-			["conditions"] = {
-			},
-			["cooldown"] = false,
+			["xOffset"] = 240,
+			["regionType"] = "icon",
 			["actions"] = {
 				["start"] = {
 					["do_glow"] = false,
@@ -12773,352 +12857,33 @@ WeakAurasSaved = {
 					["do_sound"] = false,
 				},
 			},
+			["cooldown"] = false,
+			["url"] = "https://wago.io/41diGTjPb/41",
+			["parent"] = "Resto Druid - Ablution -EU - BronzeDragonflight",
+			["auto"] = true,
+			["anchorFrameType"] = "SCREEN",
+			["zoom"] = 0,
+			["semver"] = "1.0.9",
+			["tocversion"] = 90001,
+			["id"] = "60 - T1 - Off CD - RestoD",
+			["alpha"] = 1,
+			["frameStrata"] = 1,
+			["width"] = 17,
+			["cooldownTextDisabled"] = false,
+			["config"] = {
+			},
+			["inverse"] = false,
+			["stickyDuration"] = false,
+			["conditions"] = {
+			},
+			["information"] = {
+				["ignoreOptionsEventErrors"] = true,
+			},
+			["selfPoint"] = "CENTER",
 		},
 		["ZT - Interrupt Tracker Bar"] = {
 			["sparkWidth"] = 10,
-			["borderBackdrop"] = "None",
-			["xOffset"] = 0,
-			["preferToUpdate"] = false,
-			["customText"] = "",
-			["yOffset"] = 0,
-			["anchorPoint"] = "CENTER",
-			["selfPoint"] = "CENTER",
-			["iconSource"] = -1,
-			["sparkRotation"] = 0,
-			["customTextUpdate"] = "event",
-			["url"] = "https://wago.io/InterruptTracker/29",
-			["icon"] = true,
-			["triggers"] = {
-				{
-					["trigger"] = {
-						["use_absorbMode"] = true,
-						["unit"] = "player",
-						["debuffType"] = "HELPFUL",
-						["type"] = "custom",
-						["unevent"] = "auto",
-						["subeventPrefix"] = "SPELL",
-						["buffShowOn"] = "showOnActive",
-						["event"] = "Health",
-						["custom_type"] = "stateupdate",
-						["names"] = {
-						},
-						["spellIds"] = {
-						},
-						["custom"] = "function(allstates, event, type, watchID, ...)\n    \n    if event == \"ZT_ADD\" then\n        local member, spellID, duration, charges = ...\n        \n        -- If this WA was just loaded\n        if not type then\n            aura_env.region.ZTRegTypes = aura_env.regTypes\n            aura_env.region.ZTRegSpells = aura_env.regSpells\n            \n            WeakAuras.ScanEvents(\"ZT_REGISTER\", aura_env.regTypes, aura_env.region.id)\n            WeakAuras.ScanEvents(\"ZT_REGISTER\", aura_env.regSpells, aura_env.region.id)\n        else\n            local isTypeReg = aura_env.types[type]\n            local isSpellReg = aura_env.spells[spellID]\n            local isInterested = (isTypeReg and not isSpellReg) or (not isTypeReg and isSpellReg)\n            --dont add Spell Reflect for DPS specs and remove it from states if already present\n            if spellID == 23920 and member.specID~=73 and aura_env.config.advanced.spellReflectTank then\n                allstates[watchID] = nil\n                return\n            end\n            if not allstates[watchID] and isInterested and (not member.isPlayer or aura_env.config[\"reg\"][\"type\"][\"showOwn\"..type]) then\n                \n                local state = {}\n                state.show = true\n                state.changed = true\n                state.autoHide = false\n                state.resort = true\n                state.watchID = watchID    \n                state.successful = false    \n                state.isDead = false    \n                state.outOfRange = false\n                \n                state.progressType = 'timed'\n                state.duration = duration\n                state.expirationTime = GetTime()\n                \n                state.name = member.name\n                \n                state.icon = select(3,GetSpellInfo(spellID))\n                state.stacks = charges\n                \n                state.type = type\n                state.spellId = spellID\n                state.member = member\n                \n                aura_env.initSortIndex(state)\n                \n                allstates[watchID] = state\n                \n                return true\n            end\n        end\n    elseif event == \"ZT_TRIGGER\" then\n        local duration, expiration, charges = ...\n        \n        local state = allstates[watchID]\n        if state then\n            state.changed = true\n            \n            state.duration = duration\n            state.stacks = charges\n            if not charges or aura_env.config[\"display\"][\"showChargeProgress\"] or charges == 0 then\n                state.expirationTime = expiration\n            end\n            if math.abs(GetTime() - expiration+duration) < 0.2 and state.spellId ~= 23920 then\n                if aura_env.config.advanced.showMissed then\n                    state.elapsedDuration = true\n                    state.changed = true\n                    C_Timer.After(3,function() \n                            WeakAuras.ScanEvents(\"NNOGGIE_INTERRUPT_RESETELAPSED\",state.watchID)\n                    end)\n                end                \n            end\n            \n            state.resort = aura_env.updateSortIndex(state)\n            \n            return true\n        end\n    elseif event == \"ZT_REMOVE\" then\n        local state = allstates[watchID]\n        if state then\n            state.show = false\n            state.changed = true\n            return true\n        end\n    end\n    \n    if event == \"COMBAT_LOG_EVENT_UNFILTERED\" and watchID == \"SPELL_INTERRUPT\" then    \n        local _, sourceGUID, _, _, _, _, _, _, destRaidFlags, spellId,_ ,_, extraSpellId = ...    \n        if aura_env.silenceMap[spellId] then spellId = aura_env.silenceMap[spellId] end\n        --Attribute Pet Spell's to its owner\n        local sourceType = strsplit(\"-\",sourceGUID)\n        if sourceType == \"Pet\" or sourceType == \"Creature\" then\n            for unit in WA_IterateGroupMembers() do\n                if UnitGUID(unit..\"pet\") == sourceGUID then\n                    sourceGUID = UnitGUID(unit)\n                    break\n                end\n            end\n        end\n        for watchId, state in pairs(allstates) do\n            if state.spellId == spellId and state.member.GUID == sourceGUID then    \n                local iconFileId = GetSpellTexture(extraSpellId)    \n                allstates[watchId].extraIcon = aura_env.config.advanced.showSpell and (\"|T%s:0|t\"):format(iconFileId) \n                allstates[watchId].successful = true                    \n                local mark = math.log(destRaidFlags)/math.log(2) + 1    \n                if ICON_LIST[mark] then    \n                    allstates[watchId].raidIcon = aura_env.config.advanced.showTarget and (\"%s:0\\124t\"):format(ICON_LIST[mark])    \n                else    \n                    allstates[watchId].raidIcon = nil    \n                end               \n                allstates[watchId].changed = true    \n                return true                    \n            end    \n        end    \n    end    \n    \n    if event == \"NNOGGIE_INTERRUPT_UPDATETEXT\" and type then\n        local watchId = type    \n        local state = allstates[watchId]    \n        if state then    \n            state.successful = false    \n            state.extraIcon = nil    \n            state.raidIcon = nil    \n            state.changed = true    \n            return true    \n        end    \n    end    \n    \n    if event == \"NNOGGIE_INTERRUPT_RESETELAPSED\" and type then            \n        local watchId = type    \n        local state = allstates[watchId]    \n        if state then\n            state.elapsedDuration = false\n            state.changed = true    \n            return true    \n        end    \n    end \n    \n    if event == \"OPTIONS\" then\n        aura_env.firstCheck = nil\n    end\n    \n    \n    if event == \"FRAME_UPDATE\" then    \n        if not aura_env.last or aura_env.last < GetTime() - 0.5 then    \n            aura_env.last = GetTime()\n            \n            --delay first check for 1 second to not conflict with WA setting up the states\n            aura_env.firstCheck = aura_env.firstCheck or GetTime()\n            if aura_env.last>aura_env.firstCheck+1 then\n                \n                for watchId,state in pairs(allstates) do    \n                    --local unit = state.member.unit                    \n                    local unit                \n                    for u in WA_IterateGroupMembers() do    \n                        if UnitName(u) == state.member.name then unit = u end    \n                    end    \n                    --Player Dead    \n                    local isDead = UnitIsDeadOrGhost(unit) or (not UnitIsConnected(unit)) or (not UnitIsVisible(unit))    \n                    if isDead ~= state.isDead then    \n                        state.isDead = isDead    \n                        state.resort = aura_env.updateSortIndex(state,not isDead)    \n                        state.changed = true    \n                    end                    \n                    --Player out of Range    \n                    local outOfRange = WeakAuras.CheckRange(unit, 100, \">=\")    \n                    if outOfRange ~= state.outOfRange then    \n                        state.outOfRange = outOfRange    \n                        state.resort = aura_env.updateSortIndex(state,not outOfRange)    \n                        state.changed = true    \n                    end\n                end    \n                return true\n                \n            end            \n        end    \n    end\n    \nend\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
-						["events"] = "ZT_ADD, ZT_TRIGGER, ZT_REMOVE, CLEU:SPELL_INTERRUPT NNOGGIE_INTERRUPT_UPDATETEXT, FRAME_UPDATE NNOGGIE_INTERRUPT_RESETELAPSED",
-						["check"] = "event",
-						["subeventSuffix"] = "_CAST_START",
-						["use_unit"] = true,
-						["customVariables"] = "{\n    expirationTime = true,\n    duration = true,\n    stacks = true,\n    elapsedDuration = \"bool\",\n    successful = \"bool\",\n    isDead = \"bool\",\n    outOfRange = \"bool\",    \n}",
-					},
-					["untrigger"] = {
-					},
-				}, -- [1]
-				["disjunctive"] = "any",
-				["activeTriggerMode"] = -10,
-			},
-			["icon_color"] = {
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-				1, -- [4]
-			},
-			["internalVersion"] = 39,
-			["parent"] = "ZT - Interrupt Tracker",
-			["animation"] = {
-				["start"] = {
-					["colorR"] = 1,
-					["scalex"] = 1,
-					["colorA"] = 1,
-					["colorG"] = 1,
-					["type"] = "custom",
-					["easeType"] = "none",
-					["colorB"] = 1,
-					["scaley"] = 1,
-					["alpha"] = 0,
-					["colorType"] = "custom",
-					["y"] = 0,
-					["x"] = 0,
-					["easeStrength"] = 3,
-					["duration"] = "0",
-					["colorFunc"] = "function()\n    if aura_env.state then\n        local config = aura_env.config[\"display\"]\n        \n        local classColor = {aura_env.state.member.classColor:GetRGBA()}\n        local barColor, nameColor, timerColor\n        if config[\"colorBarUseClass\"] then\n            barColor = classColor\n        else\n            barColor = config[\"colorBar\"]\n        end\n        if config[\"colorNameUseClass\"] then\n            nameColor = classColor\n        else\n            nameColor = config[\"colorName\"]\n        end\n        if config[\"colorTimerUseClass\"] then\n            timerColor = classColor\n        else\n            timerColor = config[\"colorTimer\"]\n        end\n        \n        aura_env.region:Color(unpack(barColor))\n        aura_env.region.text:SetTextColor(unpack(nameColor))\n        aura_env.region.timer:SetTextColor(unpack(timerColor))\n        aura_env.state.isDead = nil\n        aura_env.state.outOfRange = nil\n        \n    end\n    \n    \n    \nend",
-					["rotate"] = 0,
-					["duration_type"] = "seconds",
-					["use_color"] = true,
-				},
-				["main"] = {
-					["colorR"] = 1,
-					["duration_type"] = "seconds",
-					["colorA"] = 1,
-					["colorG"] = 1,
-					["type"] = "none",
-					["easeType"] = "none",
-					["scaley"] = 1,
-					["alpha"] = 0,
-					["colorB"] = 1,
-					["y"] = 0,
-					["colorType"] = "custom",
-					["scalex"] = 1,
-					["easeStrength"] = 3,
-					["colorFunc"] = "    function(progress, r1, g1, b1, a1, r2, g2, b2, a2)\n      return r1 + (progress * (r2 - r1)), g1 + (progress * (g2 - g1)), b1 + (progress * (b2 - b1)), a1 + (progress * (a2 - a1))\n    end\n  ",
-					["rotate"] = 0,
-					["x"] = 0,
-					["use_color"] = false,
-				},
-				["finish"] = {
-					["type"] = "none",
-					["easeStrength"] = 3,
-					["duration_type"] = "seconds",
-					["easeType"] = "none",
-				},
-			},
-			["backdropInFront"] = false,
 			["sparkOffsetX"] = 0,
-			["barColor"] = {
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-				1, -- [4]
-			},
-			["desaturate"] = false,
-			["auto"] = true,
-			["sparkRotationMode"] = "AUTO",
-			["sparkOffsetY"] = 0,
-			["subRegions"] = {
-				{
-					["type"] = "aurabar_bar",
-				}, -- [1]
-				{
-					["text_text_format_p_time_precision"] = 1,
-					["text_text"] = "%p",
-					["text_text_format_p_format"] = "timed",
-					["text_selfPoint"] = "AUTO",
-					["text_automaticWidth"] = "Auto",
-					["text_fixedWidth"] = 64,
-					["anchorYOffset"] = 0,
-					["text_justify"] = "CENTER",
-					["rotateText"] = "NONE",
-					["type"] = "subtext",
-					["text_color"] = {
-						1, -- [1]
-						1, -- [2]
-						1, -- [3]
-						1, -- [4]
-					},
-					["text_font"] = "ArchivoNarrow-Bold",
-					["text_shadowYOffset"] = -1,
-					["text_shadowColor"] = {
-						0, -- [1]
-						0, -- [2]
-						0, -- [3]
-						1, -- [4]
-					},
-					["text_wordWrap"] = "WordWrap",
-					["text_fontType"] = "OUTLINE",
-					["text_anchorPoint"] = "INNER_RIGHT",
-					["text_shadowXOffset"] = 1,
-					["text_visible"] = true,
-					["text_fontSize"] = 14,
-					["anchorXOffset"] = 0,
-					["text_text_format_p_time_dynamic"] = true,
-				}, -- [2]
-				{
-					["text_text_format_n_format"] = "none",
-					["text_text"] = "%n%extraIcon%raidIcon",
-					["text_text_format_extraIcon_format"] = "none",
-					["text_shadowColor"] = {
-						0, -- [1]
-						0, -- [2]
-						0, -- [3]
-						1, -- [4]
-					},
-					["text_selfPoint"] = "LEFT",
-					["text_automaticWidth"] = "Auto",
-					["text_fixedWidth"] = 64,
-					["anchorYOffset"] = 0,
-					["text_justify"] = "CENTER",
-					["rotateText"] = "NONE",
-					["text_text_format_raidIcon_format"] = "none",
-					["type"] = "subtext",
-					["text_color"] = {
-						1, -- [1]
-						1, -- [2]
-						1, -- [3]
-						1, -- [4]
-					},
-					["text_font"] = "ArchivoNarrow-Bold",
-					["text_shadowYOffset"] = -1,
-					["text_wordWrap"] = "WordWrap",
-					["text_fontType"] = "OUTLINE",
-					["text_anchorPoint"] = "INNER_LEFT",
-					["text_visible"] = true,
-					["text_fontSize"] = 14,
-					["anchorXOffset"] = 0,
-					["text_shadowXOffset"] = 1,
-				}, -- [3]
-				{
-					["type"] = "subborder",
-					["border_anchor"] = "bar",
-					["border_offset"] = 0,
-					["border_color"] = {
-						0, -- [1]
-						0, -- [2]
-						0, -- [3]
-						1, -- [4]
-					},
-					["border_visible"] = true,
-					["border_edge"] = "1 Pixel",
-					["border_size"] = 1,
-				}, -- [4]
-			},
-			["height"] = 25,
-			["actions"] = {
-				["start"] = {
-					["custom"] = "",
-					["do_custom"] = false,
-				},
-				["init"] = {
-					["custom"] = "local config = aura_env.config\nlocal cDisplay = config[\"display\"]\nlocal cSort = config[\"sorting\"]\nlocal cRegType = config[\"reg\"][\"type\"]\nlocal cRegSpell = config[\"reg\"][\"spell\"]\n\n-- Handling the spell registration configuration\nlocal sharedConfigSpellIDs = {\n    [\"ArcaneTorrent\"] = {202719, 50613, 80483, 28730, 129597, 155145, 232633, 25046, 69179},\n    [\"Asphyxiate\"] = {221562, 108194},\n    [\"Evasion/Riposte\"] = {5277, 199754},\n    [\"Ascendance\"] = {114050, 114051},\n    [\"Bladestorm\"] = {227847, 46924},\n}\n\naura_env.types = {}\naura_env.regTypes = {}\naura_env.spells = {}\naura_env.regSpells = {}\naura_env.typeToWatching = {}\n\nfor key,value in pairs(cRegType) do\n    if value and key:find(\"enabled\") == 1 then\n        local type = key:sub(8)\n        aura_env.types[type] = true\n    end\nend\n\nfor type,group in pairs(cRegSpell) do\n    for key,value in pairs(group) do\n        if value then\n            local spellID = tonumber(key)\n            if spellID then\n                aura_env.spells[spellID] = true\n            else\n                for _,spellID in ipairs(sharedConfigSpellIDs[key]) do\n                    aura_env.spells[spellID] = true\n                end\n            end\n        end\n    end\nend\n\nfor type,_ in pairs(aura_env.types) do tinsert(aura_env.regTypes, type) end\nfor spellID,_ in pairs(aura_env.spells) do tinsert(aura_env.regSpells, spellID) end\n\n-- Modified from https://eu.battle.net/forums/en/wow/topic/9337744534\naura_env.fixName = function(name)\n    local length = cDisplay[\"nameLength\"]\n    if length <= 0 then\n        return \"\"\n    end\n    \n    local nameChars = {}\n    name:gsub(\"([^\\128-\\191][\\128-\\191]*)\", function(char) \n            local leadbyte = strbyte(char, 1)\n            local charLength = -1\n            \n            if leadbyte < 248 then\n                if leadbyte >= 240 then charLength = 4\n                elseif leadbyte >= 224 then charLength = 3\n                elseif leadbyte >= 192 then charLength = 2\n                elseif leadbyte < 128 then charLength = 1\n                end\n            end\n            \n            if length > #nameChars then\n                tinsert(nameChars, (charLength == #char) and char)\n            end\n    end)\n    \n    return table.concat(nameChars, \"\")\nend\n\nlocal prioritizedSpellIDs = {\n    [183752] = true, -- Disrupt\n}\n\nlocal sortVars = {}\nlocal sortVarsIndex = {}\nfor v = 1,5 do\n    local var = cSort[\"sortVar\"..v]\n    if var and var ~= 1 then\n        if not sortVarsIndex[var] then\n            local index = #sortVars + 1\n            sortVars[index] = var\n            sortVarsIndex[var] = index\n        end\n    end\nend\n\nlocal isAvail = (cSort[\"sortOrder\"] == 1) and 0 or 1\nlocal isUnavail = (cSort[\"sortOrder\"] == 1) and 1 or 0\n\naura_env.initSortIndex = function(state)\n    state.sortValues = {}\n    \n    for index,var in ipairs(sortVars) do\n        if var == 2 then     -- Type Priority\n            local priority = cRegType[\"priority\"..state.type]\n            if cSort[\"sortOrder\"] == 2 then\n                priority = 99 - priority\n            end\n            state.sortValues[index] = (\"%02d\"):format(priority)\n        elseif var == 3 then -- Spell ID\n            state.sortValues[index] = (\"%06d\"):format(aura_env.spellPriorityMap[state.spellId] or state.spellId)\n        elseif var == 4 then -- Member Class\n            state.sortValues[index] = (\"%02d\"):format(state.member.classID)\n        elseif var == 5 then -- Member Name\n            state.sortValues[index] = (\"%-12s\"):format(state.member.name)\n        elseif var == 6 then -- Availability\n            local availValue = isAvail\n            local timeValue = math.max(state.expirationTime - GetTime(),0)\n            if cSort[\"sortOrder\"] == 2 then\n                timeValue = 9999999999.999 - timeValue\n            end\n            \n            state.sortValues[index] = (\"%d%010.3f\"):format(availValue, timeValue)\n        end\n    end\n    \n    state.index = table.concat(state.sortValues)\nend\n\naura_env.updateSortIndex = function(state,shouldReIndex)\n    local index = sortVarsIndex[6]\n    if index then\n        \n        if state.isDead then\n            state.index = \"9999999999.9999999\"\n            return true\n        end\n        \n        if state.outOfRange then\n            state.index = \"9999999999.0000000\"\n            return true\n        end        \n        \n        local prevSortValue = state.sortValues[index]\n        \n        local availValue\n        local timeValue\n        \n        if state.stacks then\n            if state.stacks > 0 then\n                availValue = isAvail\n                timeValue = math.max(state.expirationTime - GetTime(),0)\n            else\n                availValue = isUnavail\n                timeValue = state.expirationTime\n            end\n        elseif state.expirationTime > GetTime() then\n            availValue = isUnavail\n            timeValue = state.expirationTime\n        else\n            availValue = isAvail\n            timeValue = 0\n        end\n        \n        if cSort[\"sortOrder\"] == 2 then\n            timeValue = 9999999999.999 - timeValue\n        end\n        state.sortValues[index] = (\"%d%010.3f\"):format(availValue, timeValue)\n        \n        if state.sortValues[index] ~= prevSortValue or shouldReIndex then\n            state.index = table.concat(state.sortValues)\n            return true\n        end\n    end\n    \n    return false\nend\n\nif WeakAuras.IsAuraLoaded then\n    -- Since there is no unload event, hooking into region:Collapse() which\n    -- is called from WeakAuras.UnloadDisplays(...)\n    if not aura_env.region.ZTHooked then\n        aura_env.region.ZTHooked = true\n        hooksecurefunc(aura_env.region, \"Collapse\", function(self, ...)\n                if self.ZTRegTypes and (not WeakAuras.IsAuraLoaded(self.id)) then\n                    WeakAuras.ScanEvents(\"ZT_UNREGISTER\", self.ZTRegTypes, self.id)\n                    WeakAuras.ScanEvents(\"ZT_UNREGISTER\", self.ZTRegSpells, self.id)\n                    self.ZTRegTypes = nil\n                    self.ZTRegSpells = nil\n                end\n        end)\n    end\nend\n\naura_env.silenceMap = { --interupt:cast\n    [220543] = 15487,  --silence\n    [97547]  = 78675,  --solar beam\n    [93985]  = 106839, --skullbash  \n    [347008] = 89766,  --axe toss Check Zen\n    [132409] = 19647,  --Spell Lock (Sacrifice)\n}\naura_env.spellPriorityMap = {\n    [23920]  = 1,  --Spell Reflect\n    [31935]  = 1,  --Avenger's Shield\n    [183752] = 2,  --Disrupt\n    [47528]  = 3,  --Mind Freeze\n    [57994]  = 4,  --Wind Shear    \n    \n    [1766]   = 5,  --Kick\n    [6552]   = 6,  --Pummel\n    [116705] = 7,  --Spear Hand Strike\n    [106839] = 8,  --Skull Bash\n    [96231]  = 9,  --Rebuke\n    [187707] = 10, --Muzzle\n    \n    [202137] = 11, --Sigil of Silence\n    \n    [2139]   = 12, --Counter Spell\n    [147362] = 13, --Counter Shot\n    [119910] = 14, --Spell Lock Command Demon\n    [19647]  = 15, --Spell Lock if used from pet bar\n    [132409] = 16, --Spell Lock Command Demon Sacrifice\n    [89766]  = 17, --Axe Toss\n    --TODO: DK Leap\n    [15487]  = 18, --Silence\n    [78675]  = 20, --Solar Beam\n}\naura_env.petSpells = {\n    [119910] = true, --Spell Lock Command Demon\n    [19647]  = true, --Spell Lock if used from pet bar\n    [132409] = true, --Spell Lock Command Demon Sacrifice\n    --TODO: DK Leap\n}\n\n\n",
-					["do_custom"] = true,
-				},
-				["finish"] = {
-				},
-			},
-			["load"] = {
-				["use_size"] = false,
-				["use_never"] = false,
-				["talent"] = {
-					["single"] = 1,
-					["multi"] = {
-					},
-				},
-				["spec"] = {
-					["multi"] = {
-					},
-				},
-				["difficulty"] = {
-				},
-				["use_ingroup"] = false,
-				["ingroup"] = {
-					["multi"] = {
-						["group"] = true,
-						["raid"] = true,
-					},
-				},
-				["class"] = {
-					["multi"] = {
-					},
-				},
-				["size"] = {
-					["multi"] = {
-						["party"] = true,
-					},
-				},
-			},
-			["sparkBlendMode"] = "ADD",
-			["backdropColor"] = {
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-				0, -- [4]
-			},
-			["useTooltip"] = false,
-			["displayIcon"] = 132938,
-			["stickyDuration"] = false,
-			["uid"] = "8wu)nqGXJwU",
-			["version"] = 29,
-			["config"] = {
-				["reg"] = {
-					["type"] = {
-						["showOwnINTERRUPT"] = true,
-						["priorityINTERRUPT"] = 7,
-						["showOwnPERSONAL"] = true,
-						["enabledPERSONAL"] = false,
-						["enabledINTERRUPT"] = false,
-						["priorityPERSONAL"] = 8,
-					},
-					["spell"] = {
-						["INTERRUPT"] = {
-							["183752"] = true,
-							["116705"] = true,
-							["2139"] = true,
-							["106839"] = true,
-							["96231"] = true,
-							["19647"] = true,
-							["15487"] = true,
-							["23920"] = true,
-							["47528"] = true,
-							["147362"] = true,
-							["6552"] = true,
-							["202137"] = false,
-							["187707"] = true,
-							["89766"] = true,
-							["1766"] = true,
-							["78675"] = true,
-							["57994"] = true,
-							["31935"] = false,
-						},
-					},
-				},
-				["sorting"] = {
-					["sortVar2"] = 3,
-					["sortOrder"] = 1,
-					["sortVar1"] = 6,
-					["sortVar3"] = 5,
-				},
-				["display"] = {
-					["colorTimer"] = {
-						1, -- [1]
-						1, -- [2]
-						1, -- [3]
-						1, -- [4]
-					},
-					["colorBarUseClass"] = true,
-					["colorName"] = {
-						1, -- [1]
-						1, -- [2]
-						1, -- [3]
-						1, -- [4]
-					},
-					["colorNameUseClass"] = false,
-					["showChargeProgress"] = false,
-					["colorTimerUseClass"] = false,
-					["colorBar"] = {
-						1, -- [1]
-						1, -- [2]
-						1, -- [3]
-						1, -- [4]
-					},
-				},
-				["advanced"] = {
-					["showTarget"] = true,
-					["showSpell"] = true,
-					["spellReflectTank"] = true,
-					["showMissed"] = true,
-				},
-			},
-			["useAdjustededMin"] = false,
-			["regionType"] = "aurabar",
-			["borderInFront"] = true,
-			["useAdjustededMax"] = false,
-			["icon_side"] = "LEFT",
-			["sparkHidden"] = "NEVER",
-			["width"] = 200,
-			["sparkHeight"] = 30,
-			["texture"] = "Blizzard Raid Bar",
-			["frameStrata"] = 1,
-			["zoom"] = 0,
-			["semver"] = "1.0.11",
-			["tocversion"] = 90001,
-			["id"] = "ZT - Interrupt Tracker Bar",
-			["backgroundColor"] = {
-				0.062745098039216, -- [1]
-				0.062745098039216, -- [2]
-				0.062745098039216, -- [3]
-				1, -- [4]
-			},
-			["alpha"] = 1,
-			["anchorFrameType"] = "SCREEN",
 			["authorOptions"] = {
 				{
 					["subOptions"] = {
@@ -13802,6 +13567,348 @@ WeakAurasSaved = {
 					["width"] = 2,
 				}, -- [10]
 			},
+			["preferToUpdate"] = false,
+			["customText"] = "",
+			["yOffset"] = 0,
+			["anchorPoint"] = "CENTER",
+			["sparkOffsetY"] = 0,
+			["iconSource"] = -1,
+			["sparkRotation"] = 0,
+			["customTextUpdate"] = "event",
+			["url"] = "https://wago.io/InterruptTracker/29",
+			["backgroundColor"] = {
+				0.062745098039216, -- [1]
+				0.062745098039216, -- [2]
+				0.062745098039216, -- [3]
+				1, -- [4]
+			},
+			["triggers"] = {
+				{
+					["trigger"] = {
+						["use_absorbMode"] = true,
+						["unit"] = "player",
+						["debuffType"] = "HELPFUL",
+						["type"] = "custom",
+						["unevent"] = "auto",
+						["subeventPrefix"] = "SPELL",
+						["buffShowOn"] = "showOnActive",
+						["event"] = "Health",
+						["custom_type"] = "stateupdate",
+						["names"] = {
+						},
+						["spellIds"] = {
+						},
+						["custom"] = "function(allstates, event, type, watchID, ...)\n    \n    if event == \"ZT_ADD\" then\n        local member, spellID, duration, charges = ...\n        \n        -- If this WA was just loaded\n        if not type then\n            aura_env.region.ZTRegTypes = aura_env.regTypes\n            aura_env.region.ZTRegSpells = aura_env.regSpells\n            \n            WeakAuras.ScanEvents(\"ZT_REGISTER\", aura_env.regTypes, aura_env.region.id)\n            WeakAuras.ScanEvents(\"ZT_REGISTER\", aura_env.regSpells, aura_env.region.id)\n        else\n            local isTypeReg = aura_env.types[type]\n            local isSpellReg = aura_env.spells[spellID]\n            local isInterested = (isTypeReg and not isSpellReg) or (not isTypeReg and isSpellReg)\n            --dont add Spell Reflect for DPS specs and remove it from states if already present\n            if spellID == 23920 and member.specID~=73 and aura_env.config.advanced.spellReflectTank then\n                allstates[watchID] = nil\n                return\n            end\n            if not allstates[watchID] and isInterested and (not member.isPlayer or aura_env.config[\"reg\"][\"type\"][\"showOwn\"..type]) then\n                \n                local state = {}\n                state.show = true\n                state.changed = true\n                state.autoHide = false\n                state.resort = true\n                state.watchID = watchID    \n                state.successful = false    \n                state.isDead = false    \n                state.outOfRange = false\n                \n                state.progressType = 'timed'\n                state.duration = duration\n                state.expirationTime = GetTime()\n                \n                state.name = member.name\n                \n                state.icon = select(3,GetSpellInfo(spellID))\n                state.stacks = charges\n                \n                state.type = type\n                state.spellId = spellID\n                state.member = member\n                \n                aura_env.initSortIndex(state)\n                \n                allstates[watchID] = state\n                \n                return true\n            end\n        end\n    elseif event == \"ZT_TRIGGER\" then\n        local duration, expiration, charges = ...\n        \n        local state = allstates[watchID]\n        if state then\n            state.changed = true\n            \n            state.duration = duration\n            state.stacks = charges\n            if not charges or aura_env.config[\"display\"][\"showChargeProgress\"] or charges == 0 then\n                state.expirationTime = expiration\n            end\n            if math.abs(GetTime() - expiration+duration) < 0.2 and state.spellId ~= 23920 then\n                if aura_env.config.advanced.showMissed then\n                    state.elapsedDuration = true\n                    state.changed = true\n                    C_Timer.After(3,function() \n                            WeakAuras.ScanEvents(\"NNOGGIE_INTERRUPT_RESETELAPSED\",state.watchID)\n                    end)\n                end                \n            end\n            \n            state.resort = aura_env.updateSortIndex(state)\n            \n            return true\n        end\n    elseif event == \"ZT_REMOVE\" then\n        local state = allstates[watchID]\n        if state then\n            state.show = false\n            state.changed = true\n            return true\n        end\n    end\n    \n    if event == \"COMBAT_LOG_EVENT_UNFILTERED\" and watchID == \"SPELL_INTERRUPT\" then    \n        local _, sourceGUID, _, _, _, _, _, _, destRaidFlags, spellId,_ ,_, extraSpellId = ...    \n        if aura_env.silenceMap[spellId] then spellId = aura_env.silenceMap[spellId] end\n        --Attribute Pet Spell's to its owner\n        local sourceType = strsplit(\"-\",sourceGUID)\n        if sourceType == \"Pet\" or sourceType == \"Creature\" then\n            for unit in WA_IterateGroupMembers() do\n                if UnitGUID(unit..\"pet\") == sourceGUID then\n                    sourceGUID = UnitGUID(unit)\n                    break\n                end\n            end\n        end\n        for watchId, state in pairs(allstates) do\n            if state.spellId == spellId and state.member.GUID == sourceGUID then    \n                local iconFileId = GetSpellTexture(extraSpellId)    \n                allstates[watchId].extraIcon = aura_env.config.advanced.showSpell and (\"|T%s:0|t\"):format(iconFileId) \n                allstates[watchId].successful = true                    \n                local mark = math.log(destRaidFlags)/math.log(2) + 1    \n                if ICON_LIST[mark] then    \n                    allstates[watchId].raidIcon = aura_env.config.advanced.showTarget and (\"%s:0\\124t\"):format(ICON_LIST[mark])    \n                else    \n                    allstates[watchId].raidIcon = nil    \n                end               \n                allstates[watchId].changed = true    \n                return true                    \n            end    \n        end    \n    end    \n    \n    if event == \"NNOGGIE_INTERRUPT_UPDATETEXT\" and type then\n        local watchId = type    \n        local state = allstates[watchId]    \n        if state then    \n            state.successful = false    \n            state.extraIcon = nil    \n            state.raidIcon = nil    \n            state.changed = true    \n            return true    \n        end    \n    end    \n    \n    if event == \"NNOGGIE_INTERRUPT_RESETELAPSED\" and type then            \n        local watchId = type    \n        local state = allstates[watchId]    \n        if state then\n            state.elapsedDuration = false\n            state.changed = true    \n            return true    \n        end    \n    end \n    \n    if event == \"OPTIONS\" then\n        aura_env.firstCheck = nil\n    end\n    \n    \n    if event == \"FRAME_UPDATE\" then    \n        if not aura_env.last or aura_env.last < GetTime() - 0.5 then    \n            aura_env.last = GetTime()\n            \n            --delay first check for 1 second to not conflict with WA setting up the states\n            aura_env.firstCheck = aura_env.firstCheck or GetTime()\n            if aura_env.last>aura_env.firstCheck+1 then\n                \n                for watchId,state in pairs(allstates) do    \n                    --local unit = state.member.unit                    \n                    local unit                \n                    for u in WA_IterateGroupMembers() do    \n                        if UnitName(u) == state.member.name then unit = u end    \n                    end    \n                    --Player Dead    \n                    local isDead = UnitIsDeadOrGhost(unit) or (not UnitIsConnected(unit)) or (not UnitIsVisible(unit))    \n                    if isDead ~= state.isDead then    \n                        state.isDead = isDead    \n                        state.resort = aura_env.updateSortIndex(state,not isDead)    \n                        state.changed = true    \n                    end                    \n                    --Player out of Range    \n                    local outOfRange = WeakAuras.CheckRange(unit, 100, \">=\")    \n                    if outOfRange ~= state.outOfRange then    \n                        state.outOfRange = outOfRange    \n                        state.resort = aura_env.updateSortIndex(state,not outOfRange)    \n                        state.changed = true    \n                    end\n                end    \n                return true\n                \n            end            \n        end    \n    end\n    \nend\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+						["events"] = "ZT_ADD, ZT_TRIGGER, ZT_REMOVE, CLEU:SPELL_INTERRUPT NNOGGIE_INTERRUPT_UPDATETEXT, FRAME_UPDATE NNOGGIE_INTERRUPT_RESETELAPSED",
+						["check"] = "event",
+						["subeventSuffix"] = "_CAST_START",
+						["use_unit"] = true,
+						["customVariables"] = "{\n    expirationTime = true,\n    duration = true,\n    stacks = true,\n    elapsedDuration = \"bool\",\n    successful = \"bool\",\n    isDead = \"bool\",\n    outOfRange = \"bool\",    \n}",
+					},
+					["untrigger"] = {
+					},
+				}, -- [1]
+				["disjunctive"] = "any",
+				["activeTriggerMode"] = -10,
+			},
+			["icon_color"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
+			},
+			["internalVersion"] = 40,
+			["parent"] = "ZT - Interrupt Tracker",
+			["selfPoint"] = "CENTER",
+			["backdropInFront"] = false,
+			["uid"] = "8wu)nqGXJwU",
+			["barColor"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
+			},
+			["stickyDuration"] = false,
+			["xOffset"] = 0,
+			["sparkRotationMode"] = "AUTO",
+			["version"] = 29,
+			["subRegions"] = {
+				{
+					["type"] = "aurabar_bar",
+				}, -- [1]
+				{
+					["text_text_format_p_time_precision"] = 1,
+					["text_text"] = "%p",
+					["text_text_format_p_format"] = "timed",
+					["text_selfPoint"] = "AUTO",
+					["text_automaticWidth"] = "Auto",
+					["text_fixedWidth"] = 64,
+					["anchorYOffset"] = 0,
+					["text_justify"] = "CENTER",
+					["rotateText"] = "NONE",
+					["type"] = "subtext",
+					["text_color"] = {
+						1, -- [1]
+						1, -- [2]
+						1, -- [3]
+						1, -- [4]
+					},
+					["text_font"] = "ArchivoNarrow-Bold",
+					["text_shadowYOffset"] = -1,
+					["text_shadowColor"] = {
+						0, -- [1]
+						0, -- [2]
+						0, -- [3]
+						1, -- [4]
+					},
+					["text_wordWrap"] = "WordWrap",
+					["text_fontType"] = "OUTLINE",
+					["text_anchorPoint"] = "INNER_RIGHT",
+					["text_shadowXOffset"] = 1,
+					["text_visible"] = true,
+					["text_fontSize"] = 14,
+					["anchorXOffset"] = 0,
+					["text_text_format_p_time_dynamic"] = true,
+				}, -- [2]
+				{
+					["text_text_format_n_format"] = "none",
+					["text_text"] = "%n%extraIcon%raidIcon",
+					["text_text_format_extraIcon_format"] = "none",
+					["text_shadowColor"] = {
+						0, -- [1]
+						0, -- [2]
+						0, -- [3]
+						1, -- [4]
+					},
+					["text_selfPoint"] = "LEFT",
+					["text_automaticWidth"] = "Auto",
+					["text_fixedWidth"] = 64,
+					["anchorYOffset"] = 0,
+					["text_justify"] = "CENTER",
+					["rotateText"] = "NONE",
+					["text_text_format_raidIcon_format"] = "none",
+					["type"] = "subtext",
+					["text_color"] = {
+						1, -- [1]
+						1, -- [2]
+						1, -- [3]
+						1, -- [4]
+					},
+					["text_font"] = "ArchivoNarrow-Bold",
+					["text_shadowYOffset"] = -1,
+					["text_wordWrap"] = "WordWrap",
+					["text_fontType"] = "OUTLINE",
+					["text_anchorPoint"] = "INNER_LEFT",
+					["text_visible"] = true,
+					["text_fontSize"] = 14,
+					["anchorXOffset"] = 0,
+					["text_shadowXOffset"] = 1,
+				}, -- [3]
+				{
+					["type"] = "subborder",
+					["border_anchor"] = "bar",
+					["border_offset"] = 0,
+					["border_color"] = {
+						0, -- [1]
+						0, -- [2]
+						0, -- [3]
+						1, -- [4]
+					},
+					["border_visible"] = true,
+					["border_edge"] = "1 Pixel",
+					["border_size"] = 1,
+				}, -- [4]
+			},
+			["height"] = 25,
+			["icon"] = true,
+			["load"] = {
+				["use_size"] = false,
+				["use_never"] = false,
+				["talent"] = {
+					["single"] = 1,
+					["multi"] = {
+					},
+				},
+				["spec"] = {
+					["multi"] = {
+					},
+				},
+				["difficulty"] = {
+				},
+				["use_ingroup"] = false,
+				["ingroup"] = {
+					["multi"] = {
+						["group"] = true,
+						["raid"] = true,
+					},
+				},
+				["class"] = {
+					["multi"] = {
+					},
+				},
+				["size"] = {
+					["multi"] = {
+						["party"] = true,
+					},
+				},
+			},
+			["sparkBlendMode"] = "ADD",
+			["backdropColor"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				0, -- [4]
+			},
+			["useTooltip"] = false,
+			["displayIcon"] = 132938,
+			["animation"] = {
+				["start"] = {
+					["colorR"] = 1,
+					["scalex"] = 1,
+					["colorA"] = 1,
+					["colorG"] = 1,
+					["type"] = "custom",
+					["easeType"] = "none",
+					["colorB"] = 1,
+					["scaley"] = 1,
+					["alpha"] = 0,
+					["colorType"] = "custom",
+					["y"] = 0,
+					["x"] = 0,
+					["easeStrength"] = 3,
+					["duration"] = "0",
+					["colorFunc"] = "function()\n    if aura_env.state then\n        local config = aura_env.config[\"display\"]\n        \n        local classColor = {aura_env.state.member.classColor:GetRGBA()}\n        local barColor, nameColor, timerColor\n        if config[\"colorBarUseClass\"] then\n            barColor = classColor\n        else\n            barColor = config[\"colorBar\"]\n        end\n        if config[\"colorNameUseClass\"] then\n            nameColor = classColor\n        else\n            nameColor = config[\"colorName\"]\n        end\n        if config[\"colorTimerUseClass\"] then\n            timerColor = classColor\n        else\n            timerColor = config[\"colorTimer\"]\n        end\n        \n        aura_env.region:Color(unpack(barColor))\n        aura_env.region.text:SetTextColor(unpack(nameColor))\n        aura_env.region.timer:SetTextColor(unpack(timerColor))\n        aura_env.state.isDead = nil\n        aura_env.state.outOfRange = nil\n        \n    end\n    \n    \n    \nend",
+					["rotate"] = 0,
+					["duration_type"] = "seconds",
+					["use_color"] = true,
+				},
+				["main"] = {
+					["colorR"] = 1,
+					["duration_type"] = "seconds",
+					["colorA"] = 1,
+					["colorG"] = 1,
+					["type"] = "none",
+					["easeType"] = "none",
+					["scaley"] = 1,
+					["alpha"] = 0,
+					["colorB"] = 1,
+					["y"] = 0,
+					["colorType"] = "custom",
+					["scalex"] = 1,
+					["easeStrength"] = 3,
+					["colorFunc"] = "    function(progress, r1, g1, b1, a1, r2, g2, b2, a2)\n      return r1 + (progress * (r2 - r1)), g1 + (progress * (g2 - g1)), b1 + (progress * (b2 - b1)), a1 + (progress * (a2 - a1))\n    end\n  ",
+					["rotate"] = 0,
+					["x"] = 0,
+					["use_color"] = false,
+				},
+				["finish"] = {
+					["type"] = "none",
+					["easeStrength"] = 3,
+					["duration_type"] = "seconds",
+					["easeType"] = "none",
+				},
+			},
+			["desaturate"] = false,
+			["auto"] = true,
+			["actions"] = {
+				["start"] = {
+					["custom"] = "",
+					["do_custom"] = false,
+				},
+				["init"] = {
+					["custom"] = "local config = aura_env.config\nlocal cDisplay = config[\"display\"]\nlocal cSort = config[\"sorting\"]\nlocal cRegType = config[\"reg\"][\"type\"]\nlocal cRegSpell = config[\"reg\"][\"spell\"]\n\n-- Handling the spell registration configuration\nlocal sharedConfigSpellIDs = {\n    [\"ArcaneTorrent\"] = {202719, 50613, 80483, 28730, 129597, 155145, 232633, 25046, 69179},\n    [\"Asphyxiate\"] = {221562, 108194},\n    [\"Evasion/Riposte\"] = {5277, 199754},\n    [\"Ascendance\"] = {114050, 114051},\n    [\"Bladestorm\"] = {227847, 46924},\n}\n\naura_env.types = {}\naura_env.regTypes = {}\naura_env.spells = {}\naura_env.regSpells = {}\naura_env.typeToWatching = {}\n\nfor key,value in pairs(cRegType) do\n    if value and key:find(\"enabled\") == 1 then\n        local type = key:sub(8)\n        aura_env.types[type] = true\n    end\nend\n\nfor type,group in pairs(cRegSpell) do\n    for key,value in pairs(group) do\n        if value then\n            local spellID = tonumber(key)\n            if spellID then\n                aura_env.spells[spellID] = true\n            else\n                for _,spellID in ipairs(sharedConfigSpellIDs[key]) do\n                    aura_env.spells[spellID] = true\n                end\n            end\n        end\n    end\nend\n\nfor type,_ in pairs(aura_env.types) do tinsert(aura_env.regTypes, type) end\nfor spellID,_ in pairs(aura_env.spells) do tinsert(aura_env.regSpells, spellID) end\n\n-- Modified from https://eu.battle.net/forums/en/wow/topic/9337744534\naura_env.fixName = function(name)\n    local length = cDisplay[\"nameLength\"]\n    if length <= 0 then\n        return \"\"\n    end\n    \n    local nameChars = {}\n    name:gsub(\"([^\\128-\\191][\\128-\\191]*)\", function(char) \n            local leadbyte = strbyte(char, 1)\n            local charLength = -1\n            \n            if leadbyte < 248 then\n                if leadbyte >= 240 then charLength = 4\n                elseif leadbyte >= 224 then charLength = 3\n                elseif leadbyte >= 192 then charLength = 2\n                elseif leadbyte < 128 then charLength = 1\n                end\n            end\n            \n            if length > #nameChars then\n                tinsert(nameChars, (charLength == #char) and char)\n            end\n    end)\n    \n    return table.concat(nameChars, \"\")\nend\n\nlocal prioritizedSpellIDs = {\n    [183752] = true, -- Disrupt\n}\n\nlocal sortVars = {}\nlocal sortVarsIndex = {}\nfor v = 1,5 do\n    local var = cSort[\"sortVar\"..v]\n    if var and var ~= 1 then\n        if not sortVarsIndex[var] then\n            local index = #sortVars + 1\n            sortVars[index] = var\n            sortVarsIndex[var] = index\n        end\n    end\nend\n\nlocal isAvail = (cSort[\"sortOrder\"] == 1) and 0 or 1\nlocal isUnavail = (cSort[\"sortOrder\"] == 1) and 1 or 0\n\naura_env.initSortIndex = function(state)\n    state.sortValues = {}\n    \n    for index,var in ipairs(sortVars) do\n        if var == 2 then     -- Type Priority\n            local priority = cRegType[\"priority\"..state.type]\n            if cSort[\"sortOrder\"] == 2 then\n                priority = 99 - priority\n            end\n            state.sortValues[index] = (\"%02d\"):format(priority)\n        elseif var == 3 then -- Spell ID\n            state.sortValues[index] = (\"%06d\"):format(aura_env.spellPriorityMap[state.spellId] or state.spellId)\n        elseif var == 4 then -- Member Class\n            state.sortValues[index] = (\"%02d\"):format(state.member.classID)\n        elseif var == 5 then -- Member Name\n            state.sortValues[index] = (\"%-12s\"):format(state.member.name)\n        elseif var == 6 then -- Availability\n            local availValue = isAvail\n            local timeValue = math.max(state.expirationTime - GetTime(),0)\n            if cSort[\"sortOrder\"] == 2 then\n                timeValue = 9999999999.999 - timeValue\n            end\n            \n            state.sortValues[index] = (\"%d%010.3f\"):format(availValue, timeValue)\n        end\n    end\n    \n    state.index = table.concat(state.sortValues)\nend\n\naura_env.updateSortIndex = function(state,shouldReIndex)\n    local index = sortVarsIndex[6]\n    if index then\n        \n        if state.isDead then\n            state.index = \"9999999999.9999999\"\n            return true\n        end\n        \n        if state.outOfRange then\n            state.index = \"9999999999.0000000\"\n            return true\n        end        \n        \n        local prevSortValue = state.sortValues[index]\n        \n        local availValue\n        local timeValue\n        \n        if state.stacks then\n            if state.stacks > 0 then\n                availValue = isAvail\n                timeValue = math.max(state.expirationTime - GetTime(),0)\n            else\n                availValue = isUnavail\n                timeValue = state.expirationTime\n            end\n        elseif state.expirationTime > GetTime() then\n            availValue = isUnavail\n            timeValue = state.expirationTime\n        else\n            availValue = isAvail\n            timeValue = 0\n        end\n        \n        if cSort[\"sortOrder\"] == 2 then\n            timeValue = 9999999999.999 - timeValue\n        end\n        state.sortValues[index] = (\"%d%010.3f\"):format(availValue, timeValue)\n        \n        if state.sortValues[index] ~= prevSortValue or shouldReIndex then\n            state.index = table.concat(state.sortValues)\n            return true\n        end\n    end\n    \n    return false\nend\n\nif WeakAuras.IsAuraLoaded then\n    -- Since there is no unload event, hooking into region:Collapse() which\n    -- is called from WeakAuras.UnloadDisplays(...)\n    if not aura_env.region.ZTHooked then\n        aura_env.region.ZTHooked = true\n        hooksecurefunc(aura_env.region, \"Collapse\", function(self, ...)\n                if self.ZTRegTypes and (not WeakAuras.IsAuraLoaded(self.id)) then\n                    WeakAuras.ScanEvents(\"ZT_UNREGISTER\", self.ZTRegTypes, self.id)\n                    WeakAuras.ScanEvents(\"ZT_UNREGISTER\", self.ZTRegSpells, self.id)\n                    self.ZTRegTypes = nil\n                    self.ZTRegSpells = nil\n                end\n        end)\n    end\nend\n\naura_env.silenceMap = { --interupt:cast\n    [220543] = 15487,  --silence\n    [97547]  = 78675,  --solar beam\n    [93985]  = 106839, --skullbash  \n    [347008] = 89766,  --axe toss Check Zen\n    [132409] = 19647,  --Spell Lock (Sacrifice)\n}\naura_env.spellPriorityMap = {\n    [23920]  = 1,  --Spell Reflect\n    [31935]  = 1,  --Avenger's Shield\n    [183752] = 2,  --Disrupt\n    [47528]  = 3,  --Mind Freeze\n    [57994]  = 4,  --Wind Shear    \n    \n    [1766]   = 5,  --Kick\n    [6552]   = 6,  --Pummel\n    [116705] = 7,  --Spear Hand Strike\n    [106839] = 8,  --Skull Bash\n    [96231]  = 9,  --Rebuke\n    [187707] = 10, --Muzzle\n    \n    [202137] = 11, --Sigil of Silence\n    \n    [2139]   = 12, --Counter Spell\n    [147362] = 13, --Counter Shot\n    [119910] = 14, --Spell Lock Command Demon\n    [19647]  = 15, --Spell Lock if used from pet bar\n    [132409] = 16, --Spell Lock Command Demon Sacrifice\n    [89766]  = 17, --Axe Toss\n    --TODO: DK Leap\n    [15487]  = 18, --Silence\n    [78675]  = 20, --Solar Beam\n}\naura_env.petSpells = {\n    [119910] = true, --Spell Lock Command Demon\n    [19647]  = true, --Spell Lock if used from pet bar\n    [132409] = true, --Spell Lock Command Demon Sacrifice\n    --TODO: DK Leap\n}\n\n\n",
+					["do_custom"] = true,
+				},
+				["finish"] = {
+				},
+			},
+			["useAdjustededMin"] = false,
+			["regionType"] = "aurabar",
+			["borderInFront"] = true,
+			["config"] = {
+				["reg"] = {
+					["type"] = {
+						["showOwnINTERRUPT"] = true,
+						["priorityINTERRUPT"] = 7,
+						["showOwnPERSONAL"] = true,
+						["enabledPERSONAL"] = false,
+						["enabledINTERRUPT"] = false,
+						["priorityPERSONAL"] = 8,
+					},
+					["spell"] = {
+						["INTERRUPT"] = {
+							["183752"] = true,
+							["116705"] = true,
+							["2139"] = true,
+							["106839"] = true,
+							["96231"] = true,
+							["19647"] = true,
+							["15487"] = true,
+							["23920"] = true,
+							["47528"] = true,
+							["147362"] = true,
+							["6552"] = true,
+							["202137"] = false,
+							["187707"] = true,
+							["89766"] = true,
+							["1766"] = true,
+							["78675"] = true,
+							["57994"] = true,
+							["31935"] = false,
+						},
+					},
+				},
+				["sorting"] = {
+					["sortVar2"] = 3,
+					["sortOrder"] = 1,
+					["sortVar1"] = 6,
+					["sortVar3"] = 5,
+				},
+				["display"] = {
+					["colorTimer"] = {
+						1, -- [1]
+						1, -- [2]
+						1, -- [3]
+						1, -- [4]
+					},
+					["colorBarUseClass"] = true,
+					["colorName"] = {
+						1, -- [1]
+						1, -- [2]
+						1, -- [3]
+						1, -- [4]
+					},
+					["colorNameUseClass"] = false,
+					["showChargeProgress"] = false,
+					["colorTimerUseClass"] = false,
+					["colorBar"] = {
+						1, -- [1]
+						1, -- [2]
+						1, -- [3]
+						1, -- [4]
+					},
+				},
+				["advanced"] = {
+					["showTarget"] = true,
+					["showSpell"] = true,
+					["spellReflectTank"] = true,
+					["showMissed"] = true,
+				},
+			},
+			["icon_side"] = "LEFT",
+			["useAdjustededMax"] = false,
+			["frameStrata"] = 1,
+			["sparkHeight"] = 30,
+			["texture"] = "Blizzard Raid Bar",
+			["width"] = 200,
+			["zoom"] = 0,
+			["semver"] = "1.0.11",
+			["tocversion"] = 90001,
+			["sparkHidden"] = "NEVER",
+			["borderBackdrop"] = "None",
+			["alpha"] = 1,
+			["anchorFrameType"] = "SCREEN",
+			["id"] = "ZT - Interrupt Tracker Bar",
 			["sparkColor"] = {
 				1, -- [1]
 				1, -- [2]
@@ -13934,8 +14041,10 @@ WeakAurasSaved = {
 					},
 				}, -- [6]
 			},
+			["information"] = {
+				["ignoreOptionsEventErrors"] = true,
+			},
 			["sparkTexture"] = "Interface\\CastingBar\\UI-CastingBar-Spark",
-			["ignoreOptionsEventErrors"] = true,
 		},
 		["Lifebloom - Aactive - RestoD"] = {
 			["iconSource"] = -1,
@@ -13988,7 +14097,7 @@ WeakAurasSaved = {
 				}, -- [1]
 				["activeTriggerMode"] = 1,
 			},
-			["internalVersion"] = 39,
+			["internalVersion"] = 40,
 			["keepAspectRatio"] = false,
 			["animation"] = {
 				["start"] = {
@@ -14154,24 +14263,44 @@ WeakAurasSaved = {
 				},
 			},
 			["uid"] = "mFbzBuuDQQv",
-			["cooldownTextDisabled"] = true,
-			["url"] = "https://wago.io/41diGTjPb/41",
-			["regionType"] = "icon",
-			["parent"] = "Resto Druid - Ablution -EU - BronzeDragonflight",
 			["authorOptions"] = {
 			},
-			["xOffset"] = 60,
+			["url"] = "https://wago.io/41diGTjPb/41",
+			["regionType"] = "icon",
+			["actions"] = {
+				["start"] = {
+					["do_glow"] = false,
+					["do_sound"] = false,
+					["do_custom"] = false,
+					["sound"] = "Interface\\Addons\\WeakAuras\\PowerAurasMedia\\Sounds\\bam.ogg",
+					["glow_frame"] = "",
+				},
+				["init"] = {
+				},
+				["finish"] = {
+					["do_glow"] = false,
+					["glow_frame"] = "",
+					["do_custom"] = false,
+					["do_sound"] = false,
+					["stop_sound"] = false,
+					["glow_action"] = "show",
+					["sound"] = "Interface\\Addons\\WeakAuras\\PowerAurasMedia\\Sounds\\bam.ogg",
+					["sound_channel"] = "Master",
+				},
+			},
+			["cooldown"] = true,
 			["selfPoint"] = "CENTER",
-			["ignoreOptionsEventErrors"] = true,
+			["parent"] = "Resto Druid - Ablution -EU - BronzeDragonflight",
 			["auto"] = true,
-			["zoom"] = 0,
+			["width"] = 40,
+			["cooldownTextDisabled"] = true,
 			["semver"] = "1.0.9",
 			["tocversion"] = 90001,
 			["id"] = "Lifebloom - Aactive - RestoD",
-			["width"] = 40,
 			["alpha"] = 1,
-			["anchorFrameType"] = "SCREEN",
 			["frameStrata"] = 4,
+			["anchorFrameType"] = "SCREEN",
+			["zoom"] = 0,
 			["config"] = {
 			},
 			["inverse"] = false,
@@ -14212,28 +14341,10 @@ WeakAurasSaved = {
 					},
 				}, -- [2]
 			},
-			["cooldown"] = true,
-			["actions"] = {
-				["start"] = {
-					["do_glow"] = false,
-					["do_sound"] = false,
-					["do_custom"] = false,
-					["sound"] = "Interface\\Addons\\WeakAuras\\PowerAurasMedia\\Sounds\\bam.ogg",
-					["glow_frame"] = "",
-				},
-				["init"] = {
-				},
-				["finish"] = {
-					["do_glow"] = false,
-					["glow_frame"] = "",
-					["do_custom"] = false,
-					["do_sound"] = false,
-					["stop_sound"] = false,
-					["glow_action"] = "show",
-					["sound"] = "Interface\\Addons\\WeakAuras\\PowerAurasMedia\\Sounds\\bam.ogg",
-					["sound_channel"] = "Master",
-				},
+			["information"] = {
+				["ignoreOptionsEventErrors"] = true,
 			},
+			["xOffset"] = 60,
 		},
 		["30 - T1 - Off CD - RestoD"] = {
 			["iconSource"] = -1,
@@ -14286,7 +14397,7 @@ WeakAurasSaved = {
 				}, -- [1]
 				["activeTriggerMode"] = 1,
 			},
-			["internalVersion"] = 39,
+			["internalVersion"] = 40,
 			["keepAspectRatio"] = false,
 			["animation"] = {
 				["start"] = {
@@ -14408,31 +14519,10 @@ WeakAurasSaved = {
 				},
 			},
 			["uid"] = "(2ykKhsxWD1",
-			["zoom"] = 0,
-			["xOffset"] = 230,
-			["regionType"] = "icon",
-			["parent"] = "Resto Druid - Ablution -EU - BronzeDragonflight",
 			["authorOptions"] = {
 			},
-			["selfPoint"] = "CENTER",
-			["url"] = "https://wago.io/41diGTjPb/41",
-			["ignoreOptionsEventErrors"] = true,
-			["auto"] = true,
-			["cooldownTextDisabled"] = false,
-			["semver"] = "1.0.9",
-			["tocversion"] = 90001,
-			["id"] = "30 - T1 - Off CD - RestoD",
-			["anchorFrameType"] = "SCREEN",
-			["alpha"] = 1,
-			["width"] = 40,
-			["frameStrata"] = 1,
-			["config"] = {
-			},
-			["inverse"] = false,
-			["stickyDuration"] = false,
-			["conditions"] = {
-			},
-			["cooldown"] = false,
+			["xOffset"] = 230,
+			["regionType"] = "icon",
 			["actions"] = {
 				["start"] = {
 					["do_glow"] = false,
@@ -14446,6 +14536,29 @@ WeakAurasSaved = {
 					["do_sound"] = false,
 				},
 			},
+			["cooldown"] = false,
+			["url"] = "https://wago.io/41diGTjPb/41",
+			["parent"] = "Resto Druid - Ablution -EU - BronzeDragonflight",
+			["auto"] = true,
+			["anchorFrameType"] = "SCREEN",
+			["zoom"] = 0,
+			["semver"] = "1.0.9",
+			["tocversion"] = 90001,
+			["id"] = "30 - T1 - Off CD - RestoD",
+			["alpha"] = 1,
+			["frameStrata"] = 1,
+			["width"] = 40,
+			["cooldownTextDisabled"] = false,
+			["config"] = {
+			},
+			["inverse"] = false,
+			["stickyDuration"] = false,
+			["conditions"] = {
+			},
+			["information"] = {
+				["ignoreOptionsEventErrors"] = true,
+			},
+			["selfPoint"] = "CENTER",
 		},
 		["Combo4"] = {
 			["color"] = {
@@ -14516,7 +14629,7 @@ WeakAurasSaved = {
 				["disjunctive"] = "all",
 				["activeTriggerMode"] = -10,
 			},
-			["internalVersion"] = 39,
+			["internalVersion"] = 40,
 			["animation"] = {
 				["start"] = {
 					["colorR"] = 1,
@@ -14617,11 +14730,11 @@ WeakAurasSaved = {
 			["anchorFrameType"] = "SCREEN",
 			["texture"] = "Interface\\Addons\\WeakAuras\\PowerAurasMedia\\Auras\\Aura45",
 			["xOffset"] = -10,
-			["selfPoint"] = "CENTER",
+			["rotation"] = 0,
 			["semver"] = "1.0.9",
 			["tocversion"] = 90001,
 			["id"] = "Combo4",
-			["ignoreOptionsEventErrors"] = true,
+			["parent"] = "Resto Druid - Ablution -EU - BronzeDragonflight",
 			["frameStrata"] = 1,
 			["width"] = 40,
 			["config"] = {
@@ -14632,8 +14745,10 @@ WeakAurasSaved = {
 			["alpha"] = 1,
 			["conditions"] = {
 			},
-			["parent"] = "Resto Druid - Ablution -EU - BronzeDragonflight",
-			["rotation"] = 0,
+			["information"] = {
+				["ignoreOptionsEventErrors"] = true,
+			},
+			["selfPoint"] = "CENTER",
 		},
 		["Dash - CD - RestoD"] = {
 			["iconSource"] = -1,
@@ -14689,7 +14804,7 @@ WeakAurasSaved = {
 				}, -- [1]
 				["activeTriggerMode"] = 1,
 			},
-			["internalVersion"] = 39,
+			["internalVersion"] = 40,
 			["keepAspectRatio"] = false,
 			["animation"] = {
 				["start"] = {
@@ -14814,31 +14929,10 @@ WeakAurasSaved = {
 				},
 			},
 			["uid"] = "aXBzsefIG)K",
-			["zoom"] = 0,
-			["xOffset"] = 220,
-			["regionType"] = "icon",
-			["parent"] = "Resto Druid - Ablution -EU - BronzeDragonflight",
 			["authorOptions"] = {
 			},
-			["selfPoint"] = "CENTER",
-			["url"] = "https://wago.io/41diGTjPb/41",
-			["ignoreOptionsEventErrors"] = true,
-			["auto"] = true,
-			["cooldownTextDisabled"] = false,
-			["semver"] = "1.0.9",
-			["tocversion"] = 90001,
-			["id"] = "Dash - CD - RestoD",
-			["anchorFrameType"] = "SCREEN",
-			["alpha"] = 1,
-			["width"] = 17,
-			["frameStrata"] = 1,
-			["config"] = {
-			},
-			["inverse"] = false,
-			["stickyDuration"] = false,
-			["conditions"] = {
-			},
-			["cooldown"] = false,
+			["xOffset"] = 220,
+			["regionType"] = "icon",
 			["actions"] = {
 				["start"] = {
 					["do_glow"] = false,
@@ -14852,6 +14946,29 @@ WeakAurasSaved = {
 					["do_sound"] = false,
 				},
 			},
+			["cooldown"] = false,
+			["url"] = "https://wago.io/41diGTjPb/41",
+			["parent"] = "Resto Druid - Ablution -EU - BronzeDragonflight",
+			["auto"] = true,
+			["anchorFrameType"] = "SCREEN",
+			["zoom"] = 0,
+			["semver"] = "1.0.9",
+			["tocversion"] = 90001,
+			["id"] = "Dash - CD - RestoD",
+			["alpha"] = 1,
+			["frameStrata"] = 1,
+			["width"] = 17,
+			["cooldownTextDisabled"] = false,
+			["config"] = {
+			},
+			["inverse"] = false,
+			["stickyDuration"] = false,
+			["conditions"] = {
+			},
+			["information"] = {
+				["ignoreOptionsEventErrors"] = true,
+			},
+			["selfPoint"] = "CENTER",
 		},
 		["60 - T2 - Off CD - RestoD"] = {
 			["iconSource"] = -1,
@@ -14904,7 +15021,7 @@ WeakAurasSaved = {
 				}, -- [1]
 				["activeTriggerMode"] = 1,
 			},
-			["internalVersion"] = 39,
+			["internalVersion"] = 40,
 			["keepAspectRatio"] = false,
 			["animation"] = {
 				["start"] = {
@@ -15026,31 +15143,10 @@ WeakAurasSaved = {
 				},
 			},
 			["uid"] = "pb(QkLrFybf",
-			["zoom"] = 0,
-			["xOffset"] = 240,
-			["regionType"] = "icon",
-			["parent"] = "Resto Druid - Ablution -EU - BronzeDragonflight",
 			["authorOptions"] = {
 			},
-			["selfPoint"] = "CENTER",
-			["url"] = "https://wago.io/41diGTjPb/41",
-			["ignoreOptionsEventErrors"] = true,
-			["auto"] = true,
-			["cooldownTextDisabled"] = false,
-			["semver"] = "1.0.9",
-			["tocversion"] = 90001,
-			["id"] = "60 - T2 - Off CD - RestoD",
-			["anchorFrameType"] = "SCREEN",
-			["alpha"] = 1,
-			["width"] = 17,
-			["frameStrata"] = 1,
-			["config"] = {
-			},
-			["inverse"] = false,
-			["stickyDuration"] = false,
-			["conditions"] = {
-			},
-			["cooldown"] = false,
+			["xOffset"] = 240,
+			["regionType"] = "icon",
 			["actions"] = {
 				["start"] = {
 					["do_glow"] = false,
@@ -15064,6 +15160,29 @@ WeakAurasSaved = {
 					["do_sound"] = false,
 				},
 			},
+			["cooldown"] = false,
+			["url"] = "https://wago.io/41diGTjPb/41",
+			["parent"] = "Resto Druid - Ablution -EU - BronzeDragonflight",
+			["auto"] = true,
+			["anchorFrameType"] = "SCREEN",
+			["zoom"] = 0,
+			["semver"] = "1.0.9",
+			["tocversion"] = 90001,
+			["id"] = "60 - T2 - Off CD - RestoD",
+			["alpha"] = 1,
+			["frameStrata"] = 1,
+			["width"] = 17,
+			["cooldownTextDisabled"] = false,
+			["config"] = {
+			},
+			["inverse"] = false,
+			["stickyDuration"] = false,
+			["conditions"] = {
+			},
+			["information"] = {
+				["ignoreOptionsEventErrors"] = true,
+			},
+			["selfPoint"] = "CENTER",
 		},
 		["Combo3 "] = {
 			["color"] = {
@@ -15134,7 +15253,7 @@ WeakAurasSaved = {
 				["disjunctive"] = "all",
 				["activeTriggerMode"] = -10,
 			},
-			["internalVersion"] = 39,
+			["internalVersion"] = 40,
 			["animation"] = {
 				["start"] = {
 					["colorR"] = 1,
@@ -15235,11 +15354,11 @@ WeakAurasSaved = {
 			["anchorFrameType"] = "SCREEN",
 			["texture"] = "Interface\\Addons\\WeakAuras\\PowerAurasMedia\\Auras\\Aura45",
 			["xOffset"] = -37,
-			["selfPoint"] = "CENTER",
+			["rotation"] = 0,
 			["semver"] = "1.0.9",
 			["tocversion"] = 90001,
 			["id"] = "Combo3 ",
-			["ignoreOptionsEventErrors"] = true,
+			["parent"] = "Resto Druid - Ablution -EU - BronzeDragonflight",
 			["frameStrata"] = 1,
 			["width"] = 40,
 			["config"] = {
@@ -15250,8 +15369,10 @@ WeakAurasSaved = {
 			["alpha"] = 1,
 			["conditions"] = {
 			},
-			["parent"] = "Resto Druid - Ablution -EU - BronzeDragonflight",
-			["rotation"] = 0,
+			["information"] = {
+				["ignoreOptionsEventErrors"] = true,
+			},
+			["selfPoint"] = "CENTER",
 		},
 		["Holy Word: Sanctify"] = {
 			["iconSource"] = -1,
@@ -15417,31 +15538,33 @@ WeakAurasSaved = {
 					},
 				},
 			},
-			["desaturate"] = false,
+			["parent"] = "Holy Left",
 			["regionType"] = "icon",
+			["desaturate"] = false,
+			["icon"] = true,
 			["authorOptions"] = {
 			},
-			["icon"] = true,
-			["parent"] = "Holy Left",
-			["internalVersion"] = 39,
-			["ignoreOptionsEventErrors"] = true,
-			["cooldownTextDisabled"] = false,
-			["zoom"] = 0,
-			["auto"] = true,
+			["cooldown"] = false,
+			["xOffset"] = 0,
 			["config"] = {
 			},
-			["id"] = "Holy Word: Sanctify",
+			["zoom"] = 0,
+			["auto"] = true,
 			["alpha"] = 1,
-			["frameStrata"] = 1,
+			["id"] = "Holy Word: Sanctify",
 			["width"] = 64,
+			["frameStrata"] = 1,
 			["anchorFrameType"] = "SCREEN",
+			["cooldownTextDisabled"] = false,
 			["uid"] = "uO6dKMqK9SZ",
 			["inverse"] = false,
-			["xOffset"] = 0,
+			["selfPoint"] = "CENTER",
 			["conditions"] = {
 			},
-			["cooldown"] = false,
-			["selfPoint"] = "CENTER",
+			["information"] = {
+				["ignoreOptionsEventErrors"] = true,
+			},
+			["internalVersion"] = 40,
 		},
 		["90 - T2 - Off CD - RestoD 3"] = {
 			["iconSource"] = -1,
@@ -15509,7 +15632,7 @@ WeakAurasSaved = {
 				}, -- [2]
 				["activeTriggerMode"] = 1,
 			},
-			["internalVersion"] = 39,
+			["internalVersion"] = 40,
 			["keepAspectRatio"] = false,
 			["animation"] = {
 				["start"] = {
@@ -15630,24 +15753,36 @@ WeakAurasSaved = {
 				},
 			},
 			["uid"] = "MWS)sCutpYA",
-			["zoom"] = 0,
-			["xOffset"] = -151,
-			["regionType"] = "icon",
-			["parent"] = "Resto Druid - Ablution -EU - BronzeDragonflight",
 			["authorOptions"] = {
 			},
-			["selfPoint"] = "CENTER",
+			["xOffset"] = -151,
+			["regionType"] = "icon",
+			["actions"] = {
+				["start"] = {
+					["do_glow"] = false,
+					["sound"] = "Interface\\AddOns\\WeakAuras\\Media\\Sounds\\BikeHorn.ogg",
+					["do_message"] = false,
+					["do_sound"] = false,
+				},
+				["init"] = {
+				},
+				["finish"] = {
+					["do_sound"] = false,
+				},
+			},
+			["cooldown"] = false,
 			["url"] = "https://wago.io/41diGTjPb/41",
-			["ignoreOptionsEventErrors"] = true,
+			["parent"] = "Resto Druid - Ablution -EU - BronzeDragonflight",
 			["auto"] = true,
-			["cooldownTextDisabled"] = false,
+			["anchorFrameType"] = "SCREEN",
+			["zoom"] = 0,
 			["semver"] = "1.0.9",
 			["tocversion"] = 90001,
 			["id"] = "90 - T2 - Off CD - RestoD 3",
-			["anchorFrameType"] = "SCREEN",
 			["alpha"] = 1,
-			["width"] = 40,
 			["frameStrata"] = 1,
+			["width"] = 40,
+			["cooldownTextDisabled"] = false,
 			["config"] = {
 			},
 			["inverse"] = false,
@@ -15668,20 +15803,10 @@ WeakAurasSaved = {
 					},
 				}, -- [1]
 			},
-			["cooldown"] = false,
-			["actions"] = {
-				["start"] = {
-					["do_glow"] = false,
-					["sound"] = "Interface\\AddOns\\WeakAuras\\Media\\Sounds\\BikeHorn.ogg",
-					["do_message"] = false,
-					["do_sound"] = false,
-				},
-				["init"] = {
-				},
-				["finish"] = {
-					["do_sound"] = false,
-				},
+			["information"] = {
+				["ignoreOptionsEventErrors"] = true,
 			},
+			["selfPoint"] = "CENTER",
 		},
 		["Details! Aura Group"] = {
 			["grow"] = "RIGHT",
@@ -15727,7 +15852,7 @@ WeakAurasSaved = {
 				["activeTriggerMode"] = 1,
 			},
 			["columnSpace"] = 1,
-			["internalVersion"] = 39,
+			["internalVersion"] = 40,
 			["selfPoint"] = "LEFT",
 			["align"] = "CENTER",
 			["stagger"] = 0,
@@ -15784,16 +15909,10 @@ WeakAurasSaved = {
 				1, -- [3]
 				0.5, -- [4]
 			},
-			["rowSpace"] = 1,
+			["arcLength"] = 360,
 			["animate"] = true,
 			["fullCircle"] = true,
 			["scale"] = 1,
-			["arcLength"] = 360,
-			["border"] = false,
-			["borderEdge"] = "1 Pixel",
-			["regionType"] = "dynamicgroup",
-			["borderSize"] = 2,
-			["limit"] = 5,
 			["animation"] = {
 				["start"] = {
 					["type"] = "none",
@@ -15814,6 +15933,12 @@ WeakAurasSaved = {
 					["easeType"] = "none",
 				},
 			},
+			["border"] = false,
+			["borderEdge"] = "1 Pixel",
+			["regionType"] = "dynamicgroup",
+			["borderSize"] = 2,
+			["limit"] = 5,
+			["radius"] = 200,
 			["authorOptions"] = {
 			},
 			["constantFactor"] = "RADIUS",
@@ -15829,11 +15954,13 @@ WeakAurasSaved = {
 			["useLimit"] = false,
 			["borderInset"] = 0,
 			["sort"] = "none",
-			["ignoreOptionsEventErrors"] = true,
+			["rotation"] = 0,
 			["conditions"] = {
 			},
-			["rotation"] = 0,
-			["radius"] = 200,
+			["information"] = {
+				["ignoreOptionsEventErrors"] = true,
+			},
+			["rowSpace"] = 1,
 		},
 		["30 - T2 - Off CD - RestoD"] = {
 			["iconSource"] = -1,
@@ -15886,7 +16013,7 @@ WeakAurasSaved = {
 				}, -- [1]
 				["activeTriggerMode"] = 1,
 			},
-			["internalVersion"] = 39,
+			["internalVersion"] = 40,
 			["keepAspectRatio"] = false,
 			["animation"] = {
 				["start"] = {
@@ -16008,31 +16135,10 @@ WeakAurasSaved = {
 				},
 			},
 			["uid"] = "YihPX6hkdzP",
-			["zoom"] = 0,
-			["xOffset"] = 230,
-			["regionType"] = "icon",
-			["parent"] = "Resto Druid - Ablution -EU - BronzeDragonflight",
 			["authorOptions"] = {
 			},
-			["selfPoint"] = "CENTER",
-			["url"] = "https://wago.io/41diGTjPb/41",
-			["ignoreOptionsEventErrors"] = true,
-			["auto"] = true,
-			["cooldownTextDisabled"] = false,
-			["semver"] = "1.0.9",
-			["tocversion"] = 90001,
-			["id"] = "30 - T2 - Off CD - RestoD",
-			["anchorFrameType"] = "SCREEN",
-			["alpha"] = 1,
-			["width"] = 40,
-			["frameStrata"] = 1,
-			["config"] = {
-			},
-			["inverse"] = false,
-			["stickyDuration"] = false,
-			["conditions"] = {
-			},
-			["cooldown"] = false,
+			["xOffset"] = 230,
+			["regionType"] = "icon",
 			["actions"] = {
 				["start"] = {
 					["do_glow"] = false,
@@ -16046,6 +16152,29 @@ WeakAurasSaved = {
 					["do_sound"] = false,
 				},
 			},
+			["cooldown"] = false,
+			["url"] = "https://wago.io/41diGTjPb/41",
+			["parent"] = "Resto Druid - Ablution -EU - BronzeDragonflight",
+			["auto"] = true,
+			["anchorFrameType"] = "SCREEN",
+			["zoom"] = 0,
+			["semver"] = "1.0.9",
+			["tocversion"] = 90001,
+			["id"] = "30 - T2 - Off CD - RestoD",
+			["alpha"] = 1,
+			["frameStrata"] = 1,
+			["width"] = 40,
+			["cooldownTextDisabled"] = false,
+			["config"] = {
+			},
+			["inverse"] = false,
+			["stickyDuration"] = false,
+			["conditions"] = {
+			},
+			["information"] = {
+				["ignoreOptionsEventErrors"] = true,
+			},
+			["selfPoint"] = "CENTER",
 		},
 		["Swiftmend - RestoD"] = {
 			["sparkWidth"] = 5,
@@ -16192,7 +16321,7 @@ WeakAurasSaved = {
 				["disjunctive"] = "all",
 				["activeTriggerMode"] = 1,
 			},
-			["internalVersion"] = 39,
+			["internalVersion"] = 40,
 			["advance"] = false,
 			["animation"] = {
 				["start"] = {
@@ -16344,14 +16473,14 @@ WeakAurasSaved = {
 				1, -- [4]
 			},
 			["uid"] = "S0g8Qw1o2GT",
-			["sparkTexture"] = "Interface\\CastingBar\\UI-CastingBar-Spark",
-			["zoom"] = 0,
+			["parent"] = "Resto Druid - Ablution -EU - BronzeDragonflight",
+			["selfPoint"] = "CENTER",
 			["useAdjustedMax"] = false,
+			["zoom"] = 0,
 			["authorOptions"] = {
 			},
 			["config"] = {
 			},
-			["useAdjustededMax"] = false,
 			["borderInFront"] = true,
 			["spark"] = false,
 			["icon_side"] = "LEFT",
@@ -16363,7 +16492,7 @@ WeakAurasSaved = {
 			},
 			["width"] = 167,
 			["sparkHeight"] = 50,
-			["ignoreOptionsEventErrors"] = true,
+			["sparkOffsetX"] = 0,
 			["actions"] = {
 				["start"] = {
 					["do_sound"] = false,
@@ -16374,22 +16503,24 @@ WeakAurasSaved = {
 					["do_sound"] = false,
 				},
 			},
-			["useAdjustedMin"] = false,
-			["semver"] = "1.0.9",
 			["sparkHidden"] = "NEVER",
+			["semver"] = "1.0.9",
+			["useAdjustedMin"] = false,
 			["id"] = "Swiftmend - RestoD",
 			["model_y"] = 0,
 			["frameStrata"] = 1,
 			["anchorFrameType"] = "SCREEN",
-			["sparkOffsetX"] = 0,
 			["customTextUpdate"] = "update",
+			["useAdjustededMax"] = false,
 			["inverse"] = false,
 			["sparkDesature"] = false,
 			["orientation"] = "HORIZONTAL_INVERSE",
 			["conditions"] = {
 			},
-			["selfPoint"] = "CENTER",
-			["parent"] = "Resto Druid - Ablution -EU - BronzeDragonflight",
+			["information"] = {
+				["ignoreOptionsEventErrors"] = true,
+			},
+			["sparkTexture"] = "Interface\\CastingBar\\UI-CastingBar-Spark",
 		},
 		["Ironbark - CD - RestoD"] = {
 			["iconSource"] = -1,
@@ -16445,7 +16576,7 @@ WeakAurasSaved = {
 				}, -- [1]
 				["activeTriggerMode"] = 1,
 			},
-			["internalVersion"] = 39,
+			["internalVersion"] = 40,
 			["keepAspectRatio"] = false,
 			["animation"] = {
 				["start"] = {
@@ -16565,31 +16696,10 @@ WeakAurasSaved = {
 				},
 			},
 			["uid"] = "6t5EFI4I1Sc",
-			["zoom"] = 0,
-			["xOffset"] = -108.39,
-			["regionType"] = "icon",
-			["parent"] = "Resto Druid - Ablution -EU - BronzeDragonflight",
 			["authorOptions"] = {
 			},
-			["selfPoint"] = "CENTER",
-			["url"] = "https://wago.io/41diGTjPb/41",
-			["ignoreOptionsEventErrors"] = true,
-			["auto"] = true,
-			["cooldownTextDisabled"] = false,
-			["semver"] = "1.0.9",
-			["tocversion"] = 90001,
-			["id"] = "Ironbark - CD - RestoD",
-			["anchorFrameType"] = "SCREEN",
-			["alpha"] = 1,
-			["width"] = 30,
-			["frameStrata"] = 1,
-			["config"] = {
-			},
-			["inverse"] = false,
-			["stickyDuration"] = false,
-			["conditions"] = {
-			},
-			["cooldown"] = false,
+			["xOffset"] = -108.39,
+			["regionType"] = "icon",
 			["actions"] = {
 				["start"] = {
 					["do_glow"] = false,
@@ -16603,6 +16713,29 @@ WeakAurasSaved = {
 					["do_sound"] = false,
 				},
 			},
+			["cooldown"] = false,
+			["url"] = "https://wago.io/41diGTjPb/41",
+			["parent"] = "Resto Druid - Ablution -EU - BronzeDragonflight",
+			["auto"] = true,
+			["anchorFrameType"] = "SCREEN",
+			["zoom"] = 0,
+			["semver"] = "1.0.9",
+			["tocversion"] = 90001,
+			["id"] = "Ironbark - CD - RestoD",
+			["alpha"] = 1,
+			["frameStrata"] = 1,
+			["width"] = 30,
+			["cooldownTextDisabled"] = false,
+			["config"] = {
+			},
+			["inverse"] = false,
+			["stickyDuration"] = false,
+			["conditions"] = {
+			},
+			["information"] = {
+				["ignoreOptionsEventErrors"] = true,
+			},
+			["selfPoint"] = "CENTER",
 		},
 		["90 - T2 - Off CD - RestoD 2"] = {
 			["iconSource"] = -1,
@@ -16670,7 +16803,7 @@ WeakAurasSaved = {
 				}, -- [2]
 				["activeTriggerMode"] = 1,
 			},
-			["internalVersion"] = 39,
+			["internalVersion"] = 40,
 			["keepAspectRatio"] = false,
 			["animation"] = {
 				["start"] = {
@@ -16807,20 +16940,20 @@ WeakAurasSaved = {
 				},
 			},
 			["regionType"] = "icon",
-			["xOffset"] = -151,
+			["cooldown"] = false,
 			["displayIcon"] = 306845,
 			["desaturate"] = false,
 			["url"] = "https://wago.io/41diGTjPb/41",
-			["ignoreOptionsEventErrors"] = true,
 			["width"] = 40,
-			["cooldownTextDisabled"] = false,
+			["frameStrata"] = 1,
+			["zoom"] = 0,
 			["auto"] = true,
 			["tocversion"] = 90001,
 			["id"] = "90 - T2 - Off CD - RestoD 2",
-			["frameStrata"] = 1,
+			["cooldownTextDisabled"] = false,
 			["alpha"] = 1,
 			["anchorFrameType"] = "SCREEN",
-			["zoom"] = 0,
+			["xOffset"] = -151,
 			["config"] = {
 			},
 			["inverse"] = false,
@@ -16841,7 +16974,9 @@ WeakAurasSaved = {
 					},
 				}, -- [1]
 			},
-			["cooldown"] = false,
+			["information"] = {
+				["ignoreOptionsEventErrors"] = true,
+			},
 			["authorOptions"] = {
 			},
 		},
@@ -16914,7 +17049,7 @@ WeakAurasSaved = {
 				["disjunctive"] = "all",
 				["activeTriggerMode"] = -10,
 			},
-			["internalVersion"] = 39,
+			["internalVersion"] = 40,
 			["animation"] = {
 				["start"] = {
 					["colorR"] = 1,
@@ -17015,11 +17150,11 @@ WeakAurasSaved = {
 			["anchorFrameType"] = "SCREEN",
 			["texture"] = "Interface\\Addons\\WeakAuras\\PowerAurasMedia\\Auras\\Aura45",
 			["xOffset"] = 17,
-			["selfPoint"] = "CENTER",
+			["rotation"] = 0,
 			["semver"] = "1.0.9",
 			["tocversion"] = 90001,
 			["id"] = "Combo5",
-			["ignoreOptionsEventErrors"] = true,
+			["parent"] = "Resto Druid - Ablution -EU - BronzeDragonflight",
 			["frameStrata"] = 1,
 			["width"] = 40,
 			["config"] = {
@@ -17030,8 +17165,10 @@ WeakAurasSaved = {
 			["alpha"] = 1,
 			["conditions"] = {
 			},
-			["parent"] = "Resto Druid - Ablution -EU - BronzeDragonflight",
-			["rotation"] = 0,
+			["information"] = {
+				["ignoreOptionsEventErrors"] = true,
+			},
+			["selfPoint"] = "CENTER",
 		},
 		["Light of T'uure < 2"] = {
 			["iconSource"] = -1,
@@ -17077,7 +17214,7 @@ WeakAurasSaved = {
 				["disjunctive"] = "all",
 				["activeTriggerMode"] = -10,
 			},
-			["internalVersion"] = 39,
+			["internalVersion"] = 40,
 			["keepAspectRatio"] = false,
 			["selfPoint"] = "CENTER",
 			["stickyDuration"] = false,
@@ -17167,11 +17304,6 @@ WeakAurasSaved = {
 					},
 				},
 			},
-			["parent"] = "Holy Left",
-			["regionType"] = "icon",
-			["authorOptions"] = {
-			},
-			["useTooltip"] = false,
 			["animation"] = {
 				["start"] = {
 					["type"] = "none",
@@ -17194,6 +17326,36 @@ WeakAurasSaved = {
 					["easeType"] = "none",
 				},
 			},
+			["regionType"] = "icon",
+			["parent"] = "Holy Left",
+			["useTooltip"] = false,
+			["authorOptions"] = {
+			},
+			["cooldown"] = true,
+			["color"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				0.680722117424011, -- [4]
+			},
+			["config"] = {
+			},
+			["zoom"] = 0,
+			["auto"] = true,
+			["alpha"] = 1,
+			["id"] = "Light of T'uure < 2",
+			["width"] = 64,
+			["frameStrata"] = 1,
+			["anchorFrameType"] = "SCREEN",
+			["cooldownTextDisabled"] = false,
+			["uid"] = "M(HUN74QsLx",
+			["inverse"] = false,
+			["desaturate"] = false,
+			["conditions"] = {
+			},
+			["information"] = {
+				["ignoreOptionsEventErrors"] = true,
+			},
 			["actions"] = {
 				["start"] = {
 				},
@@ -17202,29 +17364,6 @@ WeakAurasSaved = {
 				["init"] = {
 				},
 			},
-			["ignoreOptionsEventErrors"] = true,
-			["cooldownTextDisabled"] = false,
-			["zoom"] = 0,
-			["auto"] = true,
-			["config"] = {
-			},
-			["id"] = "Light of T'uure < 2",
-			["alpha"] = 1,
-			["frameStrata"] = 1,
-			["width"] = 64,
-			["anchorFrameType"] = "SCREEN",
-			["uid"] = "M(HUN74QsLx",
-			["inverse"] = false,
-			["color"] = {
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-				0.680722117424011, -- [4]
-			},
-			["conditions"] = {
-			},
-			["cooldown"] = true,
-			["desaturate"] = false,
 		},
 		["Efflorescence not down - RestoD"] = {
 			["iconSource"] = -1,
@@ -17281,7 +17420,7 @@ WeakAurasSaved = {
 				}, -- [1]
 				["activeTriggerMode"] = 1,
 			},
-			["internalVersion"] = 39,
+			["internalVersion"] = 40,
 			["keepAspectRatio"] = false,
 			["animation"] = {
 				["start"] = {
@@ -17401,31 +17540,10 @@ WeakAurasSaved = {
 				},
 			},
 			["uid"] = "o(O3I3vC77e",
-			["zoom"] = 0,
-			["xOffset"] = 18,
-			["regionType"] = "icon",
-			["parent"] = "Resto Druid - Ablution -EU - BronzeDragonflight",
 			["authorOptions"] = {
 			},
-			["selfPoint"] = "CENTER",
-			["url"] = "https://wago.io/41diGTjPb/41",
-			["ignoreOptionsEventErrors"] = true,
-			["auto"] = true,
-			["cooldownTextDisabled"] = false,
-			["semver"] = "1.0.9",
-			["tocversion"] = 90001,
-			["id"] = "Efflorescence not down - RestoD",
-			["anchorFrameType"] = "SCREEN",
-			["alpha"] = 1,
-			["width"] = 30,
-			["frameStrata"] = 3,
-			["config"] = {
-			},
-			["inverse"] = false,
-			["stickyDuration"] = false,
-			["conditions"] = {
-			},
-			["cooldown"] = false,
+			["xOffset"] = 18,
+			["regionType"] = "icon",
 			["actions"] = {
 				["start"] = {
 					["do_glow"] = false,
@@ -17439,6 +17557,29 @@ WeakAurasSaved = {
 					["do_sound"] = false,
 				},
 			},
+			["cooldown"] = false,
+			["url"] = "https://wago.io/41diGTjPb/41",
+			["parent"] = "Resto Druid - Ablution -EU - BronzeDragonflight",
+			["auto"] = true,
+			["anchorFrameType"] = "SCREEN",
+			["zoom"] = 0,
+			["semver"] = "1.0.9",
+			["tocversion"] = 90001,
+			["id"] = "Efflorescence not down - RestoD",
+			["alpha"] = 1,
+			["frameStrata"] = 3,
+			["width"] = 30,
+			["cooldownTextDisabled"] = false,
+			["config"] = {
+			},
+			["inverse"] = false,
+			["stickyDuration"] = false,
+			["conditions"] = {
+			},
+			["information"] = {
+				["ignoreOptionsEventErrors"] = true,
+			},
+			["selfPoint"] = "CENTER",
 		},
 		["15 - T1 - Active counter - RestoD"] = {
 			["iconSource"] = -1,
@@ -17512,7 +17653,7 @@ WeakAurasSaved = {
 				}, -- [2]
 				["activeTriggerMode"] = 1,
 			},
-			["internalVersion"] = 39,
+			["internalVersion"] = 40,
 			["keepAspectRatio"] = false,
 			["animation"] = {
 				["start"] = {
@@ -17631,31 +17772,10 @@ WeakAurasSaved = {
 				},
 			},
 			["uid"] = "e6J91A7bJx5",
-			["zoom"] = 0,
-			["xOffset"] = 103,
-			["regionType"] = "icon",
-			["parent"] = "Resto Druid - Ablution -EU - BronzeDragonflight",
 			["authorOptions"] = {
 			},
-			["selfPoint"] = "CENTER",
-			["url"] = "https://wago.io/41diGTjPb/41",
-			["ignoreOptionsEventErrors"] = true,
-			["auto"] = true,
-			["cooldownTextDisabled"] = false,
-			["semver"] = "1.0.9",
-			["tocversion"] = 90001,
-			["id"] = "15 - T1 - Active counter - RestoD",
-			["anchorFrameType"] = "SCREEN",
-			["alpha"] = 1,
-			["width"] = 40,
-			["frameStrata"] = 1,
-			["config"] = {
-			},
-			["inverse"] = false,
-			["stickyDuration"] = false,
-			["conditions"] = {
-			},
-			["cooldown"] = false,
+			["xOffset"] = 103,
+			["regionType"] = "icon",
 			["actions"] = {
 				["start"] = {
 					["do_glow"] = false,
@@ -17669,6 +17789,29 @@ WeakAurasSaved = {
 					["do_sound"] = false,
 				},
 			},
+			["cooldown"] = false,
+			["url"] = "https://wago.io/41diGTjPb/41",
+			["parent"] = "Resto Druid - Ablution -EU - BronzeDragonflight",
+			["auto"] = true,
+			["anchorFrameType"] = "SCREEN",
+			["zoom"] = 0,
+			["semver"] = "1.0.9",
+			["tocversion"] = 90001,
+			["id"] = "15 - T1 - Active counter - RestoD",
+			["alpha"] = 1,
+			["frameStrata"] = 1,
+			["width"] = 40,
+			["cooldownTextDisabled"] = false,
+			["config"] = {
+			},
+			["inverse"] = false,
+			["stickyDuration"] = false,
+			["conditions"] = {
+			},
+			["information"] = {
+				["ignoreOptionsEventErrors"] = true,
+			},
+			["selfPoint"] = "CENTER",
 		},
 		["Rebirth- CD - RestoD"] = {
 			["iconSource"] = -1,
@@ -17726,7 +17869,7 @@ WeakAurasSaved = {
 				}, -- [1]
 				["activeTriggerMode"] = 1,
 			},
-			["internalVersion"] = 39,
+			["internalVersion"] = 40,
 			["keepAspectRatio"] = false,
 			["animation"] = {
 				["start"] = {
@@ -17848,31 +17991,10 @@ WeakAurasSaved = {
 				},
 			},
 			["uid"] = "e(6r3xQXSds",
-			["zoom"] = 0,
-			["xOffset"] = 230,
-			["regionType"] = "icon",
-			["parent"] = "Resto Druid - Ablution -EU - BronzeDragonflight",
 			["authorOptions"] = {
 			},
-			["selfPoint"] = "CENTER",
-			["url"] = "https://wago.io/41diGTjPb/41",
-			["ignoreOptionsEventErrors"] = true,
-			["auto"] = true,
-			["cooldownTextDisabled"] = false,
-			["semver"] = "1.0.9",
-			["tocversion"] = 90001,
-			["id"] = "Rebirth- CD - RestoD",
-			["anchorFrameType"] = "SCREEN",
-			["alpha"] = 1,
-			["width"] = 30,
-			["frameStrata"] = 3,
-			["config"] = {
-			},
-			["inverse"] = false,
-			["stickyDuration"] = false,
-			["conditions"] = {
-			},
-			["cooldown"] = false,
+			["xOffset"] = 230,
+			["regionType"] = "icon",
 			["actions"] = {
 				["start"] = {
 					["do_glow"] = false,
@@ -17886,6 +18008,29 @@ WeakAurasSaved = {
 					["do_sound"] = false,
 				},
 			},
+			["cooldown"] = false,
+			["url"] = "https://wago.io/41diGTjPb/41",
+			["parent"] = "Resto Druid - Ablution -EU - BronzeDragonflight",
+			["auto"] = true,
+			["anchorFrameType"] = "SCREEN",
+			["zoom"] = 0,
+			["semver"] = "1.0.9",
+			["tocversion"] = 90001,
+			["id"] = "Rebirth- CD - RestoD",
+			["alpha"] = 1,
+			["frameStrata"] = 3,
+			["width"] = 30,
+			["cooldownTextDisabled"] = false,
+			["config"] = {
+			},
+			["inverse"] = false,
+			["stickyDuration"] = false,
+			["conditions"] = {
+			},
+			["information"] = {
+				["ignoreOptionsEventErrors"] = true,
+			},
+			["selfPoint"] = "CENTER",
 		},
 		["Holy Word: Serenity CD"] = {
 			["iconSource"] = -1,
@@ -18025,8 +18170,15 @@ WeakAurasSaved = {
 					},
 				},
 			},
-			["icon"] = true,
+			["stickyDuration"] = false,
 			["regionType"] = "icon",
+			["icon"] = true,
+			["color"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				0.680722117424011, -- [4]
+			},
 			["animation"] = {
 				["start"] = {
 					["type"] = "none",
@@ -18047,33 +18199,28 @@ WeakAurasSaved = {
 					["easeType"] = "none",
 				},
 			},
-			["color"] = {
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-				0.680722117424011, -- [4]
-			},
-			["stickyDuration"] = false,
-			["xOffset"] = 0,
-			["ignoreOptionsEventErrors"] = true,
-			["cooldownTextDisabled"] = false,
-			["zoom"] = 0,
-			["auto"] = true,
-			["config"] = {
-			},
-			["id"] = "Holy Word: Serenity CD",
-			["frameStrata"] = 1,
-			["alpha"] = 1,
-			["anchorFrameType"] = "SCREEN",
-			["width"] = 64,
-			["uid"] = "KWhWfOAzWRy",
-			["inverse"] = false,
+			["cooldown"] = true,
 			["authorOptions"] = {
 			},
+			["config"] = {
+			},
+			["zoom"] = 0,
+			["auto"] = true,
+			["frameStrata"] = 1,
+			["id"] = "Holy Word: Serenity CD",
+			["anchorFrameType"] = "SCREEN",
+			["alpha"] = 1,
+			["width"] = 64,
+			["cooldownTextDisabled"] = false,
+			["uid"] = "KWhWfOAzWRy",
+			["inverse"] = false,
+			["internalVersion"] = 40,
 			["conditions"] = {
 			},
-			["cooldown"] = true,
-			["internalVersion"] = 39,
+			["information"] = {
+				["ignoreOptionsEventErrors"] = true,
+			},
+			["xOffset"] = 0,
 		},
 		["Ironbark running on target - RestoD"] = {
 			["modelIsUnit"] = false,
@@ -18145,7 +18292,7 @@ WeakAurasSaved = {
 				}, -- [1]
 				["activeTriggerMode"] = 1,
 			},
-			["internalVersion"] = 39,
+			["internalVersion"] = 40,
 			["model_fileId"] = "343627",
 			["selfPoint"] = "CENTER",
 			["model_st_ty"] = 0,
@@ -18155,7 +18302,7 @@ WeakAurasSaved = {
 			["config"] = {
 			},
 			["height"] = 100,
-			["model_path"] = "creature/bear/spectralbear.m2",
+			["advance"] = false,
 			["load"] = {
 				["ingroup"] = {
 					["multi"] = {
@@ -18207,17 +18354,37 @@ WeakAurasSaved = {
 					},
 				},
 			},
-			["borderInset"] = 11,
+			["model_path"] = "creature/bear/spectralbear.m2",
 			["backdropColor"] = {
 				1, -- [1]
 				1, -- [2]
 				1, -- [3]
 				0.5, -- [4]
 			},
-			["advance"] = false,
+			["model_st_tz"] = 0,
 			["sequence"] = 1,
-			["model_st_tx"] = 0,
+			["borderInset"] = 11,
 			["scale"] = 1,
+			["parent"] = "Resto Druid - Ablution -EU - BronzeDragonflight",
+			["border"] = false,
+			["borderEdge"] = "None",
+			["regionType"] = "model",
+			["borderSize"] = 16,
+			["model_st_us"] = 40,
+			["authorOptions"] = {
+			},
+			["model_st_rz"] = 0,
+			["width"] = 100,
+			["frameStrata"] = 4,
+			["borderOffset"] = 5,
+			["semver"] = "1.0.9",
+			["tocversion"] = 90001,
+			["id"] = "Ironbark running on target - RestoD",
+			["model_y"] = 0,
+			["model_st_rx"] = 270,
+			["anchorFrameType"] = "SCREEN",
+			["model_z"] = -0.75,
+			["uid"] = "WMOGEn9xDmS",
 			["animation"] = {
 				["start"] = {
 					["type"] = "preset",
@@ -18239,31 +18406,13 @@ WeakAurasSaved = {
 					["easeType"] = "none",
 				},
 			},
-			["border"] = false,
-			["borderEdge"] = "None",
-			["regionType"] = "model",
-			["borderSize"] = 16,
-			["model_st_us"] = 40,
-			["authorOptions"] = {
-			},
-			["model_st_rz"] = 0,
-			["ignoreOptionsEventErrors"] = true,
-			["width"] = 100,
-			["borderOffset"] = 5,
-			["semver"] = "1.0.9",
-			["tocversion"] = 90001,
-			["id"] = "Ironbark running on target - RestoD",
-			["model_y"] = 0,
-			["frameStrata"] = 4,
-			["anchorFrameType"] = "SCREEN",
-			["model_st_rx"] = 270,
-			["uid"] = "WMOGEn9xDmS",
-			["model_z"] = -0.75,
 			["modelDisplayInfo"] = false,
 			["conditions"] = {
 			},
-			["model_st_tz"] = 0,
-			["parent"] = "Resto Druid - Ablution -EU - BronzeDragonflight",
+			["information"] = {
+				["ignoreOptionsEventErrors"] = true,
+			},
+			["model_st_tx"] = 0,
 		},
 		["100 - T2 - Pasive - RestoD"] = {
 			["iconSource"] = -1,
@@ -18330,7 +18479,7 @@ WeakAurasSaved = {
 				}, -- [2]
 				["activeTriggerMode"] = 1,
 			},
-			["internalVersion"] = 39,
+			["internalVersion"] = 40,
 			["keepAspectRatio"] = false,
 			["animation"] = {
 				["start"] = {
@@ -18465,27 +18614,29 @@ WeakAurasSaved = {
 				},
 			},
 			["regionType"] = "icon",
-			["xOffset"] = 146,
+			["cooldown"] = false,
 			["displayIcon"] = 1033478,
 			["desaturate"] = false,
 			["url"] = "https://wago.io/41diGTjPb/41",
-			["ignoreOptionsEventErrors"] = true,
 			["width"] = 40,
-			["cooldownTextDisabled"] = false,
+			["frameStrata"] = 1,
+			["zoom"] = 0,
 			["auto"] = true,
 			["tocversion"] = 90001,
 			["id"] = "100 - T2 - Pasive - RestoD",
-			["frameStrata"] = 1,
+			["cooldownTextDisabled"] = false,
 			["alpha"] = 1,
 			["anchorFrameType"] = "SCREEN",
-			["zoom"] = 0,
+			["xOffset"] = 146,
 			["config"] = {
 			},
 			["inverse"] = false,
 			["parent"] = "Resto Druid - Ablution -EU - BronzeDragonflight",
 			["conditions"] = {
 			},
-			["cooldown"] = false,
+			["information"] = {
+				["ignoreOptionsEventErrors"] = true,
+			},
 			["authorOptions"] = {
 			},
 		},
@@ -18550,7 +18701,7 @@ WeakAurasSaved = {
 				}, -- [1]
 				["activeTriggerMode"] = 1,
 			},
-			["internalVersion"] = 39,
+			["internalVersion"] = 40,
 			["keepAspectRatio"] = false,
 			["animation"] = {
 				["start"] = {
@@ -18692,27 +18843,29 @@ WeakAurasSaved = {
 				},
 			},
 			["regionType"] = "icon",
-			["xOffset"] = -151,
+			["cooldown"] = false,
 			["displayIcon"] = 236160,
 			["desaturate"] = true,
 			["url"] = "https://wago.io/41diGTjPb/41",
-			["ignoreOptionsEventErrors"] = true,
 			["width"] = 30,
-			["cooldownTextDisabled"] = false,
+			["frameStrata"] = 3,
+			["zoom"] = 0,
 			["auto"] = true,
 			["tocversion"] = 90001,
 			["id"] = "75 - T1 - Pasive active - RestoD",
-			["frameStrata"] = 3,
+			["cooldownTextDisabled"] = false,
 			["alpha"] = 1,
 			["anchorFrameType"] = "SCREEN",
-			["zoom"] = 0,
+			["xOffset"] = -151,
 			["config"] = {
 			},
 			["inverse"] = false,
 			["parent"] = "Resto Druid - Ablution -EU - BronzeDragonflight",
 			["conditions"] = {
 			},
-			["cooldown"] = false,
+			["information"] = {
+				["ignoreOptionsEventErrors"] = true,
+			},
 			["authorOptions"] = {
 			},
 		},
@@ -18782,7 +18935,7 @@ WeakAurasSaved = {
 				}, -- [2]
 				["activeTriggerMode"] = 1,
 			},
-			["internalVersion"] = 39,
+			["internalVersion"] = 40,
 			["keepAspectRatio"] = false,
 			["animation"] = {
 				["start"] = {
@@ -18898,24 +19051,36 @@ WeakAurasSaved = {
 				},
 			},
 			["uid"] = "zFWfTJqdsTU",
-			["zoom"] = 0,
-			["xOffset"] = -108.39,
-			["regionType"] = "icon",
-			["parent"] = "Resto Druid - Ablution -EU - BronzeDragonflight",
 			["authorOptions"] = {
 			},
-			["selfPoint"] = "CENTER",
+			["xOffset"] = -108.39,
+			["regionType"] = "icon",
+			["actions"] = {
+				["start"] = {
+					["do_glow"] = false,
+					["sound"] = "Interface\\AddOns\\WeakAuras\\Media\\Sounds\\BikeHorn.ogg",
+					["do_message"] = false,
+					["do_sound"] = false,
+				},
+				["init"] = {
+				},
+				["finish"] = {
+					["do_sound"] = false,
+				},
+			},
+			["cooldown"] = false,
 			["url"] = "https://wago.io/41diGTjPb/41",
-			["ignoreOptionsEventErrors"] = true,
+			["parent"] = "Resto Druid - Ablution -EU - BronzeDragonflight",
 			["auto"] = true,
-			["cooldownTextDisabled"] = false,
+			["anchorFrameType"] = "SCREEN",
+			["zoom"] = 0,
 			["semver"] = "1.0.9",
 			["tocversion"] = 90001,
 			["id"] = "Ironbark - Off CD - RestoD",
-			["anchorFrameType"] = "SCREEN",
 			["alpha"] = 1,
-			["width"] = 40,
 			["frameStrata"] = 1,
+			["width"] = 40,
+			["cooldownTextDisabled"] = false,
 			["config"] = {
 			},
 			["inverse"] = false,
@@ -18936,20 +19101,10 @@ WeakAurasSaved = {
 					},
 				}, -- [1]
 			},
-			["cooldown"] = false,
-			["actions"] = {
-				["start"] = {
-					["do_glow"] = false,
-					["sound"] = "Interface\\AddOns\\WeakAuras\\Media\\Sounds\\BikeHorn.ogg",
-					["do_message"] = false,
-					["do_sound"] = false,
-				},
-				["init"] = {
-				},
-				["finish"] = {
-					["do_sound"] = false,
-				},
+			["information"] = {
+				["ignoreOptionsEventErrors"] = true,
 			},
+			["selfPoint"] = "CENTER",
 		},
 		["30 - T2 - CD - RestoD"] = {
 			["iconSource"] = -1,
@@ -19005,7 +19160,7 @@ WeakAurasSaved = {
 				}, -- [1]
 				["activeTriggerMode"] = 1,
 			},
-			["internalVersion"] = 39,
+			["internalVersion"] = 40,
 			["keepAspectRatio"] = false,
 			["animation"] = {
 				["start"] = {
@@ -19130,31 +19285,10 @@ WeakAurasSaved = {
 				},
 			},
 			["uid"] = "WCCr7djWbl7",
-			["zoom"] = 0,
-			["xOffset"] = 230,
-			["regionType"] = "icon",
-			["parent"] = "Resto Druid - Ablution -EU - BronzeDragonflight",
 			["authorOptions"] = {
 			},
-			["selfPoint"] = "CENTER",
-			["url"] = "https://wago.io/41diGTjPb/41",
-			["ignoreOptionsEventErrors"] = true,
-			["auto"] = true,
-			["cooldownTextDisabled"] = false,
-			["semver"] = "1.0.9",
-			["tocversion"] = 90001,
-			["id"] = "30 - T2 - CD - RestoD",
-			["anchorFrameType"] = "SCREEN",
-			["alpha"] = 1,
-			["width"] = 40,
-			["frameStrata"] = 1,
-			["config"] = {
-			},
-			["inverse"] = false,
-			["stickyDuration"] = false,
-			["conditions"] = {
-			},
-			["cooldown"] = false,
+			["xOffset"] = 230,
+			["regionType"] = "icon",
 			["actions"] = {
 				["start"] = {
 					["do_glow"] = false,
@@ -19168,6 +19302,29 @@ WeakAurasSaved = {
 					["do_sound"] = false,
 				},
 			},
+			["cooldown"] = false,
+			["url"] = "https://wago.io/41diGTjPb/41",
+			["parent"] = "Resto Druid - Ablution -EU - BronzeDragonflight",
+			["auto"] = true,
+			["anchorFrameType"] = "SCREEN",
+			["zoom"] = 0,
+			["semver"] = "1.0.9",
+			["tocversion"] = 90001,
+			["id"] = "30 - T2 - CD - RestoD",
+			["alpha"] = 1,
+			["frameStrata"] = 1,
+			["width"] = 40,
+			["cooldownTextDisabled"] = false,
+			["config"] = {
+			},
+			["inverse"] = false,
+			["stickyDuration"] = false,
+			["conditions"] = {
+			},
+			["information"] = {
+				["ignoreOptionsEventErrors"] = true,
+			},
+			["selfPoint"] = "CENTER",
 		},
 		["Tranquility - OFF CD - RestoD"] = {
 			["iconSource"] = -1,
@@ -19236,7 +19393,7 @@ WeakAurasSaved = {
 				}, -- [2]
 				["activeTriggerMode"] = 1,
 			},
-			["internalVersion"] = 39,
+			["internalVersion"] = 40,
 			["keepAspectRatio"] = false,
 			["animation"] = {
 				["start"] = {
@@ -19355,24 +19512,36 @@ WeakAurasSaved = {
 				},
 			},
 			["uid"] = "7rEdaggpU9f",
-			["zoom"] = 0,
-			["xOffset"] = 187.65771484375,
-			["regionType"] = "icon",
-			["parent"] = "Resto Druid - Ablution -EU - BronzeDragonflight",
 			["authorOptions"] = {
 			},
-			["selfPoint"] = "CENTER",
+			["xOffset"] = 187.65771484375,
+			["regionType"] = "icon",
+			["actions"] = {
+				["start"] = {
+					["do_glow"] = false,
+					["sound"] = "Interface\\AddOns\\WeakAuras\\Media\\Sounds\\BikeHorn.ogg",
+					["do_message"] = false,
+					["do_sound"] = false,
+				},
+				["init"] = {
+				},
+				["finish"] = {
+					["do_sound"] = false,
+				},
+			},
+			["cooldown"] = false,
 			["url"] = "https://wago.io/41diGTjPb/41",
-			["ignoreOptionsEventErrors"] = true,
+			["parent"] = "Resto Druid - Ablution -EU - BronzeDragonflight",
 			["auto"] = true,
-			["cooldownTextDisabled"] = false,
+			["anchorFrameType"] = "SCREEN",
+			["zoom"] = 0,
 			["semver"] = "1.0.9",
 			["tocversion"] = 90001,
 			["id"] = "Tranquility - OFF CD - RestoD",
-			["anchorFrameType"] = "SCREEN",
 			["alpha"] = 1,
-			["width"] = 40,
 			["frameStrata"] = 1,
+			["width"] = 40,
+			["cooldownTextDisabled"] = false,
 			["config"] = {
 			},
 			["inverse"] = false,
@@ -19393,20 +19562,10 @@ WeakAurasSaved = {
 					},
 				}, -- [1]
 			},
-			["cooldown"] = false,
-			["actions"] = {
-				["start"] = {
-					["do_glow"] = false,
-					["sound"] = "Interface\\AddOns\\WeakAuras\\Media\\Sounds\\BikeHorn.ogg",
-					["do_message"] = false,
-					["do_sound"] = false,
-				},
-				["init"] = {
-				},
-				["finish"] = {
-					["do_sound"] = false,
-				},
+			["information"] = {
+				["ignoreOptionsEventErrors"] = true,
 			},
+			["selfPoint"] = "CENTER",
 		},
 		["Holy Word: Sanctify CD"] = {
 			["iconSource"] = -1,
@@ -19456,7 +19615,7 @@ WeakAurasSaved = {
 				["disjunctive"] = "all",
 				["activeTriggerMode"] = -10,
 			},
-			["internalVersion"] = 39,
+			["internalVersion"] = 40,
 			["keepAspectRatio"] = false,
 			["animation"] = {
 				["start"] = {
@@ -19565,36 +19724,38 @@ WeakAurasSaved = {
 					},
 				},
 			},
-			["useTooltip"] = false,
-			["regionType"] = "icon",
-			["icon"] = true,
-			["desaturate"] = true,
 			["color"] = {
 				1, -- [1]
 				1, -- [2]
 				1, -- [3]
 				0.680722117424011, -- [4]
 			},
-			["selfPoint"] = "CENTER",
-			["ignoreOptionsEventErrors"] = true,
-			["cooldownTextDisabled"] = false,
-			["zoom"] = 0,
-			["auto"] = true,
+			["regionType"] = "icon",
+			["useTooltip"] = false,
+			["desaturate"] = true,
+			["icon"] = true,
+			["cooldown"] = true,
+			["xOffset"] = 0,
 			["config"] = {
 			},
-			["id"] = "Holy Word: Sanctify CD",
-			["anchorFrameType"] = "SCREEN",
-			["frameStrata"] = 1,
-			["width"] = 64,
+			["zoom"] = 0,
+			["auto"] = true,
 			["alpha"] = 1,
+			["id"] = "Holy Word: Sanctify CD",
+			["width"] = 64,
+			["frameStrata"] = 1,
+			["anchorFrameType"] = "SCREEN",
+			["cooldownTextDisabled"] = false,
 			["uid"] = "LuHYhC(8)LJ",
 			["inverse"] = false,
-			["xOffset"] = 0,
-			["conditions"] = {
-			},
-			["cooldown"] = true,
 			["authorOptions"] = {
 			},
+			["conditions"] = {
+			},
+			["information"] = {
+				["ignoreOptionsEventErrors"] = true,
+			},
+			["selfPoint"] = "CENTER",
 		},
 		["dps9"] = {
 			["iconSource"] = -1,
@@ -19651,7 +19812,7 @@ WeakAurasSaved = {
 				}, -- [1]
 				["activeTriggerMode"] = 1,
 			},
-			["internalVersion"] = 39,
+			["internalVersion"] = 40,
 			["keepAspectRatio"] = false,
 			["animation"] = {
 				["start"] = {
@@ -19771,31 +19932,10 @@ WeakAurasSaved = {
 				},
 			},
 			["uid"] = "yNKjelKJEUT",
-			["zoom"] = 0,
-			["xOffset"] = 145,
-			["regionType"] = "icon",
-			["parent"] = "Resto Druid - Ablution -EU - BronzeDragonflight",
 			["authorOptions"] = {
 			},
-			["selfPoint"] = "CENTER",
-			["url"] = "https://wago.io/41diGTjPb/41",
-			["ignoreOptionsEventErrors"] = true,
-			["auto"] = true,
-			["cooldownTextDisabled"] = false,
-			["semver"] = "1.0.9",
-			["tocversion"] = 90001,
-			["id"] = "dps9",
-			["anchorFrameType"] = "SCREEN",
-			["alpha"] = 1,
-			["width"] = 30,
-			["frameStrata"] = 1,
-			["config"] = {
-			},
-			["inverse"] = false,
-			["stickyDuration"] = false,
-			["conditions"] = {
-			},
-			["cooldown"] = false,
+			["xOffset"] = 145,
+			["regionType"] = "icon",
 			["actions"] = {
 				["start"] = {
 					["do_glow"] = false,
@@ -19808,6 +19948,29 @@ WeakAurasSaved = {
 				["finish"] = {
 				},
 			},
+			["cooldown"] = false,
+			["url"] = "https://wago.io/41diGTjPb/41",
+			["parent"] = "Resto Druid - Ablution -EU - BronzeDragonflight",
+			["auto"] = true,
+			["anchorFrameType"] = "SCREEN",
+			["zoom"] = 0,
+			["semver"] = "1.0.9",
+			["tocversion"] = 90001,
+			["id"] = "dps9",
+			["alpha"] = 1,
+			["frameStrata"] = 1,
+			["width"] = 30,
+			["cooldownTextDisabled"] = false,
+			["config"] = {
+			},
+			["inverse"] = false,
+			["stickyDuration"] = false,
+			["conditions"] = {
+			},
+			["information"] = {
+				["ignoreOptionsEventErrors"] = true,
+			},
+			["selfPoint"] = "CENTER",
 		},
 		["60 - T2 - CD - RestoD"] = {
 			["iconSource"] = -1,
@@ -19863,7 +20026,7 @@ WeakAurasSaved = {
 				}, -- [1]
 				["activeTriggerMode"] = 1,
 			},
-			["internalVersion"] = 39,
+			["internalVersion"] = 40,
 			["keepAspectRatio"] = false,
 			["animation"] = {
 				["start"] = {
@@ -19988,31 +20151,10 @@ WeakAurasSaved = {
 				},
 			},
 			["uid"] = "4B0NTJq5KVJ",
-			["zoom"] = 0,
-			["xOffset"] = 240,
-			["regionType"] = "icon",
-			["parent"] = "Resto Druid - Ablution -EU - BronzeDragonflight",
 			["authorOptions"] = {
 			},
-			["selfPoint"] = "CENTER",
-			["url"] = "https://wago.io/41diGTjPb/41",
-			["ignoreOptionsEventErrors"] = true,
-			["auto"] = true,
-			["cooldownTextDisabled"] = false,
-			["semver"] = "1.0.9",
-			["tocversion"] = 90001,
-			["id"] = "60 - T2 - CD - RestoD",
-			["anchorFrameType"] = "SCREEN",
-			["alpha"] = 1,
-			["width"] = 17,
-			["frameStrata"] = 1,
-			["config"] = {
-			},
-			["inverse"] = false,
-			["stickyDuration"] = false,
-			["conditions"] = {
-			},
-			["cooldown"] = false,
+			["xOffset"] = 240,
+			["regionType"] = "icon",
 			["actions"] = {
 				["start"] = {
 					["do_glow"] = false,
@@ -20026,6 +20168,29 @@ WeakAurasSaved = {
 					["do_sound"] = false,
 				},
 			},
+			["cooldown"] = false,
+			["url"] = "https://wago.io/41diGTjPb/41",
+			["parent"] = "Resto Druid - Ablution -EU - BronzeDragonflight",
+			["auto"] = true,
+			["anchorFrameType"] = "SCREEN",
+			["zoom"] = 0,
+			["semver"] = "1.0.9",
+			["tocversion"] = 90001,
+			["id"] = "60 - T2 - CD - RestoD",
+			["alpha"] = 1,
+			["frameStrata"] = 1,
+			["width"] = 17,
+			["cooldownTextDisabled"] = false,
+			["config"] = {
+			},
+			["inverse"] = false,
+			["stickyDuration"] = false,
+			["conditions"] = {
+			},
+			["information"] = {
+				["ignoreOptionsEventErrors"] = true,
+			},
+			["selfPoint"] = "CENTER",
 		},
 		["Summon Confirm+Accepted"] = {
 			["outline"] = "OUTLINE",
@@ -20253,7 +20418,7 @@ WeakAurasSaved = {
 				["disjunctive"] = "all",
 				["activeTriggerMode"] = 1,
 			},
-			["internalVersion"] = 39,
+			["internalVersion"] = 40,
 			["keepAspectRatio"] = false,
 			["animation"] = {
 				["start"] = {
@@ -20374,24 +20539,36 @@ WeakAurasSaved = {
 				},
 			},
 			["uid"] = "kEV9yoDGDQW",
-			["zoom"] = 0,
-			["xOffset"] = 103,
-			["regionType"] = "icon",
-			["parent"] = "Resto Druid - Ablution -EU - BronzeDragonflight",
 			["authorOptions"] = {
 			},
-			["selfPoint"] = "CENTER",
+			["xOffset"] = 103,
+			["regionType"] = "icon",
+			["actions"] = {
+				["start"] = {
+					["do_glow"] = false,
+					["sound"] = "Interface\\AddOns\\WeakAuras\\Media\\Sounds\\Shotgun.ogg",
+					["do_message"] = false,
+					["do_sound"] = false,
+				},
+				["init"] = {
+				},
+				["finish"] = {
+					["do_sound"] = false,
+				},
+			},
+			["cooldown"] = false,
 			["url"] = "https://wago.io/41diGTjPb/41",
-			["ignoreOptionsEventErrors"] = true,
+			["parent"] = "Resto Druid - Ablution -EU - BronzeDragonflight",
 			["auto"] = true,
-			["cooldownTextDisabled"] = false,
+			["anchorFrameType"] = "SCREEN",
+			["zoom"] = 0,
 			["semver"] = "1.0.9",
 			["tocversion"] = 90001,
 			["id"] = "15 - T2 - Off CD - RestoD",
-			["anchorFrameType"] = "SCREEN",
 			["alpha"] = 1,
-			["width"] = 40,
 			["frameStrata"] = 1,
+			["width"] = 40,
+			["cooldownTextDisabled"] = false,
 			["config"] = {
 			},
 			["inverse"] = false,
@@ -20412,20 +20589,10 @@ WeakAurasSaved = {
 					},
 				}, -- [1]
 			},
-			["cooldown"] = false,
-			["actions"] = {
-				["start"] = {
-					["do_glow"] = false,
-					["sound"] = "Interface\\AddOns\\WeakAuras\\Media\\Sounds\\Shotgun.ogg",
-					["do_message"] = false,
-					["do_sound"] = false,
-				},
-				["init"] = {
-				},
-				["finish"] = {
-					["do_sound"] = false,
-				},
+			["information"] = {
+				["ignoreOptionsEventErrors"] = true,
 			},
+			["selfPoint"] = "CENTER",
 		},
 		["Mana - RestoD"] = {
 			["sparkWidth"] = 5,
@@ -20525,12 +20692,12 @@ WeakAurasSaved = {
 					["trigger"] = {
 						["debuffType"] = "HELPFUL",
 						["type"] = "status",
-						["subeventPrefix"] = "SPELL",
+						["unit"] = "player",
 						["unevent"] = "auto",
-						["use_unit"] = true,
+						["use_percentpower"] = false,
 						["ownOnly"] = true,
 						["use_showCost"] = true,
-						["unit"] = "player",
+						["subeventPrefix"] = "SPELL",
 						["genericShowOn"] = "showOnActive",
 						["subeventSuffix"] = "_CAST_START",
 						["spellIds"] = {
@@ -20540,7 +20707,7 @@ WeakAurasSaved = {
 						["names"] = {
 							"Rapture", -- [1]
 						},
-						["use_percentpower"] = false,
+						["use_unit"] = true,
 						["duration"] = "1",
 						["custom_hide"] = "timed",
 					},
@@ -20549,7 +20716,7 @@ WeakAurasSaved = {
 				}, -- [1]
 				["activeTriggerMode"] = 1,
 			},
-			["internalVersion"] = 39,
+			["internalVersion"] = 40,
 			["useAdjustedMin"] = false,
 			["animation"] = {
 				["start"] = {
@@ -20703,29 +20870,21 @@ WeakAurasSaved = {
 			["useAdjustedMax"] = false,
 			["config"] = {
 			},
-			["zoom"] = 0,
-			["desaturate"] = false,
+			["parent"] = "Resto Druid - Ablution -EU - BronzeDragonflight",
+			["sparkOffsetX"] = 0,
 			["borderInFront"] = true,
+			["desaturate"] = false,
+			["icon_side"] = "RIGHT",
 			["authorOptions"] = {
 			},
-			["icon_side"] = "RIGHT",
 			["sparkColor"] = {
 				0.49803921568628, -- [1]
 				0.84705882352941, -- [2]
 				1, -- [3]
 				1, -- [4]
 			},
-			["customTextUpdate"] = "update",
 			["sparkHeight"] = 15,
-			["ignoreOptionsEventErrors"] = true,
 			["spark"] = true,
-			["id"] = "Mana - RestoD",
-			["semver"] = "1.0.9",
-			["width"] = 334.00012207031,
-			["sparkHidden"] = "NEVER",
-			["useAdjustededMax"] = false,
-			["frameStrata"] = 3,
-			["anchorFrameType"] = "SCREEN",
 			["actions"] = {
 				["start"] = {
 					["do_sound"] = false,
@@ -20736,19 +20895,29 @@ WeakAurasSaved = {
 					["do_sound"] = false,
 				},
 			},
+			["width"] = 334.00012207031,
+			["semver"] = "1.0.9",
+			["sparkHidden"] = "NEVER",
+			["id"] = "Mana - RestoD",
+			["useAdjustededMax"] = false,
+			["frameStrata"] = 3,
+			["anchorFrameType"] = "SCREEN",
 			["backgroundColor"] = {
 				0.29803921568628, -- [1]
 				0.29803921568628, -- [2]
 				0.29803921568628, -- [3]
 				1, -- [4]
 			},
+			["customTextUpdate"] = "update",
 			["inverse"] = false,
 			["sparkDesature"] = false,
 			["orientation"] = "HORIZONTAL",
 			["conditions"] = {
 			},
-			["sparkOffsetX"] = 0,
-			["parent"] = "Resto Druid - Ablution -EU - BronzeDragonflight",
+			["information"] = {
+				["ignoreOptionsEventErrors"] = true,
+			},
+			["zoom"] = 0,
 		},
 		["dps8"] = {
 			["iconSource"] = -1,
@@ -20805,7 +20974,7 @@ WeakAurasSaved = {
 				}, -- [1]
 				["activeTriggerMode"] = 1,
 			},
-			["internalVersion"] = 39,
+			["internalVersion"] = 40,
 			["keepAspectRatio"] = false,
 			["animation"] = {
 				["start"] = {
@@ -20925,31 +21094,10 @@ WeakAurasSaved = {
 				},
 			},
 			["uid"] = "C2DPgQpdtIz",
-			["zoom"] = 0,
-			["xOffset"] = 236,
-			["regionType"] = "icon",
-			["parent"] = "Resto Druid - Ablution -EU - BronzeDragonflight",
 			["authorOptions"] = {
 			},
-			["selfPoint"] = "CENTER",
-			["url"] = "https://wago.io/41diGTjPb/41",
-			["ignoreOptionsEventErrors"] = true,
-			["auto"] = true,
-			["cooldownTextDisabled"] = false,
-			["semver"] = "1.0.9",
-			["tocversion"] = 90001,
-			["id"] = "dps8",
-			["anchorFrameType"] = "SCREEN",
-			["alpha"] = 1,
-			["width"] = 30,
-			["frameStrata"] = 1,
-			["config"] = {
-			},
-			["inverse"] = false,
-			["stickyDuration"] = false,
-			["conditions"] = {
-			},
-			["cooldown"] = false,
+			["xOffset"] = 236,
+			["regionType"] = "icon",
 			["actions"] = {
 				["start"] = {
 					["do_glow"] = false,
@@ -20962,6 +21110,29 @@ WeakAurasSaved = {
 				["finish"] = {
 				},
 			},
+			["cooldown"] = false,
+			["url"] = "https://wago.io/41diGTjPb/41",
+			["parent"] = "Resto Druid - Ablution -EU - BronzeDragonflight",
+			["auto"] = true,
+			["anchorFrameType"] = "SCREEN",
+			["zoom"] = 0,
+			["semver"] = "1.0.9",
+			["tocversion"] = 90001,
+			["id"] = "dps8",
+			["alpha"] = 1,
+			["frameStrata"] = 1,
+			["width"] = 30,
+			["cooldownTextDisabled"] = false,
+			["config"] = {
+			},
+			["inverse"] = false,
+			["stickyDuration"] = false,
+			["conditions"] = {
+			},
+			["information"] = {
+				["ignoreOptionsEventErrors"] = true,
+			},
+			["selfPoint"] = "CENTER",
 		},
 		["Moonkin Form"] = {
 			["iconSource"] = -1,
@@ -20994,7 +21165,7 @@ WeakAurasSaved = {
 				["disjunctive"] = "all",
 				["activeTriggerMode"] = -10,
 			},
-			["internalVersion"] = 39,
+			["internalVersion"] = 40,
 			["keepAspectRatio"] = false,
 			["animation"] = {
 				["start"] = {
@@ -21104,9 +21275,28 @@ WeakAurasSaved = {
 				},
 			},
 			["regionType"] = "icon",
+			["cooldown"] = false,
 			["authorOptions"] = {
 			},
-			["selfPoint"] = "CENTER",
+			["color"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
+			},
+			["stickyDuration"] = false,
+			["cooldownTextDisabled"] = false,
+			["zoom"] = 0,
+			["auto"] = true,
+			["alpha"] = 1,
+			["id"] = "Moonkin Form",
+			["config"] = {
+			},
+			["frameStrata"] = 1,
+			["width"] = 64,
+			["anchorFrameType"] = "SCREEN",
+			["uid"] = "b2gJ9FEnhW4",
+			["inverse"] = false,
 			["actions"] = {
 				["start"] = {
 				},
@@ -21115,29 +21305,12 @@ WeakAurasSaved = {
 				["init"] = {
 				},
 			},
-			["ignoreOptionsEventErrors"] = true,
-			["stickyDuration"] = false,
-			["zoom"] = 0,
-			["auto"] = true,
-			["frameStrata"] = 1,
-			["id"] = "Moonkin Form",
-			["anchorFrameType"] = "SCREEN",
-			["alpha"] = 1,
-			["width"] = 64,
-			["config"] = {
-			},
-			["uid"] = "b2gJ9FEnhW4",
-			["inverse"] = false,
-			["cooldownTextDisabled"] = false,
 			["conditions"] = {
 			},
-			["cooldown"] = false,
-			["color"] = {
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-				1, -- [4]
+			["information"] = {
+				["ignoreOptionsEventErrors"] = true,
 			},
+			["selfPoint"] = "CENTER",
 		},
 		["dps1 off 8"] = {
 			["iconSource"] = -1,
@@ -21206,7 +21379,7 @@ WeakAurasSaved = {
 				}, -- [2]
 				["activeTriggerMode"] = 1,
 			},
-			["internalVersion"] = 39,
+			["internalVersion"] = 40,
 			["keepAspectRatio"] = false,
 			["animation"] = {
 				["start"] = {
@@ -21322,24 +21495,39 @@ WeakAurasSaved = {
 				},
 			},
 			["uid"] = "MEAJy0Xn9RU",
-			["zoom"] = 0,
-			["xOffset"] = 206,
-			["regionType"] = "icon",
-			["parent"] = "Resto Druid - Ablution -EU - BronzeDragonflight",
 			["authorOptions"] = {
 			},
-			["selfPoint"] = "CENTER",
+			["xOffset"] = 206,
+			["regionType"] = "icon",
+			["actions"] = {
+				["start"] = {
+					["glow_frame_type"] = "FRAMESELECTOR",
+					["glow_action"] = "show",
+					["do_message"] = false,
+					["do_sound"] = false,
+					["glow_frame"] = "WeakAuras:Mending up",
+					["glow_type"] = "buttonOverlay",
+					["sound"] = "Interface\\AddOns\\WeakAuras\\Media\\Sounds\\CatMeow2.ogg",
+					["do_glow"] = true,
+				},
+				["init"] = {
+				},
+				["finish"] = {
+				},
+			},
+			["cooldown"] = false,
 			["url"] = "https://wago.io/41diGTjPb/41",
-			["ignoreOptionsEventErrors"] = true,
+			["parent"] = "Resto Druid - Ablution -EU - BronzeDragonflight",
 			["auto"] = true,
-			["cooldownTextDisabled"] = false,
+			["anchorFrameType"] = "SCREEN",
+			["zoom"] = 0,
 			["semver"] = "1.0.9",
 			["tocversion"] = 90001,
 			["id"] = "dps1 off 8",
-			["anchorFrameType"] = "SCREEN",
 			["alpha"] = 1,
-			["width"] = 30,
 			["frameStrata"] = 1,
+			["width"] = 30,
+			["cooldownTextDisabled"] = false,
 			["config"] = {
 			},
 			["inverse"] = false,
@@ -21360,23 +21548,10 @@ WeakAurasSaved = {
 					},
 				}, -- [1]
 			},
-			["cooldown"] = false,
-			["actions"] = {
-				["start"] = {
-					["glow_frame_type"] = "FRAMESELECTOR",
-					["glow_action"] = "show",
-					["do_message"] = false,
-					["do_sound"] = false,
-					["glow_frame"] = "WeakAuras:Mending up",
-					["glow_type"] = "buttonOverlay",
-					["sound"] = "Interface\\AddOns\\WeakAuras\\Media\\Sounds\\CatMeow2.ogg",
-					["do_glow"] = true,
-				},
-				["init"] = {
-				},
-				["finish"] = {
-				},
+			["information"] = {
+				["ignoreOptionsEventErrors"] = true,
 			},
+			["selfPoint"] = "CENTER",
 		},
 		["90 - T2 - CD - RestoD"] = {
 			["iconSource"] = -1,
@@ -21432,7 +21607,7 @@ WeakAurasSaved = {
 				}, -- [1]
 				["activeTriggerMode"] = 1,
 			},
-			["internalVersion"] = 39,
+			["internalVersion"] = 40,
 			["keepAspectRatio"] = false,
 			["animation"] = {
 				["start"] = {
@@ -21555,31 +21730,10 @@ WeakAurasSaved = {
 				},
 			},
 			["uid"] = "Ms0rnJu2JBm",
-			["zoom"] = 0,
-			["xOffset"] = -151,
-			["regionType"] = "icon",
-			["parent"] = "Resto Druid - Ablution -EU - BronzeDragonflight",
 			["authorOptions"] = {
 			},
-			["selfPoint"] = "CENTER",
-			["url"] = "https://wago.io/41diGTjPb/41",
-			["ignoreOptionsEventErrors"] = true,
-			["auto"] = true,
-			["cooldownTextDisabled"] = false,
-			["semver"] = "1.0.9",
-			["tocversion"] = 90001,
-			["id"] = "90 - T2 - CD - RestoD",
-			["anchorFrameType"] = "SCREEN",
-			["alpha"] = 1,
-			["width"] = 30,
-			["frameStrata"] = 1,
-			["config"] = {
-			},
-			["inverse"] = false,
-			["stickyDuration"] = false,
-			["conditions"] = {
-			},
-			["cooldown"] = false,
+			["xOffset"] = -151,
+			["regionType"] = "icon",
 			["actions"] = {
 				["start"] = {
 					["do_glow"] = false,
@@ -21593,6 +21747,29 @@ WeakAurasSaved = {
 					["do_sound"] = false,
 				},
 			},
+			["cooldown"] = false,
+			["url"] = "https://wago.io/41diGTjPb/41",
+			["parent"] = "Resto Druid - Ablution -EU - BronzeDragonflight",
+			["auto"] = true,
+			["anchorFrameType"] = "SCREEN",
+			["zoom"] = 0,
+			["semver"] = "1.0.9",
+			["tocversion"] = 90001,
+			["id"] = "90 - T2 - CD - RestoD",
+			["alpha"] = 1,
+			["frameStrata"] = 1,
+			["width"] = 30,
+			["cooldownTextDisabled"] = false,
+			["config"] = {
+			},
+			["inverse"] = false,
+			["stickyDuration"] = false,
+			["conditions"] = {
+			},
+			["information"] = {
+				["ignoreOptionsEventErrors"] = true,
+			},
+			["selfPoint"] = "CENTER",
 		},
 		["ZT - Interrupt Tracker"] = {
 			["arcLength"] = 360,
@@ -21639,48 +21816,12 @@ WeakAurasSaved = {
 				}, -- [1]
 			},
 			["columnSpace"] = 1,
-			["internalVersion"] = 39,
+			["internalVersion"] = 40,
 			["selfPoint"] = "TOP",
 			["align"] = "CENTER",
 			["desc"] = "Requires: LibGroupInspecT 1.1\nRequires: ZenTracker Backend: https://wago.io/r14U746B7\n",
 			["stagger"] = 0,
 			["version"] = 29,
-			["borderInset"] = 0,
-			["config"] = {
-			},
-			["load"] = {
-				["use_class"] = false,
-				["class"] = {
-					["multi"] = {
-					},
-				},
-				["spec"] = {
-					["multi"] = {
-					},
-				},
-				["size"] = {
-					["multi"] = {
-					},
-				},
-			},
-			["grow"] = "DOWN",
-			["backdropColor"] = {
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-				0.5, -- [4]
-			},
-			["authorOptions"] = {
-			},
-			["animate"] = false,
-			["anchorPoint"] = "CENTER",
-			["scale"] = 1,
-			["groupIcon"] = 132938,
-			["border"] = false,
-			["borderEdge"] = "Square Full White",
-			["regionType"] = "dynamicgroup",
-			["borderSize"] = 2,
-			["sort"] = "none",
 			["animation"] = {
 				["start"] = {
 					["type"] = "none",
@@ -21701,7 +21842,43 @@ WeakAurasSaved = {
 					["easeType"] = "none",
 				},
 			},
+			["config"] = {
+			},
+			["load"] = {
+				["use_class"] = false,
+				["class"] = {
+					["multi"] = {
+					},
+				},
+				["spec"] = {
+					["multi"] = {
+					},
+				},
+				["size"] = {
+					["multi"] = {
+					},
+				},
+			},
+			["fullCircle"] = true,
+			["backdropColor"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				0.5, -- [4]
+			},
+			["authorOptions"] = {
+			},
+			["animate"] = false,
 			["rotation"] = 0,
+			["scale"] = 1,
+			["radius"] = 200,
+			["border"] = false,
+			["borderEdge"] = "Square Full White",
+			["regionType"] = "dynamicgroup",
+			["borderSize"] = 2,
+			["sort"] = "none",
+			["groupIcon"] = 132938,
+			["anchorPoint"] = "CENTER",
 			["constantFactor"] = "RADIUS",
 			["rowSpace"] = 1,
 			["borderOffset"] = 16,
@@ -21711,14 +21888,16 @@ WeakAurasSaved = {
 			["gridWidth"] = 5,
 			["frameStrata"] = 1,
 			["anchorFrameType"] = "SCREEN",
-			["ignoreOptionsEventErrors"] = true,
-			["uid"] = "cXyfgTRvuuZ",
-			["fullCircle"] = true,
+			["useLimit"] = false,
+			["borderInset"] = 0,
+			["grow"] = "DOWN",
 			["limit"] = 5,
 			["conditions"] = {
 			},
-			["radius"] = 200,
-			["useLimit"] = false,
+			["information"] = {
+				["ignoreOptionsEventErrors"] = true,
+			},
+			["uid"] = "cXyfgTRvuuZ",
 		},
 		["Nature's Cure - Off CD - RestoD"] = {
 			["iconSource"] = -1,
@@ -21786,7 +21965,7 @@ WeakAurasSaved = {
 				}, -- [2]
 				["activeTriggerMode"] = 1,
 			},
-			["internalVersion"] = 39,
+			["internalVersion"] = 40,
 			["keepAspectRatio"] = false,
 			["animation"] = {
 				["start"] = {
@@ -21904,24 +22083,36 @@ WeakAurasSaved = {
 				},
 			},
 			["uid"] = "xOxqt7Jzdz7",
-			["zoom"] = 0,
-			["xOffset"] = -66,
-			["regionType"] = "icon",
-			["parent"] = "Resto Druid - Ablution -EU - BronzeDragonflight",
 			["authorOptions"] = {
 			},
-			["selfPoint"] = "CENTER",
+			["xOffset"] = -66,
+			["regionType"] = "icon",
+			["actions"] = {
+				["start"] = {
+					["do_glow"] = false,
+					["sound"] = "Interface\\Addons\\Details\\sounds\\sound_gun3.ogg",
+					["do_message"] = false,
+					["do_sound"] = false,
+				},
+				["init"] = {
+				},
+				["finish"] = {
+					["do_sound"] = false,
+				},
+			},
+			["cooldown"] = false,
 			["url"] = "https://wago.io/41diGTjPb/41",
-			["ignoreOptionsEventErrors"] = true,
+			["parent"] = "Resto Druid - Ablution -EU - BronzeDragonflight",
 			["auto"] = true,
-			["cooldownTextDisabled"] = false,
+			["anchorFrameType"] = "SCREEN",
+			["zoom"] = 0,
 			["semver"] = "1.0.9",
 			["tocversion"] = 90001,
 			["id"] = "Nature's Cure - Off CD - RestoD",
-			["anchorFrameType"] = "SCREEN",
 			["alpha"] = 1,
-			["width"] = 40,
 			["frameStrata"] = 1,
+			["width"] = 40,
+			["cooldownTextDisabled"] = false,
 			["config"] = {
 			},
 			["inverse"] = false,
@@ -21942,20 +22133,10 @@ WeakAurasSaved = {
 					},
 				}, -- [1]
 			},
-			["cooldown"] = false,
-			["actions"] = {
-				["start"] = {
-					["do_glow"] = false,
-					["sound"] = "Interface\\Addons\\Details\\sounds\\sound_gun3.ogg",
-					["do_message"] = false,
-					["do_sound"] = false,
-				},
-				["init"] = {
-				},
-				["finish"] = {
-					["do_sound"] = false,
-				},
+			["information"] = {
+				["ignoreOptionsEventErrors"] = true,
 			},
+			["selfPoint"] = "CENTER",
 		},
 		["Barkskin - Off CD - RestoD"] = {
 			["iconSource"] = -1,
@@ -22023,7 +22204,7 @@ WeakAurasSaved = {
 				}, -- [2]
 				["activeTriggerMode"] = 1,
 			},
-			["internalVersion"] = 39,
+			["internalVersion"] = 40,
 			["keepAspectRatio"] = false,
 			["animation"] = {
 				["start"] = {
@@ -22139,24 +22320,40 @@ WeakAurasSaved = {
 				},
 			},
 			["uid"] = "Bhfrl3Xupb(",
-			["zoom"] = 0,
-			["xOffset"] = -23,
-			["regionType"] = "icon",
-			["parent"] = "Resto Druid - Ablution -EU - BronzeDragonflight",
 			["authorOptions"] = {
 			},
-			["selfPoint"] = "CENTER",
+			["xOffset"] = -23,
+			["regionType"] = "icon",
+			["actions"] = {
+				["start"] = {
+					["glow_frame_type"] = "FRAMESELECTOR",
+					["glow_action"] = "show",
+					["do_message"] = false,
+					["do_sound"] = false,
+					["glow_frame"] = "WeakAuras:Mending up",
+					["glow_type"] = "buttonOverlay",
+					["sound"] = "Interface\\AddOns\\WeakAuras\\Media\\Sounds\\CatMeow2.ogg",
+					["do_glow"] = true,
+				},
+				["init"] = {
+				},
+				["finish"] = {
+					["do_sound"] = false,
+				},
+			},
+			["cooldown"] = false,
 			["url"] = "https://wago.io/41diGTjPb/41",
-			["ignoreOptionsEventErrors"] = true,
+			["parent"] = "Resto Druid - Ablution -EU - BronzeDragonflight",
 			["auto"] = true,
-			["cooldownTextDisabled"] = false,
+			["anchorFrameType"] = "SCREEN",
+			["zoom"] = 0,
 			["semver"] = "1.0.9",
 			["tocversion"] = 90001,
 			["id"] = "Barkskin - Off CD - RestoD",
-			["anchorFrameType"] = "SCREEN",
 			["alpha"] = 1,
-			["width"] = 40,
 			["frameStrata"] = 1,
+			["width"] = 40,
+			["cooldownTextDisabled"] = false,
 			["config"] = {
 			},
 			["inverse"] = false,
@@ -22177,24 +22374,10 @@ WeakAurasSaved = {
 					},
 				}, -- [1]
 			},
-			["cooldown"] = false,
-			["actions"] = {
-				["start"] = {
-					["glow_frame_type"] = "FRAMESELECTOR",
-					["glow_action"] = "show",
-					["do_message"] = false,
-					["do_sound"] = false,
-					["glow_frame"] = "WeakAuras:Mending up",
-					["glow_type"] = "buttonOverlay",
-					["sound"] = "Interface\\AddOns\\WeakAuras\\Media\\Sounds\\CatMeow2.ogg",
-					["do_glow"] = true,
-				},
-				["init"] = {
-				},
-				["finish"] = {
-					["do_sound"] = false,
-				},
+			["information"] = {
+				["ignoreOptionsEventErrors"] = true,
 			},
+			["selfPoint"] = "CENTER",
 		},
 		["HW-glow2 - RestoD"] = {
 			["modelIsUnit"] = false,
@@ -22264,17 +22447,17 @@ WeakAurasSaved = {
 				["disjunctive"] = "all",
 				["activeTriggerMode"] = -10,
 			},
-			["internalVersion"] = 39,
+			["internalVersion"] = 40,
 			["model_fileId"] = "1042729",
 			["selfPoint"] = "BOTTOM",
 			["model_st_ty"] = 0,
 			["desc"] = "Serves as a background and looks pretty sweet.",
 			["rotation"] = 0,
-			["model_st_rx"] = 270,
+			["model_z"] = 4.2,
 			["version"] = 41,
 			["borderInset"] = 11,
 			["height"] = 14.999969482422,
-			["model_path"] = "spells/chimerashot_missile_frost.m2",
+			["advance"] = false,
 			["load"] = {
 				["use_petbattle"] = false,
 				["use_never"] = false,
@@ -22330,38 +22513,6 @@ WeakAurasSaved = {
 					},
 				},
 			},
-			["uid"] = "o6p4dtgG2m0",
-			["backdropColor"] = {
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-				0.5, -- [4]
-			},
-			["model_st_tx"] = 0,
-			["sequence"] = 1,
-			["authorOptions"] = {
-			},
-			["scale"] = 1,
-			["advance"] = false,
-			["border"] = false,
-			["borderEdge"] = "Blizzard Dialog",
-			["regionType"] = "model",
-			["borderSize"] = 5,
-			["model_st_us"] = 40,
-			["model_st_ry"] = 0,
-			["model_st_rz"] = 0,
-			["ignoreOptionsEventErrors"] = true,
-			["width"] = 166,
-			["borderOffset"] = 2,
-			["semver"] = "1.0.9",
-			["tocversion"] = 90001,
-			["id"] = "HW-glow2 - RestoD",
-			["model_y"] = 2.4,
-			["frameStrata"] = 3,
-			["anchorFrameType"] = "SCREEN",
-			["model_z"] = 4.2,
-			["config"] = {
-			},
 			["animation"] = {
 				["start"] = {
 					["type"] = "none",
@@ -22383,11 +22534,45 @@ WeakAurasSaved = {
 					["easeType"] = "none",
 				},
 			},
+			["backdropColor"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				0.5, -- [4]
+			},
+			["model_st_tz"] = 0,
+			["sequence"] = 1,
+			["parent"] = "Resto Druid - Ablution -EU - BronzeDragonflight",
+			["scale"] = 1,
+			["config"] = {
+			},
+			["border"] = false,
+			["borderEdge"] = "Blizzard Dialog",
+			["regionType"] = "model",
+			["borderSize"] = 5,
+			["model_st_us"] = 40,
+			["model_st_ry"] = 0,
+			["model_st_rz"] = 0,
+			["width"] = 166,
+			["frameStrata"] = 3,
+			["borderOffset"] = 2,
+			["semver"] = "1.0.9",
+			["tocversion"] = 90001,
+			["id"] = "HW-glow2 - RestoD",
+			["model_y"] = 2.4,
+			["model_st_rx"] = 270,
+			["anchorFrameType"] = "SCREEN",
+			["model_path"] = "spells/chimerashot_missile_frost.m2",
+			["uid"] = "o6p4dtgG2m0",
+			["authorOptions"] = {
+			},
 			["modelDisplayInfo"] = false,
 			["conditions"] = {
 			},
-			["model_st_tz"] = 0,
-			["parent"] = "Resto Druid - Ablution -EU - BronzeDragonflight",
+			["information"] = {
+				["ignoreOptionsEventErrors"] = true,
+			},
+			["model_st_tx"] = 0,
 		},
 		["dps6"] = {
 			["iconSource"] = -1,
@@ -22444,7 +22629,7 @@ WeakAurasSaved = {
 				}, -- [1]
 				["activeTriggerMode"] = 1,
 			},
-			["internalVersion"] = 39,
+			["internalVersion"] = 40,
 			["keepAspectRatio"] = false,
 			["animation"] = {
 				["start"] = {
@@ -22564,31 +22749,10 @@ WeakAurasSaved = {
 				},
 			},
 			["uid"] = "(g4X2m4ibco",
-			["zoom"] = 0,
-			["xOffset"] = 206,
-			["regionType"] = "icon",
-			["parent"] = "Resto Druid - Ablution -EU - BronzeDragonflight",
 			["authorOptions"] = {
 			},
-			["selfPoint"] = "CENTER",
-			["url"] = "https://wago.io/41diGTjPb/41",
-			["ignoreOptionsEventErrors"] = true,
-			["auto"] = true,
-			["cooldownTextDisabled"] = false,
-			["semver"] = "1.0.9",
-			["tocversion"] = 90001,
-			["id"] = "dps6",
-			["anchorFrameType"] = "SCREEN",
-			["alpha"] = 1,
-			["width"] = 30,
-			["frameStrata"] = 1,
-			["config"] = {
-			},
-			["inverse"] = false,
-			["stickyDuration"] = false,
-			["conditions"] = {
-			},
-			["cooldown"] = false,
+			["xOffset"] = 206,
+			["regionType"] = "icon",
 			["actions"] = {
 				["start"] = {
 					["do_glow"] = false,
@@ -22601,6 +22765,29 @@ WeakAurasSaved = {
 				["finish"] = {
 				},
 			},
+			["cooldown"] = false,
+			["url"] = "https://wago.io/41diGTjPb/41",
+			["parent"] = "Resto Druid - Ablution -EU - BronzeDragonflight",
+			["auto"] = true,
+			["anchorFrameType"] = "SCREEN",
+			["zoom"] = 0,
+			["semver"] = "1.0.9",
+			["tocversion"] = 90001,
+			["id"] = "dps6",
+			["alpha"] = 1,
+			["frameStrata"] = 1,
+			["width"] = 30,
+			["cooldownTextDisabled"] = false,
+			["config"] = {
+			},
+			["inverse"] = false,
+			["stickyDuration"] = false,
+			["conditions"] = {
+			},
+			["information"] = {
+				["ignoreOptionsEventErrors"] = true,
+			},
+			["selfPoint"] = "CENTER",
 		},
 		["T21 Answered Prayers"] = {
 			["iconSource"] = -1,
@@ -22641,7 +22828,7 @@ WeakAurasSaved = {
 				["disjunctive"] = "all",
 				["activeTriggerMode"] = -10,
 			},
-			["internalVersion"] = 39,
+			["internalVersion"] = 40,
 			["keepAspectRatio"] = false,
 			["animation"] = {
 				["start"] = {
@@ -22752,32 +22939,34 @@ WeakAurasSaved = {
 			["regionType"] = "icon",
 			["authorOptions"] = {
 			},
+			["cooldown"] = true,
+			["parent"] = "Holy Left",
+			["stickyDuration"] = false,
+			["selfPoint"] = "CENTER",
+			["cooldownTextDisabled"] = false,
+			["zoom"] = 0,
+			["auto"] = true,
+			["config"] = {
+			},
+			["id"] = "T21 Answered Prayers",
+			["alpha"] = 1,
+			["frameStrata"] = 1,
+			["width"] = 64,
+			["anchorFrameType"] = "SCREEN",
+			["uid"] = "KhnS7IdNTvW",
+			["inverse"] = false,
+			["icon"] = true,
+			["conditions"] = {
+			},
+			["information"] = {
+				["ignoreOptionsEventErrors"] = true,
+			},
 			["color"] = {
 				1, -- [1]
 				1, -- [2]
 				1, -- [3]
 				1, -- [4]
 			},
-			["parent"] = "Holy Left",
-			["stickyDuration"] = false,
-			["ignoreOptionsEventErrors"] = true,
-			["cooldownTextDisabled"] = false,
-			["zoom"] = 0,
-			["auto"] = true,
-			["width"] = 64,
-			["id"] = "T21 Answered Prayers",
-			["config"] = {
-			},
-			["frameStrata"] = 1,
-			["anchorFrameType"] = "SCREEN",
-			["selfPoint"] = "CENTER",
-			["uid"] = "KhnS7IdNTvW",
-			["inverse"] = false,
-			["alpha"] = 1,
-			["conditions"] = {
-			},
-			["cooldown"] = true,
-			["icon"] = true,
 		},
 		["ZT - Nnoggie's Party CD Front End"] = {
 			["textFlags"] = "OUTLINE",
@@ -26395,6 +26584,7 @@ WeakAurasSaved = {
 			},
 			["desc"] = "Requires ZenTracker (ZT) backend https://wago.io/r14U746B7\nDo not put this Aura into a Group/Dynamic Group!",
 			["customText"] = "",
+			["cooldown"] = true,
 			["sparkWidth"] = 10,
 			["actions"] = {
 				["start"] = {
@@ -26410,9 +26600,8 @@ WeakAurasSaved = {
 					["do_custom"] = true,
 				},
 			},
-			["sparkTexture"] = "Interface\\CastingBar\\UI-CastingBar-Spark",
 			["cooldownSwipe"] = true,
-			["displayTextLeft"] = "%n",
+			["sparkTexture"] = "Interface\\CastingBar\\UI-CastingBar-Spark",
 			["sparkRotationMode"] = "AUTO",
 			["cooldownEdge"] = false,
 			["textSize"] = 12,
@@ -26445,13 +26634,8 @@ WeakAurasSaved = {
 				["disjunctive"] = "any",
 				["activeTriggerMode"] = 1,
 			},
-			["sparkColor"] = {
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-				1, -- [4]
-			},
-			["internalVersion"] = 39,
+			["displayTextLeft"] = "%n",
+			["internalVersion"] = 40,
 			["backgroundColor"] = {
 				0.21176470588235, -- [1]
 				0.21176470588235, -- [2]
@@ -26522,7 +26706,7 @@ WeakAurasSaved = {
 			["uid"] = "BthnvvT24kv",
 			["stickyDuration"] = false,
 			["anchorFrameType"] = "SCREEN",
-			["zoom"] = 0,
+			["borderBackdrop"] = "Solid",
 			["version"] = 34,
 			["subRegions"] = {
 				{
@@ -26562,23 +26746,16 @@ WeakAurasSaved = {
 			["timerFlags"] = "OUTLINE",
 			["height"] = 22,
 			["sparkBlendMode"] = "ADD",
-			["backdropColor"] = {
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-				0.5, -- [4]
-			},
+			["useAdjustededMax"] = false,
 			["sparkHidden"] = "NEVER",
 			["semver"] = "1.0.26",
 			["displayTextRight"] = "%p",
-			["stacksFont"] = "Accidental Presidency",
+			["customTextUpdate"] = "event",
 			["rotateText"] = "NONE",
 			["border"] = true,
 			["borderEdge"] = "1 Pixel",
-			["borderInFront"] = true,
 			["borderSize"] = 1,
-			["spark"] = false,
-			["icon_side"] = "LEFT",
+			["borderInFront"] = true,
 			["config"] = {
 				["display"] = {
 					["attachTo"] = 1,
@@ -26972,10 +27149,12 @@ WeakAurasSaved = {
 					},
 				},
 			},
+			["icon_side"] = "LEFT",
 			["xOffset"] = -5000,
+			["spark"] = false,
 			["sparkHeight"] = 30,
-			["ignoreOptionsEventErrors"] = true,
 			["cooldownTextDisabled"] = false,
+			["stacksFont"] = "Accidental Presidency",
 			["stacksColor"] = {
 				1, -- [1]
 				1, -- [2]
@@ -26983,13 +27162,23 @@ WeakAurasSaved = {
 				1, -- [4]
 			},
 			["timerSize"] = 12,
-			["customTextUpdate"] = "event",
+			["backdropColor"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				0.5, -- [4]
+			},
 			["id"] = "ZT - Nnoggie's Party CD Front End",
-			["useAdjustededMax"] = false,
+			["zoom"] = 0,
 			["frameStrata"] = 3,
 			["width"] = 22,
-			["borderBackdrop"] = "Solid",
 			["sparkRotation"] = 0,
+			["sparkColor"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
+			},
 			["inverse"] = true,
 			["sparkDesature"] = false,
 			["orientation"] = "HORIZONTAL",
@@ -27022,7 +27211,9 @@ WeakAurasSaved = {
 					},
 				}, -- [2]
 			},
-			["cooldown"] = true,
+			["information"] = {
+				["ignoreOptionsEventErrors"] = true,
+			},
 			["preferToUpdate"] = false,
 		},
 		["Tranq Running - RestoD"] = {
@@ -27150,7 +27341,7 @@ WeakAurasSaved = {
 				}, -- [1]
 				["activeTriggerMode"] = 1,
 			},
-			["internalVersion"] = 39,
+			["internalVersion"] = 40,
 			["useAdjustedMin"] = false,
 			["animation"] = {
 				["start"] = {
@@ -27304,29 +27495,21 @@ WeakAurasSaved = {
 			["useAdjustedMax"] = false,
 			["config"] = {
 			},
-			["zoom"] = 0,
-			["desaturate"] = false,
+			["parent"] = "Resto Druid - Ablution -EU - BronzeDragonflight",
+			["sparkOffsetX"] = 0,
 			["borderInFront"] = true,
+			["desaturate"] = false,
+			["icon_side"] = "RIGHT",
 			["authorOptions"] = {
 			},
-			["icon_side"] = "RIGHT",
 			["sparkColor"] = {
 				1, -- [1]
 				0.85882352941176, -- [2]
 				0.011764705882353, -- [3]
 				1, -- [4]
 			},
-			["customTextUpdate"] = "update",
 			["sparkHeight"] = 62,
-			["ignoreOptionsEventErrors"] = true,
 			["spark"] = true,
-			["id"] = "Tranq Running - RestoD",
-			["semver"] = "1.0.9",
-			["width"] = 337,
-			["sparkHidden"] = "NEVER",
-			["useAdjustededMax"] = false,
-			["frameStrata"] = 3,
-			["anchorFrameType"] = "SCREEN",
 			["actions"] = {
 				["start"] = {
 					["do_sound"] = false,
@@ -27337,19 +27520,29 @@ WeakAurasSaved = {
 					["do_sound"] = false,
 				},
 			},
+			["width"] = 337,
+			["semver"] = "1.0.9",
+			["sparkHidden"] = "NEVER",
+			["id"] = "Tranq Running - RestoD",
+			["useAdjustededMax"] = false,
+			["frameStrata"] = 3,
+			["anchorFrameType"] = "SCREEN",
 			["backgroundColor"] = {
 				0.29803921568628, -- [1]
 				0.29803921568628, -- [2]
 				0.29803921568628, -- [3]
 				1, -- [4]
 			},
+			["customTextUpdate"] = "update",
 			["inverse"] = false,
 			["sparkDesature"] = false,
 			["orientation"] = "HORIZONTAL",
 			["conditions"] = {
 			},
-			["sparkOffsetX"] = 0,
-			["parent"] = "Resto Druid - Ablution -EU - BronzeDragonflight",
+			["information"] = {
+				["ignoreOptionsEventErrors"] = true,
+			},
+			["zoom"] = 0,
 		},
 		["75 - T3 - CD - RestoD"] = {
 			["iconSource"] = -1,
@@ -27407,7 +27600,7 @@ WeakAurasSaved = {
 				}, -- [1]
 				["activeTriggerMode"] = 1,
 			},
-			["internalVersion"] = 39,
+			["internalVersion"] = 40,
 			["keepAspectRatio"] = false,
 			["animation"] = {
 				["start"] = {
@@ -27533,31 +27726,10 @@ WeakAurasSaved = {
 				},
 			},
 			["uid"] = "SPEd5CmYvyP",
-			["zoom"] = 0,
-			["xOffset"] = -151,
-			["regionType"] = "icon",
-			["parent"] = "Resto Druid - Ablution -EU - BronzeDragonflight",
 			["authorOptions"] = {
 			},
-			["selfPoint"] = "CENTER",
-			["url"] = "https://wago.io/41diGTjPb/41",
-			["ignoreOptionsEventErrors"] = true,
-			["auto"] = true,
-			["cooldownTextDisabled"] = false,
-			["semver"] = "1.0.9",
-			["tocversion"] = 90001,
-			["id"] = "75 - T3 - CD - RestoD",
-			["anchorFrameType"] = "SCREEN",
-			["alpha"] = 1,
-			["width"] = 30,
-			["frameStrata"] = 3,
-			["config"] = {
-			},
-			["inverse"] = false,
-			["stickyDuration"] = false,
-			["conditions"] = {
-			},
-			["cooldown"] = false,
+			["xOffset"] = -151,
+			["regionType"] = "icon",
 			["actions"] = {
 				["start"] = {
 					["do_glow"] = false,
@@ -27571,6 +27743,29 @@ WeakAurasSaved = {
 					["do_sound"] = false,
 				},
 			},
+			["cooldown"] = false,
+			["url"] = "https://wago.io/41diGTjPb/41",
+			["parent"] = "Resto Druid - Ablution -EU - BronzeDragonflight",
+			["auto"] = true,
+			["anchorFrameType"] = "SCREEN",
+			["zoom"] = 0,
+			["semver"] = "1.0.9",
+			["tocversion"] = 90001,
+			["id"] = "75 - T3 - CD - RestoD",
+			["alpha"] = 1,
+			["frameStrata"] = 3,
+			["width"] = 30,
+			["cooldownTextDisabled"] = false,
+			["config"] = {
+			},
+			["inverse"] = false,
+			["stickyDuration"] = false,
+			["conditions"] = {
+			},
+			["information"] = {
+				["ignoreOptionsEventErrors"] = true,
+			},
+			["selfPoint"] = "CENTER",
 		},
 		["30 - T3 - CD - RestoD"] = {
 			["iconSource"] = -1,
@@ -27626,7 +27821,7 @@ WeakAurasSaved = {
 				}, -- [1]
 				["activeTriggerMode"] = 1,
 			},
-			["internalVersion"] = 39,
+			["internalVersion"] = 40,
 			["keepAspectRatio"] = false,
 			["animation"] = {
 				["start"] = {
@@ -27751,31 +27946,10 @@ WeakAurasSaved = {
 				},
 			},
 			["uid"] = "7pYroYPGndt",
-			["zoom"] = 0,
-			["xOffset"] = 230,
-			["regionType"] = "icon",
-			["parent"] = "Resto Druid - Ablution -EU - BronzeDragonflight",
 			["authorOptions"] = {
 			},
-			["selfPoint"] = "CENTER",
-			["url"] = "https://wago.io/41diGTjPb/41",
-			["ignoreOptionsEventErrors"] = true,
-			["auto"] = true,
-			["cooldownTextDisabled"] = false,
-			["semver"] = "1.0.9",
-			["tocversion"] = 90001,
-			["id"] = "30 - T3 - CD - RestoD",
-			["anchorFrameType"] = "SCREEN",
-			["alpha"] = 1,
-			["width"] = 40,
-			["frameStrata"] = 1,
-			["config"] = {
-			},
-			["inverse"] = false,
-			["stickyDuration"] = false,
-			["conditions"] = {
-			},
-			["cooldown"] = false,
+			["xOffset"] = 230,
+			["regionType"] = "icon",
 			["actions"] = {
 				["start"] = {
 					["do_glow"] = false,
@@ -27789,6 +27963,29 @@ WeakAurasSaved = {
 					["do_sound"] = false,
 				},
 			},
+			["cooldown"] = false,
+			["url"] = "https://wago.io/41diGTjPb/41",
+			["parent"] = "Resto Druid - Ablution -EU - BronzeDragonflight",
+			["auto"] = true,
+			["anchorFrameType"] = "SCREEN",
+			["zoom"] = 0,
+			["semver"] = "1.0.9",
+			["tocversion"] = 90001,
+			["id"] = "30 - T3 - CD - RestoD",
+			["alpha"] = 1,
+			["frameStrata"] = 1,
+			["width"] = 40,
+			["cooldownTextDisabled"] = false,
+			["config"] = {
+			},
+			["inverse"] = false,
+			["stickyDuration"] = false,
+			["conditions"] = {
+			},
+			["information"] = {
+				["ignoreOptionsEventErrors"] = true,
+			},
+			["selfPoint"] = "CENTER",
 		},
 		["Background - holy 2 2 2"] = {
 			["modelIsUnit"] = false,
@@ -27853,7 +28050,7 @@ WeakAurasSaved = {
 				["activeTriggerMode"] = 1,
 			},
 			["portraitZoom"] = false,
-			["internalVersion"] = 39,
+			["internalVersion"] = 40,
 			["advance"] = false,
 			["selfPoint"] = "BOTTOM",
 			["frameStrata"] = 2,
@@ -27861,7 +28058,7 @@ WeakAurasSaved = {
 			["discrete_rotation"] = 0,
 			["uid"] = "sSPNDAF3NXM",
 			["version"] = 41,
-			["desc"] = "Serves as a background and looks pretty sweet.",
+			["xOffset"] = 40,
 			["height"] = 92,
 			["rotate"] = false,
 			["load"] = {
@@ -27918,7 +28115,7 @@ WeakAurasSaved = {
 					},
 				},
 			},
-			["xOffset"] = 40,
+			["parent"] = "Resto Druid - Ablution -EU - BronzeDragonflight",
 			["backdropColor"] = {
 				1, -- [1]
 				1, -- [2]
@@ -27927,14 +28124,9 @@ WeakAurasSaved = {
 			},
 			["textureWrapMode"] = "CLAMP",
 			["sequence"] = 1,
-			["color"] = {
-				0.11764705882353, -- [1]
-				0.11764705882353, -- [2]
-				0.11764705882353, -- [3]
-				0.75, -- [4]
-			},
-			["scale"] = 1,
 			["rotation"] = 0,
+			["scale"] = 1,
+			["desc"] = "Serves as a background and looks pretty sweet.",
 			["mirror"] = false,
 			["borderEdge"] = "Blizzard Dialog",
 			["regionType"] = "texture",
@@ -27942,7 +28134,7 @@ WeakAurasSaved = {
 			["blendMode"] = "BLEND",
 			["model_path"] = "world/skillactivated/containers/treasurechest06.m2",
 			["borderInset"] = 11,
-			["ignoreOptionsEventErrors"] = true,
+			["texture"] = "Interface\\AddOns\\WeakAuras\\Media\\Textures\\Square_White",
 			["width"] = 432,
 			["borderOffset"] = 2,
 			["semver"] = "1.0.9",
@@ -27954,11 +28146,18 @@ WeakAurasSaved = {
 			["model_z"] = 1.9,
 			["config"] = {
 			},
-			["texture"] = "Interface\\AddOns\\WeakAuras\\Media\\Textures\\Square_White",
 			["border"] = false,
+			["color"] = {
+				0.11764705882353, -- [1]
+				0.11764705882353, -- [2]
+				0.11764705882353, -- [3]
+				0.75, -- [4]
+			},
 			["conditions"] = {
 			},
-			["parent"] = "Resto Druid - Ablution -EU - BronzeDragonflight",
+			["information"] = {
+				["ignoreOptionsEventErrors"] = true,
+			},
 			["animation"] = {
 				["start"] = {
 					["type"] = "none",
@@ -28105,7 +28304,7 @@ WeakAurasSaved = {
 				}, -- [1]
 				["activeTriggerMode"] = 1,
 			},
-			["internalVersion"] = 39,
+			["internalVersion"] = 40,
 			["useAdjustedMin"] = false,
 			["animation"] = {
 				["start"] = {
@@ -28259,29 +28458,21 @@ WeakAurasSaved = {
 			["useAdjustedMax"] = false,
 			["config"] = {
 			},
-			["zoom"] = 0,
-			["desaturate"] = false,
+			["parent"] = "Resto Druid - Ablution -EU - BronzeDragonflight",
+			["sparkOffsetX"] = 0,
 			["borderInFront"] = true,
+			["desaturate"] = false,
+			["icon_side"] = "LEFT",
 			["authorOptions"] = {
 			},
-			["icon_side"] = "LEFT",
 			["sparkColor"] = {
 				0.4078431372549, -- [1]
 				0.88235294117647, -- [2]
 				1, -- [3]
 				1, -- [4]
 			},
-			["customTextUpdate"] = "update",
 			["sparkHeight"] = 62,
-			["ignoreOptionsEventErrors"] = true,
 			["spark"] = true,
-			["id"] = "Clearcaste-Timer-bar - RestoD",
-			["semver"] = "1.0.9",
-			["width"] = 335,
-			["sparkHidden"] = "NEVER",
-			["useAdjustededMax"] = false,
-			["frameStrata"] = 4,
-			["anchorFrameType"] = "SCREEN",
 			["actions"] = {
 				["start"] = {
 					["do_sound"] = false,
@@ -28292,19 +28483,29 @@ WeakAurasSaved = {
 					["do_sound"] = false,
 				},
 			},
+			["width"] = 335,
+			["semver"] = "1.0.9",
+			["sparkHidden"] = "NEVER",
+			["id"] = "Clearcaste-Timer-bar - RestoD",
+			["useAdjustededMax"] = false,
+			["frameStrata"] = 4,
+			["anchorFrameType"] = "SCREEN",
 			["backgroundColor"] = {
 				0.29803921568628, -- [1]
 				0.29803921568628, -- [2]
 				0.29803921568628, -- [3]
 				1, -- [4]
 			},
+			["customTextUpdate"] = "update",
 			["inverse"] = false,
 			["sparkDesature"] = false,
 			["orientation"] = "HORIZONTAL_INVERSE",
 			["conditions"] = {
 			},
-			["sparkOffsetX"] = 0,
-			["parent"] = "Resto Druid - Ablution -EU - BronzeDragonflight",
+			["information"] = {
+				["ignoreOptionsEventErrors"] = true,
+			},
+			["zoom"] = 0,
 		},
 	},
 	["login_squelch_time"] = 10,
@@ -28313,8 +28514,8 @@ WeakAurasSaved = {
 		["minimapPos"] = 201.7743871831573,
 		["hide"] = false,
 	},
-	["lastUpgrade"] = 1605208248,
-	["dbVersion"] = 39,
+	["lastUpgrade"] = 1605823723,
+	["dbVersion"] = 40,
 	["clearOldHistory"] = 30,
 	["registered"] = {
 	},

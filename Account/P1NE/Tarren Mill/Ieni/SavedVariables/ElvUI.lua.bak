@@ -1,2198 +1,2205 @@
 
 ElvCharacterDB = {
 	["ChatEditHistory"] = {
-		"/p hiho", -- [1]
-		"/raid after all the allies died", -- [2]
-		"/g scheint so", -- [3]
-		"/raid credit switched to us", -- [4]
-		"/raid ...", -- [5]
-		"/i ok", -- [6]
-		"/i anything less and i don't need a healer", -- [7]
-		"/i i know that you are not very good", -- [8]
-		"/i but you can work on yourself and maybe improve", -- [9]
-		"/i i don't mind", -- [10]
-		"/tsm", -- [11]
-		"/m", -- [12]
-		"/raid i feel small", -- [13]
+		"/i :D", -- [1]
+		"/i yes", -- [2]
+		"/pvp", -- [3]
+		"/i i'll just switch wm off", -- [4]
+		"/i yes but it's not that", -- [5]
+		"/i that's just on top", -- [6]
+		"/i ok", -- [7]
+		"/i wish blizzard would give a single shit about wow tbh", -- [8]
+		"/i stuff like this wouldn't happen in a billion company", -- [9]
+		"/i thanks for letting everyone turn the quest in", -- [10]
+		"/i very considerate", -- [11]
+		"/i nice quest is turn in", -- [12]
+		"/i no also wm on", -- [13]
+		"/tsm", -- [14]
+		"/raid everyone is patch", -- [15]
+		"/raid lana", -- [16]
+		"/raid gar", -- [17]
+		"/m", -- [18]
+		"/guildinvite Talizeash", -- [19]
+		"/aap", -- [20]
 	},
 	["ChatHistoryLog"] = {
 		{
-			"Oblivion WTS|cffffff00|Hachievement:14055:Player-1084-09CE3B81:0:0:0:-1:0:0:0:0|h[Mythic: N'Zoth the Corruptor]|h|r |cffffff00|Hachievement:14715:Player-1084-09CE3B81:0:0:0:-1:0:0:0:0|h[Castle Nathria]|h|r |cffffff00|Hachievement:14460:Player-1084-09CE3B81:0:0:0:-1:0:0:0:0|h[Ahead of the Curve: Sire Denathrius]|h|r PRE ORDER SL Raid NOW!! & 12/12 HC & Mythic Ny'alotha, Loot share &  Jaina/Vision/Mounts/ FH levelling & Azshara!  M+ LVL 15-25 & PVP 0-2400 2v2 & 3v3   ", -- [1]
-			"Oblivionyes-TarrenMill", -- [2]
+			"forgemaster i guess", -- [1]
+			"Dereotu-TwistingNether", -- [2]
 			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Oblivionyes-TarrenMill", -- [5]
+			"", -- [4]
+			"Dereotu-TwistingNether", -- [5]
 			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			1748, -- [11]
-			"Player-1084-09CE3B81", -- [12]
+			1215, -- [11]
+			"Player-3674-0A6D1F99", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			true, -- [17]
-			[52] = "|cff006fdcOblivionyes|r",
-			[51] = 1605488673,
-			[50] = "CHAT_MSG_CHANNEL",
+			false, -- [17]
+			[52] = "|cfffe7b09Dereotu-TwistingNether|r",
+			[51] = 1605921450,
+			[50] = "CHAT_MSG_RAID",
 		}, -- [1]
 		{
-			"><><><>  M+15 =100k  <><><><  FREE ARMOR STACK  < SYLVANAS > ||M+20 450k in Time >> ((2X15 200K))*((3X15 285K))>>5Runs 20% OFF>>((5X15 420K))>>|cff71d5ff|Hspell:290718:0|h[Aerial Unit R-21/X]|h|r>(omask-5mask)*(Lvl up boost)*(jaina)*((RAID VIP))/W ME ", -- [1]
-			"Sylvabez-TarrenMill", -- [2]
+			"Piggles casted |cff71d5ff|Hspell:20484:0|h[Rebirth]|h|r -> Larxx", -- [1]
+			"Qulian-Shattrath", -- [2]
 			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Sylvabez-TarrenMill", -- [5]
+			"", -- [4]
+			"Qulian-Shattrath", -- [5]
 			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			1754, -- [11]
-			"Player-1084-09B746A5", -- [12]
+			1217, -- [11]
+			"Player-1401-068F6313", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff38bb9Qulian-Shattrath|r",
+			[51] = 1605921500,
+			[50] = "CHAT_MSG_RAID",
+		}, -- [2]
+		{
+			"39", -- [1]
+			"Dämongirl-Kil'jaeden", -- [2]
+			"", -- [3]
+			"1. General - Icecrown", -- [4]
+			"Dämongirl-Kil'jaeden", -- [5]
+			"", -- [6]
+			1, -- [7]
+			1, -- [8]
+			"General - Icecrown", -- [9]
+			0, -- [10]
+			1288, -- [11]
+			"Player-1104-07A54203", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			true, -- [17]
-			[52] = "|cfffe7b09Sylvabez|r",
-			[51] = 1605488682,
+			[52] = "|cffa22fc8Dämongirl-Kil'jaeden|r",
+			[51] = 1605921858,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [2]
-		{
-			"that dps", -- [1]
-			"Crowbowie-TwistingNether", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Crowbowie-TwistingNether", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1765, -- [11]
-			"Player-3674-09E95A77", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa9d271Crowbowie-TwistingNether|r",
-			[51] = 1605488783,
-			[50] = "CHAT_MSG_INSTANCE_CHAT",
 		}, -- [3]
 		{
-			"low lvl ain't scalled", -- [1]
-			"Shamtastic-Darkspear", -- [2]
-			"", -- [3]
+			"WILL IT WAKE UP???", -- [1]
+			"Tiflomeni-Kazzak", -- [2]
+			"Orcish", -- [3]
 			"", -- [4]
-			"Shamtastic-Darkspear", -- [5]
+			"Tiflomeni-Kazzak", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1771, -- [11]
-			"Player-633-0A818416", -- [12]
+			1291, -- [11]
+			"Player-1305-0BA28EC4", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff006fdcShamtastic-Darkspear|r",
-			[51] = 1605488794,
-			[50] = "CHAT_MSG_INSTANCE_CHAT",
+			[52] = "|cff3ec6eaTiflomeni-Kazzak|r",
+			[51] = 1605921887,
+			[50] = "CHAT_MSG_YELL",
 		}, -- [4]
 		{
-			"anyting lower than 20 just do insane dps", -- [1]
-			"Shamtastic-Darkspear", -- [2]
-			"", -- [3]
+			"LAGGGG", -- [1]
+			"Shariel-Ragnaros", -- [2]
+			"Orcish", -- [3]
 			"", -- [4]
-			"Shamtastic-Darkspear", -- [5]
+			"Shariel-Ragnaros", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1772, -- [11]
-			"Player-633-0A818416", -- [12]
+			1293, -- [11]
+			"Player-3682-0990DDB2", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff006fdcShamtastic-Darkspear|r",
-			[51] = 1605488803,
-			[50] = "CHAT_MSG_INSTANCE_CHAT",
+			[52] = "|cfffef367Shariel-Ragnaros|r",
+			[51] = 1605921928,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [5]
 		{
-			"1.4", -- [1]
-			"Crowbowie-TwistingNether", -- [2]
-			"", -- [3]
+			"LAAAG", -- [1]
+			"Phoboos-Anetheron", -- [2]
+			"Orcish", -- [3]
 			"", -- [4]
-			"Crowbowie-TwistingNether", -- [5]
+			"Phoboos-Anetheron", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1773, -- [11]
-			"Player-3674-09E95A77", -- [12]
+			1294, -- [11]
+			"Player-1104-04057F70", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa9d271Crowbowie-TwistingNether|r",
-			[51] = 1605488812,
-			[50] = "CHAT_MSG_INSTANCE_CHAT",
+			[52] = "|cffc59a6cPhoboos-Anetheron|r",
+			[51] = 1605921928,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [6]
 		{
-			"lol", -- [1]
-			"Crowbowie-TwistingNether", -- [2]
-			"", -- [3]
+			"nice SHADOWLANDS", -- [1]
+			"Tiflomeni-Kazzak", -- [2]
+			"Orcish", -- [3]
 			"", -- [4]
-			"Crowbowie-TwistingNether", -- [5]
+			"Tiflomeni-Kazzak", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1774, -- [11]
-			"Player-3674-09E95A77", -- [12]
+			1295, -- [11]
+			"Player-1305-0BA28EC4", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa9d271Crowbowie-TwistingNether|r",
-			[51] = 1605488813,
-			[50] = "CHAT_MSG_INSTANCE_CHAT",
+			[52] = "|cff3ec6eaTiflomeni-Kazzak|r",
+			[51] = 1605921938,
+			[50] = "CHAT_MSG_YELL",
 		}, -- [7]
 		{
-			"calm down :D", -- [1]
-			"Crowbowie-TwistingNether", -- [2]
+			"Lag?", -- [1]
+			"Lilgil-Draenor", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Crowbowie-TwistingNether", -- [5]
+			"Lilgil-Draenor", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1821, -- [11]
-			"Player-3674-09E95A77", -- [12]
+			1296, -- [11]
+			"Player-1403-08973DA1", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa9d271Crowbowie-TwistingNether|r",
-			[51] = 1605489085,
-			[50] = "CHAT_MSG_INSTANCE_CHAT",
+			[52] = "|cff006fdcLilgil-Draenor|r",
+			[51] = 1605921945,
+			[50] = "CHAT_MSG_RAID",
 		}, -- [8]
 		{
-			"Ricocheting Throw on Crowbowie", -- [1]
-			"Crowbowie-TwistingNether", -- [2]
-			"Orcish", -- [3]
+			"+", -- [1]
+			"Айссая-Борейскаятундра", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Crowbowie-TwistingNether", -- [5]
+			"Айссая-Борейскаятундра", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1834, -- [11]
-			"Player-3674-09E95A77", -- [12]
+			1297, -- [11]
+			"Player-1929-0E2E1C6E", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa9d271Crowbowie-TwistingNether|r",
-			[51] = 1605489242,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffa9d271Айссая-Борейскаятундра|r",
+			[51] = 1605921950,
+			[50] = "CHAT_MSG_RAID",
 		}, -- [9]
 		{
-			"Ricocheting Throw on Shamtastic", -- [1]
-			"Shamtastic-Darkspear", -- [2]
+			"LAAG", -- [1]
+			"Kiy-Blackmoore", -- [2]
 			"Orcish", -- [3]
 			"", -- [4]
-			"Shamtastic-Darkspear", -- [5]
+			"Kiy-Blackmoore", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1836, -- [11]
-			"Player-633-0A818416", -- [12]
+			1298, -- [11]
+			"Player-580-082E08C5", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff006fdcShamtastic-Darkspear|r",
-			[51] = 1605489260,
+			[52] = "|cff006fdcKiy-Blackmoore|r",
+			[51] = 1605921951,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [10]
 		{
-			"Ricocheting Throw on Lyokii", -- [1]
-			"Lyokii-TarrenMill", -- [2]
+			"nah gar nicht", -- [1]
+			"Maxmustamaan-Blackrock", -- [2]
 			"Orcish", -- [3]
 			"", -- [4]
-			"Lyokii-TarrenMill", -- [5]
+			"Maxmustamaan-Blackrock", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1855, -- [11]
-			"Player-1084-09EEA808", -- [12]
+			1299, -- [11]
+			"Player-581-09D5AE3C", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff8687edLyokii|r",
-			[51] = 1605489375,
+			[52] = "|cfffefefeMaxmustamaan-Blackrock|r",
+			[51] = 1605921951,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [11]
 		{
-			"I think we don't need to do bosses", -- [1]
-			"Crowbowie-TwistingNether", -- [2]
-			"", -- [3]
+			"idem", -- [1]
+			"Dardgeler-Chantséternels", -- [2]
+			"Orcish", -- [3]
 			"", -- [4]
-			"Crowbowie-TwistingNether", -- [5]
+			"Dardgeler-Chantséternels", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1865, -- [11]
-			"Player-3674-09E95A77", -- [12]
+			1300, -- [11]
+			"Player-510-05EBE7E6", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa9d271Crowbowie-TwistingNether|r",
-			[51] = 1605489474,
-			[50] = "CHAT_MSG_INSTANCE_CHAT",
+			[52] = "|cffc31d39Dardgeler-Chantséternels|r",
+			[51] = 1605921951,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [12]
 		{
-			"ok", -- [1]
-			"Ieni-TarrenMill", -- [2]
-			"", -- [3]
+			"IMAGINE WHEN IT COMES LIIVE LOL", -- [1]
+			"Tiflomeni-Kazzak", -- [2]
+			"Orcish", -- [3]
 			"", -- [4]
-			"Ieni-TarrenMill", -- [5]
+			"Tiflomeni-Kazzak", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1867, -- [11]
-			"Player-1084-0834151F", -- [12]
+			1301, -- [11]
+			"Player-1305-0BA28EC4", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff38bb9Ieni|r",
-			[51] = 1605489481,
-			[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
+			[52] = "|cff3ec6eaTiflomeni-Kazzak|r",
+			[51] = 1605921951,
+			[50] = "CHAT_MSG_YELL",
 		}, -- [13]
 		{
-			"cause we don't need ilvl", -- [1]
-			"Crowbowie-TwistingNether", -- [2]
-			"", -- [3]
+			"lag xD", -- [1]
+			"Malphite-BronzeDragonflight", -- [2]
+			"Orcish", -- [3]
 			"", -- [4]
-			"Crowbowie-TwistingNether", -- [5]
+			"Malphite-BronzeDragonflight", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1869, -- [11]
-			"Player-3674-09E95A77", -- [12]
+			1302, -- [11]
+			"Player-1393-096F4C4E", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa9d271Crowbowie-TwistingNether|r",
-			[51] = 1605489483,
-			[50] = "CHAT_MSG_INSTANCE_CHAT",
+			[52] = "|cff00fe97Malphite-BronzeDragonflight|r",
+			[51] = 1605921951,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [14]
 		{
-			"we have to do this now?", -- [1]
-			"Shamtastic-Darkspear", -- [2]
-			"", -- [3]
+			"what kind of hamster server is this", -- [1]
+			"Seraleth-TarrenMill", -- [2]
+			"Orcish", -- [3]
 			"", -- [4]
-			"Shamtastic-Darkspear", -- [5]
+			"Seraleth-TarrenMill", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1872, -- [11]
-			"Player-633-0A818416", -- [12]
+			1303, -- [11]
+			"Player-1084-09D138FC", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff006fdcShamtastic-Darkspear|r",
-			[51] = 1605489494,
-			[50] = "CHAT_MSG_INSTANCE_CHAT",
+			[52] = "|cffc31d39Seraleth|r",
+			[51] = 1605921951,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [15]
 		{
-			"we need just exp", -- [1]
-			"Crowbowie-TwistingNether", -- [2]
-			"", -- [3]
+			"potato server", -- [1]
+			"Parrukka-TarrenMill", -- [2]
+			"Orcish", -- [3]
 			"", -- [4]
-			"Crowbowie-TwistingNether", -- [5]
+			"Parrukka-TarrenMill", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1873, -- [11]
-			"Player-3674-09E95A77", -- [12]
+			1304, -- [11]
+			"Player-1084-07D3FCD4", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa9d271Crowbowie-TwistingNether|r",
-			[51] = 1605489507,
-			[50] = "CHAT_MSG_INSTANCE_CHAT",
+			[52] = "|cff00fe97Parrukka|r",
+			[51] = 1605921951,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [16]
 		{
-			"i don't even do that on my tank", -- [1]
-			"Shamtastic-Darkspear", -- [2]
-			"", -- [3]
+			"laaggg", -- [1]
+			"Shariel-Ragnaros", -- [2]
+			"Orcish", -- [3]
 			"", -- [4]
-			"Shamtastic-Darkspear", -- [5]
+			"Shariel-Ragnaros", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1882, -- [11]
-			"Player-633-0A818416", -- [12]
+			1305, -- [11]
+			"Player-3682-0990DDB2", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff006fdcShamtastic-Darkspear|r",
-			[51] = 1605489580,
-			[50] = "CHAT_MSG_INSTANCE_CHAT",
+			[52] = "|cfffef367Shariel-Ragnaros|r",
+			[51] = 1605921964,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [17]
 		{
-			"loool", -- [1]
-			"Crowbowie-TwistingNether", -- [2]
-			"", -- [3]
+			"lagggg", -- [1]
+			"Runíc-Draenor", -- [2]
+			"Orcish", -- [3]
 			"", -- [4]
-			"Crowbowie-TwistingNether", -- [5]
+			"Runíc-Draenor", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1883, -- [11]
-			"Player-3674-09E95A77", -- [12]
+			1306, -- [11]
+			"Player-1403-098F411F", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa9d271Crowbowie-TwistingNether|r",
-			[51] = 1605489590,
-			[50] = "CHAT_MSG_INSTANCE_CHAT",
+			[52] = "|cff3ec6eaRuníc-Draenor|r",
+			[51] = 1605921964,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [18]
 		{
-			"Leni -", -- [1]
-			"Shamtastic-Darkspear", -- [2]
-			"", -- [3]
+			"WOW", -- [1]
+			"Coldbloodxx-TwistingNether", -- [2]
+			"Orcish", -- [3]
 			"", -- [4]
-			"Shamtastic-Darkspear", -- [5]
+			"Coldbloodxx-TwistingNether", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1884, -- [11]
-			"Player-633-0A818416", -- [12]
+			1307, -- [11]
+			"Player-3674-08BBE6AC", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff006fdcShamtastic-Darkspear|r",
-			[51] = 1605489620,
-			[50] = "CHAT_MSG_INSTANCE_CHAT",
+			[52] = "|cfffef367Coldbloodxx-TwistingNether|r",
+			[51] = 1605921978,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [19]
 		{
-			"anything less and i don't need a healer", -- [1]
-			"Ieni-TarrenMill", -- [2]
-			"", -- [3]
+			"wtf xd ", -- [1]
+			"Kubsonowski-BurningLegion", -- [2]
+			"Orcish", -- [3]
 			"", -- [4]
-			"Ieni-TarrenMill", -- [5]
+			"Kubsonowski-BurningLegion", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1887, -- [11]
-			"Player-1084-0834151F", -- [12]
+			1308, -- [11]
+			"Player-3713-0A6DF16B", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff38bb9Ieni|r",
-			[51] = 1605489646,
-			[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
+			[52] = "|cfffef367Kubsonowski-BurningLegion|r",
+			[51] = 1605921978,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [20]
 		{
-			"do you mean healer and seen a OP tank do what you're doing and think you can do it too?", -- [1]
-			"Shamtastic-Darkspear", -- [2]
+			"T_T", -- [1]
+			"Dardgeler-Chantséternels", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Shamtastic-Darkspear", -- [5]
+			"Dardgeler-Chantséternels", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1888, -- [11]
-			"Player-633-0A818416", -- [12]
+			1310, -- [11]
+			"Player-510-05EBE7E6", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff006fdcShamtastic-Darkspear|r",
-			[51] = 1605489646,
-			[50] = "CHAT_MSG_INSTANCE_CHAT",
+			[52] = "|cffc31d39Dardgeler-Chantséternels|r",
+			[51] = 1605921983,
+			[50] = "CHAT_MSG_RAID",
 		}, -- [21]
 		{
-			"thats just it tho", -- [1]
-			"Shamtastic-Darkspear", -- [2]
+			"fucking lag", -- [1]
+			"Dardgeler-Chantséternels", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Shamtastic-Darkspear", -- [5]
+			"Dardgeler-Chantséternels", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1889, -- [11]
-			"Player-633-0A818416", -- [12]
+			1311, -- [11]
+			"Player-510-05EBE7E6", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff006fdcShamtastic-Darkspear|r",
-			[51] = 1605489663,
-			[50] = "CHAT_MSG_INSTANCE_CHAT",
+			[52] = "|cffc31d39Dardgeler-Chantséternels|r",
+			[51] = 1605921987,
+			[50] = "CHAT_MSG_RAID",
 		}, -- [22]
 		{
-			"you do need a healer", -- [1]
-			"Shamtastic-Darkspear", -- [2]
-			"", -- [3]
+			"WE PAY EVERY MONTH AND THEY CANT BUY DECENT SERVERS FFS ROFL", -- [1]
+			"Tiflomeni-Kazzak", -- [2]
+			"Orcish", -- [3]
 			"", -- [4]
-			"Shamtastic-Darkspear", -- [5]
+			"Tiflomeni-Kazzak", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1890, -- [11]
-			"Player-633-0A818416", -- [12]
+			1312, -- [11]
+			"Player-1305-0BA28EC4", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff006fdcShamtastic-Darkspear|r",
-			[51] = 1605489667,
-			[50] = "CHAT_MSG_INSTANCE_CHAT",
+			[52] = "|cff3ec6eaTiflomeni-Kazzak|r",
+			[51] = 1605921990,
+			[50] = "CHAT_MSG_YELL",
 		}, -- [23]
 		{
-			"%s has earned the achievement |cffffff00|Hachievement:14271:Player-1084-0834151D:1:11:16:20:4294967295:4294967295:4294967295:4294967295|h[WoW's 16th Anniversary]|h|r!", -- [1]
-			"Talizea-TarrenMill", -- [2]
-			"", -- [3]
+			"lagggggg", -- [1]
+			"Karmapolice-Dentarg", -- [2]
+			"Orcish", -- [3]
 			"", -- [4]
-			"Talizea-TarrenMill", -- [5]
+			"Karmapolice-Dentarg", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1891, -- [11]
-			"Player-1084-0834151D", -- [12]
+			1313, -- [11]
+			"Player-1084-09CC3C03", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc31d39Talizea|r",
-			[51] = 1605489667,
-			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+			[52] = "|cffc31d39Karmapolice-Dentarg|r",
+			[51] = 1605921990,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [24]
 		{
-			"infact out of all the tanks tonight you're the first ive had to check the gear for", -- [1]
-			"Shamtastic-Darkspear", -- [2]
-			"", -- [3]
+			"laaaggg", -- [1]
+			"Chorby-Uldaman", -- [2]
+			"Orcish", -- [3]
 			"", -- [4]
-			"Shamtastic-Darkspear", -- [5]
+			"Chorby-Uldaman", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1895, -- [11]
-			"Player-633-0A818416", -- [12]
+			1314, -- [11]
+			"Player-1122-0635636F", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff006fdcShamtastic-Darkspear|r",
-			[51] = 1605489697,
-			[50] = "CHAT_MSG_INSTANCE_CHAT",
+			[52] = "|cff006fdcChorby-Uldaman|r",
+			[51] = 1605921990,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [25]
 		{
-			"Cannon Barrage on Shamtastic", -- [1]
-			"Shamtastic-Darkspear", -- [2]
-			"Orcish", -- [3]
+			"wtf is this", -- [1]
+			"Aiecutie-Drak'thul", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Shamtastic-Darkspear", -- [5]
+			"Aiecutie-Drak'thul", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1897, -- [11]
-			"Player-633-0A818416", -- [12]
+			1315, -- [11]
+			"Player-1092-09D355D9", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff006fdcShamtastic-Darkspear|r",
-			[51] = 1605489709,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cff006fdcAiecutie-Drak'thul|r",
+			[51] = 1605922000,
+			[50] = "CHAT_MSG_RAID_LEADER",
 		}, -- [26]
 		{
-			"as you're taking alot of dmg", -- [1]
-			"Shamtastic-Darkspear", -- [2]
+			"kfub  cerf", -- [1]
+			"Ранкстар-Галакронд", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Shamtastic-Darkspear", -- [5]
+			"Ранкстар-Галакронд", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1898, -- [11]
-			"Player-633-0A818416", -- [12]
+			1316, -- [11]
+			"Player-1614-068DC0CD", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff006fdcShamtastic-Darkspear|r",
-			[51] = 1605489709,
-			[50] = "CHAT_MSG_INSTANCE_CHAT",
+			[52] = "|cfffe7b09Ранкстар-Галакронд|r",
+			[51] = 1605922002,
+			[50] = "CHAT_MSG_RAID",
 		}, -- [27]
 		{
-			"i know that you are not very good", -- [1]
-			"Ieni-TarrenMill", -- [2]
-			"", -- [3]
+			"omg", -- [1]
+			"Karmapolice-Dentarg", -- [2]
+			"Orcish", -- [3]
 			"", -- [4]
-			"Ieni-TarrenMill", -- [5]
+			"Karmapolice-Dentarg", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1899, -- [11]
-			"Player-1084-0834151F", -- [12]
+			1317, -- [11]
+			"Player-1084-09CC3C03", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff38bb9Ieni|r",
-			[51] = 1605489725,
-			[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
+			[52] = "|cffc31d39Karmapolice-Dentarg|r",
+			[51] = 1605922003,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [28]
 		{
-			"but you can work on yourself and maybe improve", -- [1]
-			"Ieni-TarrenMill", -- [2]
-			"", -- [3]
+			"I am sure release will go great", -- [1]
+			"Lilgil-Draenor", -- [2]
+			"Orcish", -- [3]
 			"", -- [4]
-			"Ieni-TarrenMill", -- [5]
+			"Lilgil-Draenor", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1900, -- [11]
-			"Player-1084-0834151F", -- [12]
+			1318, -- [11]
+			"Player-1403-08973DA1", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff38bb9Ieni|r",
-			[51] = 1605489730,
-			[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
+			[52] = "|cff006fdcLilgil-Draenor|r",
+			[51] = 1605922003,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [29]
 		{
-			"i'm shit yes", -- [1]
-			"Shamtastic-Darkspear", -- [2]
-			"", -- [3]
+			"FUCK", -- [1]
+			"Shariel-Ragnaros", -- [2]
+			"Orcish", -- [3]
 			"", -- [4]
-			"Shamtastic-Darkspear", -- [5]
+			"Shariel-Ragnaros", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1901, -- [11]
-			"Player-633-0A818416", -- [12]
+			1319, -- [11]
+			"Player-3682-0990DDB2", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff006fdcShamtastic-Darkspear|r",
-			[51] = 1605489734,
-			[50] = "CHAT_MSG_INSTANCE_CHAT",
+			[52] = "|cfffef367Shariel-Ragnaros|r",
+			[51] = 1605922003,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [30]
 		{
-			"i don't mind", -- [1]
-			"Ieni-TarrenMill", -- [2]
-			"", -- [3]
+			",tityyst kfub", -- [1]
+			"Ранкстар-Галакронд", -- [2]
+			"Orcish", -- [3]
 			"", -- [4]
-			"Ieni-TarrenMill", -- [5]
+			"Ранкстар-Галакронд", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1902, -- [11]
-			"Player-1084-0834151F", -- [12]
+			1320, -- [11]
+			"Player-1614-068DC0CD", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff38bb9Ieni|r",
-			[51] = 1605489737,
-			[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
+			[52] = "|cfffe7b09Ранкстар-Галакронд|r",
+			[51] = 1605922013,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [31]
 		{
-			"Cannon Barrage on Lyokii", -- [1]
-			"Lyokii-TarrenMill", -- [2]
-			"Orcish", -- [3]
+			"omg lags", -- [1]
+			"Ранкстар-Галакронд", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Lyokii-TarrenMill", -- [5]
+			"Ранкстар-Галакронд", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1905, -- [11]
-			"Player-1084-09EEA808", -- [12]
+			1321, -- [11]
+			"Player-1614-068DC0CD", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff8687edLyokii|r",
-			[51] = 1605489738,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cfffe7b09Ранкстар-Галакронд|r",
+			[51] = 1605922014,
+			[50] = "CHAT_MSG_RAID",
 		}, -- [32]
 		{
-			"Cannon Barrage on Crowbowie", -- [1]
-			"Crowbowie-TwistingNether", -- [2]
+			"piratka", -- [1]
+			"Темнолом-СвежевательДуш", -- [2]
 			"Orcish", -- [3]
 			"", -- [4]
-			"Crowbowie-TwistingNether", -- [5]
+			"Темнолом-СвежевательДуш", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1906, -- [11]
-			"Player-3674-09E95A77", -- [12]
+			1344, -- [11]
+			"Player-1604-0E96D43A", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa9d271Crowbowie-TwistingNether|r",
-			[51] = 1605489738,
+			[52] = "|cffc59a6cТемнолом-СвежевательДуш|r",
+			[51] = 1605922023,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [33]
 		{
-			"%s has earned the achievement |cffffff00|Hachievement:12831:Player-1084-09EEA808:1:11:16:20:4294967295:4294967295:4294967295:4294967295|h[Freehold]|h|r!", -- [1]
-			"Lyokii-TarrenMill", -- [2]
-			"", -- [3]
+			"can't wait", -- [1]
+			"Gáladrîel-Kazzak", -- [2]
+			"Orcish", -- [3]
 			"", -- [4]
-			"Lyokii-TarrenMill", -- [5]
+			"Gáladrîel-Kazzak", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1911, -- [11]
-			"Player-1084-09EEA808", -- [12]
+			1345, -- [11]
+			"Player-1305-0B824C6A", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff8687edLyokii|r",
-			[51] = 1605489755,
-			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+			[52] = "|cff3ec6eaGáladrîel-Kazzak|r",
+			[51] = 1605922023,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [34]
 		{
-			"you don't grasp what a tank is suppose to do ", -- [1]
-			"Shamtastic-Darkspear", -- [2]
-			"", -- [3]
+			"will be fine", -- [1]
+			"Apexpreda-Draenor", -- [2]
+			"Orcish", -- [3]
 			"", -- [4]
-			"Shamtastic-Darkspear", -- [5]
+			"Apexpreda-Draenor", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1916, -- [11]
-			"Player-633-0A818416", -- [12]
+			1346, -- [11]
+			"Player-1403-0683A156", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff006fdcShamtastic-Darkspear|r",
-			[51] = 1605489758,
-			[50] = "CHAT_MSG_INSTANCE_CHAT",
+			[52] = "|cffa9d271Apexpreda-Draenor|r",
+			[51] = 1605922023,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [35]
 		{
-			"WTS|cff71d5ff|Hspell:261395:0|h[The Hivemind]|h|r|cff71d5ff|Hspell:290718:0|h[Aerial Unit R-21/X]|h|r|cff71d5ff|Hspell:247402:0|h[Lucid Nightmare]|h|r|cff71d5ff|Hspell:231428:0|h[Smoldering Ember Wyrm]|h|r16-50 Lvl / 10 - 20 M+ Key Boost /w For price", -- [1]
-			"Royalboost-TarrenMill", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Royalboost-TarrenMill", -- [5]
+			"release will be great ", -- [1]
+			"Krombi-Draenor", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Krombi-Draenor", -- [5]
 			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			1944, -- [11]
-			"Player-1084-09EB3B1E", -- [12]
+			1347, -- [11]
+			"Player-1403-07FFD2F1", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffef367Krombi-Draenor|r",
+			[51] = 1605922030,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [36]
+		{
+			"holy shit", -- [1]
+			"Runíc-Draenor", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Runíc-Draenor", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			1348, -- [11]
+			"Player-1403-098F411F", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff3ec6eaRuníc-Draenor|r",
+			[51] = 1605922030,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [37]
+		{
+			"NICE REALM MERGING", -- [1]
+			"Nèluthen-Uldum", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Nèluthen-Uldum", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			1349, -- [11]
+			"Player-1379-07EC67B9", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffe7b09Nèluthen-Uldum|r",
+			[51] = 1605922030,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [38]
+		{
+			"XDDDDDD", -- [1]
+			"Kubsonowski-BurningLegion", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Kubsonowski-BurningLegion", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			1350, -- [11]
+			"Player-3713-0A6DF16B", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffef367Kubsonowski-BurningLegion|r",
+			[51] = 1605922030,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [39]
+		{
+			"gj guys", -- [1]
+			"Maxmustamaan-Blackrock", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Maxmustamaan-Blackrock", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			1351, -- [11]
+			"Player-581-09D5AE3C", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffefefeMaxmustamaan-Blackrock|r",
+			[51] = 1605922030,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [40]
+		{
+			"2 many dicks on the dancefloor", -- [1]
+			"Feos-Mal'Ganis", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Feos-Mal'Ganis", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			1353, -- [11]
+			"Player-3691-0924E80D", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff3ec6eaFeos-Mal'Ganis|r",
+			[51] = 1605922038,
+			[50] = "CHAT_MSG_YELL",
+		}, -- [41]
+		{
+			"wtffff guys", -- [1]
+			"Kiy-Blackmoore", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Kiy-Blackmoore", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			1354, -- [11]
+			"Player-580-082E08C5", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff006fdcKiy-Blackmoore|r",
+			[51] = 1605922038,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [42]
+		{
+			"Stop", -- [1]
+			"Bighits-Blackmoore", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Bighits-Blackmoore", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			1355, -- [11]
+			"Player-580-09EAF143", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc31d39Bighits-Blackmoore|r",
+			[51] = 1605922038,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [43]
+		{
+			"im gay", -- [1]
+			"Karmapolice-Dentarg", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Karmapolice-Dentarg", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			1356, -- [11]
+			"Player-1084-09CC3C03", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc31d39Karmapolice-Dentarg|r",
+			[51] = 1605922046,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [44]
+		{
+			"good luck looting", -- [1]
+			"Tiflomeni-Kazzak", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Tiflomeni-Kazzak", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			1357, -- [11]
+			"Player-1305-0BA28EC4", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff3ec6eaTiflomeni-Kazzak|r",
+			[51] = 1605922046,
+			[50] = "CHAT_MSG_YELL",
+		}, -- [45]
+		{
+			"+", -- [1]
+			"Урбаган-ЧерныйШрам", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Урбаган-ЧерныйШрам", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			1358, -- [11]
+			"Player-1929-028ADACF", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffef367Урбаган-ЧерныйШрам|r",
+			[51] = 1605922046,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [46]
+		{
+			"FIRST REALM BOYS", -- [1]
+			"Cruelsmile-Kazzak", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Cruelsmile-Kazzak", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			1359, -- [11]
+			"Player-1305-0BAB6742", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffe7b09Cruelsmile-Kazzak|r",
+			[51] = 1605922046,
+			[50] = "CHAT_MSG_YELL",
+		}, -- [47]
+		{
+			"SERVERS READY BOYS", -- [1]
+			"Nèluthen-Uldum", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Nèluthen-Uldum", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			1367, -- [11]
+			"Player-1379-07EC67B9", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffe7b09Nèluthen-Uldum|r",
+			[51] = 1605922054,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [48]
+		{
+			"here sfor loot ", -- [1]
+			"Tofy-TwistingNether", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Tofy-TwistingNether", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			1368, -- [11]
+			"Player-3674-07E472B5", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffefefeTofy-TwistingNether|r",
+			[51] = 1605922054,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [49]
+		{
+			"We did it", -- [1]
+			"Irsy-Kazzak", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Irsy-Kazzak", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			1369, -- [11]
+			"Player-1305-0BAB2344", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff3ec6eaIrsy-Kazzak|r",
+			[51] = 1605922054,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [50]
+		{
+			"all world is here", -- [1]
+			"Chorby-Uldaman", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Chorby-Uldaman", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			1370, -- [11]
+			"Player-1122-0635636F", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff006fdcChorby-Uldaman|r",
+			[51] = 1605922054,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [51]
+		{
+			"WTF", -- [1]
+			"Crowleigh-Thrall", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Crowleigh-Thrall", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			1371, -- [11]
+			"Player-604-09ED476B", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff38bb9Crowleigh-Thrall|r",
+			[51] = 1605922054,
+			[50] = "CHAT_MSG_YELL",
+		}, -- [52]
+		{
+			"keep inviting more", -- [1]
+			"Gieksa-Al'Akir", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Gieksa-Al'Akir", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			1372, -- [11]
+			"Player-3713-09D3BA4D", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff38bb9Gieksa-Al'Akir|r",
+			[51] = 1605922054,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [53]
+		{
+			"bye bye server :D", -- [1]
+			"Dämongirl-Kil'jaeden", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Dämongirl-Kil'jaeden", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			1373, -- [11]
+			"Player-1104-07A54203", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa22fc8Dämongirl-Kil'jaeden|r",
+			[51] = 1605922054,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [54]
+		{
+			"xD", -- [1]
+			"Silentsword-Drak'thul", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Silentsword-Drak'thul", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			1374, -- [11]
+			"Player-1092-09E5256C", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff8687edSilentsword-Drak'thul|r",
+			[51] = 1605922054,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [55]
+		{
+			"CAN ANYONE LOOT?", -- [1]
+			"Dabenyi-Outland", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Dabenyi-Outland", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			1375, -- [11]
+			"Player-1301-0BAD2410", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffef367Dabenyi-Outland|r",
+			[51] = 1605922054,
+			[50] = "CHAT_MSG_YELL",
+		}, -- [56]
+		{
+			"|cff0070dd|Hitem:183200::::::::50:261:::::::|h[Pitch Black Scourgestone]|h|r", -- [1]
+			"Krombi-Draenor", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Krombi-Draenor", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			1378, -- [11]
+			"Player-1403-07FFD2F1", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffef367Krombi-Draenor|r",
+			[51] = 1605922055,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [57]
+		{
+			"PRESS UR AOE SPELLS", -- [1]
+			"Elmohuntz-Draenor", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Elmohuntz-Draenor", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			1389, -- [11]
+			"Player-1403-064F4E89", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa9d271Elmohuntz-Draenor|r",
+			[51] = 1605922056,
+			[50] = "CHAT_MSG_YELL",
+		}, -- [58]
+		{
+			"gimme them stones", -- [1]
+			"Molécul-Ner'zhul", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Molécul-Ner'zhul", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			1390, -- [11]
+			"Player-509-03EC35CD", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa9d271Molécul-Ner'zhul|r",
+			[51] = 1605922056,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [59]
+		{
+			"|cffffff00|Hworldmap:118:7780:6610|h[|A:Waypoint-MapPin-ChatIcon:13:13:0:0|a Map Pin Location]|h|r Novos the Summoner up now", -- [1]
+			"Naturalone-Magtheridon", -- [2]
+			"", -- [3]
+			"1. General - Icecrown", -- [4]
+			"Naturalone-Magtheridon", -- [5]
+			"", -- [6]
+			1, -- [7]
+			1, -- [8]
+			"General - Icecrown", -- [9]
+			0, -- [10]
+			1413, -- [11]
+			"Player-3681-08EEFDEB", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			true, -- [17]
-			[52] = "|cfffef367Royalboost|r",
-			[51] = 1605489852,
+			[52] = "|cfffe7b09Naturalone-Magtheridon|r",
+			[51] = 1605922280,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [36]
-		{
-			"Soulrend on Pandamonk", -- [1]
-			"Pandamonk-Kazzak", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Pandamonk-Kazzak", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			2045, -- [11]
-			"Player-1305-0BA31E97", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff00fe97Pandamonk-Kazzak|r",
-			[51] = 1605490694,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [37]
-		{
-			"%s has earned the achievement |cffffff00|Hachievement:12824:Player-1084-09EEA808:1:11:16:20:4294967295:4294967295:4294967295:4294967295|h[Atal'Dazar]|h|r!", -- [1]
-			"Lyokii-TarrenMill", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Lyokii-TarrenMill", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			2047, -- [11]
-			"Player-1084-09EEA808", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff8687edLyokii|r",
-			[51] = 1605490721,
-			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [38]
-		{
-			"%s has earned the achievement |cffffff00|Hachievement:7:Player-1084-09EEA808:1:11:16:20:4294967295:4294967295:4294967295:4294967295|h[Level 20]|h|r!", -- [1]
-			"Lyokii-TarrenMill", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Lyokii-TarrenMill", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			2048, -- [11]
-			"Player-1084-09EEA808", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff8687edLyokii|r",
-			[51] = 1605490721,
-			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [39]
-		{
-			"overrated", -- [1]
-			"Lindsey-BurningLegion", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Lindsey-BurningLegion", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			33, -- [11]
-			"Player-3713-097E228C", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffef367Lindsey-BurningLegion|r",
-			[51] = 1605492143,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [40]
-		{
-			";/", -- [1]
-			"Lindsey-BurningLegion", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Lindsey-BurningLegion", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			34, -- [11]
-			"Player-3713-097E228C", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffef367Lindsey-BurningLegion|r",
-			[51] = 1605492143,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [41]
-		{
-			"not rly", -- [1]
-			"Navarin-TwistingNether", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Navarin-TwistingNether", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			35, -- [11]
-			"Player-3674-05B1CB76", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3ec6eaNavarin-TwistingNether|r",
-			[51] = 1605492150,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [42]
-		{
-			"do u like my mount", -- [1]
-			"Lindsey-BurningLegion", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Lindsey-BurningLegion", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			38, -- [11]
-			"Player-3713-097E228C", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffef367Lindsey-BurningLegion|r",
-			[51] = 1605492163,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [43]
-		{
-			"yea :(", -- [1]
-			"Navarin-TwistingNether", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Navarin-TwistingNether", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			40, -- [11]
-			"Player-3674-05B1CB76", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3ec6eaNavarin-TwistingNether|r",
-			[51] = 1605492170,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [44]
-		{
-			"gief", -- [1]
-			"Navarin-TwistingNether", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Navarin-TwistingNether", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			41, -- [11]
-			"Player-3674-05B1CB76", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3ec6eaNavarin-TwistingNether|r",
-			[51] = 1605492172,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [45]
-		{
-			"you look like a clown", -- [1]
-			"Кельдалар-Ясеневыйлес", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Кельдалар-Ясеневыйлес", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			45, -- [11]
-			"Player-1923-02767DF3", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff38bb9Кельдалар-Ясеневыйлес|r",
-			[51] = 1605492175,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [46]
-		{
-			"said russian", -- [1]
-			"Lindsey-BurningLegion", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Lindsey-BurningLegion", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			48, -- [11]
-			"Player-3713-097E228C", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffef367Lindsey-BurningLegion|r",
-			[51] = 1605492184,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [47]
-		{
-			"x d", -- [1]
-			"Lindsey-BurningLegion", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Lindsey-BurningLegion", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			53, -- [11]
-			"Player-3713-097E228C", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffef367Lindsey-BurningLegion|r",
-			[51] = 1605492186,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [48]
-		{
-			"lol and?", -- [1]
-			"Кельдалар-Ясеневыйлес", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Кельдалар-Ясеневыйлес", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			54, -- [11]
-			"Player-1923-02767DF3", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff38bb9Кельдалар-Ясеневыйлес|r",
-			[51] = 1605492192,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [49]
-		{
-			"dont be jeaolus", -- [1]
-			"Navarin-TwistingNether", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Navarin-TwistingNether", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			56, -- [11]
-			"Player-3674-05B1CB76", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3ec6eaNavarin-TwistingNether|r",
-			[51] = 1605492193,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [50]
-		{
-			"Meow!", -- [1]
-			"Kîtten-TwistingNether", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Kîtten-TwistingNether", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			60, -- [11]
-			"Player-3674-07748970", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffe7b09Kîtten-TwistingNether|r",
-			[51] = 1605492205,
-			[50] = "CHAT_MSG_EMOTE",
-		}, -- [51]
-		{
-			"prince first", -- [1]
-			"Littleppcofc-TarrenMill", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Littleppcofc-TarrenMill", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			109, -- [11]
-			"Player-1084-09E9BFB1", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffe7b09Littleppcofc|r",
-			[51] = 1605492292,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [52]
-		{
-			"wm?", -- [1]
-			"Garok-Sinstralis", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Garok-Sinstralis", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			112, -- [11]
-			"Player-1621-0A458C32", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa9d271Garok-Sinstralis|r",
-			[51] = 1605492303,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [53]
-		{
-			"someone started skadi", -- [1]
-			"Mindpriest-Draenor", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Mindpriest-Draenor", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			120, -- [11]
-			"Player-1403-0730D33D", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffefefeMindpriest-Draenor|r",
-			[51] = 1605492326,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [54]
-		{
-			"slow with dps plz", -- [1]
-			"Omnihunt-Draenor", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Omnihunt-Draenor", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			126, -- [11]
-			"Player-1403-0897F576", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa9d271Omnihunt-Draenor|r",
-			[51] = 1605492336,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [55]
-		{
-			"many people coming", -- [1]
-			"Omnihunt-Draenor", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Omnihunt-Draenor", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			129, -- [11]
-			"Player-1403-0897F576", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa9d271Omnihunt-Draenor|r",
-			[51] = 1605492340,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [56]
-		{
-			"wait plz", -- [1]
-			"Teku-Drak'thul", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Teku-Drak'thul", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			131, -- [11]
-			"Player-1092-09788CB4", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff38bb9Teku-Drak'thul|r",
-			[51] = 1605492341,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [57]
-		{
-			"SLOW DPS WAIT FOR OTHERS!", -- [1]
-			"Omnihunt-Draenor", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Omnihunt-Draenor", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			133, -- [11]
-			"Player-1403-0897F576", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa9d271Omnihunt-Draenor|r",
-			[51] = 1605492372,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [58]
-		{
-			"BE NICE!", -- [1]
-			"Omnihunt-Draenor", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Omnihunt-Draenor", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			134, -- [11]
-			"Player-1403-0897F576", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa9d271Omnihunt-Draenor|r",
-			[51] = 1605492376,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [59]
-		{
-			"PRINCE", -- [1]
-			"Mictra-TarrenMill", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Mictra", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			175, -- [11]
-			"Player-1084-09DB823E", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffef367Mictra|r",
-			[51] = 1605492404,
-			[50] = "CHAT_MSG_RAID_WARNING",
 		}, -- [60]
 		{
-			"gz ", -- [1]
-			"Âriyané-Azshara", -- [2]
+			"Novos the Summoner |cffffff00|Hworldmap:118:5781:6129|h[|A:Waypoint-MapPin-ChatIcon:13:13:0:0|a Map Pin Location]|h|r", -- [1]
+			"Szturm-Draenor", -- [2]
 			"", -- [3]
-			"", -- [4]
-			"Âriyané-Azshara", -- [5]
+			"1. General - Icecrown", -- [4]
+			"Szturm-Draenor", -- [5]
 			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			1, -- [7]
+			1, -- [8]
+			"General - Icecrown", -- [9]
 			0, -- [10]
-			176, -- [11]
-			"Player-570-09E93AEE", -- [12]
+			1414, -- [11]
+			"Player-1403-09A65572", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffefefeÂriyané-Azshara|r",
-			[51] = 1605492415,
-			[50] = "CHAT_MSG_RAID",
+			true, -- [17]
+			[52] = "|cfffe7b09Szturm-Draenor|r",
+			[51] = 1605922291,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [61]
 		{
-			"gratz to mount", -- [1]
-			"Teku-Drak'thul", -- [2]
+			"novos first", -- [1]
+			"Illiary-Frostwolf", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Teku-Drak'thul", -- [5]
+			"Illiary-Frostwolf", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			177, -- [11]
-			"Player-1092-09788CB4", -- [12]
+			1442, -- [11]
+			"Player-3703-05A655B3", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff38bb9Teku-Drak'thul|r",
-			[51] = 1605492416,
-			[50] = "CHAT_MSG_RAID",
+			[52] = "|cffa22fc8Illiary-Frostwolf|r",
+			[51] = 1605922524,
+			[50] = "CHAT_MSG_RAID_LEADER",
 		}, -- [62]
 		{
-			"that mount", -- [1]
-			"Âriyané-Azshara", -- [2]
+			"trollgore", -- [1]
+			"Pffphilipes-Drak'thul", -- [2]
 			"", -- [3]
-			"", -- [4]
-			"Âriyané-Azshara", -- [5]
+			"1. General - Icecrown", -- [4]
+			"Pffphilipes-Drak'thul", -- [5]
 			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			1, -- [7]
+			1, -- [8]
+			"General - Icecrown", -- [9]
 			0, -- [10]
-			178, -- [11]
-			"Player-570-09E93AEE", -- [12]
+			1483, -- [11]
+			"Player-1092-07100D0E", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffefefeÂriyané-Azshara|r",
-			[51] = 1605492418,
-			[50] = "CHAT_MSG_RAID",
+			true, -- [17]
+			[52] = "|cfffef367Pffphilipes-Drak'thul|r",
+			[51] = 1605922607,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [63]
 		{
-			"LADY", -- [1]
-			"Mictra-TarrenMill", -- [2]
+			"trollgore", -- [1]
+			"Gengimol-Mazrigos", -- [2]
 			"", -- [3]
-			"", -- [4]
-			"Mictra", -- [5]
+			"1. General - Icecrown", -- [4]
+			"Gengimol-Mazrigos", -- [5]
 			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			1, -- [7]
+			1, -- [8]
+			"General - Icecrown", -- [9]
 			0, -- [10]
-			220, -- [11]
-			"Player-1084-09DB823E", -- [12]
+			1484, -- [11]
+			"Player-1388-0A2470FC", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffef367Mictra|r",
-			[51] = 1605492475,
-			[50] = "CHAT_MSG_RAID_WARNING",
+			true, -- [17]
+			[52] = "|cff00fe97Gengimol-Mazrigos|r",
+			[51] = 1605922608,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [64]
 		{
-			"Black Knight -> Keleseth > Invgar > Other guy?", -- [1]
-			"Valieraa-Draenor", -- [2]
+			"may u pin?", -- [1]
+			"Marlborre-Draenor", -- [2]
 			"", -- [3]
-			"", -- [4]
-			"Valieraa-Draenor", -- [5]
+			"1. General - Icecrown", -- [4]
+			"Marlborre-Draenor", -- [5]
 			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			1, -- [7]
+			1, -- [8]
+			"General - Icecrown", -- [9]
 			0, -- [10]
-			275, -- [11]
-			"Player-1403-09A018C1", -- [12]
+			1485, -- [11]
+			"Player-1403-09A1C170", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffef367Valieraa-Draenor|r",
-			[51] = 1605492636,
-			[50] = "CHAT_MSG_RAID",
+			true, -- [17]
+			[52] = "|cff00fe97Marlborre-Draenor|r",
+			[51] = 1605922623,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [65]
 		{
-			"are we enough ?", -- [1]
-			"Idiefirst-Draenor", -- [2]
+			"thanks", -- [1]
+			"Marlborre-Draenor", -- [2]
 			"", -- [3]
-			"", -- [4]
-			"Idiefirst-Draenor", -- [5]
+			"1. General - Icecrown", -- [4]
+			"Marlborre-Draenor", -- [5]
 			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			1, -- [7]
+			1, -- [8]
+			"General - Icecrown", -- [9]
 			0, -- [10]
-			293, -- [11]
-			"Player-1403-0931C15F", -- [12]
+			1497, -- [11]
+			"Player-1403-09A1C170", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa22fc8Idiefirst-Draenor|r",
-			[51] = 1605492679,
-			[50] = "CHAT_MSG_RAID_LEADER",
+			true, -- [17]
+			[52] = "|cff00fe97Marlborre-Draenor|r",
+			[51] = 1605922656,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [66]
 		{
-			":D", -- [1]
-			"Idiefirst-Draenor", -- [2]
+			"Started?", -- [1]
+			"Cuailnge-Kazzak", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Idiefirst-Draenor", -- [5]
+			"Cuailnge-Kazzak", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			294, -- [11]
-			"Player-1403-0931C15F", -- [12]
+			1510, -- [11]
+			"Player-1305-0B7D0879", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa22fc8Idiefirst-Draenor|r",
-			[51] = 1605492680,
-			[50] = "CHAT_MSG_RAID_LEADER",
+			[52] = "|cfffe7b09Cuailnge-Kazzak|r",
+			[51] = 1605922698,
+			[50] = "CHAT_MSG_RAID",
 		}, -- [67]
 		{
-			"yep", -- [1]
-			"Valieraa-Draenor", -- [2]
+			"prophet first", -- [1]
+			"Ricksanchez-DefiasBrotherhood", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Valieraa-Draenor", -- [5]
+			"Ricksanchez-DefiasBrotherhood", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			295, -- [11]
-			"Player-1403-09A018C1", -- [12]
+			1516, -- [11]
+			"Player-1096-071A7839", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffef367Valieraa-Draenor|r",
-			[51] = 1605492685,
-			[50] = "CHAT_MSG_RAID",
+			[52] = "|cffc31d39Ricksanchez-DefiasBrotherhood|r",
+			[51] = 1605922705,
+			[50] = "CHAT_MSG_RAID_LEADER",
 		}, -- [68]
 		{
-			"nein", -- [1]
-			"Aschente-TarrenMill", -- [2]
+			"Trollgore |cffffff00|Hworldmap:118:6885:2312|h[|A:Waypoint-MapPin-ChatIcon:13:13:0:0|a Map Pin Location]|h|r", -- [1]
+			"Vyindra-Draenor", -- [2]
 			"", -- [3]
-			"", -- [4]
-			"Aschente-TarrenMill", -- [5]
+			"1. General - Icecrown", -- [4]
+			"Vyindra-Draenor", -- [5]
 			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			1, -- [7]
+			1, -- [8]
+			"General - Icecrown", -- [9]
 			0, -- [10]
-			297, -- [11]
-			"Player-1084-09C0C8C6", -- [12]
+			1561, -- [11]
+			"Player-1403-0784C248", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff38bb9Aschente|r",
-			[51] = 1605492689,
-			[50] = "CHAT_MSG_RAID",
+			true, -- [17]
+			[52] = "|cfff38bb9Vyindra-Draenor|r",
+			[51] = 1605922878,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [69]
 		{
-			"plenty", -- [1]
-			"Valieraa-Draenor", -- [2]
+			"server reset?", -- [1]
+			"Ricksanchez-DefiasBrotherhood", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Valieraa-Draenor", -- [5]
+			"Ricksanchez-DefiasBrotherhood", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			298, -- [11]
-			"Player-1403-09A018C1", -- [12]
+			1606, -- [11]
+			"Player-1096-071A7839", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffef367Valieraa-Draenor|r",
-			[51] = 1605492689,
-			[50] = "CHAT_MSG_RAID",
+			[52] = "|cffc31d39Ricksanchez-DefiasBrotherhood|r",
+			[51] = 1605923033,
+			[50] = "CHAT_MSG_RAID_LEADER",
 		}, -- [70]
 		{
-			"YEP COCK", -- [1]
-			"Talizeadr-TarrenMill", -- [2]
-			"", -- [3]
+			"FUICK LALAL", -- [1]
+			"Løyva-Kazzak", -- [2]
+			"Orcish", -- [3]
 			"", -- [4]
-			"Talizeadr-TarrenMill", -- [5]
+			"Løyva-Kazzak", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			299, -- [11]
-			"Player-1084-0853F71A", -- [12]
+			1638, -- [11]
+			"Player-1305-0B748AFD", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffe7b09Talizeadr|r",
-			[51] = 1605492692,
-			[50] = "CHAT_MSG_RAID",
+			[52] = "|cffa22fc8Løyva-Kazzak|r",
+			[51] = 1605923075,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [71]
 		{
-			"YES", -- [1]
-			"Mictra-TarrenMill", -- [2]
+			"why is the server shutting down on the weekend?", -- [1]
+			"Nurgoul-Draenor", -- [2]
 			"", -- [3]
-			"", -- [4]
-			"Mictra-TarrenMill", -- [5]
+			"1. General - Icecrown", -- [4]
+			"Nurgoul-Draenor", -- [5]
 			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			1, -- [7]
+			1, -- [8]
+			"General - Icecrown", -- [9]
 			0, -- [10]
-			300, -- [11]
-			"Player-1084-09DB823E", -- [12]
+			1657, -- [11]
+			"Player-1403-09952E91", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffef367Mictra|r",
-			[51] = 1605492695,
-			[50] = "CHAT_MSG_RAID",
+			true, -- [17]
+			[52] = "|cffc31d39Nurgoul-Draenor|r",
+			[51] = 1605923092,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [72]
 		{
-			"people are coming", -- [1]
-			"Valieraa-Draenor", -- [2]
+			"hi", -- [1]
+			"Chorby-Uldaman", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Valieraa-Draenor", -- [5]
+			"Chorby-Uldaman", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			301, -- [11]
-			"Player-1403-09A018C1", -- [12]
+			1665, -- [11]
+			"Player-1122-0635636F", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffef367Valieraa-Draenor|r",
-			[51] = 1605492696,
+			[52] = "|cff006fdcChorby-Uldaman|r",
+			[51] = 1605923132,
 			[50] = "CHAT_MSG_RAID",
 		}, -- [73]
 		{
-			"i feel small", -- [1]
-			"Ieni-TarrenMill", -- [2]
+			"lol server shutdown", -- [1]
+			"Dereotu-TwistingNether", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Ieni-TarrenMill", -- [5]
+			"Dereotu-TwistingNether", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			302, -- [11]
-			"Player-1084-0834151F", -- [12]
+			1671, -- [11]
+			"Player-3674-0A6D1F99", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff38bb9Ieni|r",
-			[51] = 1605492696,
+			[52] = "|cfffe7b09Dereotu-TwistingNether|r",
+			[51] = 1605923146,
 			[50] = "CHAT_MSG_RAID",
 		}, -- [74]
 		{
-			"waiting for all and then rape the bosses", -- [1]
-			"Idiefirst-Draenor", -- [2]
+			":(§", -- [1]
+			"Chorby-Uldaman", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Idiefirst-Draenor", -- [5]
+			"Chorby-Uldaman", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			303, -- [11]
-			"Player-1403-0931C15F", -- [12]
+			1676, -- [11]
+			"Player-1122-0635636F", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa22fc8Idiefirst-Draenor|r",
-			[51] = 1605492703,
-			[50] = "CHAT_MSG_RAID_LEADER",
+			[52] = "|cff006fdcChorby-Uldaman|r",
+			[51] = 1605923174,
+			[50] = "CHAT_MSG_RAID",
 		}, -- [75]
 		{
-			"+", -- [1]
-			"Valieraa-Draenor", -- [2]
+			":'(", -- [1]
+			"Chorby-Uldaman", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Valieraa-Draenor", -- [5]
+			"Chorby-Uldaman", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			304, -- [11]
-			"Player-1403-09A018C1", -- [12]
+			1677, -- [11]
+			"Player-1122-0635636F", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffef367Valieraa-Draenor|r",
-			[51] = 1605492709,
+			[52] = "|cff006fdcChorby-Uldaman|r",
+			[51] = 1605923179,
 			[50] = "CHAT_MSG_RAID",
 		}, -- [76]
 		{
-			"dont start.. ffs", -- [1]
-			"Idiefirst-Draenor", -- [2]
+			"need like button to chat :D", -- [1]
+			"Magnekon-Magtheridon", -- [2]
 			"", -- [3]
-			"", -- [4]
-			"Idiefirst-Draenor", -- [5]
+			"1. General - Icecrown", -- [4]
+			"Magnekon-Magtheridon", -- [5]
 			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			1, -- [7]
+			1, -- [8]
+			"General - Icecrown", -- [9]
 			0, -- [10]
-			306, -- [11]
-			"Player-1403-0931C15F", -- [12]
+			1703, -- [11]
+			"Player-3681-09C98C70", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa22fc8Idiefirst-Draenor|r",
-			[51] = 1605492712,
-			[50] = "CHAT_MSG_RAID_LEADER",
+			true, -- [17]
+			[52] = "|cff3ec6eaMagnekon-Magtheridon|r",
+			[51] = 1605923224,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [77]
 		{
-			"slow on dps", -- [1]
-			"Omnihunt-Draenor", -- [2]
+			"and follow", -- [1]
+			"Crzdoge-Magtheridon", -- [2]
 			"", -- [3]
-			"", -- [4]
-			"Omnihunt-Draenor", -- [5]
+			"1. General - Icecrown", -- [4]
+			"Crzdoge-Magtheridon", -- [5]
 			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			1, -- [7]
+			1, -- [8]
+			"General - Icecrown", -- [9]
 			0, -- [10]
-			307, -- [11]
-			"Player-1403-0897F576", -- [12]
+			1704, -- [11]
+			"Player-3681-07ECF670", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa9d271Omnihunt-Draenor|r",
-			[51] = 1605492720,
-			[50] = "CHAT_MSG_RAID",
+			true, -- [17]
+			[52] = "|cff006fdcCrzdoge-Magtheridon|r",
+			[51] = 1605923246,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [78]
 		{
-			"move fast ..someone pulled", -- [1]
-			"Idiefirst-Draenor", -- [2]
+			"do we have enough time?", -- [1]
+			"Crzdoge-Magtheridon", -- [2]
 			"", -- [3]
-			"", -- [4]
-			"Idiefirst-Draenor", -- [5]
+			"1. General - Icecrown", -- [4]
+			"Crzdoge-Magtheridon", -- [5]
 			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			1, -- [7]
+			1, -- [8]
+			"General - Icecrown", -- [9]
 			0, -- [10]
-			309, -- [11]
-			"Player-1403-0931C15F", -- [12]
+			1896, -- [11]
+			"Player-3681-07ECF670", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa22fc8Idiefirst-Draenor|r",
-			[51] = 1605492738,
-			[50] = "CHAT_MSG_RAID_LEADER",
+			true, -- [17]
+			[52] = "|cff006fdcCrzdoge-Magtheridon|r",
+			[51] = 1605923494,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [79]
 		{
-			"you have 20s", -- [1]
-			"Valieraa-Draenor", -- [2]
+			"yeah", -- [1]
+			"Magnekon-Magtheridon", -- [2]
 			"", -- [3]
-			"", -- [4]
-			"Valieraa-Draenor", -- [5]
+			"1. General - Icecrown", -- [4]
+			"Magnekon-Magtheridon", -- [5]
 			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			1, -- [7]
+			1, -- [8]
+			"General - Icecrown", -- [9]
 			0, -- [10]
-			311, -- [11]
-			"Player-1403-09A018C1", -- [12]
+			1899, -- [11]
+			"Player-3681-09C98C70", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffef367Valieraa-Draenor|r",
-			[51] = 1605492744,
-			[50] = "CHAT_MSG_RAID",
+			true, -- [17]
+			[52] = "|cff3ec6eaMagnekon-Magtheridon|r",
+			[51] = 1605923506,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [80]
 		{
-			"move to Keleseth", -- [1]
-			"Idiefirst-Draenor", -- [2]
+			"can i get an inv? :)", -- [1]
+			"Marph-Hakkar", -- [2]
 			"", -- [3]
-			"", -- [4]
-			"Idiefirst", -- [5]
+			"1. General - Icecrown", -- [4]
+			"Marph-Hakkar", -- [5]
 			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			1, -- [7]
+			1, -- [8]
+			"General - Icecrown", -- [9]
 			0, -- [10]
-			347, -- [11]
-			"Player-1403-0931C15F", -- [12]
+			1900, -- [11]
+			"Player-1091-0484A41E", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa22fc8Idiefirst-Draenor|r",
-			[51] = 1605492782,
-			[50] = "CHAT_MSG_RAID_WARNING",
+			true, -- [17]
+			[52] = "|cffc31d39Marph-Hakkar|r",
+			[51] = 1605923517,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [81]
 		{
-			"+", -- [1]
-			"Valieraa-Draenor", -- [2]
+			"no party just go :D", -- [1]
+			"Crzdoge-Magtheridon", -- [2]
 			"", -- [3]
-			"", -- [4]
-			"Valieraa-Draenor", -- [5]
+			"1. General - Icecrown", -- [4]
+			"Crzdoge-Magtheridon", -- [5]
 			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			1, -- [7]
+			1, -- [8]
+			"General - Icecrown", -- [9]
 			0, -- [10]
-			348, -- [11]
-			"Player-1403-09A018C1", -- [12]
+			1901, -- [11]
+			"Player-3681-07ECF670", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffef367Valieraa-Draenor|r",
-			[51] = 1605492788,
-			[50] = "CHAT_MSG_RAID",
+			true, -- [17]
+			[52] = "|cff006fdcCrzdoge-Magtheridon|r",
+			[51] = 1605923526,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [82]
 		{
-			"what is this empty ass server? XD", -- [1]
-			"Valieraa-Draenor", -- [2]
+			"omw", -- [1]
+			"Marph-Hakkar", -- [2]
 			"", -- [3]
-			"", -- [4]
-			"Valieraa-Draenor", -- [5]
+			"1. General - Icecrown", -- [4]
+			"Marph-Hakkar", -- [5]
 			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			1, -- [7]
+			1, -- [8]
+			"General - Icecrown", -- [9]
 			0, -- [10]
-			350, -- [11]
-			"Player-1403-09A018C1", -- [12]
+			1903, -- [11]
+			"Player-1091-0484A41E", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffef367Valieraa-Draenor|r",
-			[51] = 1605492810,
-			[50] = "CHAT_MSG_RAID",
+			true, -- [17]
+			[52] = "|cffc31d39Marph-Hakkar|r",
+			[51] = 1605923535,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [83]
 		{
-			"yep cock", -- [1]
-			"Zdrav-Sanguino", -- [2]
-			"", -- [3]
+			"gg", -- [1]
+			"Vyxii-TarrenMill", -- [2]
+			"Orcish", -- [3]
 			"", -- [4]
-			"Zdrav-Sanguino", -- [5]
+			"Vyxii-TarrenMill", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			351, -- [11]
-			"Player-1379-0A6B8D9E", -- [12]
+			1914, -- [11]
+			"Player-1084-05D16F0A", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc59a6cZdrav-Sanguino|r",
-			[51] = 1605492813,
-			[50] = "CHAT_MSG_RAID",
+			[52] = "|cff8687edVyxii|r",
+			[51] = 1605923641,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [84]
 		{
-			"Details!: Healing Done for Current [0:16 EF]", -- [1]
-			"Ramyy-TarrenMill", -- [2]
+			"see you all", -- [1]
+			"Crzdoge-Magtheridon", -- [2]
 			"", -- [3]
-			"", -- [4]
-			"Ramyy-TarrenMill", -- [5]
+			"1. General - Icecrown", -- [4]
+			"Crzdoge-Magtheridon", -- [5]
 			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			1, -- [7]
+			1, -- [8]
+			"General - Icecrown", -- [9]
 			0, -- [10]
-			354, -- [11]
-			"Player-1084-09445E68", -- [12]
+			1919, -- [11]
+			"Player-3681-07ECF670", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffefefeRamyy|r",
-			[51] = 1605492843,
-			[50] = "CHAT_MSG_RAID",
+			true, -- [17]
+			[52] = "|cff006fdcCrzdoge-Magtheridon|r",
+			[51] = 1605923649,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [85]
 		{
-			"1. Ramyy ........... 115.4K (2.0k, 41.7%)", -- [1]
-			"Ramyy-TarrenMill", -- [2]
+			"7 days", -- [1]
+			"Makuli-TarrenMill", -- [2]
 			"", -- [3]
-			"", -- [4]
-			"Ramyy-TarrenMill", -- [5]
+			"2. Trade - City", -- [4]
+			"Makuli-TarrenMill", -- [5]
 			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
 			0, -- [10]
-			355, -- [11]
-			"Player-1084-09445E68", -- [12]
+			1941, -- [11]
+			"Player-1084-09EC26EF", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffefefeRamyy|r",
-			[51] = 1605492843,
-			[50] = "CHAT_MSG_RAID",
+			true, -- [17]
+			[52] = "|cffc59a6cMakuli|r",
+			[51] = 1605923736,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [86]
 		{
-			"2. Ieni ................ 41.3K (723, 14.9%)", -- [1]
-			"Ramyy-TarrenMill", -- [2]
+			"%s has earned the achievement |cffffff00|Hachievement:14750:Player-1084-09F125CE:1:11:21:20:4294967295:4294967295:4294967295:4294967295|h[Death Rising]|h|r!", -- [1]
+			"Talizeash-TarrenMill", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Ramyy-TarrenMill", -- [5]
+			"Talizeash-TarrenMill", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			356, -- [11]
-			"Player-1084-09445E68", -- [12]
+			1942, -- [11]
+			"Player-1084-09F125CE", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffefefeRamyy|r",
-			[51] = 1605492843,
-			[50] = "CHAT_MSG_RAID",
+			[52] = "|cff006fdcTalizeash|r",
+			[51] = 1605923736,
+			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
 		}, -- [87]
 		{
-			"3. Heranore ....... 27.0K (473, 9.8%)", -- [1]
-			"Ramyy-TarrenMill", -- [2]
+			"1 hour", -- [1]
+			"Shizenomahou-TarrenMill", -- [2]
 			"", -- [3]
-			"", -- [4]
-			"Ramyy-TarrenMill", -- [5]
+			"2. Trade - City", -- [4]
+			"Shizenomahou-TarrenMill", -- [5]
 			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
 			0, -- [10]
-			357, -- [11]
-			"Player-1084-09445E68", -- [12]
+			1943, -- [11]
+			"Player-1084-09EAABFE", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffefefeRamyy|r",
-			[51] = 1605492844,
-			[50] = "CHAT_MSG_RAID",
+			true, -- [17]
+			[52] = "|cfffe7b09Shizenomahou|r",
+			[51] = 1605923736,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [88]
 		{
-			"4. Iphown .......... 12.1K (212, 4.4%)", -- [1]
-			"Ramyy-TarrenMill", -- [2]
+			"bet", -- [1]
+			"Pws-TarrenMill", -- [2]
 			"", -- [3]
-			"", -- [4]
-			"Ramyy-TarrenMill", -- [5]
+			"2. Trade - City", -- [4]
+			"Pws-TarrenMill", -- [5]
 			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
 			0, -- [10]
-			358, -- [11]
-			"Player-1084-09445E68", -- [12]
+			1945, -- [11]
+			"Player-1084-09F121C3", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffefefeRamyy|r",
-			[51] = 1605492844,
-			[50] = "CHAT_MSG_RAID",
+			true, -- [17]
+			[52] = "|cfffefefePws|r",
+			[51] = 1605923739,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [89]
 		{
-			"5. Idiefirst .......... 10.6K (186, 3.8%)", -- [1]
-			"Ramyy-TarrenMill", -- [2]
+			"cringe bro", -- [1]
+			"Gromgarr-TarrenMill", -- [2]
 			"", -- [3]
-			"", -- [4]
-			"Ramyy-TarrenMill", -- [5]
+			"1. General - Orgrimmar", -- [4]
+			"Gromgarr-TarrenMill", -- [5]
 			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			1, -- [7]
+			1, -- [8]
+			"General - Orgrimmar", -- [9]
 			0, -- [10]
-			359, -- [11]
-			"Player-1084-09445E68", -- [12]
+			1958, -- [11]
+			"Player-1084-09E3EED7", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffefefeRamyy|r",
-			[51] = 1605492844,
-			[50] = "CHAT_MSG_RAID",
+			true, -- [17]
+			[52] = "|cffa9d271Gromgarr|r",
+			[51] = 1605923774,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [90]
 		{
-			"k thx bye next", -- [1]
-			"Valieraa-Draenor", -- [2]
+			"stopped watching 5 seasons ago, hope it was good tho, may finish it some day", -- [1]
+			"Reynhir-TarrenMill", -- [2]
 			"", -- [3]
-			"", -- [4]
-			"Valieraa-Draenor", -- [5]
+			"1. General - Orgrimmar", -- [4]
+			"Reynhir-TarrenMill", -- [5]
 			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			1, -- [7]
+			1, -- [8]
+			"General - Orgrimmar", -- [9]
 			0, -- [10]
-			399, -- [11]
-			"Player-1403-09A018C1", -- [12]
+			1959, -- [11]
+			"Player-1084-09DFEA4A", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffef367Valieraa-Draenor|r",
-			[51] = 1605492872,
-			[50] = "CHAT_MSG_RAID",
+			true, -- [17]
+			[52] = "|cff006fdcReynhir|r",
+			[51] = 1605923775,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [91]
 		{
-			"you see a boss there?", -- [1]
-			"Matuzia-Nemesis", -- [2]
-			"", -- [3]
+			"Get the baguettes out of here", -- [1]
+			"Freshpunk-TarrenMill", -- [2]
+			"Orcish", -- [3]
 			"", -- [4]
-			"Matuzia-Nemesis", -- [5]
+			"Freshpunk-TarrenMill", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			504, -- [11]
-			"Player-1316-0B94E606", -- [12]
+			1960, -- [11]
+			"Player-1084-09C4F14F", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffef367Matuzia-Nemesis|r",
-			[51] = 1605493212,
-			[50] = "CHAT_MSG_RAID",
+			[52] = "|cfff38bb9Freshpunk|r",
+			[51] = 1605923776,
+			[50] = "CHAT_MSG_YELL",
 		}, -- [92]
 		{
-			"inc", -- [1]
-			"Logileevi-Stormreaver", -- [2]
-			"", -- [3]
+			"i only speak english", -- [1]
+			"Roguema-TarrenMill", -- [2]
+			"Orcish", -- [3]
 			"", -- [4]
-			"Logileevi-Stormreaver", -- [5]
+			"Roguema-TarrenMill", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			612, -- [11]
-			"Player-3656-09CF8E07", -- [12]
+			1961, -- [11]
+			"Player-1084-09F234FC", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc59a6cLogileevi-Stormreaver|r",
-			[51] = 1605493466,
-			[50] = "CHAT_MSG_RAID",
+			[52] = "|cfffef367Roguema|r",
+			[51] = 1605923777,
+			[50] = "CHAT_MSG_YELL",
 		}, -- [93]
 		{
-			"COME TO TOP", -- [1]
-			"Monkmonkmonk-Azshara", -- [2]
+			"this is it, good by my friends", -- [1]
+			"Crzdoge-Magtheridon", -- [2]
 			"", -- [3]
-			"", -- [4]
-			"Monkmonkmonk-Azshara", -- [5]
+			"1. General - Icecrown", -- [4]
+			"Crzdoge-Magtheridon", -- [5]
 			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			1, -- [7]
+			1, -- [8]
+			"General - Icecrown", -- [9]
 			0, -- [10]
-			637, -- [11]
-			"Player-570-09B85555", -- [12]
+			1974, -- [11]
+			"Player-3681-07ECF670", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			false, -- [17]
-			[52] = "|cff00fe97Monkmonkmonk-Azshara|r",
-			[51] = 1605493592,
-			[50] = "CHAT_MSG_RAID_LEADER",
+			true, -- [17]
+			[52] = "|cff006fdcCrzdoge-Magtheridon|r",
+			[51] = 1605923798,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [94]
 		{
-			"COME TO TOP", -- [1]
-			"Monkmonkmonk-Azshara", -- [2]
+			"Mr. Stark! I don't wanna go T_T", -- [1]
+			"Tailhie-Draenor", -- [2]
 			"", -- [3]
-			"", -- [4]
-			"Monkmonkmonk-Azshara", -- [5]
+			"1. General - Icecrown", -- [4]
+			"Tailhie-Draenor", -- [5]
 			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			1, -- [7]
+			1, -- [8]
+			"General - Icecrown", -- [9]
 			0, -- [10]
-			638, -- [11]
-			"Player-570-09B85555", -- [12]
+			1977, -- [11]
+			"Player-1403-094EBEF2", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			false, -- [17]
-			[52] = "|cff00fe97Monkmonkmonk-Azshara|r",
-			[51] = 1605493594,
-			[50] = "CHAT_MSG_RAID_LEADER",
+			true, -- [17]
+			[52] = "|cfffef367Tailhie-Draenor|r",
+			[51] = 1605923805,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [95]
 		{
-			"where tf everyone at? xD", -- [1]
-			"Stomperino-Kazzak", -- [2]
+			"7 days", -- [1]
+			"Makuli-TarrenMill", -- [2]
 			"", -- [3]
-			"", -- [4]
-			"Stomperino-Kazzak", -- [5]
+			"2. Trade - City", -- [4]
+			"Makuli-TarrenMill", -- [5]
 			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
 			0, -- [10]
-			639, -- [11]
-			"Player-1305-0BA49ECE", -- [12]
+			1987, -- [11]
+			"Player-1084-09EC26EF", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc31d39Stomperino-Kazzak|r",
-			[51] = 1605493597,
-			[50] = "CHAT_MSG_RAID",
+			true, -- [17]
+			[52] = "|cffc59a6cMakuli|r",
+			[51] = 1605923839,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [96]
 		{
-			"be we clear all", -- [1]
-			"Monkmonkmonk-Azshara", -- [2]
+			"its ready", -- [1]
+			"Tchip-TarrenMill", -- [2]
 			"", -- [3]
-			"", -- [4]
-			"Monkmonkmonk-Azshara", -- [5]
+			"2. Trade - City", -- [4]
+			"Tchip-TarrenMill", -- [5]
 			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
 			0, -- [10]
-			640, -- [11]
-			"Player-570-09B85555", -- [12]
+			1988, -- [11]
+			"Player-1084-09F2E578", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			false, -- [17]
-			[52] = "|cff00fe97Monkmonkmonk-Azshara|r",
-			[51] = 1605493598,
-			[50] = "CHAT_MSG_RAID_LEADER",
+			true, -- [17]
+			[52] = "|cfff38bb9Tchip|r",
+			[51] = 1605923840,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [97]
 		{
-			"next boss scourgelord tyrannus", -- [1]
-			"Arxegoni-TwistingNether", -- [2]
+			"I'm not ready for this, I only just started playing frost mage", -- [1]
+			"Zafik-TarrenMill", -- [2]
 			"", -- [3]
-			"", -- [4]
-			"Arxegoni-TwistingNether", -- [5]
+			"2. Trade - City", -- [4]
+			"Zafik-TarrenMill", -- [5]
 			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
 			0, -- [10]
-			648, -- [11]
-			"Player-3674-09C174B7", -- [12]
+			1991, -- [11]
+			"Player-1084-09E9BD42", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffef367Arxegoni-TwistingNether|r",
-			[51] = 1605493630,
-			[50] = "CHAT_MSG_RAID",
+			true, -- [17]
+			[52] = "|cff3ec6eaZafik|r",
+			[51] = 1605923849,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [98]
 		{
-			"ok i coming", -- [1]
-			"Alorick-Kazzak", -- [2]
+			"this time will be worse", -- [1]
+			"Zafik-TarrenMill", -- [2]
 			"", -- [3]
-			"", -- [4]
-			"Alorick-Kazzak", -- [5]
+			"2. Trade - City", -- [4]
+			"Zafik-TarrenMill", -- [5]
 			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
 			0, -- [10]
-			651, -- [11]
-			"Player-1305-0BAB5ABF", -- [12]
+			1995, -- [11]
+			"Player-1084-09E9BD42", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff38bb9Alorick-Kazzak|r",
-			[51] = 1605493635,
-			[50] = "CHAT_MSG_RAID",
+			true, -- [17]
+			[52] = "|cff3ec6eaZafik|r",
+			[51] = 1605923854,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [99]
 	},
 }

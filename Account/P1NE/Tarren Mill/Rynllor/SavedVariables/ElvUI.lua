@@ -1,72 +1,28 @@
 
 ElvCharacterDB = {
 	["ChatEditHistory"] = {
-		"/i not like you have a minimum range", -- [1]
-		"/i :P", -- [2]
-		"/i only question is why", -- [3]
-		"/tomtom 57.1 90", -- [4]
-		"/way 57.1 90", -- [5]
-		"/i could you make some food after boss %t ?", -- [6]
-		"/i pls :3", -- [7]
-		"/i thank u", -- [8]
-		"/kiss", -- [9]
-		"/i actual dps", -- [10]
-		"/i i am impressed", -- [11]
-		"/i i have healing powers", -- [12]
-		"/i another one after this?", -- [13]
-		"/i could you make some food pls %t ?", -- [14]
-		"/i thank god we had a soulstone", -- [15]
-		"/i hey %t could you make some food for me pls? :3", -- [16]
-		"/i thx", -- [17]
-		"/i ok no", -- [18]
-		"/i stop adding", -- [19]
-		"/i wtf", -- [20]
+		"/i only question is why", -- [1]
+		"/tomtom 57.1 90", -- [2]
+		"/way 57.1 90", -- [3]
+		"/i could you make some food after boss %t ?", -- [4]
+		"/i pls :3", -- [5]
+		"/i thank u", -- [6]
+		"/kiss", -- [7]
+		"/i actual dps", -- [8]
+		"/i i am impressed", -- [9]
+		"/i i have healing powers", -- [10]
+		"/i another one after this?", -- [11]
+		"/i could you make some food pls %t ?", -- [12]
+		"/i thank god we had a soulstone", -- [13]
+		"/i hey %t could you make some food for me pls? :3", -- [14]
+		"/i thx", -- [15]
+		"/i ok no", -- [16]
+		"/i stop adding", -- [17]
+		"/i wtf", -- [18]
+		"/gquit", -- [19]
+		"/cw Morphorius asd", -- [20]
 	},
 	["ChatHistoryLog"] = {
-		{
-			"<<<< M+15 = 100k >>>>   FREE ARMOR STACK   >>sylvanas<<   << 3x15 = 280k>>  <<5x15 = 420k>>   -JAINA MOUNT = 300k-  \"\"Keystone master=990k\"\" :nzoth mythic mount=1900k: /w for more", -- [1]
-			"Sylvanasbis-TarrenMill", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Sylvanasbis-TarrenMill", -- [5]
-			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			2006, -- [11]
-			"Player-1084-09BEA719", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cff3ec5e9Sylvanasbis|r",
-			[51] = 1602374791,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [1]
-		{
-			"FREE ARMOR STACK  <<S Y L V A N A S>> ( M+15 100k intime  ) || << 3x +15=280k >> ||  5x +15 =420k  ||  m+20 400k ||  m+18 240k  || JAINA  << 300K >>   <<<KEYSTONE Master 980k>>>||5Mask|||cff71d5ff|Hspell:290718:0|h[Aerial Unit R-21/X]|h|r<<150k>>||W", -- [1]
-			"Slyvboost-TarrenMill", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Slyvboost-TarrenMill", -- [5]
-			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			2008, -- [11]
-			"Player-1084-09862ACC", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cff00fe95Slyvboost|r",
-			[51] = 1602374795,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [2]
 		{
 			"<NOVA> [M+15=90k] [2x M+15=171k] [4x M+15=324k] NOVA OFFERING Ny'Alotha HEROIC  PL + SHAREloot 140k  and 60k Per Trader.  CURVE 50k / [ 5mask =60k ]  [ Freehold lvlup ]  [ Jaina Mount 350k ] [Keyston Master=950k] **6x+15 459k **/ Nzath Mythic 2.2m   ", -- [1]
 			"Novasellert-TarrenMill", -- [2]
@@ -88,7 +44,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Novasellert|r",
 			[51] = 1602374796,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [3]
+		}, -- [1]
 		{
 			"Sylvanas Community||^ FREE ARMOR STACK ^ ||^M+15 JUST FOR 100k ^|| M+16 JUST 140k || 3x run +15 285k  ||  5x run +15 420k || Horrific Visions ||  Ny'alotha HC  / Mythic / Nzoth MOUNT  TONGIHT  || Jaina MounT 300k NOW || PVP Boost || All achivment boost", -- [1]
 			"Sylvaboostt-TarrenMill", -- [2]
@@ -110,7 +66,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Sylvaboostt|r",
 			[51] = 1602374799,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [4]
+		}, -- [2]
 		{
 			"<><><(( M+15 100K in Time ))><><> FREE ARMOR STACK <SYLVANAS> WTS +10-/+25* WITH BEST PRICE ||M+16 140k**M+17 200k||+18 Only 240k|| ((2X15 200K))**((3X15 280K))>>5Runs 20% OFF>>((5x14 400k))**((5X15 420K)) *12X15 980K* HORRIFIC VISIONS* 0-5MASK|| /W Me", -- [1]
 			"Sylvasbest-TarrenMill", -- [2]
@@ -132,7 +88,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Sylvasbest|r",
 			[51] = 1602374804,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [5]
+		}, -- [3]
 		{
 			">>> WTS Vision 5 Masks 60k Golds- ( Get Your +470 Corrupted Item and Echoes ) Right Now <<< WTS Freeholld Leveling Boost , WTS |cff66bbff|Hjournal:1:2343:14|h[Lady Jaina Proudmoore]|h|r -|cff71d5ff|Hspell:289555:0|h[Glacial Tidestorm]|h|r  /w for info", -- [1]
 			"Vizgin-TarrenMill", -- [2]
@@ -154,7 +110,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcVizgin|r",
 			[51] = 1602374814,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [6]
+		}, -- [4]
 		{
 			"<Sylvanas Offers>[+15only 100k]  +10 for 80k   || [11=89k]      ||  [+14=95k]   ||   ]+16=140k||3x15=280k||5x15=420k  ||FREE armor stack all run) [keystone master 990k] ||vision   || Ra-den , Carapace , N'zoth (With AMAZING VIP traders) jaina RUN(350k)", -- [1]
 			"Sylvanasbc-TarrenMill", -- [2]
@@ -176,7 +132,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Sylvanasbc|r",
 			[51] = 1602374825,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [7]
+		}, -- [5]
 		{
 			"WTS |cffa335ee|Hitem:166433::::::::120:63::::::|h[Frightened Kodo]|h|r MOUNT Boost in just few minutes for GOLD ONLY !  Special Offer and discount ^^ Draenor RARE MOUNTS are also available ! Whisper for more info :)", -- [1]
 			"Tokucho-TarrenMill", -- [2]
@@ -198,7 +154,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Tokucho|r",
 			[51] = 1602374835,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [8]
+		}, -- [6]
 		{
 			"FREE ARMOR STACK **** M+15 100k in Time **** <SYLVANAS>(BIG DISCOUNT FOR 5 OR 4 OR 3 RUN}>M+20 420k all loot is yours>((3x15 280k)) ((5x15 420k)) (KEYSTONE MASTER)>((Mechagon HARD MODE)) ((RAID HC/M VIP TRADER)) ((NZOTH with MOUNT))/W ME FOR BEST PRICE", -- [1]
 			"Sylvtaren-TarrenMill", -- [2]
@@ -220,7 +176,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Sylvtaren|r",
 			[51] = 1602374847,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [9]
+		}, -- [7]
 		{
 			"<NOVA> [M+15=90k] [2x M+15=171k] [4x M+15=324k] NOVA OFFERING Ny'Alotha HEROIC  PL + SHAREloot 140k  and 60k Per Trader.  CURVE 50k / [ 5mask =60k ]  [ Freehold lvlup ]  [ Jaina Mount 350k ] [Keyston Master=950k] **6x+15 459k **/ Nzath Mythic 2.2m   ", -- [1]
 			"Novasellert-TarrenMill", -- [2]
@@ -242,7 +198,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Novasellert|r",
 			[51] = 1602374857,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [10]
+		}, -- [8]
 		{
 			"Sylvanas Community||^ FREE ARMOR STACK ^ ||^M+15 JUST FOR 100k ^|| M+16 JUST 140k || 3x run +15 285k  ||  5x run +15 420k || Horrific Visions ||  Ny'alotha HC  / Mythic / Nzoth MOUNT  TONGIHT  || Jaina MounT 300k NOW || PVP Boost || All achivment boost", -- [1]
 			"Sylvaboostt-TarrenMill", -- [2]
@@ -264,7 +220,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Sylvaboostt|r",
 			[51] = 1602374859,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [11]
+		}, -- [9]
 		{
 			"Dark Omen on Aschente", -- [1]
 			"Aschente-TarrenMill", -- [2]
@@ -286,7 +242,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Aschente|r",
 			[51] = 1602374977,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [12]
+		}, -- [10]
 		{
 			"Dark Omen on Rynllor", -- [1]
 			"Rynllor-TarrenMill", -- [2]
@@ -308,7 +264,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Rynllor|r",
 			[51] = 1602374998,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [13]
+		}, -- [11]
 		{
 			"ok the rogue has to go", -- [1]
 			"Aschente-TarrenMill", -- [2]
@@ -330,7 +286,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Aschente|r",
 			[51] = 1602375152,
 			[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
-		}, -- [14]
+		}, -- [12]
 		{
 			"this just insane", -- [1]
 			"Aschente-TarrenMill", -- [2]
@@ -352,7 +308,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Aschente|r",
 			[51] = 1602375158,
 			[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
-		}, -- [15]
+		}, -- [13]
 		{
 			"hey Valandis could you make some food for me pls? :3", -- [1]
 			"Rynllor-TarrenMill", -- [2]
@@ -374,7 +330,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Rynllor|r",
 			[51] = 1602375319,
 			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [16]
+		}, -- [14]
 		{
 			"ok can we make this dungeon now without addingn extra mobs?", -- [1]
 			"Aschente-TarrenMill", -- [2]
@@ -396,7 +352,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Aschente|r",
 			[51] = 1602375320,
 			[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
-		}, -- [17]
+		}, -- [15]
 		{
 			"thx", -- [1]
 			"Rynllor-TarrenMill", -- [2]
@@ -418,7 +374,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Rynllor|r",
 			[51] = 1602375328,
 			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [18]
+		}, -- [16]
 		{
 			"okay what is it that u have to pull extra all day long?", -- [1]
 			"Aschente-TarrenMill", -- [2]
@@ -440,7 +396,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Aschente|r",
 			[51] = 1602375548,
 			[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
-		}, -- [19]
+		}, -- [17]
 		{
 			"Upheaval on Valandis", -- [1]
 			"Valandis-Nagrand", -- [2]
@@ -462,7 +418,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Valandis-Nagrand|r",
 			[51] = 1602375655,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [20]
+		}, -- [18]
 		{
 			"3", -- [1]
 			"Valandis-Nagrand", -- [2]
@@ -484,7 +440,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Valandis-Nagrand|r",
 			[51] = 1602375658,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [21]
+		}, -- [19]
 		{
 			"2", -- [1]
 			"Valandis-Nagrand", -- [2]
@@ -506,7 +462,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Valandis-Nagrand|r",
 			[51] = 1602375659,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [22]
+		}, -- [20]
 		{
 			"1", -- [1]
 			"Valandis-Nagrand", -- [2]
@@ -528,7 +484,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Valandis-Nagrand|r",
 			[51] = 1602375660,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [23]
+		}, -- [21]
 		{
 			"Upheaval on Hikasenshi", -- [1]
 			"Hikasenshi-Stormscale", -- [2]
@@ -550,7 +506,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Hikasenshi-Stormscale|r",
 			[51] = 1602375671,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [24]
+		}, -- [22]
 		{
 			"3", -- [1]
 			"Hikasenshi-Stormscale", -- [2]
@@ -572,7 +528,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Hikasenshi-Stormscale|r",
 			[51] = 1602375674,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [25]
+		}, -- [23]
 		{
 			"2", -- [1]
 			"Hikasenshi-Stormscale", -- [2]
@@ -594,7 +550,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Hikasenshi-Stormscale|r",
 			[51] = 1602375675,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [26]
+		}, -- [24]
 		{
 			"1", -- [1]
 			"Hikasenshi-Stormscale", -- [2]
@@ -616,7 +572,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Hikasenshi-Stormscale|r",
 			[51] = 1602375676,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [27]
+		}, -- [25]
 		{
 			"2", -- [1]
 			"Valandis-Nagrand", -- [2]
@@ -638,7 +594,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Valandis-Nagrand|r",
 			[51] = 1602375705,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [28]
+		}, -- [26]
 		{
 			"1", -- [1]
 			"Valandis-Nagrand", -- [2]
@@ -660,7 +616,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Valandis-Nagrand|r",
 			[51] = 1602375706,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [29]
+		}, -- [27]
 		{
 			"Upheaval on Hikasenshi", -- [1]
 			"Hikasenshi-Stormscale", -- [2]
@@ -682,7 +638,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Hikasenshi-Stormscale|r",
 			[51] = 1602375717,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [30]
+		}, -- [28]
 		{
 			"Dawn Community || WTS >>MYTHIC+<< (10-25) GUARANTEED in time. Armor Stacks & Specific Keys! || LEGACY I NY'ALOTHA 12/12 Mythic, Heroic, CURVE Runs || 110-120 || Horrific Visions || JAINA MOUNT || Whisper for more info!", -- [1]
 			"Calbri-TarrenMill", -- [2]
@@ -704,7 +660,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Calbri|r",
 			[51] = 1602376003,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [31]
+		}, -- [29]
 		{
 			"< Hydra CM > WTS |cffffff00|Hachievement:8721:Player-3674-0A5663DF:1:6:14:20:4294967295:4294967295:4294967295:4294967295|h[Fire-Watcher]|h|r Get your Title+|cff71d5ff|Hspell:148428:0|h[Ashhide Mushan Beast]|h|r+Pet. Mount can be sold separately. /w me", -- [1]
 			"Hydraboostcm-TarrenMill", -- [2]
@@ -726,7 +682,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cHydraboostcm|r",
 			[51] = 1602376007,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [32]
+		}, -- [30]
 		{
 			"Also selling |cff71d5ff|Hspell:261395:0|h[The Hivemind]|h|r || |cff71d5ff|Hspell:230401:0|h[Ivory Hawkstrider]|h|r Reputation || |cffffff00|Hachievement:9508:Player-1084-09CD7ABF:0:0:0:-1:0:0:0:0|h[Warlord of Draenor]|h|r Titles. /w for more info!", -- [1]
 			"Hydraboostcm-TarrenMill", -- [2]
@@ -748,7 +704,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cHydraboostcm|r",
 			[51] = 1602376008,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [33]
+		}, -- [31]
 		{
 			"NOVA +15=90k/  99k Armor || FREEARMORSTACK 2x15=171K || VISIONS 5M=60k 5M + OBJ = 80k || HEROIC NYALOTHA FULL RUN 140K, VIP TRADER 60K NZOTHcurve 50k || LEGACY SERVICES || JAINA AND NZOTH MOUNT || BOOSTING 11Kperlvl 110-120 ", -- [1]
 			"Snipnova-TarrenMill", -- [2]
@@ -770,7 +726,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Snipnova|r",
 			[51] = 1602376010,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [34]
+		}, -- [32]
 		{
 			"<< SYLVANAS BOOST >>  M+15 = 100k + FREE ARMOR STACK   ||  +20 = 400k  /   3x+15 = 280k   //  5x +15 = 420k  //   KEYSTONE MASTER   (( 980k  ))   /  M+19=350k / JAINA < 300K > /|cff71d5ff|Hspell:290718:0|h[Aerial Unit R-21/X]|h|r  < 140k > /5MASK/W", -- [1]
 			"Sylvagold-TarrenMill", -- [2]
@@ -792,7 +748,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Sylvagold|r",
 			[51] = 1602376013,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [35]
+		}, -- [33]
 		{
 			"FREE ARMOR STACK **** M+15 100k in Time **** <SYLVANAS>(BIG DISCOUNT FOR 5 OR 4 OR 3 RUN}>M+20 420k all loot is yours>((3x15 280k)) ((5x15 420k)) (KEYSTONE MASTER)>((Mechagon HARD MODE)) ((RAID HC/M VIP TRADER)) ((NZOTH with MOUNT))/W ME FOR BEST PRICE", -- [1]
 			"Sylvtaren-TarrenMill", -- [2]
@@ -814,7 +770,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Sylvtaren|r",
 			[51] = 1602376016,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [36]
+		}, -- [34]
 		{
 			"<NOVA> [M+15=90k] [2x M+15=171k] [4x M+15=324k] NOVA OFFERING Ny'Alotha HEROIC  PL + SHAREloot 140k  and 60k Per Trader.  CURVE 50k / [ 5mask =60k ]  [ Freehold lvlup ]  [ Jaina Mount 350k ] [Keyston Master=950k] **6x+15 459k **/ Nzath Mythic 2.2m   ", -- [1]
 			"Novasellert-TarrenMill", -- [2]
@@ -836,7 +792,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Novasellert|r",
 			[51] = 1602376017,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [37]
+		}, -- [35]
 		{
 			">>>>  +15 100k  <<<< FREE ARMOR STACK ** S Y L V A N A S**|| 5x15 = 410k || 3x15 = 275k  ||+20 =410k |cff66bbff|Hjournal:0:1180:14|h[Ny'alotha, the Waking City]|h|rHC <5 Treader 500k>  <5masks 50k > || Jaina mount 300K ||KEYSTONE Master <950k> / w me", -- [1]
 			"Sylvânboost-TarrenMill", -- [2]
@@ -858,7 +814,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Sylvânboost|r",
 			[51] = 1602376018,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [38]
+		}, -- [36]
 		{
 			"<Sylvanas Offers>[+15only 100k]  +10 for 80k   || [11=89k]      ||  [+14=95k]   ||   ]+16=140k||3x15=280k||5x15=420k  ||FREE armor stack all run) [keystone master 990k] ||vision   || Ra-den , Carapace , N'zoth (With AMAZING VIP traders) jaina RUN(350k)", -- [1]
 			"Sylvanasbc-TarrenMill", -- [2]
@@ -880,7 +836,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Sylvanasbc|r",
 			[51] = 1602376022,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [39]
+		}, -- [37]
 		{
 			"<NOVA> 1x15=90k /FreeArmorstack-> 2x15=171k - 4x15=324k / M+10-23 / Keystone Master 950k / Mechagon Hardmode+Hertzlocker / Nyalotha Heroic 140k + Per Trader 60k! Mythic 12/12 +  3x Vip Trader 4100k/ Jaina Mount350k / Vision 5mask 60k / PvP Boost", -- [1]
 			"Novaboostsh-TarrenMill", -- [2]
@@ -902,7 +858,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcNovaboostsh|r",
 			[51] = 1602376023,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [40]
+		}, -- [38]
 		{
 			"WTS |cff71d5ff|Hspell:148428:0|h[Ashhide Mushan Beast]|h|r PVP Mount In 15 mins ! |cffa335ee|Hitem:156798::::::::120:63::2::::|h[The Hivemind]|h|r and |cff71d5ff|Hspell:243025:0|h[Riddler's Mind-Worm]|h|r are also Available ! Whisper for info !", -- [1]
 			"Tokucho-TarrenMill", -- [2]
@@ -924,7 +880,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Tokucho|r",
 			[51] = 1602376026,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [41]
+		}, -- [39]
 		{
 			"WTS |cffa335ee|Hitem:166433::::::::120:63::::::|h[Frightened Kodo]|h|r MOUNT Boost in just few minutes for GOLD ONLY !  Special Offer and discount ^^ Draenor RARE MOUNTS are also available ! Whisper for more info :)", -- [1]
 			"Tokucho-TarrenMill", -- [2]
@@ -946,7 +902,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Tokucho|r",
 			[51] = 1602376026,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [42]
+		}, -- [40]
 		{
 			"FREE ARMOR STACK  <<S Y L V A N A S>> ( M+15 100k intime  ) || << 3x +15=280k >> ||  5x +15 =420k  ||  m+20 400k ||  m+18 240k  || JAINA  << 300K >>   <<<KEYSTONE Master 980k>>>||5Mask|||cff71d5ff|Hspell:290718:0|h[Aerial Unit R-21/X]|h|r<<150k>>||W", -- [1]
 			"Slyvboost-TarrenMill", -- [2]
@@ -968,7 +924,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Slyvboost|r",
 			[51] = 1602376028,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [43]
+		}, -- [41]
 		{
 			"<><><(( M+15 100K in Time ))><><> FREE ARMOR STACK <SYLVANAS> WTS +10-/+25* WITH BEST PRICE ||M+16 140k**M+17 200k||+18 Only 240k|| ((2X15 200K))**((3X15 280K))>>5Runs 20% OFF>>((5x14 400k))**((5X15 420K)) *12X15 980K* HORRIFIC VISIONS* 0-5MASK|| /W Me", -- [1]
 			"Sylvasbest-TarrenMill", -- [2]
@@ -990,7 +946,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Sylvasbest|r",
 			[51] = 1602376032,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [44]
+		}, -- [42]
 		{
 			"Sylvanas Community||^ FREE ARMOR STACK ^ ||^M+15 JUST FOR 100k ^|| M+16 JUST 140k || 3x run +15 285k  ||  5x run +15 420k || Horrific Visions ||  Ny'alotha HC  / Mythic / Nzoth MOUNT  TONGIHT  || Jaina MounT 300k NOW || PVP Boost || All achivment boost", -- [1]
 			"Sylvaboostt-TarrenMill", -- [2]
@@ -1012,7 +968,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Sylvaboostt|r",
 			[51] = 1602376058,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [45]
+		}, -- [43]
 		{
 			"WTS |cff71d5ff|Hspell:148428:0|h[Ashhide Mushan Beast]|h|r PVP Mount In 15 mins ! |cffa335ee|Hitem:156798::::::::120:63::2::::|h[The Hivemind]|h|r and |cff71d5ff|Hspell:243025:0|h[Riddler's Mind-Worm]|h|r are also Available ! Whisper for info !", -- [1]
 			"Tokucho-TarrenMill", -- [2]
@@ -1034,7 +990,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Tokucho|r",
 			[51] = 1602376076,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [46]
+		}, -- [44]
 		{
 			"WTS |cffa335ee|Hitem:166433::::::::120:63::::::|h[Frightened Kodo]|h|r MOUNT Boost in just few minutes for GOLD ONLY !  Special Offer and discount ^^ Draenor RARE MOUNTS are also available ! Whisper for more info :)", -- [1]
 			"Tokucho-TarrenMill", -- [2]
@@ -1056,7 +1012,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Tokucho|r",
 			[51] = 1602376077,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [47]
+		}, -- [45]
 		{
 			"<NOVA> [M+15=90k] [2x M+15=171k] [4x M+15=324k] NOVA OFFERING Ny'Alotha HEROIC  PL + SHAREloot 140k  and 60k Per Trader.  CURVE 50k / [ 5mask =60k ]  [ Freehold lvlup ]  [ Jaina Mount 350k ] [Keyston Master=950k] **6x+15 459k **/ Nzath Mythic 2.2m   ", -- [1]
 			"Novasellert-TarrenMill", -- [2]
@@ -1078,7 +1034,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Novasellert|r",
 			[51] = 1602376078,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [48]
+		}, -- [46]
 		{
 			"pls dont attack and wait till I pulled all", -- [1]
 			"Aschente-TarrenMill", -- [2]
@@ -1100,7 +1056,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Aschente|r",
 			[51] = 1602376089,
 			[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
-		}, -- [49]
+		}, -- [47]
 		{
 			"follow me", -- [1]
 			"Aschente-TarrenMill", -- [2]
@@ -1122,7 +1078,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Aschente|r",
 			[51] = 1602376093,
 			[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
-		}, -- [50]
+		}, -- [48]
 		{
 			"Conduction on Rynllor", -- [1]
 			"Rynllor-TarrenMill", -- [2]
@@ -1144,7 +1100,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Rynllor|r",
 			[51] = 1602376167,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [51]
+		}, -- [49]
 		{
 			"Cyclone Strike on Aschente", -- [1]
 			"Aschente-TarrenMill", -- [2]
@@ -1166,7 +1122,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Aschente|r",
 			[51] = 1602376168,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [52]
+		}, -- [50]
 		{
 			"3", -- [1]
 			"Rynllor-TarrenMill", -- [2]
@@ -1188,7 +1144,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Rynllor|r",
 			[51] = 1602376169,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [53]
+		}, -- [51]
 		{
 			"2", -- [1]
 			"Rynllor-TarrenMill", -- [2]
@@ -1210,7 +1166,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Rynllor|r",
 			[51] = 1602376170,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [54]
+		}, -- [52]
 		{
 			"1", -- [1]
 			"Rynllor-TarrenMill", -- [2]
@@ -1232,7 +1188,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Rynllor|r",
 			[51] = 1602376171,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [55]
+		}, -- [53]
 		{
 			"Can Soak", -- [1]
 			"Pícarus-Sanguino", -- [2]
@@ -1254,7 +1210,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Pícarus-Sanguino|r",
 			[51] = 1602376565,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [56]
+		}, -- [54]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:12544:Player-1084-08C4DADE:1:10:11:20:4294967295:4294967295:4294967295:4294967295|h[Level 120]|h|r!", -- [1]
 			"Rynllor-TarrenMill", -- [2]
@@ -1276,7 +1232,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Rynllor|r",
 			[51] = 1602376807,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [57]
+		}, -- [55]
 		{
 			"FREE ARMOR STACK **** M+15 100k in Time **** <SYLVANAS>(BIG DISCOUNT FOR 5 OR 4 OR 3 RUN}>M+20 420k all loot is yours>((3x15 280k)) ((5x15 420k)) (KEYSTONE MASTER)>((Mechagon HARD MODE)) ((RAID HC/M VIP TRADER)) ((NZOTH with MOUNT))/W ME FOR BEST PRICE", -- [1]
 			"Sylvtaren-TarrenMill", -- [2]
@@ -1298,7 +1254,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Sylvtaren|r",
 			[51] = 1602376835,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [58]
+		}, -- [56]
 		{
 			"Sylvanas Community||^ FREE ARMOR STACK ^ ||^M+15 JUST FOR 100k ^|| M+16 JUST 140k || 3x run +15 285k  ||  5x run +15 420k || Horrific Visions ||  Ny'alotha HC  / Mythic / Nzoth MOUNT  TONGIHT  || Jaina MounT 300k NOW || PVP Boost || All achivment boost", -- [1]
 			"Sylvaboostt-TarrenMill", -- [2]
@@ -1320,7 +1276,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Sylvaboostt|r",
 			[51] = 1602376838,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [59]
+		}, -- [57]
 		{
 			">>>>  +15 100k  <<<< FREE ARMOR STACK ** S Y L V A N A S**|| 5x15 = 410k || 3x15 = 275k  ||+20 =410k |cff66bbff|Hjournal:0:1180:14|h[Ny'alotha, the Waking City]|h|rHC <5 Treader 500k>  <5masks 50k > || Jaina mount 300K ||KEYSTONE Master <950k> / w me", -- [1]
 			"Sylvânboost-TarrenMill", -- [2]
@@ -1342,7 +1298,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Sylvânboost|r",
 			[51] = 1602376842,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [60]
+		}, -- [58]
 		{
 			"<< SYLVANAS BOOST >>  M+15 = 100k + FREE ARMOR STACK   ||  +20 = 400k  /   3x+15 = 280k   //  5x +15 = 420k  //   KEYSTONE MASTER   (( 980k  ))   /  M+19=350k / JAINA < 300K > /|cff71d5ff|Hspell:290718:0|h[Aerial Unit R-21/X]|h|r  < 140k > /5MASK/W", -- [1]
 			"Sylvagold-TarrenMill", -- [2]
@@ -1364,7 +1320,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Sylvagold|r",
 			[51] = 1602376844,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [61]
+		}, -- [59]
 		{
 			"< Hydra CM > WTS |cffffff00|Hachievement:8721:Player-3674-0A5663DF:1:6:14:20:4294967295:4294967295:4294967295:4294967295|h[Fire-Watcher]|h|r Get your Title+|cff71d5ff|Hspell:148428:0|h[Ashhide Mushan Beast]|h|r+Pet. Mount can be sold separately. /w me", -- [1]
 			"Hydraboostcm-TarrenMill", -- [2]
@@ -1386,7 +1342,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cHydraboostcm|r",
 			[51] = 1602376847,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [62]
+		}, -- [60]
 		{
 			"Also selling |cff71d5ff|Hspell:261395:0|h[The Hivemind]|h|r || |cff71d5ff|Hspell:230401:0|h[Ivory Hawkstrider]|h|r Reputation || |cffffff00|Hachievement:9508:Player-1084-09CD7ABF:0:0:0:-1:0:0:0:0|h[Warlord of Draenor]|h|r Titles. /w for more info!", -- [1]
 			"Hydraboostcm-TarrenMill", -- [2]
@@ -1408,7 +1364,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cHydraboostcm|r",
 			[51] = 1602376848,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [63]
+		}, -- [61]
 		{
 			"FREE ARMOR STACK  <<S Y L V A N A S>> ( M+15 100k intime  ) || << 3x +15=280k >> ||  5x +15 =420k  ||  m+20 400k ||  m+18 240k  || JAINA  << 300K >>   <<<KEYSTONE Master 980k>>>||5Mask|||cff71d5ff|Hspell:290718:0|h[Aerial Unit R-21/X]|h|r<<150k>>||W", -- [1]
 			"Slyvboost-TarrenMill", -- [2]
@@ -1430,7 +1386,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Slyvboost|r",
 			[51] = 1602376853,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [64]
+		}, -- [62]
 		{
 			"<><><(( M+15 100K in Time ))><><> FREE ARMOR STACK <SYLVANAS> WTS +10-/+25* WITH BEST PRICE ||M+16 140k**M+17 200k||+18 Only 240k|| ((2X15 200K))**((3X15 280K))>>5Runs 20% OFF>>((5x14 400k))**((5X15 420K)) *12X15 980K* HORRIFIC VISIONS* 0-5MASK|| /W Me", -- [1]
 			"Sylvasbest-TarrenMill", -- [2]
@@ -1452,7 +1408,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Sylvasbest|r",
 			[51] = 1602376855,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [65]
+		}, -- [63]
 		{
 			"<For Science> 12/12M here with another FAAAAAANTASTIC product |||| Jaina Mount 250K |||| N'Zoth + Mount 1.4M |||| Need more bosses? Particular loot? We bring best deals and prices. Whisper for more info!", -- [1]
 			"Forscience-TarrenMill", -- [2]
@@ -1474,7 +1430,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Forscience|r",
 			[51] = 1602376856,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [66]
+		}, -- [64]
 		{
 			"<Sylvanas Offers>[+15only 100k]  +10 for 80k   || [11=89k]      ||  [+14=95k]   ||   ]+16=140k||3x15=280k||5x15=420k  ||FREE armor stack all run) [keystone master 990k] ||vision   || Ra-den , Carapace , N'zoth (With AMAZING VIP traders) jaina RUN(350k)", -- [1]
 			"Sylvanasbc-TarrenMill", -- [2]
@@ -1496,7 +1452,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Sylvanasbc|r",
 			[51] = 1602376862,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [67]
+		}, -- [65]
 		{
 			"WTS |cffa335ee|Hitem:103638::::::::120:63::::::|h[Reins of the Ashhide Mushan Beast]|h|r ! |cff71d5ff|Hspell:243025:0|h[Riddler's Mind-Worm]|h|r & |cffa335ee|Hitem:156798::::::::120:63::2::::|h[The Hivemind]|h|r are also Available ! Whisper for info !", -- [1]
 			"Tokucho-TarrenMill", -- [2]
@@ -1518,7 +1474,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Tokucho|r",
 			[51] = 1602376885,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [68]
+		}, -- [66]
 		{
 			"WTS |cffa335ee|Hitem:166433::::::::120:63::::::|h[Frightened Kodo]|h|r MOUNT Boost in just few minutes for GOLD ONLY !  Special Offer and discount ^^ Draenor RARE MOUNTS are also available ! Whisper for more info :)", -- [1]
 			"Tokucho-TarrenMill", -- [2]
@@ -1540,7 +1496,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Tokucho|r",
 			[51] = 1602376885,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [69]
+		}, -- [67]
 		{
 			"Sylvanas Community||^ FREE ARMOR STACK ^ ||^M+15 JUST FOR 100k ^|| M+16 JUST 140k || 3x run +15 285k  ||  5x run +15 420k || Horrific Visions ||  Ny'alotha HC  / Mythic / Nzoth MOUNT  TONGIHT  || Jaina MounT 300k NOW || PVP Boost || All achivment boost", -- [1]
 			"Sylvaboostt-TarrenMill", -- [2]
@@ -1562,7 +1518,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Sylvaboostt|r",
 			[51] = 1602376899,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [70]
+		}, -- [68]
 		{
 			"<NOVA> [M+15=90k] [2x M+15=171k] [4x M+15=324k] NOVA OFFERING Ny'Alotha HEROIC  PL + SHAREloot 140k  and 60k Per Trader.  CURVE 50k / [ 5mask =60k ]  [ Freehold lvlup ]  [ Jaina Mount 350k ] [Keyston Master=950k] **6x+15 459k **/ Nzath Mythic 2.2m   ", -- [1]
 			"Novasellert-TarrenMill", -- [2]
@@ -1584,7 +1540,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Novasellert|r",
 			[51] = 1602376909,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [71]
+		}, -- [69]
 		{
 			"FREE ARMOR STACK **** M+15 100k in Time **** <SYLVANAS>(BIG DISCOUNT FOR 5 OR 4 OR 3 RUN}>M+20 420k all loot is yours>((3x15 280k)) ((5x15 420k)) (KEYSTONE MASTER)>((Mechagon HARD MODE)) ((RAID HC/M VIP TRADER)) ((NZOTH with MOUNT))/W ME FOR BEST PRICE", -- [1]
 			"Sylvtaren-TarrenMill", -- [2]
@@ -1606,7 +1562,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Sylvtaren|r",
 			[51] = 1602376917,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [72]
+		}, -- [70]
 		{
 			"<Sylvanas Offers>[+15only 100k]  +10 for 80k   || [11=89k]      ||  [+14=95k]   ||   ]+16=140k||3x15=280k||5x15=420k  ||FREE armor stack all run) [keystone master 990k] ||vision   || Ra-den , Carapace , N'zoth (With AMAZING VIP traders) jaina RUN(350k)", -- [1]
 			"Sylvanasbc-TarrenMill", -- [2]
@@ -1628,7 +1584,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Sylvanasbc|r",
 			[51] = 1602376920,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [73]
+		}, -- [71]
 		{
 			"can we pls stop adding?", -- [1]
 			"Aschente-TarrenMill", -- [2]
@@ -1650,7 +1606,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Aschente|r",
 			[51] = 1602377078,
 			[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
-		}, -- [74]
+		}, -- [72]
 		{
 			"ok no", -- [1]
 			"Rynllor-TarrenMill", -- [2]
@@ -1672,7 +1628,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Rynllor|r",
 			[51] = 1602377141,
 			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [75]
+		}, -- [73]
 		{
 			"stop adding", -- [1]
 			"Rynllor-TarrenMill", -- [2]
@@ -1694,7 +1650,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Rynllor|r",
 			[51] = 1602377143,
 			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [76]
+		}, -- [74]
 		{
 			"wtf", -- [1]
 			"Rynllor-TarrenMill", -- [2]
@@ -1716,7 +1672,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Rynllor|r",
 			[51] = 1602377144,
 			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [77]
+		}, -- [75]
 		{
 			"is it that hard to not pull?", -- [1]
 			"Aschente-TarrenMill", -- [2]
@@ -1738,7 +1694,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Aschente|r",
 			[51] = 1602377171,
 			[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
-		}, -- [78]
+		}, -- [76]
 		{
 			"another one who wants to pull extra? we can vote u as well", -- [1]
 			"Aschente-TarrenMill", -- [2]
@@ -1760,7 +1716,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Aschente|r",
 			[51] = 1602377248,
 			[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
-		}, -- [79]
+		}, -- [77]
 		{
 			"Leafer was in tank spec?", -- [1]
 			"Trollboom-Draenor", -- [2]
@@ -1782,7 +1738,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Trollboom-Draenor|r",
 			[51] = 1602377267,
 			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [80]
+		}, -- [78]
 		{
 			"I spawned on top of the mobs ;<", -- [1]
 			"Hoofizzle-Kazzak", -- [2]
@@ -1804,7 +1760,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Hoofizzle-Kazzak|r",
 			[51] = 1602377326,
 			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [81]
+		}, -- [79]
 		{
 			"Lmao the druid was in tank spec as well", -- [1]
 			"Trollboom-Draenor", -- [2]
@@ -1826,7 +1782,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Trollboom-Draenor|r",
 			[51] = 1602377337,
 			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [82]
+		}, -- [80]
 		{
 			"Raging Gaze on Bútcher", -- [1]
 			"Bútcher-Azuremyst", -- [2]
@@ -1848,7 +1804,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cBútcher-Azuremyst|r",
 			[51] = 1602377596,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [83]
+		}, -- [81]
 		{
 			"Raging Gaze on Trollboom", -- [1]
 			"Trollboom-Draenor", -- [2]
@@ -1870,7 +1826,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Trollboom-Draenor|r",
 			[51] = 1602377598,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [84]
+		}, -- [82]
 		{
 			"Raging Gaze on Hoofizzle", -- [1]
 			"Hoofizzle-Kazzak", -- [2]
@@ -1892,7 +1848,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Hoofizzle-Kazzak|r",
 			[51] = 1602377598,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [85]
+		}, -- [83]
 		{
 			"Propellant Blast on Bútcher", -- [1]
 			"Bútcher-Azuremyst", -- [2]
@@ -1914,7 +1870,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cBútcher-Azuremyst|r",
 			[51] = 1602377849,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [86]
+		}, -- [84]
 		{
 			"ty", -- [1]
 			"Bútcher-Azuremyst", -- [2]
@@ -1936,7 +1892,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cBútcher-Azuremyst|r",
 			[51] = 1602378078,
 			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [87]
+		}, -- [85]
 		{
 			"np", -- [1]
 			"Trollboom-Draenor", -- [2]
@@ -1958,7 +1914,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Trollboom-Draenor|r",
 			[51] = 1602378082,
 			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [88]
+		}, -- [86]
 		{
 			"Homing Missile on Hoofizzle", -- [1]
 			"Hoofizzle-Kazzak", -- [2]
@@ -1980,7 +1936,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Hoofizzle-Kazzak|r",
 			[51] = 1602378092,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [89]
+		}, -- [87]
 		{
 			"Homing Missile on Rynllor", -- [1]
 			"Rynllor-TarrenMill", -- [2]
@@ -2002,7 +1958,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Rynllor|r",
 			[51] = 1602378113,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [90]
+		}, -- [88]
 		{
 			"Azerite Heartseeker on Hoofizzle", -- [1]
 			"Hoofizzle-Kazzak", -- [2]
@@ -2024,7 +1980,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Hoofizzle-Kazzak|r",
 			[51] = 1602378148,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [91]
+		}, -- [89]
 		{
 			"Drill Smash on Trollboom", -- [1]
 			"Trollboom-Draenor", -- [2]
@@ -2046,7 +2002,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Trollboom-Draenor|r",
 			[51] = 1602378152,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [92]
+		}, -- [90]
 		{
 			"Azerite Heartseeker on Bútcher", -- [1]
 			"Bútcher-Azuremyst", -- [2]
@@ -2068,7 +2024,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cBútcher-Azuremyst|r",
 			[51] = 1602378165,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [93]
+		}, -- [91]
 		{
 			"Homing Missile on Hoofizzle", -- [1]
 			"Hoofizzle-Kazzak", -- [2]
@@ -2090,7 +2046,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Hoofizzle-Kazzak|r",
 			[51] = 1602378194,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [94]
+		}, -- [92]
 		{
 			"WTS |cffa335ee|Hitem:166433::::::::120:63::::::|h[Frightened Kodo]|h|r MOUNT Boost in just few minutes for GOLD ONLY !  Special Offer and discount ^^ Draenor RARE MOUNTS are also available ! Whisper for more info :)", -- [1]
 			"Tokucho-TarrenMill", -- [2]
@@ -2112,7 +2068,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Tokucho|r",
 			[51] = 1602378245,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [95]
+		}, -- [93]
 		{
 			"WTS |cffa335ee|Hitem:65891::::::::120:103::::::|h[Vial of the Sands]|h|r 45k", -- [1]
 			"Rubydadruid-TarrenMill", -- [2]
@@ -2134,7 +2090,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Rubydadruid|r",
 			[51] = 1602378247,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [96]
+		}, -- [94]
 		{
 			"<NOVA> [M+15=90k] [2x M+15=171k] [4x M+15=324k] NOVA OFFERING Ny'Alotha HEROIC  PL + SHAREloot 140k  and 60k Per Trader.  CURVE 50k / [ 5mask =60k ]  [ Freehold lvlup ]  [ Jaina Mount 350k ] [Keyston Master=950k] **6x+15 459k **/ Nzath Mythic 2.2m   ", -- [1]
 			"Novasellert-TarrenMill", -- [2]
@@ -2156,7 +2112,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Novasellert|r",
 			[51] = 1602378249,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [97]
+		}, -- [95]
 		{
 			"< Hydra CM > WTS |cffffff00|Hachievement:8721:Player-3674-0A5663DF:1:6:14:20:4294967295:4294967295:4294967295:4294967295|h[Fire-Watcher]|h|r Get your Title+|cff71d5ff|Hspell:148428:0|h[Ashhide Mushan Beast]|h|r+Pet. Mount can be sold separately. /w me", -- [1]
 			"Hydraboostcm-TarrenMill", -- [2]
@@ -2178,7 +2134,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cHydraboostcm|r",
 			[51] = 1602378258,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [98]
+		}, -- [96]
 		{
 			"Also selling |cff71d5ff|Hspell:261395:0|h[The Hivemind]|h|r || |cff71d5ff|Hspell:230401:0|h[Ivory Hawkstrider]|h|r Reputation || |cffffff00|Hachievement:9508:Player-1084-09CD7ABF:0:0:0:-1:0:0:0:0|h[Warlord of Draenor]|h|r Titles. /w for more info!", -- [1]
 			"Hydraboostcm-TarrenMill", -- [2]
@@ -2200,6 +2156,50 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cHydraboostcm|r",
 			[51] = 1602378258,
 			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [97]
+		{
+			"..", -- [1]
+			"Vulbeera-TarrenMill", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Vulbeera-TarrenMill", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			20, -- [11]
+			"Player-1084-09F463DF", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffc59a6cVulbeera|r",
+			[51] = 1606102511,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [98]
+		{
+			"asd", -- [1]
+			"Morphorius-TarrenMill", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Morphorius-TarrenMill", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			23, -- [11]
+			"Player-1084-09C0C91D", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffe7b09Morphorius|r",
+			[51] = 1606102525,
+			[50] = "CHAT_MSG_WHISPER_INFORM",
 		}, -- [99]
 	},
 }

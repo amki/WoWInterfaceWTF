@@ -1,1052 +1,1256 @@
 
 ElvCharacterDB = {
 	["ChatEditHistory"] = {
-		"/p already gave it away", -- [1]
-		"/p :3", -- [2]
-		"/p gg", -- [3]
-		"/p cyaa", -- [4]
-		"/s 7RL", -- [5]
-		"/s |cffffff00|Hworldmap:1355:5965:2751|h[|A:Waypoint-MapPin-ChatIcon:13:13:0:0|a Map Pin Location]|h|r", -- [6]
-		"/wa", -- [7]
-		"/p |cffffff00|Hworldmap:1355:3837:1848|h[|A:Waypoint-MapPin-ChatIcon:13:13:0:0|a Map Pin Location]|h|r", -- [8]
-		"/p |cffffff00|Hworldmap:1355:7102:3910|h[|A:Waypoint-MapPin-ChatIcon:13:13:0:0|a Map Pin Location]|h|r", -- [9]
-		"/m", -- [10]
-		"/eh output default", -- [11]
-		"/eh table", -- [12]
-		"/eh", -- [13]
-		"/eh on", -- [14]
-		"/eh activeUser", -- [15]
-		"/eh activeuser", -- [16]
-		"/p indeed we ill", -- [17]
-		"/p it has a cooldown you know", -- [18]
-		"ne ich geh jetzt ins betti :D", -- [19]
-		"/tsm", -- [20]
+		"/g ich lollierte", -- [1]
+		"/g bin schon 61 tbh", -- [2]
+		"/o dieser hier ist dunkelgrün", -- [3]
+		"/o ich bin so cool", -- [4]
+		"/g mal", -- [5]
+		"/g deswegen mach ich mir die mühe", -- [6]
+		"/g jeden drecks khar einzuladen", -- [7]
+		"/g :3", -- [8]
+		"/g was speckt man so?", -- [9]
+		"/g stufen wir zu 3?", -- [10]
+		"/g um null?", -- [11]
+		"/g warmode off btw", -- [12]
+		"/g :3333", -- [13]
+		"/g wasn nu", -- [14]
+		"/g eulenspeck", -- [15]
+		"/g ich habe auch wrath gebunden", -- [16]
+		"/g auf eine heißtaste", -- [17]
+		"/g - /run local t = time() +15 while time() < t do end", -- [18]
+		"/g das postmeister käse makro", -- [19]
+		"/m", -- [20]
 	},
 	["ChatHistoryLog"] = {
 		{
-			"<EH> Finomliszt-Draenor got hit by |cff71d5ff|Hspell:272426:0|h[Sighted Artillery]|h|r for 7.5k (44%).", -- [1]
-			"Enthusiastus-TarrenMill", -- [2]
+			"Skycoach community will help you for ONE TOKEN Price  with Ny'alotha heroic, N'Zoth. Mythic +10, +11,+12,+13,+14,+15 +20 with loottrade and much more! Get your gear today! Please PM", -- [1]
+			"Besstdung-TarrenMill", -- [2]
 			"", -- [3]
-			"", -- [4]
-			"Enthusiastus-TarrenMill", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			"2. Trade - City", -- [4]
+			"Besstdung-TarrenMill", -- [5]
+			"DND", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
 			0, -- [10]
-			3951, -- [11]
-			"Player-1084-0854DAAD", -- [12]
+			71, -- [11]
+			"Player-1084-09F2FE05", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffe7b09Enthusiastus|r",
-			[51] = 1605584782,
-			[50] = "CHAT_MSG_PARTY",
+			true, -- [17]
+			[52] = "|cfffefefeBesstdung|r",
+			[51] = 1606101678,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [1]
 		{
-			"Sighted Artillery on Enthusiastus", -- [1]
-			"Enthusiastus-TarrenMill", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Enthusiastus-TarrenMill", -- [5]
+			"WTS   |cff1eff00|Hitem:109253::::::::50:269:::::::|h[Ultimate Gnomish Army Knife]|h|r", -- [1]
+			"Katniss-Dentarg", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Katniss-Dentarg", -- [5]
 			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
 			0, -- [10]
-			3959, -- [11]
-			"Player-1084-0854DAAD", -- [12]
+			72, -- [11]
+			"Player-1084-09EBE68F", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffe7b09Enthusiastus|r",
-			[51] = 1605584858,
-			[50] = "CHAT_MSG_SAY",
+			true, -- [17]
+			[52] = "|cff00fe97Katniss-Dentarg|r",
+			[51] = 1606101725,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [2]
 		{
-			"<EH> Mastema-Malygos got hit by |cff71d5ff|Hspell:272426:0|h[Sighted Artillery]|h|r for 7.3k (47%).", -- [1]
-			"Enthusiastus-TarrenMill", -- [2]
+			"WTS|cffff8000|Hinstancelock:Player-1084-09D0336E:603:14:8190|h[Ulduar]|h|r<>|cffff8000|Hinstancelock:Player-1084-09D0336E:1136:15:23551|h[Siege of Orgrimmar]|h|rHC<>|cffff8000|Hinstancelock:Player-1084-09D0336E:564:14:255|h[Black Temple]|h|r<>|cffff8000|Hinstancelock:Player-1084-09D0336E:720:14:119|h[Firelands]|h|rLockouts On Both Side(Horde&Alliance) /w For more info", -- [1]
+			"Saveseller-TarrenMill", -- [2]
 			"", -- [3]
-			"", -- [4]
-			"Enthusiastus-TarrenMill", -- [5]
+			"2. Trade - City", -- [4]
+			"Saveseller-TarrenMill", -- [5]
 			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
 			0, -- [10]
-			3963, -- [11]
-			"Player-1084-0854DAAD", -- [12]
+			73, -- [11]
+			"Player-1084-09D0336E", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffe7b09Enthusiastus|r",
-			[51] = 1605584869,
-			[50] = "CHAT_MSG_PARTY",
+			true, -- [17]
+			[52] = "|cffc31d39Saveseller|r",
+			[51] = 1606101788,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [3]
 		{
-			"tank", -- [1]
-			"Nonbeliever-TarrenMill", -- [2]
+			"Skycoach community will help you for ONE TOKEN Price  with Ny'alotha heroic, N'Zoth. Mythic +10, +11,+12,+13,+14,+15 +20 with loottrade and much more! Get your gear today! Please PM", -- [1]
+			"Besstdung-TarrenMill", -- [2]
 			"", -- [3]
-			"", -- [4]
-			"Nonbeliever-TarrenMill", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			"2. Trade - City", -- [4]
+			"Besstdung-TarrenMill", -- [5]
+			"DND", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
 			0, -- [10]
-			3970, -- [11]
-			"Player-1084-08E1DD05", -- [12]
+			9, -- [11]
+			"Player-1084-09F2FE05", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa22fc8Nonbeliever|r",
-			[51] = 1605584918,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			true, -- [17]
+			[52] = "|cfffefefeBesstdung|r",
+			[51] = 1606101957,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [4]
 		{
-			"we will fail the key", -- [1]
-			"Nonbeliever-TarrenMill", -- [2]
+			"Anyone who got time to sign my Guild Charter? That would great ^_^ 500g tip /w me", -- [1]
+			"Morphorius-TarrenMill", -- [2]
 			"", -- [3]
-			"", -- [4]
-			"Nonbeliever-TarrenMill", -- [5]
+			"2. Trade - City", -- [4]
+			"Morphorius-TarrenMill", -- [5]
 			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
 			0, -- [10]
-			3971, -- [11]
-			"Player-1084-08E1DD05", -- [12]
+			1, -- [11]
+			"Player-1084-09C0C91D", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa22fc8Nonbeliever|r",
-			[51] = 1605584922,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			true, -- [17]
+			[52] = "|cfffe7b09Morphorius|r",
+			[51] = 1606102085,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [5]
 		{
-			"<EH> Nonbeliever got hit by |cff71d5ff|Hspell:268260:0|h[Broadside]|h|r for 8.3k (54%).", -- [1]
-			"Enthusiastus-TarrenMill", -- [2]
+			"Skycoach community will help you for ONE TOKEN Price  with Ny'alotha heroic, N'Zoth. Mythic +10, +11,+12,+13,+14,+15 +20 with loottrade and much more! Get your gear today! Please PM", -- [1]
+			"Besstdung-TarrenMill", -- [2]
 			"", -- [3]
-			"", -- [4]
-			"Enthusiastus-TarrenMill", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			"2. Trade - City", -- [4]
+			"Besstdung-TarrenMill", -- [5]
+			"DND", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
 			0, -- [10]
-			3974, -- [11]
-			"Player-1084-0854DAAD", -- [12]
+			2, -- [11]
+			"Player-1084-09F2FE05", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffe7b09Enthusiastus|r",
-			[51] = 1605584938,
-			[50] = "CHAT_MSG_PARTY",
+			true, -- [17]
+			[52] = "|cfffefefeBesstdung|r",
+			[51] = 1606102111,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [6]
 		{
-			"<EH> Enthusiastus got hit by |cff71d5ff|Hspell:268260:0|h[Broadside]|h|r for 9.2k (58%).", -- [1]
-			"Enthusiastus-TarrenMill", -- [2]
+			"<*NOVA*> Offerin 10-24 in Time ,15=90k/2x=171k/4x=333k/6x=534.5k/10x=810k/nzoth mount only=50k/Hivemind=160k/Smolder=130k/Mechgon=130k/All Glory mounts/BOD FUll Armor TMOG 8/9=500k/Level 10-50/Island PVP WIn=50k/", -- [1]
+			"Novafastruns-TarrenMill", -- [2]
 			"", -- [3]
-			"", -- [4]
-			"Enthusiastus-TarrenMill", -- [5]
+			"2. Trade - City", -- [4]
+			"Novafastruns-TarrenMill", -- [5]
 			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
 			0, -- [10]
-			3975, -- [11]
-			"Player-1084-0854DAAD", -- [12]
+			3, -- [11]
+			"Player-1084-09EFC069", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffe7b09Enthusiastus|r",
-			[51] = 1605584938,
-			[50] = "CHAT_MSG_PARTY",
+			true, -- [17]
+			[52] = "|cff00fe97Novafastruns|r",
+			[51] = 1606102111,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [7]
 		{
-			"<EH> Finomliszt-Draenor got hit by |cff71d5ff|Hspell:268260:0|h[Broadside]|h|r for 7.5k (44%).", -- [1]
-			"Enthusiastus-TarrenMill", -- [2]
+			"Skycoach community will help you for ONE TOKEN Price  with Ny'alotha heroic, N'Zoth. Mythic +10, +11,+12,+13,+14,+15 +20 with loottrade and much more! Get your gear today! Please PM", -- [1]
+			"Besstdung-TarrenMill", -- [2]
 			"", -- [3]
-			"", -- [4]
-			"Enthusiastus-TarrenMill", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			"2. Trade - City", -- [4]
+			"Besstdung-TarrenMill", -- [5]
+			"DND", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
 			0, -- [10]
-			3976, -- [11]
-			"Player-1084-0854DAAD", -- [12]
+			4, -- [11]
+			"Player-1084-09F2FE05", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffe7b09Enthusiastus|r",
-			[51] = 1605584938,
-			[50] = "CHAT_MSG_PARTY",
+			true, -- [17]
+			[52] = "|cfffefefeBesstdung|r",
+			[51] = 1606102238,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [8]
 		{
-			"Sighted Artillery on Nonbeliever", -- [1]
-			"Nonbeliever-TarrenMill", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Nonbeliever-TarrenMill", -- [5]
+			"<*NOVA*> Offerin 10-24 in Time ,15=90k/2x=171k/4x=333k/6x=534.5k/10x=810k/nzoth mount only=50k/Hivemind=160k/Smolder=130k/Mechgon=130k/All Glory mounts/BOD FUll Armor TMOG 8/9=500k/Level 10-50/Island PVP WIn=50k/", -- [1]
+			"Novafastruns-TarrenMill", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Novafastruns-TarrenMill", -- [5]
 			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
 			0, -- [10]
-			3977, -- [11]
-			"Player-1084-08E1DD05", -- [12]
+			102, -- [11]
+			"Player-1084-09EFC069", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa22fc8Nonbeliever|r",
-			[51] = 1605584939,
-			[50] = "CHAT_MSG_SAY",
+			true, -- [17]
+			[52] = "|cff00fe97Novafastruns|r",
+			[51] = 1606103217,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [9]
 		{
-			"<EH> Finomliszt-Draenor got hit by |cff71d5ff|Hspell:268260:0|h[Broadside]|h|r for 7.5k (44%).", -- [1]
-			"Enthusiastus-TarrenMill", -- [2]
+			"gf", -- [1]
+			"|Kq10|k", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Enthusiastus-TarrenMill", -- [5]
+			"", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3979, -- [11]
-			"Player-1084-0854DAAD", -- [12]
-			0, -- [13]
+			103, -- [11]
+			false, -- [12]
+			5, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffe7b09Enthusiastus|r",
-			[51] = 1605584963,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cffa22fc8xziino|r",
+			[51] = 1606103228,
+			[50] = "CHAT_MSG_BN_WHISPER",
+			[53] = "xziino",
 		}, -- [10]
 		{
-			"<EH> Mastema-Malygos got hit by |cff71d5ff|Hspell:272426:0|h[Sighted Artillery]|h|r for 9.4k (61%).", -- [1]
-			"Enthusiastus-TarrenMill", -- [2]
+			"<STALKERS> 10/10M NH 4/9M ToS is building its raid team for ToS progression and pushing mythic plus keys. (wed/thurs/sun 21:30-00:30). Recruiting exceptional dps (warlock) and one tank. All are considered. All players considered for M+ Rank!", -- [1]
+			"Jorddo-TarrenMill", -- [2]
 			"", -- [3]
-			"", -- [4]
-			"Enthusiastus-TarrenMill", -- [5]
+			"2. Trade - City", -- [4]
+			"Jorddo-TarrenMill", -- [5]
 			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
 			0, -- [10]
-			3982, -- [11]
-			"Player-1084-0854DAAD", -- [12]
+			107, -- [11]
+			"Player-1084-082D64A8", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffe7b09Enthusiastus|r",
-			[51] = 1605584973,
-			[50] = "CHAT_MSG_PARTY",
+			true, -- [17]
+			[52] = "|cff3ec6eaJorddo|r",
+			[51] = 1606103264,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [11]
 		{
-			"<EH> Mastema-Malygos got hit by |cff71d5ff|Hspell:268260:0|h[Broadside]|h|r for 7.3k (47%).", -- [1]
-			"Enthusiastus-TarrenMill", -- [2]
+			"LF JAINA BOOSTERS NOW", -- [1]
+			"Thislock-TarrenMill", -- [2]
 			"", -- [3]
-			"", -- [4]
-			"Enthusiastus-TarrenMill", -- [5]
+			"2. Trade - City", -- [4]
+			"Thislock-TarrenMill", -- [5]
 			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
 			0, -- [10]
-			3990, -- [11]
-			"Player-1084-0854DAAD", -- [12]
+			117, -- [11]
+			"Player-1084-08F679CF", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffe7b09Enthusiastus|r",
-			[51] = 1605585012,
-			[50] = "CHAT_MSG_PARTY",
+			true, -- [17]
+			[52] = "|cff8687edThislock|r",
+			[51] = 1606103342,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [12]
 		{
-			"<EH> Nonbeliever got hit by |cff71d5ff|Hspell:268443:0|h[Dread Volley]|h|r for 9.4k (61%).", -- [1]
-			"Enthusiastus-TarrenMill", -- [2]
+			"ginv", -- [1]
+			"|Kq25|k", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Enthusiastus-TarrenMill", -- [5]
+			"", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3991, -- [11]
-			"Player-1084-0854DAAD", -- [12]
-			0, -- [13]
+			118, -- [11]
+			false, -- [12]
+			6, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffe7b09Enthusiastus|r",
-			[51] = 1605585012,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cfffe7b09Roí|r",
+			[51] = 1606103349,
+			[50] = "CHAT_MSG_BN_WHISPER",
+			[53] = "Roí",
 		}, -- [13]
 		{
-			"<EH> Finomliszt-Draenor got hit by |cff71d5ff|Hspell:268443:0|h[Dread Volley]|h|r for 19.0k (111%).", -- [1]
-			"Enthusiastus-TarrenMill", -- [2]
+			"jjoin auch community", -- [1]
+			"|Kq25|k", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Enthusiastus-TarrenMill", -- [5]
+			"", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3993, -- [11]
-			"Player-1084-0854DAAD", -- [12]
-			0, -- [13]
+			123, -- [11]
+			false, -- [12]
+			6, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffe7b09Enthusiastus|r",
-			[51] = 1605585024,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cfffe7b09Roí|r",
+			[51] = 1606103369,
+			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
+			[53] = "Roí",
 		}, -- [14]
 		{
-			"indeed we ill", -- [1]
-			"Enthusiastus-TarrenMill", -- [2]
+			"can i join", -- [1]
+			"Redjidk-TarrenMill", -- [2]
 			"", -- [3]
-			"", -- [4]
-			"Enthusiastus-TarrenMill", -- [5]
+			"2. Trade - City", -- [4]
+			"Redjidk-TarrenMill", -- [5]
 			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
 			0, -- [10]
-			3995, -- [11]
-			"Player-1084-0854DAAD", -- [12]
+			124, -- [11]
+			"Player-1084-082D6992", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffe7b09Enthusiastus|r",
-			[51] = 1605585027,
-			[50] = "CHAT_MSG_PARTY",
+			true, -- [17]
+			[52] = "|cffc31d39Redjidk|r",
+			[51] = 1606103371,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [15]
 		{
-			"<EH> Mastema-Malygos got hit by |cff71d5ff|Hspell:269029:0|h[Clear the Deck]|h|r for 6.5k (43%).", -- [1]
-			"Enthusiastus-TarrenMill", -- [2]
+			"i need guld", -- [1]
+			"Redjidk-TarrenMill", -- [2]
 			"", -- [3]
-			"", -- [4]
-			"Enthusiastus-TarrenMill", -- [5]
+			"2. Trade - City", -- [4]
+			"Redjidk-TarrenMill", -- [5]
 			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
 			0, -- [10]
-			3996, -- [11]
-			"Player-1084-0854DAAD", -- [12]
+			125, -- [11]
+			"Player-1084-082D6992", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffe7b09Enthusiastus|r",
-			[51] = 1605585037,
-			[50] = "CHAT_MSG_PARTY",
+			true, -- [17]
+			[52] = "|cffc31d39Redjidk|r",
+			[51] = 1606103373,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [16]
 		{
-			"<EH> Mastema-Malygos got hit by |cff71d5ff|Hspell:268443:0|h[Dread Volley]|h|r for 9.0k (59%).", -- [1]
-			"Enthusiastus-TarrenMill", -- [2]
+			"me too can i boost jaina", -- [1]
+			"Jorddo-TarrenMill", -- [2]
 			"", -- [3]
-			"", -- [4]
-			"Enthusiastus-TarrenMill", -- [5]
+			"2. Trade - City", -- [4]
+			"Jorddo-TarrenMill", -- [5]
 			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
 			0, -- [10]
-			3999, -- [11]
-			"Player-1084-0854DAAD", -- [12]
+			126, -- [11]
+			"Player-1084-082D64A8", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffe7b09Enthusiastus|r",
-			[51] = 1605585087,
-			[50] = "CHAT_MSG_PARTY",
+			true, -- [17]
+			[52] = "|cff3ec6eaJorddo|r",
+			[51] = 1606103377,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [17]
 		{
-			"<EH> Finomliszt-Draenor got hit by |cff71d5ff|Hspell:272874:0|h[Trample]|h|r for 7.6k (44%).", -- [1]
-			"Enthusiastus-TarrenMill", -- [2]
+			"g", -- [1]
+			"|Kq10|k", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Enthusiastus-TarrenMill", -- [5]
+			"", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			4005, -- [11]
-			"Player-1084-0854DAAD", -- [12]
-			0, -- [13]
+			127, -- [11]
+			false, -- [12]
+			5, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffe7b09Enthusiastus|r",
-			[51] = 1605585140,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cff00fe97xziino|r",
+			[51] = 1606103398,
+			[50] = "CHAT_MSG_BN_WHISPER",
+			[53] = "xziino",
 		}, -- [18]
 		{
-			"<EH> Finomliszt-Draenor got hit by |cff71d5ff|Hspell:272874:0|h[Trample]|h|r for 8.7k (51%).", -- [1]
-			"Enthusiastus-TarrenMill", -- [2]
+			"erstmal invis pots beim mammoth verticken", -- [1]
+			"|Kq25|k", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Enthusiastus-TarrenMill", -- [5]
+			"", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			4008, -- [11]
-			"Player-1084-0854DAAD", -- [12]
-			0, -- [13]
+			131, -- [11]
+			false, -- [12]
+			6, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffe7b09Enthusiastus|r",
-			[51] = 1605585155,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cfffe7b09Roí|r",
+			[51] = 1606103428,
+			[50] = "CHAT_MSG_BN_WHISPER",
+			[53] = "Roí",
 		}, -- [19]
 		{
-			"<EH> Finomliszt-Draenor got hit by |cff71d5ff|Hspell:274942:0|h[Banana Rampage]|h|r.", -- [1]
-			"Enthusiastus-TarrenMill", -- [2]
+			":3", -- [1]
+			"|Kq25|k", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Enthusiastus-TarrenMill", -- [5]
+			"", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			4015, -- [11]
-			"Player-1084-0854DAAD", -- [12]
-			0, -- [13]
+			132, -- [11]
+			false, -- [12]
+			6, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffe7b09Enthusiastus|r",
-			[51] = 1605585203,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cfffe7b09Roí|r",
+			[51] = 1606103433,
+			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
+			[53] = "Roí",
 		}, -- [20]
 		{
-			"<EH> Finomliszt-Draenor got hit by |cff71d5ff|Hspell:272713:0|h[Crushing Slam]|h|r for 8.4k (49%).", -- [1]
-			"Enthusiastus-TarrenMill", -- [2]
+			"j", -- [1]
+			"Xziino-TarrenMill", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Enthusiastus-TarrenMill", -- [5]
+			"Xziino-TarrenMill", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			4016, -- [11]
-			"Player-1084-0854DAAD", -- [12]
+			133, -- [11]
+			"Player-1084-0854DA24", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffe7b09Enthusiastus|r",
-			[51] = 1605585215,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cffc59a6cXziino|r",
+			[51] = 1606103457,
+			[50] = "CHAT_MSG_WHISPER",
 		}, -- [21]
 		{
-			"<EH> Enthusiastus got hit by |cff71d5ff|Hspell:272713:0|h[Crushing Slam]|h|r for 11.1k (71%).", -- [1]
-			"Enthusiastus-TarrenMill", -- [2]
+			"ginv", -- [1]
+			"|Kq25|k", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Enthusiastus-TarrenMill", -- [5]
+			"", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			4017, -- [11]
-			"Player-1084-0854DAAD", -- [12]
-			0, -- [13]
+			137, -- [11]
+			false, -- [12]
+			6, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffe7b09Enthusiastus|r",
-			[51] = 1605585215,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cffc59a6cRoí|r",
+			[51] = 1606103490,
+			[50] = "CHAT_MSG_BN_WHISPER",
+			[53] = "Roí",
 		}, -- [22]
 		{
-			"<EH> Enthusiastus got hit by |cff71d5ff|Hspell:274942:0|h[Banana Rampage]|h|r.", -- [1]
-			"Enthusiastus-TarrenMill", -- [2]
+			"f", -- [1]
+			"Pheniisi-TarrenMill", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Enthusiastus-TarrenMill", -- [5]
+			"Pheniisi-TarrenMill", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			4018, -- [11]
-			"Player-1084-0854DAAD", -- [12]
+			140, -- [11]
+			"Player-1084-09E921FD", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffe7b09Enthusiastus|r",
-			[51] = 1605585217,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cffa9d271Pheniisi|r",
+			[51] = 1606103509,
+			[50] = "CHAT_MSG_WHISPER",
 		}, -- [23]
 		{
-			"<EH> Mastema-Malygos got hit by |cff71d5ff|Hspell:274942:0|h[Banana Rampage]|h|r.", -- [1]
-			"Enthusiastus-TarrenMill", -- [2]
+			"|HclubTicket:b9kZv9cEMP|h[Join: null]|h", -- [1]
+			"|Kq25|k", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Enthusiastus-TarrenMill", -- [5]
+			"", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			4019, -- [11]
-			"Player-1084-0854DAAD", -- [12]
-			0, -- [13]
+			143, -- [11]
+			false, -- [12]
+			6, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffe7b09Enthusiastus|r",
-			[51] = 1605585240,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cffc59a6cRoí|r",
+			[51] = 1606103536,
+			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
+			[53] = "Roí",
 		}, -- [24]
 		{
-			"<EH> Mastema-Malygos got hit by |cff71d5ff|Hspell:274942:0|h[Banana Rampage]|h|r.", -- [1]
-			"Enthusiastus-TarrenMill", -- [2]
+			"|HclubTicket:b9kZv9cEMP|h[Join: null]|h", -- [1]
+			"|Kq10|k", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Enthusiastus-TarrenMill", -- [5]
+			"", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			4020, -- [11]
-			"Player-1084-0854DAAD", -- [12]
-			0, -- [13]
+			144, -- [11]
+			false, -- [12]
+			5, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffe7b09Enthusiastus|r",
-			[51] = 1605585248,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cffa9d271xziino|r",
+			[51] = 1606103541,
+			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
+			[53] = "xziino",
 		}, -- [25]
 		{
-			"<EH> Finomliszt-Draenor got hit by |cff71d5ff|Hspell:274942:0|h[Banana Rampage]|h|r.", -- [1]
-			"Enthusiastus-TarrenMill", -- [2]
+			"|Hitem:162519::::::::50:73:::::::|h[Mystical Cauldron]|h hab ich hier dinge aus dem vorletzten addon dabei?", -- [1]
+			"|Kq25|k", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Enthusiastus-TarrenMill", -- [5]
+			"", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			4021, -- [11]
-			"Player-1084-0854DAAD", -- [12]
-			0, -- [13]
+			145, -- [11]
+			false, -- [12]
+			6, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffe7b09Enthusiastus|r",
-			[51] = 1605585267,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cffc59a6cRoí|r",
+			[51] = 1606103547,
+			[50] = "CHAT_MSG_BN_WHISPER",
+			[53] = "Roí",
 		}, -- [26]
 		{
-			"<EH> Finomliszt-Draenor got hit by |cff71d5ff|Hspell:274942:0|h[Banana Rampage]|h|r.", -- [1]
-			"Enthusiastus-TarrenMill", -- [2]
+			"|cffffd100|HclubTicket:b9kZv9cEMP|h[Join: null]|h|r", -- [1]
+			"Pheniisi-TarrenMill", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Enthusiastus-TarrenMill", -- [5]
+			"Pheniisi-TarrenMill", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			4022, -- [11]
-			"Player-1084-0854DAAD", -- [12]
+			146, -- [11]
+			"Player-1084-09E921FD", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffe7b09Enthusiastus|r",
-			[51] = 1605585269,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cffa9d271Pheniisi|r",
+			[51] = 1606103547,
+			[50] = "CHAT_MSG_WHISPER_INFORM",
 		}, -- [27]
 		{
-			"<EH> Mastema-Malygos got hit by |cff71d5ff|Hspell:274942:0|h[Banana Rampage]|h|r.", -- [1]
-			"Enthusiastus-TarrenMill", -- [2]
+			"https://www.worldofwarcraft.com/invite/b9kZv9cEMP?region=EU&faction=Horde", -- [1]
+			"Pheniisi-TarrenMill", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Enthusiastus-TarrenMill", -- [5]
+			"Pheniisi-TarrenMill", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			4023, -- [11]
-			"Player-1084-0854DAAD", -- [12]
+			147, -- [11]
+			"Player-1084-09E921FD", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffe7b09Enthusiastus|r",
-			[51] = 1605585271,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cffa9d271Pheniisi|r",
+			[51] = 1606103566,
+			[50] = "CHAT_MSG_WHISPER_INFORM",
 		}, -- [28]
 		{
-			"<EH> Finomliszt-Draenor got hit by |cff71d5ff|Hspell:272713:0|h[Crushing Slam]|h|r for 9.3k (54%).", -- [1]
-			"Enthusiastus-TarrenMill", -- [2]
-			"", -- [3]
+			"yeehgehe", -- [1]
+			"Shapertti-TarrenMill", -- [2]
+			"Orcish", -- [3]
 			"", -- [4]
-			"Enthusiastus-TarrenMill", -- [5]
+			"Shapertti-TarrenMill", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			4024, -- [11]
-			"Player-1084-0854DAAD", -- [12]
+			148, -- [11]
+			"Player-1084-09F463DE", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffe7b09Enthusiastus|r",
-			[51] = 1605585299,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cff006fdcShapertti|r",
+			[51] = 1606103581,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [29]
 		{
-			"<EH> Mastema-Malygos got hit by |cff71d5ff|Hspell:272713:0|h[Crushing Slam]|h|r for 9.4k (61%).", -- [1]
-			"Enthusiastus-TarrenMill", -- [2]
-			"", -- [3]
+			"i lvoe you", -- [1]
+			"Shapertti-TarrenMill", -- [2]
+			"Orcish", -- [3]
 			"", -- [4]
-			"Enthusiastus-TarrenMill", -- [5]
+			"Shapertti-TarrenMill", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			4025, -- [11]
-			"Player-1084-0854DAAD", -- [12]
+			149, -- [11]
+			"Player-1084-09F463DE", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffe7b09Enthusiastus|r",
-			[51] = 1605585299,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cff006fdcShapertti|r",
+			[51] = 1606103583,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [30]
 		{
-			"<EH> Enthusiastus got hit by |cff71d5ff|Hspell:272713:0|h[Crushing Slam]|h|r for 11.2k (71%).", -- [1]
-			"Enthusiastus-TarrenMill", -- [2]
+			"f", -- [1]
+			"Nibeliino-TarrenMill", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Enthusiastus-TarrenMill", -- [5]
+			"Nibeliino-TarrenMill", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			4026, -- [11]
-			"Player-1084-0854DAAD", -- [12]
+			150, -- [11]
+			"Player-1084-09EC1D0D", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffe7b09Enthusiastus|r",
-			[51] = 1605585300,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cff3ec6eaNibeliino|r",
+			[51] = 1606103601,
+			[50] = "CHAT_MSG_WHISPER",
 		}, -- [31]
 		{
-			"<EH> Mastema-Malygos got hit by |cff71d5ff|Hspell:257169:0|h[Terrifying Roar]|h|r.", -- [1]
-			"Enthusiastus-TarrenMill", -- [2]
+			"sollte community nicht accountwide sein?", -- [1]
+			"|Kq25|k", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Enthusiastus-TarrenMill", -- [5]
+			"", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			4027, -- [11]
-			"Player-1084-0854DAAD", -- [12]
-			0, -- [13]
+			154, -- [11]
+			false, -- [12]
+			6, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffe7b09Enthusiastus|r",
-			[51] = 1605585304,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cffc59a6cRoí|r",
+			[51] = 1606103630,
+			[50] = "CHAT_MSG_BN_WHISPER",
+			[53] = "Roí",
 		}, -- [32]
 		{
-			"<EH> Mastema-Malygos got hit by |cff71d5ff|Hspell:274942:0|h[Banana Rampage]|h|r.", -- [1]
-			"Enthusiastus-TarrenMill", -- [2]
+			"SOLLTE ABER IOST NICHT", -- [1]
+			"|Kq25|k", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Enthusiastus-TarrenMill", -- [5]
+			"", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			4028, -- [11]
-			"Player-1084-0854DAAD", -- [12]
-			0, -- [13]
+			155, -- [11]
+			false, -- [12]
+			6, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffe7b09Enthusiastus|r",
-			[51] = 1605585343,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "Roí",
+			[51] = 1606103638,
+			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
+			[53] = "Roí",
 		}, -- [33]
 		{
-			"<EH> Mastema-Malygos got hit by |cff71d5ff|Hspell:274942:0|h[Banana Rampage]|h|r.", -- [1]
-			"Enthusiastus-TarrenMill", -- [2]
+			"gh", -- [1]
+			"Mejyna-TarrenMill", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Enthusiastus-TarrenMill", -- [5]
+			"Mejyna-TarrenMill", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			4030, -- [11]
-			"Player-1084-0854DAAD", -- [12]
+			156, -- [11]
+			"Player-1084-09EBB86E", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffe7b09Enthusiastus|r",
-			[51] = 1605585376,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cfffef367Mejyna|r",
+			[51] = 1606103642,
+			[50] = "CHAT_MSG_WHISPER",
 		}, -- [34]
 		{
-			"<EH> Nonbeliever got hit by |cff71d5ff|Hspell:274942:0|h[Banana Rampage]|h|r.", -- [1]
-			"Enthusiastus-TarrenMill", -- [2]
+			"mein dh ist in null", -- [1]
+			"|Kq25|k", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Enthusiastus-TarrenMill", -- [5]
+			"", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			4031, -- [11]
-			"Player-1084-0854DAAD", -- [12]
-			0, -- [13]
+			161, -- [11]
+			false, -- [12]
+			6, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffe7b09Enthusiastus|r",
-			[51] = 1605585390,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cffa22fc8Roí|r",
+			[51] = 1606103667,
+			[50] = "CHAT_MSG_BN_WHISPER",
+			[53] = "Roí",
 		}, -- [35]
 		{
-			"<EH> Mastema-Malygos got hit by |cff71d5ff|Hspell:274942:0|h[Banana Rampage]|h|r.", -- [1]
-			"Enthusiastus-TarrenMill", -- [2]
+			"aber warry war nicht?", -- [1]
+			"|Kq25|k", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Enthusiastus-TarrenMill", -- [5]
+			"", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			4032, -- [11]
-			"Player-1084-0854DAAD", -- [12]
-			0, -- [13]
+			162, -- [11]
+			false, -- [12]
+			6, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffe7b09Enthusiastus|r",
-			[51] = 1605585399,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cffa22fc8Roí|r",
+			[51] = 1606103673,
+			[50] = "CHAT_MSG_BN_WHISPER",
+			[53] = "Roí",
 		}, -- [36]
 		{
-			"Interrupted Bilge Rat Tempest's |cff71d5ff|Hspell:272571:0|h[Choking Waters]|h|r!", -- [1]
-			"Talizeadr-TarrenMill", -- [2]
-			"Orcish", -- [3]
+			"ginv", -- [1]
+			"|Kq25|k", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Talizeadr-TarrenMill", -- [5]
+			"", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			4033, -- [11]
-			"Player-1084-0853F71A", -- [12]
-			0, -- [13]
+			163, -- [11]
+			false, -- [12]
+			6, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffe7b09Talizeadr|r",
-			[51] = 1605585402,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffa22fc8Roí|r",
+			[51] = 1606103674,
+			[50] = "CHAT_MSG_BN_WHISPER",
+			[53] = "Roí",
 		}, -- [37]
 		{
-			"<EH> Mastema-Malygos got hit by |cff71d5ff|Hspell:274942:0|h[Banana Rampage]|h|r.", -- [1]
-			"Enthusiastus-TarrenMill", -- [2]
+			"gehört die dir?", -- [1]
+			"|Kq25|k", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Enthusiastus-TarrenMill", -- [5]
+			"", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			4034, -- [11]
-			"Player-1084-0854DAAD", -- [12]
-			0, -- [13]
+			164, -- [11]
+			false, -- [12]
+			6, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffe7b09Enthusiastus|r",
-			[51] = 1605585403,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cffa22fc8Roí|r",
+			[51] = 1606103674,
+			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
+			[53] = "Roí",
 		}, -- [38]
 		{
-			"<EH> Finomliszt-Draenor got hit by |cff71d5ff|Hspell:274942:0|h[Banana Rampage]|h|r.", -- [1]
-			"Enthusiastus-TarrenMill", -- [2]
+			"j", -- [1]
+			"Fluppi-TarrenMill", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Enthusiastus-TarrenMill", -- [5]
+			"Fluppi-TarrenMill", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			4035, -- [11]
-			"Player-1084-0854DAAD", -- [12]
+			167, -- [11]
+			"Player-1084-09EEA76E", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffe7b09Enthusiastus|r",
-			[51] = 1605585406,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cfffefefeFluppi|r",
+			[51] = 1606103684,
+			[50] = "CHAT_MSG_WHISPER",
 		}, -- [39]
 		{
-			"<EH> Finomliszt-Draenor got hit by |cff71d5ff|Hspell:274942:0|h[Banana Rampage]|h|r.", -- [1]
-			"Enthusiastus-TarrenMill", -- [2]
+			"aso ja der dh ist drin in der grp jo", -- [1]
+			"|Kq25|k", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Enthusiastus-TarrenMill", -- [5]
+			"", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			4036, -- [11]
-			"Player-1084-0854DAAD", -- [12]
-			0, -- [13]
+			168, -- [11]
+			false, -- [12]
+			6, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffe7b09Enthusiastus|r",
-			[51] = 1605585413,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cffa22fc8Roí|r",
+			[51] = 1606103687,
+			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
+			[53] = "Roí",
 		}, -- [40]
 		{
-			"<EH> Finomliszt-Draenor got hit by |cff71d5ff|Hspell:274942:0|h[Banana Rampage]|h|r.", -- [1]
-			"Enthusiastus-TarrenMill", -- [2]
+			"ginv", -- [1]
+			"|Kq25|k", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Enthusiastus-TarrenMill", -- [5]
+			"", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			4037, -- [11]
-			"Player-1084-0854DAAD", -- [12]
-			0, -- [13]
+			172, -- [11]
+			false, -- [12]
+			6, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffe7b09Enthusiastus|r",
-			[51] = 1605585423,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cffc31d39Roí|r",
+			[51] = 1606103723,
+			[50] = "CHAT_MSG_BN_WHISPER",
+			[53] = "Roí",
 		}, -- [41]
 		{
-			"<EH> Enthusiastus got hit by |cff71d5ff|Hspell:274942:0|h[Banana Rampage]|h|r.", -- [1]
-			"Enthusiastus-TarrenMill", -- [2]
+			"h", -- [1]
+			"Illumini-TarrenMill", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Enthusiastus-TarrenMill", -- [5]
+			"Illumini-TarrenMill", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			4038, -- [11]
-			"Player-1084-0854DAAD", -- [12]
+			174, -- [11]
+			"Player-1084-09EEA7C2", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffe7b09Enthusiastus|r",
-			[51] = 1605585433,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cff006fdcIllumini|r",
+			[51] = 1606103732,
+			[50] = "CHAT_MSG_WHISPER",
 		}, -- [42]
 		{
-			"<EH> Enthusiastus got hit by |cff71d5ff|Hspell:274942:0|h[Banana Rampage]|h|r.", -- [1]
-			"Enthusiastus-TarrenMill", -- [2]
+			"h", -- [1]
+			"Lyokii-TarrenMill", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Enthusiastus-TarrenMill", -- [5]
+			"Lyokii-TarrenMill", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			4039, -- [11]
-			"Player-1084-0854DAAD", -- [12]
+			179, -- [11]
+			"Player-1084-09EEA808", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffe7b09Enthusiastus|r",
-			[51] = 1605585436,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cff8687edLyokii|r",
+			[51] = 1606103786,
+			[50] = "CHAT_MSG_WHISPER",
 		}, -- [43]
 		{
-			"dude", -- [1]
-			"Nonbeliever-TarrenMill", -- [2]
+			"ginv", -- [1]
+			"|Kq25|k", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Nonbeliever-TarrenMill", -- [5]
+			"", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			4044, -- [11]
-			"Player-1084-08E1DD05", -- [12]
-			0, -- [13]
+			184, -- [11]
+			false, -- [12]
+			6, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa22fc8Nonbeliever|r",
-			[51] = 1605585445,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			[52] = "|cfff38bb9Roí|r",
+			[51] = 1606103805,
+			[50] = "CHAT_MSG_BN_WHISPER",
+			[53] = "Roí",
 		}, -- [44]
 		{
-			"kite them", -- [1]
-			"Nonbeliever-TarrenMill", -- [2]
+			"ginv communityinv", -- [1]
+			"|Kq25|k", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Nonbeliever-TarrenMill", -- [5]
+			"", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			4045, -- [11]
-			"Player-1084-08E1DD05", -- [12]
-			0, -- [13]
+			188, -- [11]
+			false, -- [12]
+			6, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa22fc8Nonbeliever|r",
-			[51] = 1605585446,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			[52] = "|cff006fdcRoí|r",
+			[51] = 1606103846,
+			[50] = "CHAT_MSG_BN_WHISPER",
+			[53] = "Roí",
 		}, -- [45]
 		{
-			"jesus", -- [1]
-			"Nonbeliever-TarrenMill", -- [2]
+			"alles inv", -- [1]
+			"|Kq25|k", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Nonbeliever-TarrenMill", -- [5]
+			"", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			4048, -- [11]
-			"Player-1084-08E1DD05", -- [12]
+			208, -- [11]
+			false, -- [12]
+			6, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa9d271Roí|r",
+			[51] = 1606103967,
+			[50] = "CHAT_MSG_BN_WHISPER",
+			[53] = "Roí",
+		}, -- [46]
+		{
+			"warum haben wir eig. 3 communities?", -- [1]
+			"|Kq25|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			210, -- [11]
+			false, -- [12]
+			6, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa9d271Roí|r",
+			[51] = 1606103979,
+			[50] = "CHAT_MSG_BN_WHISPER",
+			[53] = "Roí",
+		}, -- [47]
+		{
+			"altera", -- [1]
+			"|Kq25|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			214, -- [11]
+			false, -- [12]
+			6, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa9d271Roí|r",
+			[51] = 1606103993,
+			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
+			[53] = "Roí",
+		}, -- [48]
+		{
+			"dy", -- [1]
+			"|Kq25|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			215, -- [11]
+			false, -- [12]
+			6, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa9d271Roí|r",
+			[51] = 1606103993,
+			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
+			[53] = "Roí",
+		}, -- [49]
+		{
+			"in", -- [1]
+			"|Kq25|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			216, -- [11]
+			false, -- [12]
+			6, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa9d271Roí|r",
+			[51] = 1606103994,
+			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
+			[53] = "Roí",
+		}, -- [50]
+		{
+			"guild", -- [1]
+			"|Kq25|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			217, -- [11]
+			false, -- [12]
+			6, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa9d271Roí|r",
+			[51] = 1606103995,
+			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
+			[53] = "Roí",
+		}, -- [51]
+		{
+			"ah sex war der bino", -- [1]
+			"|Kq25|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			218, -- [11]
+			false, -- [12]
+			6, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa9d271Roí|r",
+			[51] = 1606100406,
+			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
+			[53] = "Roí",
+		}, -- [52]
+		{
+			"ginv", -- [1]
+			"|Kq25|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			220, -- [11]
+			false, -- [12]
+			6, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff00fe97Roí|r",
+			[51] = 1606104091,
+			[50] = "CHAT_MSG_BN_WHISPER",
+			[53] = "Roí",
+		}, -- [53]
+		{
+			"\"Midnight Singularity\" has earned the achievement |cffffff00|Hachievement:5145:Guild-1084-000004AD43D4:1:11:23:20:4294967295:4294967295:4294967295:4294967295|h[Dungeon Diplomat]|h|r!", -- [1]
+			"Midnight Singularity", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			224, -- [11]
+			false, -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa22fc8Nonbeliever|r",
-			[51] = 1605585448,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [46]
+			[52] = "Midnight Singularity",
+			[51] = 1606104118,
+			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+		}, -- [54]
 		{
-			"try to not get stunned by everytzhing ;)", -- [1]
+			"okay, das waren alle meine chars", -- [1]
 			"Talizeadr-TarrenMill", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Talizeadr-TarrenMill", -- [5]
+			"", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			4049, -- [11]
+			226, -- [11]
 			"Player-1084-0853F71A", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -1054,241 +1258,65 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cfffe7b09Talizeadr|r",
-			[51] = 1605585465,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [47]
-		{
-			"what do u mean", -- [1]
-			"Nonbeliever-TarrenMill", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Nonbeliever-TarrenMill", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			4050, -- [11]
-			"Player-1084-08E1DD05", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa22fc8Nonbeliever|r",
-			[51] = 1605585473,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [48]
-		{
-			"I stepped once in a bannana", -- [1]
-			"Nonbeliever-TarrenMill", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Nonbeliever-TarrenMill", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			4051, -- [11]
-			"Player-1084-08E1DD05", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa22fc8Nonbeliever|r",
-			[51] = 1605585485,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [49]
-		{
-			"how does that justify dat u cant kite", -- [1]
-			"Nonbeliever-TarrenMill", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Nonbeliever-TarrenMill", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			4052, -- [11]
-			"Player-1084-08E1DD05", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa22fc8Nonbeliever|r",
-			[51] = 1605585495,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [50]
-		{
-			"1 mob by 1", -- [1]
-			"Nonbeliever-TarrenMill", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Nonbeliever-TarrenMill", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			4053, -- [11]
-			"Player-1084-08E1DD05", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa22fc8Nonbeliever|r",
-			[51] = 1605585503,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [51]
-		{
-			"<EH> Mastema-Malygos got hit by |cff71d5ff|Hspell:274942:0|h[Banana Rampage]|h|r.", -- [1]
-			"Enthusiastus-TarrenMill", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Enthusiastus-TarrenMill", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			4054, -- [11]
-			"Player-1084-0854DAAD", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffe7b09Enthusiastus|r",
-			[51] = 1605585537,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [52]
-		{
-			"<EH> Mastema-Malygos got hit by |cff71d5ff|Hspell:274942:0|h[Banana Rampage]|h|r.", -- [1]
-			"Enthusiastus-TarrenMill", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Enthusiastus-TarrenMill", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			4055, -- [11]
-			"Player-1084-0854DAAD", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffe7b09Enthusiastus|r",
-			[51] = 1605585550,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [53]
-		{
-			"<EH> Enthusiastus got hit by |cff71d5ff|Hspell:274942:0|h[Banana Rampage]|h|r.", -- [1]
-			"Enthusiastus-TarrenMill", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Enthusiastus-TarrenMill", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			4056, -- [11]
-			"Player-1084-0854DAAD", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffe7b09Enthusiastus|r",
-			[51] = 1605585561,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [54]
-		{
-			"<EH> Talizeadr got hit by |cff71d5ff|Hspell:274942:0|h[Banana Rampage]|h|r.", -- [1]
-			"Enthusiastus-TarrenMill", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Enthusiastus-TarrenMill", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			4057, -- [11]
-			"Player-1084-0854DAAD", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffe7b09Enthusiastus|r",
-			[51] = 1605585566,
-			[50] = "CHAT_MSG_PARTY",
+			[51] = 1606104177,
+			[50] = "CHAT_MSG_GUILD",
 		}, -- [55]
 		{
-			"Sighted Artillery on Enthusiastus", -- [1]
-			"Enthusiastus-TarrenMill", -- [2]
-			"Orcish", -- [3]
+			"der gildenrank gibt mir auch negeraids", -- [1]
+			"Talizeadr-TarrenMill", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Enthusiastus-TarrenMill", -- [5]
+			"", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			4059, -- [11]
-			"Player-1084-0854DAAD", -- [12]
+			227, -- [11]
+			"Player-1084-0853F71A", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffe7b09Enthusiastus|r",
-			[51] = 1605585569,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cfffe7b09Talizeadr|r",
+			[51] = 1606104189,
+			[50] = "CHAT_MSG_GUILD",
 		}, -- [56]
 		{
-			"<EH> Finomliszt-Draenor got hit by |cff71d5ff|Hspell:274942:0|h[Banana Rampage]|h|r.", -- [1]
-			"Enthusiastus-TarrenMill", -- [2]
+			"den hast du verdient", -- [1]
+			"Morphorius-TarrenMill", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Enthusiastus-TarrenMill", -- [5]
+			"", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			4060, -- [11]
-			"Player-1084-0854DAAD", -- [12]
+			228, -- [11]
+			"Player-1084-09C0C91D", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffe7b09Enthusiastus|r",
-			[51] = 1605585570,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cfffe7b09Morphorius|r",
+			[51] = 1606104197,
+			[50] = "CHAT_MSG_GUILD",
 		}, -- [57]
 		{
-			"Sighted Artillery on Enthusiastus", -- [1]
+			":D", -- [1]
 			"Enthusiastus-TarrenMill", -- [2]
-			"Orcish", -- [3]
+			"", -- [3]
 			"", -- [4]
-			"Enthusiastus-TarrenMill", -- [5]
+			"", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			4062, -- [11]
+			229, -- [11]
 			"Player-1084-0854DAAD", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -1296,43 +1324,43 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cfffe7b09Enthusiastus|r",
-			[51] = 1605589181,
-			[50] = "CHAT_MSG_SAY",
+			[51] = 1606104205,
+			[50] = "CHAT_MSG_GUILD",
 		}, -- [58]
 		{
-			"<EH> Mastema-Malygos got hit by |cff71d5ff|Hspell:272426:0|h[Sighted Artillery]|h|r for 9.4k (71%).", -- [1]
-			"Enthusiastus-TarrenMill", -- [2]
+			"hoffe ihr habt alle schonmal 25 quests rdy zum turn in für world first level 60", -- [1]
+			"Talizeadr-TarrenMill", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Enthusiastus-TarrenMill", -- [5]
+			"", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			4067, -- [11]
-			"Player-1084-0854DAAD", -- [12]
+			230, -- [11]
+			"Player-1084-0853F71A", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffe7b09Enthusiastus|r",
-			[51] = 1605589196,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cfffe7b09Talizeadr|r",
+			[51] = 1606104253,
+			[50] = "CHAT_MSG_GUILD",
 		}, -- [59]
 		{
-			"Sighted Artillery on Enthusiastus", -- [1]
+			"ich lollierte", -- [1]
 			"Enthusiastus-TarrenMill", -- [2]
-			"Orcish", -- [3]
+			"", -- [3]
 			"", -- [4]
-			"Enthusiastus-TarrenMill", -- [5]
+			"", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			4073, -- [11]
+			231, -- [11]
 			"Player-1084-0854DAAD", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -1340,131 +1368,131 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cfffe7b09Enthusiastus|r",
-			[51] = 1605585662,
-			[50] = "CHAT_MSG_SAY",
+			[51] = 1606104268,
+			[50] = "CHAT_MSG_GUILD",
 		}, -- [60]
 		{
-			"Sighted Artillery on Nonbeliever", -- [1]
-			"Nonbeliever-TarrenMill", -- [2]
-			"Orcish", -- [3]
+			"und 16x aufm ptr jeden cheese getestet", -- [1]
+			"Talizeadr-TarrenMill", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Nonbeliever-TarrenMill", -- [5]
+			"", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			4074, -- [11]
-			"Player-1084-08E1DD05", -- [12]
+			232, -- [11]
+			"Player-1084-0853F71A", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa22fc8Nonbeliever|r",
-			[51] = 1605585676,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cfffe7b09Talizeadr|r",
+			[51] = 1606104275,
+			[50] = "CHAT_MSG_GUILD",
 		}, -- [61]
 		{
-			"i need rep ", -- [1]
-			"Mastema-Malygos", -- [2]
+			"ich bin schon 60", -- [1]
+			"Morphorius-TarrenMill", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Mastema-Malygos", -- [5]
+			"", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			4075, -- [11]
-			"Player-1098-09E77DAB", -- [12]
+			233, -- [11]
+			"Player-1084-09C0C91D", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa9d271Mastema-Malygos|r",
-			[51] = 1605585682,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cfffe7b09Morphorius|r",
+			[51] = 1606104285,
+			[50] = "CHAT_MSG_GUILD",
 		}, -- [62]
 		{
-			"Artillerieaufklärer auf Mastema", -- [1]
-			"Mastema-Malygos", -- [2]
-			"Orcish", -- [3]
+			"bin schon 61 tbh", -- [1]
+			"Enthusiastus-TarrenMill", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Mastema-Malygos", -- [5]
+			"", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			4079, -- [11]
-			"Player-1098-09E77DAB", -- [12]
+			234, -- [11]
+			"Player-1084-0854DAAD", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa9d271Mastema-Malygos|r",
-			[51] = 1605585716,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cfffe7b09Enthusiastus|r",
+			[51] = 1606104318,
+			[50] = "CHAT_MSG_GUILD",
 		}, -- [63]
 		{
-			"<EH> Mastema-Malygos got hit by |cff71d5ff|Hspell:272426:0|h[Sighted Artillery]|h|r for 7.4k (45%).", -- [1]
-			"Enthusiastus-TarrenMill", -- [2]
+			"sach mal", -- [1]
+			"Talizeadr-TarrenMill", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Enthusiastus-TarrenMill", -- [5]
+			"", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			4080, -- [11]
-			"Player-1084-0854DAAD", -- [12]
+			237, -- [11]
+			"Player-1084-0853F71A", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffe7b09Enthusiastus|r",
-			[51] = 1605585725,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cfffe7b09Talizeadr|r",
+			[51] = 1606104345,
+			[50] = "CHAT_MSG_GUILD",
 		}, -- [64]
 		{
-			"<EH> Talizeadr got hit by |cff71d5ff|Hspell:257886:0|h[Brine Pool]|h|r for 13.4k (48%).", -- [1]
-			"Enthusiastus-TarrenMill", -- [2]
+			"ma", -- [1]
+			"Morphorius-TarrenMill", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Enthusiastus-TarrenMill", -- [5]
+			"", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			4092, -- [11]
-			"Player-1084-0854DAAD", -- [12]
+			238, -- [11]
+			"Player-1084-09C0C91D", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffe7b09Enthusiastus|r",
-			[51] = 1605585949,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cfffe7b09Morphorius|r",
+			[51] = 1606104348,
+			[50] = "CHAT_MSG_GUILD",
 		}, -- [65]
 		{
-			"<EH> Nonbeliever got hit by |cff71d5ff|Hspell:277535:0|h[Viq'Goth's Wrath]|h|r for 9.8k (64%).", -- [1]
+			"mal", -- [1]
 			"Enthusiastus-TarrenMill", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Enthusiastus-TarrenMill", -- [5]
+			"", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			4098, -- [11]
+			239, -- [11]
 			"Player-1084-0854DAAD", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -1472,43 +1500,43 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cfffe7b09Enthusiastus|r",
-			[51] = 1605586001,
-			[50] = "CHAT_MSG_PARTY",
+			[51] = 1606104348,
+			[50] = "CHAT_MSG_GUILD",
 		}, -- [66]
 		{
-			"Faule Wasser auf Mastema", -- [1]
-			"Mastema-Malygos", -- [2]
+			"fede svin", -- [1]
+			"Haydendh-TarrenMill", -- [2]
 			"Orcish", -- [3]
 			"", -- [4]
-			"Mastema-Malygos", -- [5]
+			"Haydendh-TarrenMill", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			4101, -- [11]
-			"Player-1098-09E77DAB", -- [12]
+			240, -- [11]
+			"Player-1084-08FD5609", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa9d271Mastema-Malygos|r",
-			[51] = 1605586016,
+			[52] = "|cffa22fc8Haydendh|r",
+			[51] = 1606104367,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [67]
 		{
-			"Putrid Waters on Talizeadr", -- [1]
+			"ah man kann ingame nicht die bnet community anzeigen lassen", -- [1]
 			"Talizeadr-TarrenMill", -- [2]
-			"Orcish", -- [3]
+			"", -- [3]
 			"", -- [4]
-			"Talizeadr-TarrenMill", -- [5]
+			"", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			4108, -- [11]
+			241, -- [11]
 			"Player-1084-0853F71A", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -1516,175 +1544,21 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cfffe7b09Talizeadr|r",
-			[51] = 1605586057,
-			[50] = "CHAT_MSG_SAY",
+			[51] = 1606104372,
+			[50] = "CHAT_MSG_GUILD",
 		}, -- [68]
 		{
-			"Putrid Waters on Enthusiastus", -- [1]
-			"Enthusiastus-TarrenMill", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Enthusiastus-TarrenMill", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			4115, -- [11]
-			"Player-1084-0854DAAD", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffe7b09Enthusiastus|r",
-			[51] = 1605586098,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [69]
-		{
-			"Putrid Waters on Enthusiastus", -- [1]
-			"Enthusiastus-TarrenMill", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Enthusiastus-TarrenMill", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			4118, -- [11]
-			"Player-1084-0854DAAD", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffe7b09Enthusiastus|r",
-			[51] = 1605586121,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [70]
-		{
-			"cleanse", -- [1]
-			"Nonbeliever-TarrenMill", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Nonbeliever-TarrenMill", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			4121, -- [11]
-			"Player-1084-08E1DD05", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa22fc8Nonbeliever|r",
-			[51] = 1605586131,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [71]
-		{
-			"it has a cooldown you know", -- [1]
-			"Enthusiastus-TarrenMill", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Enthusiastus-TarrenMill", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			4126, -- [11]
-			"Player-1084-0854DAAD", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffe7b09Enthusiastus|r",
-			[51] = 1605586149,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [72]
-		{
-			"Putrid Waters on Enthusiastus", -- [1]
-			"Enthusiastus-TarrenMill", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Enthusiastus-TarrenMill", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			4130, -- [11]
-			"Player-1084-0854DAAD", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffe7b09Enthusiastus|r",
-			[51] = 1605586161,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [73]
-		{
-			"jesus", -- [1]
-			"Nonbeliever-TarrenMill", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Nonbeliever-TarrenMill", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			4131, -- [11]
-			"Player-1084-08E1DD05", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa22fc8Nonbeliever|r",
-			[51] = 1605586164,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [74]
-		{
-			"tank", -- [1]
-			"Nonbeliever-TarrenMill", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Nonbeliever-TarrenMill", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			4132, -- [11]
-			"Player-1084-08E1DD05", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa22fc8Nonbeliever|r",
-			[51] = 1605586165,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [75]
-		{
-			"Putrid Waters on Talizeadr", -- [1]
+			"aids", -- [1]
 			"Talizeadr-TarrenMill", -- [2]
-			"Orcish", -- [3]
+			"", -- [3]
 			"", -- [4]
-			"Talizeadr-TarrenMill", -- [5]
+			"", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			4134, -- [11]
+			242, -- [11]
 			"Player-1084-0853F71A", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -1692,21 +1566,175 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cfffe7b09Talizeadr|r",
-			[51] = 1605586205,
-			[50] = "CHAT_MSG_SAY",
+			[51] = 1606104374,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [69]
+		{
+			"deswegen mach ich mir die mühe", -- [1]
+			"Enthusiastus-TarrenMill", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			243, -- [11]
+			"Player-1084-0854DAAD", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffe7b09Enthusiastus|r",
+			[51] = 1606104382,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [70]
+		{
+			"das habe ich auch gerade herausgefunden :D", -- [1]
+			"Morphorius-TarrenMill", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			244, -- [11]
+			"Player-1084-09C0C91D", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffe7b09Morphorius|r",
+			[51] = 1606104384,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [71]
+		{
+			"jeden drecks khar einzuladen", -- [1]
+			"Enthusiastus-TarrenMill", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			245, -- [11]
+			"Player-1084-0854DAAD", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffe7b09Enthusiastus|r",
+			[51] = 1606104388,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [72]
+		{
+			"meine chars sind nicht dreck", -- [1]
+			"Talizeadr-TarrenMill", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			246, -- [11]
+			"Player-1084-0853F71A", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffe7b09Talizeadr|r",
+			[51] = 1606104405,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [73]
+		{
+			"denk dran nomma deine addons upzudaten", -- [1]
+			"Morphorius-TarrenMill", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			247, -- [11]
+			"Player-1084-09C0C91D", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffe7b09Morphorius|r",
+			[51] = 1606104420,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [74]
+		{
+			"bevor es disabled wird", -- [1]
+			"Morphorius-TarrenMill", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			248, -- [11]
+			"Player-1084-09C0C91D", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffe7b09Morphorius|r",
+			[51] = 1606104423,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [75]
+		{
+			":3", -- [1]
+			"Enthusiastus-TarrenMill", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			249, -- [11]
+			"Player-1084-0854DAAD", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffe7b09Enthusiastus|r",
+			[51] = 1606104434,
+			[50] = "CHAT_MSG_GUILD",
 		}, -- [76]
 		{
-			"Putrid Waters on Enthusiastus", -- [1]
+			"was speckt man so?", -- [1]
 			"Enthusiastus-TarrenMill", -- [2]
-			"Orcish", -- [3]
+			"", -- [3]
 			"", -- [4]
-			"Enthusiastus-TarrenMill", -- [5]
+			"", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			4135, -- [11]
+			250, -- [11]
 			"Player-1084-0854DAAD", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -1714,12 +1742,12 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cfffe7b09Enthusiastus|r",
-			[51] = 1605586206,
-			[50] = "CHAT_MSG_SAY",
+			[51] = 1606104449,
+			[50] = "CHAT_MSG_GUILD",
 		}, -- [77]
 		{
-			"bock gleich mal in den neuen mutator rein zu schauen?", -- [1]
-			"|Kq16|k", -- [2]
+			"moonkin?", -- [1]
+			"Talizeadr-TarrenMill", -- [2]
 			"", -- [3]
 			"", -- [4]
 			"", -- [5]
@@ -1728,52 +1756,51 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			4138, -- [11]
-			false, -- [12]
-			19, -- [13]
+			251, -- [11]
+			"Player-1084-0853F71A", -- [12]
+			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "NeckNeck",
-			[51] = 1605586217,
-			[50] = "CHAT_MSG_BN_WHISPER",
-			[53] = "NeckNeck",
+			[52] = "|cfffe7b09Talizeadr|r",
+			[51] = 1606104456,
+			[50] = "CHAT_MSG_GUILD",
 		}, -- [78]
 		{
-			"Faule Wasser auf Mastema", -- [1]
-			"Mastema-Malygos", -- [2]
-			"Orcish", -- [3]
+			"stufen wir zu 3?", -- [1]
+			"Enthusiastus-TarrenMill", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Mastema-Malygos", -- [5]
+			"", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			4139, -- [11]
-			"Player-1098-09E77DAB", -- [12]
+			252, -- [11]
+			"Player-1084-0854DAAD", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa9d271Mastema-Malygos|r",
-			[51] = 1605586227,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cfffe7b09Enthusiastus|r",
+			[51] = 1606104459,
+			[50] = "CHAT_MSG_GUILD",
 		}, -- [79]
 		{
-			"Putrid Waters on Enthusiastus", -- [1]
+			"um null?", -- [1]
 			"Enthusiastus-TarrenMill", -- [2]
-			"Orcish", -- [3]
+			"", -- [3]
 			"", -- [4]
-			"Enthusiastus-TarrenMill", -- [5]
+			"", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			4140, -- [11]
+			253, -- [11]
 			"Player-1084-0854DAAD", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -1781,153 +1808,153 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cfffe7b09Enthusiastus|r",
-			[51] = 1605586227,
-			[50] = "CHAT_MSG_SAY",
+			[51] = 1606104467,
+			[50] = "CHAT_MSG_GUILD",
 		}, -- [80]
 		{
-			"shoot", -- [1]
-			"Nonbeliever-TarrenMill", -- [2]
+			"\"null\"", -- [1]
+			"Morphorius-TarrenMill", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Nonbeliever-TarrenMill", -- [5]
+			"", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			4147, -- [11]
-			"Player-1084-08E1DD05", -- [12]
+			254, -- [11]
+			"Player-1084-09C0C91D", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa22fc8Nonbeliever|r",
-			[51] = 1605586247,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			[52] = "|cfffe7b09Morphorius|r",
+			[51] = 1606104482,
+			[50] = "CHAT_MSG_GUILD",
 		}, -- [81]
 		{
-			"the cabon", -- [1]
-			"Nonbeliever-TarrenMill", -- [2]
+			"warmode off btw", -- [1]
+			"Enthusiastus-TarrenMill", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Nonbeliever-TarrenMill", -- [5]
+			"", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			4149, -- [11]
-			"Player-1084-08E1DD05", -- [12]
+			255, -- [11]
+			"Player-1084-0854DAAD", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa22fc8Nonbeliever|r",
-			[51] = 1605586249,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			[52] = "|cfffe7b09Enthusiastus|r",
+			[51] = 1606104514,
+			[50] = "CHAT_MSG_GUILD",
 		}, -- [82]
 		{
-			"Putrid Waters on Enthusiastus", -- [1]
-			"Enthusiastus-TarrenMill", -- [2]
-			"Orcish", -- [3]
+			"???", -- [1]
+			"Morphorius-TarrenMill", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Enthusiastus-TarrenMill", -- [5]
+			"", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			4150, -- [11]
-			"Player-1084-0854DAAD", -- [12]
+			256, -- [11]
+			"Player-1084-09C0C91D", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffe7b09Enthusiastus|r",
-			[51] = 1605586249,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cfffe7b09Morphorius|r",
+			[51] = 1606104519,
+			[50] = "CHAT_MSG_GUILD",
 		}, -- [83]
 		{
-			"canon", -- [1]
-			"Nonbeliever-TarrenMill", -- [2]
+			"mein eulenspec hat die besten keybinds", -- [1]
+			"Talizeadr-TarrenMill", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Nonbeliever-TarrenMill", -- [5]
+			"", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			4151, -- [11]
-			"Player-1084-08E1DD05", -- [12]
+			258, -- [11]
+			"Player-1084-0853F71A", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa22fc8Nonbeliever|r",
-			[51] = 1605586251,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			[52] = "|cfffe7b09Talizeadr|r",
+			[51] = 1606104662,
+			[50] = "CHAT_MSG_GUILD",
 		}, -- [84]
 		{
-			"SHOOT THE CANON", -- [1]
-			"Nonbeliever-TarrenMill", -- [2]
+			"prolonged power", -- [1]
+			"Talizeadr-TarrenMill", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Nonbeliever-TarrenMill", -- [5]
+			"", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			4152, -- [11]
-			"Player-1084-08E1DD05", -- [12]
+			259, -- [11]
+			"Player-1084-0853F71A", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa22fc8Nonbeliever|r",
-			[51] = 1605586254,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			[52] = "|cfffe7b09Talizeadr|r",
+			[51] = 1606104665,
+			[50] = "CHAT_MSG_GUILD",
 		}, -- [85]
 		{
-			"1 more enemy", -- [1]
-			"Nonbeliever-TarrenMill", -- [2]
+			"alles da was man braucht", -- [1]
+			"Talizeadr-TarrenMill", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Nonbeliever-TarrenMill", -- [5]
+			"", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			4156, -- [11]
-			"Player-1084-08E1DD05", -- [12]
+			260, -- [11]
+			"Player-1084-0853F71A", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa22fc8Nonbeliever|r",
-			[51] = 1605586277,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			[52] = "|cfffe7b09Talizeadr|r",
+			[51] = 1606104669,
+			[50] = "CHAT_MSG_GUILD",
 		}, -- [86]
 		{
-			"<EH> Talizeadr got hit by |cff71d5ff|Hspell:274942:0|h[Banana Rampage]|h|r.", -- [1]
+			":3333", -- [1]
 			"Enthusiastus-TarrenMill", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Enthusiastus-TarrenMill", -- [5]
+			"", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			4157, -- [11]
+			261, -- [11]
 			"Player-1084-0854DAAD", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -1935,21 +1962,21 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cfffe7b09Enthusiastus|r",
-			[51] = 1605586314,
-			[50] = "CHAT_MSG_PARTY",
+			[51] = 1606104685,
+			[50] = "CHAT_MSG_GUILD",
 		}, -- [87]
 		{
-			"<EH> Nonbeliever got hit by |cff71d5ff|Hspell:274942:0|h[Banana Rampage]|h|r.", -- [1]
+			"wasn nu", -- [1]
 			"Enthusiastus-TarrenMill", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Enthusiastus-TarrenMill", -- [5]
+			"", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			4158, -- [11]
+			262, -- [11]
 			"Player-1084-0854DAAD", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -1957,21 +1984,21 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cfffe7b09Enthusiastus|r",
-			[51] = 1605586319,
-			[50] = "CHAT_MSG_PARTY",
+			[51] = 1606104687,
+			[50] = "CHAT_MSG_GUILD",
 		}, -- [88]
 		{
-			"<EH> Finomliszt-Draenor got hit by |cff71d5ff|Hspell:274942:0|h[Banana Rampage]|h|r.", -- [1]
+			"eulenspeck", -- [1]
 			"Enthusiastus-TarrenMill", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Enthusiastus-TarrenMill", -- [5]
+			"", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			4159, -- [11]
+			263, -- [11]
 			"Player-1084-0854DAAD", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -1979,21 +2006,21 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cfffe7b09Enthusiastus|r",
-			[51] = 1605586320,
-			[50] = "CHAT_MSG_PARTY",
+			[51] = 1606104699,
+			[50] = "CHAT_MSG_GUILD",
 		}, -- [89]
 		{
-			"Thank you for travelling with ElitismHelper. Amount of failure damage:", -- [1]
+			"ich habe auch wrath gebunden", -- [1]
 			"Enthusiastus-TarrenMill", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Enthusiastus-TarrenMill", -- [5]
+			"", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			4161, -- [11]
+			264, -- [11]
 			"Player-1084-0854DAAD", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -2001,21 +2028,21 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cfffe7b09Enthusiastus|r",
-			[51] = 1605586345,
-			[50] = "CHAT_MSG_PARTY",
+			[51] = 1606104709,
+			[50] = "CHAT_MSG_GUILD",
 		}, -- [90]
 		{
-			"1. Talizeadr 58.7k", -- [1]
+			"auf eine heißtaste", -- [1]
 			"Enthusiastus-TarrenMill", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Enthusiastus-TarrenMill", -- [5]
+			"", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			4162, -- [11]
+			265, -- [11]
 			"Player-1084-0854DAAD", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -2023,21 +2050,21 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cfffe7b09Enthusiastus|r",
-			[51] = 1605586345,
-			[50] = "CHAT_MSG_PARTY",
+			[51] = 1606104712,
+			[50] = "CHAT_MSG_GUILD",
 		}, -- [91]
 		{
-			"2. Nonbeliever 78.4k", -- [1]
+			"- /run local t = time() +15 while time() < t do end", -- [1]
 			"Enthusiastus-TarrenMill", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Enthusiastus-TarrenMill", -- [5]
+			"", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			4163, -- [11]
+			266, -- [11]
 			"Player-1084-0854DAAD", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -2045,21 +2072,21 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cfffe7b09Enthusiastus|r",
-			[51] = 1605586345,
-			[50] = "CHAT_MSG_PARTY",
+			[51] = 1606104801,
+			[50] = "CHAT_MSG_GUILD",
 		}, -- [92]
 		{
-			"3. Enthusiastus 105.4k", -- [1]
+			"das postmeister käse makro", -- [1]
 			"Enthusiastus-TarrenMill", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Enthusiastus-TarrenMill", -- [5]
+			"", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			4164, -- [11]
+			267, -- [11]
 			"Player-1084-0854DAAD", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -2067,21 +2094,21 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cfffe7b09Enthusiastus|r",
-			[51] = 1605586345,
-			[50] = "CHAT_MSG_PARTY",
+			[51] = 1606104809,
+			[50] = "CHAT_MSG_GUILD",
 		}, -- [93]
 		{
-			"4. Mastema-Malygos 117.7k", -- [1]
+			"/run for k, v in pairs({ Galleon = 32098, Sha = 32099, Nalak = 32518, Oondasta = 32519}) do print(format(\"%s: %s\", k, IsQuestFlaggedCompleted(v) and \"\\124cff00ff00Yes\\124r\" or \"\\124cffff0000No\\124r\")) end", -- [1]
 			"Enthusiastus-TarrenMill", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Enthusiastus-TarrenMill", -- [5]
+			"", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			4165, -- [11]
+			268, -- [11]
 			"Player-1084-0854DAAD", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -2089,120 +2116,118 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cfffe7b09Enthusiastus|r",
-			[51] = 1605586345,
-			[50] = "CHAT_MSG_PARTY",
+			[51] = 1606104867,
+			[50] = "CHAT_MSG_GUILD",
 		}, -- [94]
 		{
-			"5. Finomliszt-Draenor 170.7k", -- [1]
-			"Enthusiastus-TarrenMill", -- [2]
+			"kann man nicht mehr dash prowl macron?", -- [1]
+			"Talizeadr-TarrenMill", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Enthusiastus-TarrenMill", -- [5]
+			"", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			4166, -- [11]
-			"Player-1084-0854DAAD", -- [12]
+			270, -- [11]
+			"Player-1084-0853F71A", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffe7b09Enthusiastus|r",
-			[51] = 1605586345,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cfffe7b09Talizeadr|r",
+			[51] = 1606105005,
+			[50] = "CHAT_MSG_GUILD",
 		}, -- [95]
 		{
-			"<EH> Mastema-Malygos got hit by |cff71d5ff|Hspell:274942:0|h[Banana Rampage]|h|r.", -- [1]
-			"Enthusiastus-TarrenMill", -- [2]
+			"lf a exp warrior i have some question about SHadowlands", -- [1]
+			"Warsblood-TarrenMill", -- [2]
 			"", -- [3]
-			"", -- [4]
-			"Enthusiastus-TarrenMill", -- [5]
+			"2. Trade - City", -- [4]
+			"Warsblood-TarrenMill", -- [5]
 			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
 			0, -- [10]
-			4167, -- [11]
-			"Player-1084-0854DAAD", -- [12]
+			278, -- [11]
+			"Player-1084-08CC656E", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffe7b09Enthusiastus|r",
-			[51] = 1605586347,
-			[50] = "CHAT_MSG_PARTY",
+			true, -- [17]
+			[52] = "|cffc59a6cWarsblood|r",
+			[51] = 1606105764,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [96]
 		{
-			"|cffa335ee|Hitem:159623::::::::50:253::16:4:5009:6513:1523:4786:1:28:1258:::|h[Fernrohr des Scharfschützen]|h|r u need?", -- [1]
-			"Mastema-Malygos", -- [2]
-			"", -- [3]
+			"can someone lend me 2k until later today? my token hasnt sold yet", -- [1]
+			"Jonii-TarrenMill", -- [2]
+			"Orcish", -- [3]
 			"", -- [4]
-			"Mastema-Malygos", -- [5]
+			"Jonii-TarrenMill", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			4176, -- [11]
-			"Player-1098-09E77DAB", -- [12]
+			281, -- [11]
+			"Player-1084-09F1BAA5", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa9d271Mastema-Malygos|r",
-			[51] = 1605586403,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cfffefefeJonii|r",
+			[51] = 1606106516,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [97]
 		{
-			"ne ich geh jetzt ins betti :D", -- [1]
-			"|Kq16|k", -- [2]
-			"", -- [3]
+			"i wanna buy fast flying", -- [1]
+			"Jonii-TarrenMill", -- [2]
+			"Orcish", -- [3]
 			"", -- [4]
-			"", -- [5]
+			"Jonii-TarrenMill", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			4184, -- [11]
-			false, -- [12]
-			19, -- [13]
+			282, -- [11]
+			"Player-1084-09F1BAA5", -- [12]
+			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "NeckNeck",
-			[51] = 1605586436,
-			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
-			[53] = "NeckNeck",
+			[52] = "|cfffefefeJonii|r",
+			[51] = 1606106523,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [98]
 		{
-			"ok schade", -- [1]
-			"|Kq16|k", -- [2]
+			"anyone wanna do some m+??", -- [1]
+			"Furrdinand-TarrenMill", -- [2]
 			"", -- [3]
-			"", -- [4]
-			"", -- [5]
+			"2. Trade - City", -- [4]
+			"Furrdinand-TarrenMill", -- [5]
 			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
 			0, -- [10]
-			4185, -- [11]
-			false, -- [12]
-			19, -- [13]
+			288, -- [11]
+			"Player-1084-09F1B663", -- [12]
+			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			false, -- [17]
-			[52] = "NeckNeck",
-			[51] = 1605586444,
-			[50] = "CHAT_MSG_BN_WHISPER",
-			[53] = "NeckNeck",
+			true, -- [17]
+			[52] = "|cfff38bb9Furrdinand|r",
+			[51] = 1606107340,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [99]
 	},
 }
