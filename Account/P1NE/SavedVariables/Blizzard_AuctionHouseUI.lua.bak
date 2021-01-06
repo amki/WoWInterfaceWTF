@@ -22,52 +22,52 @@ g_auctionHouseSortsBySearchContext = {
 	}, -- [2]
 	{
 		{
-			["reverseSort"] = false,
-			["sortOrder"] = 0,
+			["reverseSort"] = true,
+			["sortOrder"] = 2,
 		}, -- [1]
 		{
 			["reverseSort"] = false,
-			["sortOrder"] = 1,
+			["sortOrder"] = 0,
 		}, -- [2]
 	}, -- [3]
 	{
 		{
-			["reverseSort"] = false,
-			["sortOrder"] = 0,
+			["reverseSort"] = true,
+			["sortOrder"] = 2,
 		}, -- [1]
 		{
 			["reverseSort"] = false,
-			["sortOrder"] = 1,
+			["sortOrder"] = 0,
 		}, -- [2]
 	}, -- [4]
 	{
 		{
-			["reverseSort"] = false,
-			["sortOrder"] = 0,
+			["reverseSort"] = true,
+			["sortOrder"] = 2,
 		}, -- [1]
 		{
 			["reverseSort"] = false,
-			["sortOrder"] = 1,
+			["sortOrder"] = 0,
 		}, -- [2]
 	}, -- [5]
 	{
 		{
-			["reverseSort"] = false,
-			["sortOrder"] = 0,
+			["reverseSort"] = true,
+			["sortOrder"] = 2,
 		}, -- [1]
 		{
 			["reverseSort"] = false,
-			["sortOrder"] = 1,
+			["sortOrder"] = 0,
 		}, -- [2]
 	}, -- [6]
 	{
 		{
-			["reverseSort"] = false,
-			["sortOrder"] = 0,
+			["reverseSort"] = true,
+			["sortOrder"] = 2,
 		}, -- [1]
 		{
 			["reverseSort"] = false,
-			["sortOrder"] = 1,
+			["sortOrder"] = 0,
 		}, -- [2]
 	}, -- [7]
 	{
@@ -102,12 +102,12 @@ g_auctionHouseSortsBySearchContext = {
 	}, -- [10]
 	{
 		{
-			["reverseSort"] = false,
-			["sortOrder"] = 0,
+			["reverseSort"] = true,
+			["sortOrder"] = 2,
 		}, -- [1]
 		{
 			["reverseSort"] = false,
-			["sortOrder"] = 1,
+			["sortOrder"] = 0,
 		}, -- [2]
 	}, -- [11]
 	{

@@ -1,1740 +1,1712 @@
 
 ElvCharacterDB = {
 	["ChatEditHistory"] = {
-		"/g ich lollierte", -- [1]
-		"/g bin schon 61 tbh", -- [2]
-		"/o dieser hier ist dunkelgrün", -- [3]
-		"/o ich bin so cool", -- [4]
-		"/g mal", -- [5]
-		"/g deswegen mach ich mir die mühe", -- [6]
-		"/g jeden drecks khar einzuladen", -- [7]
-		"/g :3", -- [8]
-		"/g was speckt man so?", -- [9]
-		"/g stufen wir zu 3?", -- [10]
-		"/g um null?", -- [11]
-		"/g warmode off btw", -- [12]
-		"/g :3333", -- [13]
-		"/g wasn nu", -- [14]
-		"/g eulenspeck", -- [15]
-		"/g ich habe auch wrath gebunden", -- [16]
-		"/g auf eine heißtaste", -- [17]
-		"/g - /run local t = time() +15 while time() < t do end", -- [18]
-		"/g das postmeister käse makro", -- [19]
-		"/m", -- [20]
+		"/p very hard without items that guy", -- [1]
+		"/p morbid fixation", -- [2]
+		"/p fixates you", -- [3]
+		"/p have you been here before?", -- [4]
+		"/p yes", -- [5]
+		"/p I am also the author of ElitismHelper", -- [6]
+		"/p \\o/", -- [7]
+		"/p cyaaa", -- [8]
+		"/p hiiiiii", -- [9]
+		"/p thx for run", -- [10]
+		"/p ready sry", -- [11]
+		"/p cya", -- [12]
+		"/m", -- [13]
+		"/p |cff71d5ff|Hmawpower:54|h[Golden Idol]|h|r niiiice", -- [14]
+		"/g roii", -- [15]
+		"/g ne", -- [16]
+		"/g ja dieser hier", -- [17]
+		"/g pervi", -- [18]
+		"/g guess wer nich 5 is", -- [19]
+		"/g mfw loot", -- [20]
 	},
 	["ChatHistoryLog"] = {
 		{
-			"there", -- [1]
-			"Damgdealer-TarrenMill", -- [2]
+			"grapple!", -- [1]
+			"Talizeadr-TarrenMill", -- [2]
 			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Damgdealer-TarrenMill", -- [5]
+			"", -- [4]
+			"", -- [5]
 			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			32, -- [11]
-			"Player-1084-09BE6622", -- [12]
+			1430, -- [11]
+			"Player-1084-0853F71A", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			true, -- [17]
-			[52] = "|cff3ec6eaDamgdealer|r",
-			[51] = 1606101109,
-			[50] = "CHAT_MSG_CHANNEL",
+			false, -- [17]
+			[52] = "|cfffe7b09Talizeadr|r",
+			[51] = 1608934285,
+			[50] = "CHAT_MSG_GUILD",
 		}, -- [1]
 		{
-			"Skycoach community will help you for ONE TOKEN Price  with Ny'alotha heroic, N'Zoth. Mythic +10, +11,+12,+13,+14,+15 +20 with loottrade and much more! Get your gear today! Please PM", -- [1]
-			"Besstdung-TarrenMill", -- [2]
+			"pervi", -- [1]
+			"Enthusiastus-TarrenMill", -- [2]
 			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Besstdung-TarrenMill", -- [5]
-			"DND", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			34, -- [11]
-			"Player-1084-09F2FE05", -- [12]
+			1431, -- [11]
+			"Player-1084-0854DAAD", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			true, -- [17]
-			[52] = "|cfffefefeBesstdung|r",
-			[51] = 1606101118,
-			[50] = "CHAT_MSG_CHANNEL",
+			false, -- [17]
+			[52] = "|cfffe7b09Enthusiastus|r",
+			[51] = 1608934286,
+			[50] = "CHAT_MSG_GUILD",
 		}, -- [2]
 		{
-			"<*NOVA*> Offerin 10-24 in Time ,15=90k/2x=171k/4x=333k/6x=534.5k/10x=810k/nzoth mount only=50k/Hivemind=160k/Smolder=130k/Mechgon=130k/All Glory mounts/BOD FUll Armor TMOG 8/9=500k/Level 10-50/Island PVP WIn=50k/", -- [1]
-			"Novafastruns-TarrenMill", -- [2]
+			"Borr-Geth |cffffff00|Hworldmap:1550:2385:1073|h[|A:Waypoint-MapPin-ChatIcon:13:13:0:0|a Map Pin Location]|h|r", -- [1]
+			"Shinsetsu-Draenor", -- [2]
 			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Novafastruns-TarrenMill", -- [5]
+			"1. General - The Maw", -- [4]
+			"Shinsetsu-Draenor", -- [5]
 			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
+			1, -- [7]
+			1, -- [8]
+			"General - The Maw", -- [9]
 			0, -- [10]
-			59, -- [11]
-			"Player-1084-09EFC069", -- [12]
+			1472, -- [11]
+			"Player-1403-0984C0AB", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			true, -- [17]
-			[52] = "|cff00fe97Novafastruns|r",
-			[51] = 1606101410,
+			[52] = "|cffc31d39Shinsetsu-Draenor|r",
+			[51] = 1608934613,
 			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [3]
 		{
-			".", -- [1]
-			"Tantetango-TarrenMill", -- [2]
+			"Borr-Geth is up|cffffff00|Hworldmap:1543:3920:4148|h[|A:Waypoint-MapPin-ChatIcon:13:13:0:0|a Map Pin Location]|h|r", -- [1]
+			"Bitup-Draenor", -- [2]
 			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Tantetango-TarrenMill", -- [5]
+			"1. General - The Maw", -- [4]
+			"Bitup-Draenor", -- [5]
 			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
+			1, -- [7]
+			1, -- [8]
+			"General - The Maw", -- [9]
 			0, -- [10]
-			70, -- [11]
-			"Player-1084-08C3EB82", -- [12]
+			1496, -- [11]
+			"Player-1403-065169D3", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			true, -- [17]
-			[52] = "|cff3ec6eaTantetango|r",
-			[51] = 1606101669,
+			[52] = "|cff3ec6eaBitup-Draenor|r",
+			[51] = 1608934683,
 			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [4]
 		{
-			"Skycoach community will help you for ONE TOKEN Price  with Ny'alotha heroic, N'Zoth. Mythic +10, +11,+12,+13,+14,+15 +20 with loottrade and much more! Get your gear today! Please PM", -- [1]
-			"Besstdung-TarrenMill", -- [2]
+			"ss", -- [1]
+			"Talizeadr-TarrenMill", -- [2]
 			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Besstdung-TarrenMill", -- [5]
-			"DND", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			71, -- [11]
-			"Player-1084-09F2FE05", -- [12]
+			1545, -- [11]
+			"Player-1084-0853F71A", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			true, -- [17]
-			[52] = "|cfffefefeBesstdung|r",
-			[51] = 1606101678,
-			[50] = "CHAT_MSG_CHANNEL",
+			false, -- [17]
+			[52] = "|cfffe7b09Talizeadr|r",
+			[51] = 1608935044,
+			[50] = "CHAT_MSG_GUILD",
 		}, -- [5]
 		{
-			"WTS   |cff1eff00|Hitem:109253::::::::50:269:::::::|h[Ultimate Gnomish Army Knife]|h|r", -- [1]
-			"Katniss-Dentarg", -- [2]
+			"(soulseeker)", -- [1]
+			"Talizeadr-TarrenMill", -- [2]
 			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Katniss-Dentarg", -- [5]
+			"", -- [4]
+			"", -- [5]
 			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			72, -- [11]
-			"Player-1084-09EBE68F", -- [12]
+			1546, -- [11]
+			"Player-1084-0853F71A", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			true, -- [17]
-			[52] = "|cff00fe97Katniss-Dentarg|r",
-			[51] = 1606101725,
-			[50] = "CHAT_MSG_CHANNEL",
+			false, -- [17]
+			[52] = "|cfffe7b09Talizeadr|r",
+			[51] = 1608935047,
+			[50] = "CHAT_MSG_GUILD",
 		}, -- [6]
 		{
-			"WTS|cffff8000|Hinstancelock:Player-1084-09D0336E:603:14:8190|h[Ulduar]|h|r<>|cffff8000|Hinstancelock:Player-1084-09D0336E:1136:15:23551|h[Siege of Orgrimmar]|h|rHC<>|cffff8000|Hinstancelock:Player-1084-09D0336E:564:14:255|h[Black Temple]|h|r<>|cffff8000|Hinstancelock:Player-1084-09D0336E:720:14:119|h[Firelands]|h|rLockouts On Both Side(Horde&Alliance) /w For more info", -- [1]
-			"Saveseller-TarrenMill", -- [2]
+			"guess wer nich 5 is", -- [1]
+			"Enthusiastus-TarrenMill", -- [2]
 			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Saveseller-TarrenMill", -- [5]
+			"", -- [4]
+			"", -- [5]
 			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			73, -- [11]
-			"Player-1084-09D0336E", -- [12]
+			1593, -- [11]
+			"Player-1084-0854DAAD", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			true, -- [17]
-			[52] = "|cffc31d39Saveseller|r",
-			[51] = 1606101788,
-			[50] = "CHAT_MSG_CHANNEL",
+			false, -- [17]
+			[52] = "|cfffe7b09Enthusiastus|r",
+			[51] = 1608935275,
+			[50] = "CHAT_MSG_GUILD",
 		}, -- [7]
 		{
-			"Skycoach community will help you for ONE TOKEN Price  with Ny'alotha heroic, N'Zoth. Mythic +10, +11,+12,+13,+14,+15 +20 with loottrade and much more! Get your gear today! Please PM", -- [1]
-			"Besstdung-TarrenMill", -- [2]
+			"mfw loot", -- [1]
+			"Enthusiastus-TarrenMill", -- [2]
 			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Besstdung-TarrenMill", -- [5]
-			"DND", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			9, -- [11]
-			"Player-1084-09F2FE05", -- [12]
+			1595, -- [11]
+			"Player-1084-0854DAAD", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			true, -- [17]
-			[52] = "|cfffefefeBesstdung|r",
-			[51] = 1606101957,
-			[50] = "CHAT_MSG_CHANNEL",
+			false, -- [17]
+			[52] = "|cfffe7b09Enthusiastus|r",
+			[51] = 1608935278,
+			[50] = "CHAT_MSG_GUILD",
 		}, -- [8]
 		{
-			"Anyone who got time to sign my Guild Charter? That would great ^_^ 500g tip /w me", -- [1]
-			"Morphorius-TarrenMill", -- [2]
+			"|| Happy Holidays with Oblivion Boosting Community || WTS Sire Denathrius HEROIC NOW!! Get your Curve AV, legendary powers & ilvl 220 loot! Also offering Stone Legion Generals & Sire Denathrius NORMAL and 10/10 Clears NHC & HC  /w me :)", -- [1]
+			"Enonotm-TarrenMill", -- [2]
 			"", -- [3]
 			"2. Trade - City", -- [4]
-			"Morphorius-TarrenMill", -- [5]
+			"Enonotm-TarrenMill", -- [5]
 			"", -- [6]
 			2, -- [7]
 			2, -- [8]
 			"Trade - City", -- [9]
 			0, -- [10]
-			1, -- [11]
-			"Player-1084-09C0C91D", -- [12]
+			1618, -- [11]
+			"Player-1084-0970EA5D", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			true, -- [17]
-			[52] = "|cfffe7b09Morphorius|r",
-			[51] = 1606102085,
+			[52] = "|cff3ec6eaEnonotm|r",
+			[51] = 1608935426,
 			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [9]
 		{
-			"Skycoach community will help you for ONE TOKEN Price  with Ny'alotha heroic, N'Zoth. Mythic +10, +11,+12,+13,+14,+15 +20 with loottrade and much more! Get your gear today! Please PM", -- [1]
-			"Besstdung-TarrenMill", -- [2]
+			"WTS M+ & Torghast Boost. //+6-150k // +8-300k // +10-440k // +12-600k // +14-750k // Layer 6 -100k gold // Layer 7 -150k gold // Layer 8 -200k gold // w me for more info", -- [1]
+			"Tutorialss-TarrenMill", -- [2]
 			"", -- [3]
 			"2. Trade - City", -- [4]
-			"Besstdung-TarrenMill", -- [5]
-			"DND", -- [6]
+			"Tutorialss-TarrenMill", -- [5]
+			"", -- [6]
 			2, -- [7]
 			2, -- [8]
 			"Trade - City", -- [9]
 			0, -- [10]
-			2, -- [11]
-			"Player-1084-09F2FE05", -- [12]
+			1619, -- [11]
+			"Player-1084-0A211153", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			true, -- [17]
-			[52] = "|cfffefefeBesstdung|r",
-			[51] = 1606102111,
+			[52] = "|cff006fdcTutorialss|r",
+			[51] = 1608935427,
 			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [10]
 		{
-			"<*NOVA*> Offerin 10-24 in Time ,15=90k/2x=171k/4x=333k/6x=534.5k/10x=810k/nzoth mount only=50k/Hivemind=160k/Smolder=130k/Mechgon=130k/All Glory mounts/BOD FUll Armor TMOG 8/9=500k/Level 10-50/Island PVP WIn=50k/", -- [1]
-			"Novafastruns-TarrenMill", -- [2]
+			"WTS Normal Last 2 Boss |cff66bbff|Hjournal:1:2425:16|h[Stone Legion Generals]|h|r |cff66bbff|Hjournal:1:2424:16|h[Sire Denathrius]|h|r Personal loot || Every 30min Going || ONLY GOLD || /w me more info", -- [1]
+			"Çikoo-TarrenMill", -- [2]
 			"", -- [3]
 			"2. Trade - City", -- [4]
-			"Novafastruns-TarrenMill", -- [5]
+			"Çikoo-TarrenMill", -- [5]
 			"", -- [6]
 			2, -- [7]
 			2, -- [8]
 			"Trade - City", -- [9]
 			0, -- [10]
-			3, -- [11]
-			"Player-1084-09EFC069", -- [12]
+			1620, -- [11]
+			"Player-1084-0985FE43", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			true, -- [17]
-			[52] = "|cff00fe97Novafastruns|r",
-			[51] = 1606102111,
+			[52] = "|cff006fdcÇikoo|r",
+			[51] = 1608935430,
 			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [11]
 		{
-			"Skycoach community will help you for ONE TOKEN Price  with Ny'alotha heroic, N'Zoth. Mythic +10, +11,+12,+13,+14,+15 +20 with loottrade and much more! Get your gear today! Please PM", -- [1]
-			"Besstdung-TarrenMill", -- [2]
+			"<NOVA COMMUNITY> CN LAST BOSTT HC 800k ||Castle Nathria Heroic  7/10 1600k !  {M+14=675k] [M+12=550k] [M+10=460k] [M+7=350k] [M+5=290k]  <<8xM+0 850k>>  ", -- [1]
+			"Annihilatôr-TarrenMill", -- [2]
 			"", -- [3]
 			"2. Trade - City", -- [4]
-			"Besstdung-TarrenMill", -- [5]
-			"DND", -- [6]
+			"Annihilatôr-TarrenMill", -- [5]
+			"", -- [6]
 			2, -- [7]
 			2, -- [8]
 			"Trade - City", -- [9]
 			0, -- [10]
-			4, -- [11]
-			"Player-1084-09F2FE05", -- [12]
+			1621, -- [11]
+			"Player-1084-0A1FA4D2", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			true, -- [17]
-			[52] = "|cfffefefeBesstdung|r",
-			[51] = 1606102238,
+			[52] = "|cfffef367Annihilatôr|r",
+			[51] = 1608935431,
 			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [12]
 		{
-			"<*NOVA*> Offerin 10-24 in Time ,15=90k/2x=171k/4x=333k/6x=534.5k/10x=810k/nzoth mount only=50k/Hivemind=160k/Smolder=130k/Mechgon=130k/All Glory mounts/BOD FUll Armor TMOG 8/9=500k/Level 10-50/Island PVP WIn=50k/", -- [1]
-			"Novafastruns-TarrenMill", -- [2]
+			"WTS |cffa335ee|Hitem:183008::::::::60:256::6:4:7187:6652:1498:6646:1:28:753:::|h[Supple Supplicant's Gloves]|h|r CHEAPER THAN AH", -- [1]
+			"Slaveboi-Dentarg", -- [2]
 			"", -- [3]
 			"2. Trade - City", -- [4]
-			"Novafastruns-TarrenMill", -- [5]
+			"Slaveboi-Dentarg", -- [5]
 			"", -- [6]
 			2, -- [7]
 			2, -- [8]
 			"Trade - City", -- [9]
 			0, -- [10]
-			102, -- [11]
-			"Player-1084-09EFC069", -- [12]
+			1622, -- [11]
+			"Player-1084-0A09A9CF", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			true, -- [17]
-			[52] = "|cff00fe97Novafastruns|r",
-			[51] = 1606103217,
+			[52] = "|cfffefefeSlaveboi-Dentarg|r",
+			[51] = 1608935434,
 			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [13]
 		{
-			"gf", -- [1]
-			"|Kq10|k", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			103, -- [11]
-			false, -- [12]
-			5, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa22fc8xziino|r",
-			[51] = 1606103228,
-			[50] = "CHAT_MSG_BN_WHISPER",
-			[53] = "xziino",
-		}, -- [14]
-		{
-			"<STALKERS> 10/10M NH 4/9M ToS is building its raid team for ToS progression and pushing mythic plus keys. (wed/thurs/sun 21:30-00:30). Recruiting exceptional dps (warlock) and one tank. All are considered. All players considered for M+ Rank!", -- [1]
-			"Jorddo-TarrenMill", -- [2]
+			"WTB |cffa335ee|Hitem:184778::::::::60:70::5:4:7188:6652:1485:6646:1:28:752:::|h[Decadent Nathrian Shawl]|h|r", -- [1]
+			"Thumbulten-TarrenMill", -- [2]
 			"", -- [3]
 			"2. Trade - City", -- [4]
-			"Jorddo-TarrenMill", -- [5]
+			"Thumbulten-TarrenMill", -- [5]
 			"", -- [6]
 			2, -- [7]
 			2, -- [8]
 			"Trade - City", -- [9]
 			0, -- [10]
-			107, -- [11]
-			"Player-1084-082D64A8", -- [12]
+			1627, -- [11]
+			"Player-1084-0A155282", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			true, -- [17]
-			[52] = "|cff3ec6eaJorddo|r",
-			[51] = 1606103264,
+			[52] = "|cfff38bb9Thumbulten|r",
+			[51] = 1608935444,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [14]
+		{
+			"WTS |cffa335ee|Hitem:183035::::::::60:70:::::::|h[Ardent Sunstar Signet]|h|r CHEAPER THAN AH", -- [1]
+			"Shegourr-TarrenMill", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Shegourr-TarrenMill", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			1628, -- [11]
+			"Player-1084-0A0A2E16", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cfff38bb9Shegourr|r",
+			[51] = 1608935444,
 			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [15]
 		{
-			"LF JAINA BOOSTERS NOW", -- [1]
-			"Thislock-TarrenMill", -- [2]
+			"<Oblivion Boosting Community >  SELLING |cff66bbff|Hjournal:1:2424:14|h[Sire Denathrius]|h|r HC <750k> EVERY 30 Min  /  Mythic+ 0 - 15 Intime  /  M+10=530k  / M+14=1200K / M+15=1475k / Full 10/10 Castle Hc 2250k  / PVP / W For any book", -- [1]
+			"Oblìvboost-TarrenMill", -- [2]
 			"", -- [3]
 			"2. Trade - City", -- [4]
-			"Thislock-TarrenMill", -- [5]
+			"Oblìvboost-TarrenMill", -- [5]
 			"", -- [6]
 			2, -- [7]
 			2, -- [8]
 			"Trade - City", -- [9]
 			0, -- [10]
-			117, -- [11]
-			"Player-1084-08F679CF", -- [12]
+			1629, -- [11]
+			"Player-1084-0A2093B8", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			true, -- [17]
-			[52] = "|cff8687edThislock|r",
-			[51] = 1606103342,
+			[52] = "|cff00fe97Oblìvboost|r",
+			[51] = 1608935446,
 			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [16]
 		{
-			"ginv", -- [1]
-			"|Kq25|k", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			118, -- [11]
-			false, -- [12]
-			6, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffe7b09Roí|r",
-			[51] = 1606103349,
-			[50] = "CHAT_MSG_BN_WHISPER",
-			[53] = "Roí",
-		}, -- [17]
-		{
-			"jjoin auch community", -- [1]
-			"|Kq25|k", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			123, -- [11]
-			false, -- [12]
-			6, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffe7b09Roí|r",
-			[51] = 1606103369,
-			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
-			[53] = "Roí",
-		}, -- [18]
-		{
-			"can i join", -- [1]
-			"Redjidk-TarrenMill", -- [2]
+			"<S Y L V A N A S> HAPPY XMAS^^ < M+10=525k >  / 2x10=940k /  ARMORTACK + LOOT  /   M+14 = 1175k    /     M+7 = 350k    /|cff66bbff|Hjournal:0:1190:14|h[Castle Nathria]|h|r Full NM 750k  / Last Boss on HC <850K> / Full HC 2.2M /PVP/W info", -- [1]
+			"Adverbest-TarrenMill", -- [2]
 			"", -- [3]
 			"2. Trade - City", -- [4]
-			"Redjidk-TarrenMill", -- [5]
+			"Adverbest-TarrenMill", -- [5]
 			"", -- [6]
 			2, -- [7]
 			2, -- [8]
 			"Trade - City", -- [9]
 			0, -- [10]
-			124, -- [11]
-			"Player-1084-082D6992", -- [12]
+			1630, -- [11]
+			"Player-1084-0A216A67", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			true, -- [17]
-			[52] = "|cffc31d39Redjidk|r",
-			[51] = 1606103371,
+			[52] = "|cff8687edAdverbest|r",
+			[51] = 1608935446,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [17]
+		{
+			"WTS |cffffffff|Hitem:172317::::::::60:261::63:1:3524::::|h[Umbrahide Helm]|h|r Rank 1 & 2 /w me", -- [1]
+			"Penetraitor-TarrenMill", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Penetraitor-TarrenMill", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			1631, -- [11]
+			"Player-1084-09E17385", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cfffef367Penetraitor|r",
+			[51] = 1608935456,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [18]
+		{
+			"Oblivion Boosting Community selling HC and Normal Castle Nathria. HC Sire Denathrius every 30 minute. Also selling M+ 0-15 / Torghast Layer 1-8 / PVP boosts. FOR GOLD ONLY ! /w Me for more info and booking!", -- [1]
+			"Advultraa-TarrenMill", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Advultraa-TarrenMill", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			1633, -- [11]
+			"Player-1084-0A204745", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cff3ec6eaAdvultraa|r",
+			[51] = 1608935459,
 			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [19]
 		{
-			"i need guld", -- [1]
-			"Redjidk-TarrenMill", -- [2]
+			"WTS M+ BOOST  (Mythic+2 :150k)(Mythic+3 :180k)(Mythic+4 :210k)(Mythic+5 :240k)(Mythic+6 :270k)(Mythic+7 :300k)(Mythic+8 :330k)(Mythic+9 :350k)(Mythic+10 :400k)(Mythic+14 :800k)  ONLY  FOR GOLD  /w For More info", -- [1]
+			"Pemilaa-TarrenMill", -- [2]
 			"", -- [3]
 			"2. Trade - City", -- [4]
-			"Redjidk-TarrenMill", -- [5]
+			"Pemilaa-TarrenMill", -- [5]
 			"", -- [6]
 			2, -- [7]
 			2, -- [8]
 			"Trade - City", -- [9]
 			0, -- [10]
-			125, -- [11]
-			"Player-1084-082D6992", -- [12]
+			1637, -- [11]
+			"Player-1084-0979FE21", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			true, -- [17]
-			[52] = "|cffc31d39Redjidk|r",
-			[51] = 1606103373,
+			[52] = "|cff00fe97Pemilaa|r",
+			[51] = 1608935462,
 			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [20]
 		{
-			"me too can i boost jaina", -- [1]
-			"Jorddo-TarrenMill", -- [2]
+			"Dawn Community || WTS Sire Denathrius HC NOW! |cffffff00|Hachievement:14460:Player-3674-09BE112B:0:0:0:-1:0:0:0:0|h[Ahead of the Curve: Sire Denathrius]|h|r - 220 Ilevel Gear, Legendaries, NF Forms! Gold Only ||  Discord: https://discord.gg/Bf7TDAb", -- [1]
+			"Vegitoadvf-TarrenMill", -- [2]
 			"", -- [3]
 			"2. Trade - City", -- [4]
-			"Jorddo-TarrenMill", -- [5]
+			"Vegitoadvf-TarrenMill", -- [5]
 			"", -- [6]
 			2, -- [7]
 			2, -- [8]
 			"Trade - City", -- [9]
 			0, -- [10]
-			126, -- [11]
-			"Player-1084-082D64A8", -- [12]
+			1638, -- [11]
+			"Player-1084-0A1F201F", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			true, -- [17]
-			[52] = "|cff3ec6eaJorddo|r",
-			[51] = 1606103377,
+			[52] = "|cff00fe97Vegitoadvf|r",
+			[51] = 1608935462,
 			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [21]
 		{
-			"g", -- [1]
-			"|Kq10|k", -- [2]
+			"Offering HEROIC |cff66bbff|Hjournal:1:2424:14|h[Sire Denathrius]|h|r EVERY HOUR - Get |cffffff00|Hachievement:14460:Player-1403-066BEF97:0:0:0:0:0:0:0:0|h[Ahead of the Curve: Sire Denathrius]|h|r - Kill the last boss of |cff66bbff|Hjournal:0:1190:14|h[Castle Nathria]|h|r for 220 ilvl loot, legendaries, conduits, night fae dragon form and more - GOLD ONLY, /w me to book now!", -- [1]
+			"Blcktempl-TarrenMill", -- [2]
 			"", -- [3]
-			"", -- [4]
-			"", -- [5]
+			"2. Trade - City", -- [4]
+			"Blcktempl-TarrenMill", -- [5]
 			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
 			0, -- [10]
-			127, -- [11]
-			false, -- [12]
-			5, -- [13]
+			1639, -- [11]
+			"Player-1084-099058A3", -- [12]
+			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			false, -- [17]
-			[52] = "|cff00fe97xziino|r",
-			[51] = 1606103398,
-			[50] = "CHAT_MSG_BN_WHISPER",
-			[53] = "xziino",
+			true, -- [17]
+			[52] = "|cfffef367Blcktempl|r",
+			[51] = 1608935464,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [22]
 		{
-			"erstmal invis pots beim mammoth verticken", -- [1]
-			"|Kq25|k", -- [2]
+			"<NOVA COMMUNITY> CN LAST BOSTT HC 800k ||Castle Nathria Heroic  7/10 1600k !  {M+14=675k] [M+12=550k] [M+10=460k] [M+7=350k] [M+5=290k]  <<8xM+0 850k>>  ", -- [1]
+			"Minotaurnova-TarrenMill", -- [2]
 			"", -- [3]
-			"", -- [4]
-			"", -- [5]
+			"2. Trade - City", -- [4]
+			"Minotaurnova-TarrenMill", -- [5]
 			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
 			0, -- [10]
-			131, -- [11]
-			false, -- [12]
-			6, -- [13]
+			1640, -- [11]
+			"Player-1084-0A204FB1", -- [12]
+			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffe7b09Roí|r",
-			[51] = 1606103428,
-			[50] = "CHAT_MSG_BN_WHISPER",
-			[53] = "Roí",
+			true, -- [17]
+			[52] = "|cff006fdcMinotaurnova|r",
+			[51] = 1608935471,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [23]
 		{
-			":3", -- [1]
-			"|Kq25|k", -- [2]
+			"|cffa335ee|Hitem:182978::::::::60:102::6:5:7187:6652:7193:1498:6646:1:28:753:::|h[Barkweave Wristwraps]|h|rwts", -- [1]
+			"Smokefeather-TarrenMill", -- [2]
 			"", -- [3]
-			"", -- [4]
-			"", -- [5]
+			"2. Trade - City", -- [4]
+			"Smokefeather-TarrenMill", -- [5]
 			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
 			0, -- [10]
-			132, -- [11]
-			false, -- [12]
-			6, -- [13]
+			1641, -- [11]
+			"Player-1084-09C37BED", -- [12]
+			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffe7b09Roí|r",
-			[51] = 1606103433,
-			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
-			[53] = "Roí",
+			true, -- [17]
+			[52] = "|cfffe7b09Smokefeather|r",
+			[51] = 1608935472,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [24]
 		{
-			"j", -- [1]
-			"Xziino-TarrenMill", -- [2]
+			"WTS |cffa335ee|Hitem:183035::::::::60:70:::::::|h[Ardent Sunstar Signet]|h|r CHEEAPER THAN AH", -- [1]
+			"Shegourr-TarrenMill", -- [2]
 			"", -- [3]
-			"", -- [4]
-			"Xziino-TarrenMill", -- [5]
+			"2. Trade - City", -- [4]
+			"Shegourr-TarrenMill", -- [5]
 			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
 			0, -- [10]
-			133, -- [11]
-			"Player-1084-0854DA24", -- [12]
+			1642, -- [11]
+			"Player-1084-0A0A2E16", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc59a6cXziino|r",
-			[51] = 1606103457,
-			[50] = "CHAT_MSG_WHISPER",
+			true, -- [17]
+			[52] = "|cfff38bb9Shegourr|r",
+			[51] = 1608935474,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [25]
 		{
-			"ginv", -- [1]
-			"|Kq25|k", -- [2]
+			"|| Happy Holidays with Oblivion Boosting Community || WTS Sire Denathrius HEROIC NOW!! Get your Curve AV, legendary powers & ilvl 220 loot! Also offering Stone Legion Generals & Sire Denathrius NORMAL and 10/10 Clears NHC & HC  /w me :)", -- [1]
+			"Enonotm-TarrenMill", -- [2]
 			"", -- [3]
-			"", -- [4]
-			"", -- [5]
+			"2. Trade - City", -- [4]
+			"Enonotm-TarrenMill", -- [5]
 			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
 			0, -- [10]
-			137, -- [11]
-			false, -- [12]
-			6, -- [13]
+			1644, -- [11]
+			"Player-1084-0970EA5D", -- [12]
+			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc59a6cRoí|r",
-			[51] = 1606103490,
-			[50] = "CHAT_MSG_BN_WHISPER",
-			[53] = "Roí",
+			true, -- [17]
+			[52] = "|cff3ec6eaEnonotm|r",
+			[51] = 1608935481,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [26]
 		{
-			"f", -- [1]
-			"Pheniisi-TarrenMill", -- [2]
+			"[WTS] Fast Powerleveling to 60 lvl! World & Daily Questing, Renown weekly cap, Gear farming, NEW Mounts, and other boosts. We have over 13094 Trustpilot reviews. Please, visit WowVendor.net for more info!", -- [1]
+			"Ugatku-TarrenMill", -- [2]
 			"", -- [3]
-			"", -- [4]
-			"Pheniisi-TarrenMill", -- [5]
+			"2. Trade - City", -- [4]
+			"Ugatku-TarrenMill", -- [5]
 			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
 			0, -- [10]
-			140, -- [11]
-			"Player-1084-09E921FD", -- [12]
+			1645, -- [11]
+			"Player-1084-0A215463", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa9d271Pheniisi|r",
-			[51] = 1606103509,
-			[50] = "CHAT_MSG_WHISPER",
+			true, -- [17]
+			[52] = "|cffc59a6cUgatku|r",
+			[51] = 1608935483,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [27]
 		{
-			"|HclubTicket:b9kZv9cEMP|h[Join: null]|h", -- [1]
-			"|Kq25|k", -- [2]
+			"PerfeCt Community<   WTS torghast Layer ( 1-8 )    And Boost  Dungeons M0 And M+ 2-12  8/8  And    > Armor stack <     Full Run Only Gold /W for info", -- [1]
+			"Sansaa-TarrenMill", -- [2]
 			"", -- [3]
-			"", -- [4]
-			"", -- [5]
+			"2. Trade - City", -- [4]
+			"Sansaa-TarrenMill", -- [5]
 			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
 			0, -- [10]
-			143, -- [11]
-			false, -- [12]
-			6, -- [13]
+			1646, -- [11]
+			"Player-1084-09F42974", -- [12]
+			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc59a6cRoí|r",
-			[51] = 1606103536,
-			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
-			[53] = "Roí",
+			true, -- [17]
+			[52] = "|cfffef367Sansaa|r",
+			[51] = 1608935485,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [28]
 		{
-			"|HclubTicket:b9kZv9cEMP|h[Join: null]|h", -- [1]
-			"|Kq10|k", -- [2]
+			"<NOVA Community> Offers>HC DENATHRIUS[800K]>Castle Nathria Normal full clear 700k>Specific bosses Normal/HC>Mythic+ boosts [M10-460K][M +11 525k][M+12 550k][M+14 675k] >7/10 HC Castle 1.6M>9/10 HC 2.2M>only for ingame gold /w me for info !", -- [1]
+			"Novalaxusus-TarrenMill", -- [2]
 			"", -- [3]
-			"", -- [4]
-			"", -- [5]
+			"2. Trade - City", -- [4]
+			"Novalaxusus-TarrenMill", -- [5]
 			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
 			0, -- [10]
-			144, -- [11]
-			false, -- [12]
-			5, -- [13]
+			1649, -- [11]
+			"Player-1084-09F317ED", -- [12]
+			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa9d271xziino|r",
-			[51] = 1606103541,
-			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
-			[53] = "xziino",
+			true, -- [17]
+			[52] = "|cff006fdcNovalaxusus|r",
+			[51] = 1608935490,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [29]
 		{
-			"|Hitem:162519::::::::50:73:::::::|h[Mystical Cauldron]|h hab ich hier dinge aus dem vorletzten addon dabei?", -- [1]
-			"|Kq25|k", -- [2]
+			"Sylvanas Community booking Spot for Castle Nathria runs DM me to book your spot from now || 10/10 or last 2 bosses only || Mythic Dungeons +0-15 ||discounts on multiple runs|| Torghust Layers", -- [1]
+			"Lànaa-TarrenMill", -- [2]
 			"", -- [3]
-			"", -- [4]
-			"", -- [5]
+			"2. Trade - City", -- [4]
+			"Lànaa-TarrenMill", -- [5]
 			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
 			0, -- [10]
-			145, -- [11]
-			false, -- [12]
-			6, -- [13]
+			1650, -- [11]
+			"Player-1084-098E0904", -- [12]
+			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc59a6cRoí|r",
-			[51] = 1606103547,
-			[50] = "CHAT_MSG_BN_WHISPER",
-			[53] = "Roí",
+			true, -- [17]
+			[52] = "|cff3ec6eaLànaa|r",
+			[51] = 1608935492,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [30]
 		{
-			"|cffffd100|HclubTicket:b9kZv9cEMP|h[Join: null]|h|r", -- [1]
-			"Pheniisi-TarrenMill", -- [2]
+			"|cffa335ee|Hitem:182978::::::::60:102::6:5:7187:6652:7193:1498:6646:1:28:753:::|h[Barkweave Wristwraps]|h|rwts 226", -- [1]
+			"Smokefeather-TarrenMill", -- [2]
 			"", -- [3]
-			"", -- [4]
-			"Pheniisi-TarrenMill", -- [5]
+			"2. Trade - City", -- [4]
+			"Smokefeather-TarrenMill", -- [5]
 			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
 			0, -- [10]
-			146, -- [11]
-			"Player-1084-09E921FD", -- [12]
+			1652, -- [11]
+			"Player-1084-09C37BED", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa9d271Pheniisi|r",
-			[51] = 1606103547,
-			[50] = "CHAT_MSG_WHISPER_INFORM",
+			true, -- [17]
+			[52] = "|cfffe7b09Smokefeather|r",
+			[51] = 1608935500,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [31]
 		{
-			"https://www.worldofwarcraft.com/invite/b9kZv9cEMP?region=EU&faction=Horde", -- [1]
-			"Pheniisi-TarrenMill", -- [2]
+			"<ICECROWN> Is providing M+14 for weekly 226ilvl I M+7 for 350k I M+10 for 600k I M+12 for 700k I |cff66bbff|Hjournal:0:1190:14|h[Castle Nathria]|h|r HEROIC CURVE I M0 Runs Armor stacked I Torghast FOR GOLD ONLY !  /w me for more infos ;)", -- [1]
+			"Cyndaweth-TarrenMill", -- [2]
 			"", -- [3]
-			"", -- [4]
-			"Pheniisi-TarrenMill", -- [5]
+			"2. Trade - City", -- [4]
+			"Cyndaweth-TarrenMill", -- [5]
 			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
 			0, -- [10]
-			147, -- [11]
-			"Player-1084-09E921FD", -- [12]
+			1653, -- [11]
+			"Player-1084-0A18BC9C", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa9d271Pheniisi|r",
-			[51] = 1606103566,
-			[50] = "CHAT_MSG_WHISPER_INFORM",
+			true, -- [17]
+			[52] = "|cfffef367Cyndaweth|r",
+			[51] = 1608935501,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [32]
 		{
-			"yeehgehe", -- [1]
-			"Shapertti-TarrenMill", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Shapertti-TarrenMill", -- [5]
+			"MYTHIC BOE RUN WIS FOR INVITES", -- [1]
+			"Gandondorf-TarrenMill", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Gandondorf-TarrenMill", -- [5]
 			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
 			0, -- [10]
-			148, -- [11]
-			"Player-1084-09F463DE", -- [12]
+			1654, -- [11]
+			"Player-1084-09DA13A6", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			false, -- [17]
-			[52] = "|cff006fdcShapertti|r",
-			[51] = 1606103581,
-			[50] = "CHAT_MSG_SAY",
+			true, -- [17]
+			[52] = "|cff8687edGandondorf|r",
+			[51] = 1608935506,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [33]
 		{
-			"i lvoe you", -- [1]
-			"Shapertti-TarrenMill", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Shapertti-TarrenMill", -- [5]
+			"< NOVA > is OFFERING Today Castle Nathria Full run for 700k - / Specific boss available-/ Selling all [M+2-15] -/[M+3=230k][M+7 =350k] [M+9=420k][M+10=460k][M+12=550k][M+14=675k]/-Multipe run has BIG discount--Castle Nathria HC 2500k-/Curve 800k", -- [1]
+			"Tikasho-TarrenMill", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Tikasho-TarrenMill", -- [5]
 			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
 			0, -- [10]
-			149, -- [11]
-			"Player-1084-09F463DE", -- [12]
+			1656, -- [11]
+			"Player-1084-0A1E968F", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			false, -- [17]
-			[52] = "|cff006fdcShapertti|r",
-			[51] = 1606103583,
-			[50] = "CHAT_MSG_SAY",
+			true, -- [17]
+			[52] = "|cff8687edTikasho|r",
+			[51] = 1608935515,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [34]
 		{
-			"f", -- [1]
-			"Nibeliino-TarrenMill", -- [2]
+			"WTS M+ & Torghast Boost. //+6-150k // +8-300k // +10-440k // +12-600k // +14-750k // Layer 6 -100k gold // Layer 7 -150k gold // Layer 8 -200k gold // w me for more info", -- [1]
+			"Tutorialss-TarrenMill", -- [2]
 			"", -- [3]
-			"", -- [4]
-			"Nibeliino-TarrenMill", -- [5]
+			"2. Trade - City", -- [4]
+			"Tutorialss-TarrenMill", -- [5]
 			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
 			0, -- [10]
-			150, -- [11]
-			"Player-1084-09EC1D0D", -- [12]
+			1657, -- [11]
+			"Player-1084-0A211153", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3ec6eaNibeliino|r",
-			[51] = 1606103601,
-			[50] = "CHAT_MSG_WHISPER",
+			true, -- [17]
+			[52] = "|cff006fdcTutorialss|r",
+			[51] = 1608935518,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [35]
 		{
-			"sollte community nicht accountwide sein?", -- [1]
-			"|Kq25|k", -- [2]
+			"Offering HEROIC |cff66bbff|Hjournal:1:2424:14|h[Sire Denathrius]|h|r EVERY HOUR - Get |cffffff00|Hachievement:14460:Player-1403-066BEF97:0:0:0:0:0:0:0:0|h[Ahead of the Curve: Sire Denathrius]|h|r - Kill the last boss of |cff66bbff|Hjournal:0:1190:14|h[Castle Nathria]|h|r for 220 ilvl loot, legendaries, conduits, night fae dragon form and more - GOLD ONLY, /w me to book now!", -- [1]
+			"Blcktempl-TarrenMill", -- [2]
 			"", -- [3]
-			"", -- [4]
-			"", -- [5]
+			"2. Trade - City", -- [4]
+			"Blcktempl-TarrenMill", -- [5]
 			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
 			0, -- [10]
-			154, -- [11]
-			false, -- [12]
-			6, -- [13]
+			1658, -- [11]
+			"Player-1084-099058A3", -- [12]
+			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc59a6cRoí|r",
-			[51] = 1606103630,
-			[50] = "CHAT_MSG_BN_WHISPER",
-			[53] = "Roí",
+			true, -- [17]
+			[52] = "|cfffef367Blcktempl|r",
+			[51] = 1608935522,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [36]
 		{
-			"SOLLTE ABER IOST NICHT", -- [1]
-			"|Kq25|k", -- [2]
+			"MYTHIC BOE RUN TARRENMILL WIS FOR INVITE", -- [1]
+			"Gandondorf-TarrenMill", -- [2]
 			"", -- [3]
-			"", -- [4]
-			"", -- [5]
+			"2. Trade - City", -- [4]
+			"Gandondorf-TarrenMill", -- [5]
 			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
 			0, -- [10]
-			155, -- [11]
-			false, -- [12]
-			6, -- [13]
+			1659, -- [11]
+			"Player-1084-09DA13A6", -- [12]
+			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			false, -- [17]
-			[52] = "Roí",
-			[51] = 1606103638,
-			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
-			[53] = "Roí",
+			true, -- [17]
+			[52] = "|cff8687edGandondorf|r",
+			[51] = 1608935523,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [37]
 		{
-			"gh", -- [1]
-			"Mejyna-TarrenMill", -- [2]
+			"Selling |cffffff00|Hachievement:14460:Player-1084-097D82DE:0:0:0:-1:0:0:0:0|h[Ahead of the Curve: Sire Denathrius]|h|r tonight! Runs every 45 minutes - get your 220 ilvl gear, legendary recipes and night fae dragon form FAST through us! Gold only, /w me for more info :)", -- [1]
+			"Kedricdawn-TarrenMill", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Kedricdawn-TarrenMill", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			1661, -- [11]
+			"Player-1084-0A1F3175", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cff006fdcKedricdawn|r",
+			[51] = 1608935526,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [38]
+		{
+			"<DAWN> Selling |cffffff00|Hachievement:14460:Player-1084-0A217615:1:12:14:20:4294967295:4294967295:4294967295:4294967295|h[Ahead of the Curve: Sire Denathrius]|h|r tonight! Runs every 30 minutes - get your 220 ilvl gear, legendary recipes and night fae dragon form FAST through us! Gold only, /w me for more info", -- [1]
+			"Rhkdawn-TarrenMill", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Rhkdawn-TarrenMill", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			1662, -- [11]
+			"Player-1084-0A217615", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cff3ec6eaRhkdawn|r",
+			[51] = 1608935528,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [39]
+		{
+			"WTS Normal Last 2 Boss |cff66bbff|Hjournal:1:2425:16|h[Stone Legion Generals]|h|r |cff66bbff|Hjournal:1:2424:16|h[Sire Denathrius]|h|r Personal loot || Every 30min Going || ONLY GOLD || /w me more info", -- [1]
+			"Çikoo-TarrenMill", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Çikoo-TarrenMill", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			1663, -- [11]
+			"Player-1084-0985FE43", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cff006fdcÇikoo|r",
+			[51] = 1608935530,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [40]
+		{
+			"WТS |cffa335ee|Hitem:182978::::::::60:105::6:5:7187:6652:7193:1498:6646:1:28:753:::|h[Barkweave Wristwraps]|h|r ", -- [1]
+			"Lemonfox-TarrenMill", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Lemonfox-TarrenMill", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			1665, -- [11]
+			"Player-1084-093544BE", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cfffe7b09Lemonfox|r",
+			[51] = 1608935537,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [41]
+		{
+			"WTS Mythic + boost I +5 140k +7 170k +10 200k! All in time and trading loot. cheapest price available!", -- [1]
+			"Drnacksving-TarrenMill", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Drnacksving-TarrenMill", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			1666, -- [11]
+			"Player-1084-098B99F4", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cff00fe97Drnacksving|r",
+			[51] = 1608935537,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [42]
+		{
+			"%s has earned the achievement |cffffff00|Hachievement:14500:Player-1084-0853F71A:1:12:27:20:4294967295:4294967295:4294967295:4294967295|h[Phantastic]|h|r!", -- [1]
+			"Talizeadr-TarrenMill", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Mejyna-TarrenMill", -- [5]
+			"Talizeadr-TarrenMill", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			156, -- [11]
-			"Player-1084-09EBB86E", -- [12]
+			3130, -- [11]
+			"Player-1084-0853F71A", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffef367Mejyna|r",
-			[51] = 1606103642,
-			[50] = "CHAT_MSG_WHISPER",
-		}, -- [38]
+			[52] = "|cfffe7b09Talizeadr|r",
+			[51] = 1609049499,
+			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+		}, -- [43]
 		{
-			"mein dh ist in null", -- [1]
-			"|Kq25|k", -- [2]
+			"<ICECROWN> M+14 for weekly 800k I  M+12 = 650k I M+10 = 450k I M+7 = 350k I |cff66bbff|Hjournal:0:1190:14|h[Castle Nathria]|h|r HEROIC I M0 Runs Armor stacked I Torghast FOR GOLD ONLY !  /w me for more infos ;)", -- [1]
+			"Cyndaweth-TarrenMill", -- [2]
 			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Cyndaweth-TarrenMill", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			14, -- [11]
+			"Player-1084-0A18BC9C", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cfffef367Cyndaweth|r",
+			[51] = 1609302542,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [44]
+		{
+			"<WTCB Team> WTS [Stone Legion Generals] for 450k |||cff66bbff|Hjournal:1:2424:14|h[Sire Denathrius]|h|r  for 650k only ! Or both as package for 1000k only !  IN HEROIC WE ONLY ACCEPT GOLD !", -- [1]
+			"Boostcap-TarrenMill", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Boostcap-TarrenMill", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			15, -- [11]
+			"Player-1084-0A136D44", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cff00fe97Boostcap|r",
+			[51] = 1609302550,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [45]
+		{
+			"LF PVP BOOST 1,75-1,8k 2v2", -- [1]
+			"Hampazly-TarrenMill", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Hampazly-TarrenMill", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			153, -- [11]
+			"Player-1084-089485F9", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cfffe7b09Hampazly|r",
+			[51] = 1609303942,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [46]
+		{
+			"there is a male and female icon at the top when you visit", -- [1]
+			"Dawnstream-TarrenMill", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Dawnstream-TarrenMill", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			154, -- [11]
+			"Player-1084-0A231449", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cfffefefeDawnstream|r",
+			[51] = 1609303948,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [47]
+		{
+			"Idk exactly how they do it", -- [1]
+			"Flakkzo-TarrenMill", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Flakkzo-TarrenMill", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			155, -- [11]
+			"Player-1084-0A16E5A3", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cff8687edFlakkzo|r",
+			[51] = 1609303951,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [48]
+		{
+			"But yes", -- [1]
+			"Flakkzo-TarrenMill", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Flakkzo-TarrenMill", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			156, -- [11]
+			"Player-1084-0A16E5A3", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cff8687edFlakkzo|r",
+			[51] = 1609303954,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [49]
+		{
+			"WTS mythic 7 - 15 for weekly // all m0 8/8 //  Group ilvl +205 // with loots // cheap price // Ready now whipser me for more info !", -- [1]
+			"Cize-TarrenMill", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Cize-TarrenMill", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			157, -- [11]
+			"Player-1084-0A1FF002", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffa22fc8Cize|r",
+			[51] = 1609303960,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [50]
+		{
+			"i need ah", -- [1]
+			"Safiron-TarrenMill", -- [2]
+			"Orcish", -- [3]
 			"", -- [4]
-			"", -- [5]
+			"Safiron-TarrenMill", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
 			161, -- [11]
-			false, -- [12]
-			6, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa22fc8Roí|r",
-			[51] = 1606103667,
-			[50] = "CHAT_MSG_BN_WHISPER",
-			[53] = "Roí",
-		}, -- [39]
-		{
-			"aber warry war nicht?", -- [1]
-			"|Kq25|k", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			162, -- [11]
-			false, -- [12]
-			6, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa22fc8Roí|r",
-			[51] = 1606103673,
-			[50] = "CHAT_MSG_BN_WHISPER",
-			[53] = "Roí",
-		}, -- [40]
-		{
-			"ginv", -- [1]
-			"|Kq25|k", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			163, -- [11]
-			false, -- [12]
-			6, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa22fc8Roí|r",
-			[51] = 1606103674,
-			[50] = "CHAT_MSG_BN_WHISPER",
-			[53] = "Roí",
-		}, -- [41]
-		{
-			"gehört die dir?", -- [1]
-			"|Kq25|k", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			164, -- [11]
-			false, -- [12]
-			6, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa22fc8Roí|r",
-			[51] = 1606103674,
-			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
-			[53] = "Roí",
-		}, -- [42]
-		{
-			"j", -- [1]
-			"Fluppi-TarrenMill", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Fluppi-TarrenMill", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			167, -- [11]
-			"Player-1084-09EEA76E", -- [12]
+			"Player-1084-0A0EAED5", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffefefeFluppi|r",
-			[51] = 1606103684,
-			[50] = "CHAT_MSG_WHISPER",
-		}, -- [43]
-		{
-			"aso ja der dh ist drin in der grp jo", -- [1]
-			"|Kq25|k", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			168, -- [11]
-			false, -- [12]
-			6, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa22fc8Roí|r",
-			[51] = 1606103687,
-			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
-			[53] = "Roí",
-		}, -- [44]
-		{
-			"ginv", -- [1]
-			"|Kq25|k", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			172, -- [11]
-			false, -- [12]
-			6, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc31d39Roí|r",
-			[51] = 1606103723,
-			[50] = "CHAT_MSG_BN_WHISPER",
-			[53] = "Roí",
-		}, -- [45]
-		{
-			"h", -- [1]
-			"Illumini-TarrenMill", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Illumini-TarrenMill", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			174, -- [11]
-			"Player-1084-09EEA7C2", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff006fdcIllumini|r",
-			[51] = 1606103732,
-			[50] = "CHAT_MSG_WHISPER",
-		}, -- [46]
-		{
-			"h", -- [1]
-			"Lyokii-TarrenMill", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Lyokii-TarrenMill", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			179, -- [11]
-			"Player-1084-09EEA808", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff8687edLyokii|r",
-			[51] = 1606103786,
-			[50] = "CHAT_MSG_WHISPER",
-		}, -- [47]
-		{
-			"ginv", -- [1]
-			"|Kq25|k", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			184, -- [11]
-			false, -- [12]
-			6, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff38bb9Roí|r",
-			[51] = 1606103805,
-			[50] = "CHAT_MSG_BN_WHISPER",
-			[53] = "Roí",
-		}, -- [48]
-		{
-			"ginv communityinv", -- [1]
-			"|Kq25|k", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			188, -- [11]
-			false, -- [12]
-			6, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff006fdcRoí|r",
-			[51] = 1606103846,
-			[50] = "CHAT_MSG_BN_WHISPER",
-			[53] = "Roí",
-		}, -- [49]
-		{
-			"alles inv", -- [1]
-			"|Kq25|k", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			208, -- [11]
-			false, -- [12]
-			6, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa9d271Roí|r",
-			[51] = 1606103967,
-			[50] = "CHAT_MSG_BN_WHISPER",
-			[53] = "Roí",
-		}, -- [50]
-		{
-			"warum haben wir eig. 3 communities?", -- [1]
-			"|Kq25|k", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			210, -- [11]
-			false, -- [12]
-			6, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa9d271Roí|r",
-			[51] = 1606103979,
-			[50] = "CHAT_MSG_BN_WHISPER",
-			[53] = "Roí",
+			[52] = "|cfffe7b09Safiron|r",
+			[51] = 1609303972,
+			[50] = "CHAT_MSG_YELL",
 		}, -- [51]
 		{
-			"altera", -- [1]
-			"|Kq25|k", -- [2]
+			"<WTCB Team> WTS [Stone Legion Generals] for 450k |||cff66bbff|Hjournal:1:2424:14|h[Sire Denathrius]|h|r  for 650k only ! Or both as package for 1000k only !  IN HEROIC WE ONLY ACCEPT GOLD !", -- [1]
+			"Boostcap-TarrenMill", -- [2]
 			"", -- [3]
-			"", -- [4]
-			"", -- [5]
+			"2. Trade - City", -- [4]
+			"Boostcap-TarrenMill", -- [5]
 			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
 			0, -- [10]
-			214, -- [11]
-			false, -- [12]
-			6, -- [13]
+			170, -- [11]
+			"Player-1084-0A136D44", -- [12]
+			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa9d271Roí|r",
-			[51] = 1606103993,
-			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
-			[53] = "Roí",
+			true, -- [17]
+			[52] = "|cff00fe97Boostcap|r",
+			[51] = 1609303979,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [52]
 		{
-			"dy", -- [1]
-			"|Kq25|k", -- [2]
+			"Rare |cff9d9d9d|Hitem:90557::::::::60:265:::::::|h[Dead Mole]|h|r on AH right now. Price can be discussed. ", -- [1]
+			"Lindaros-TarrenMill", -- [2]
 			"", -- [3]
-			"", -- [4]
-			"", -- [5]
+			"2. Trade - City", -- [4]
+			"Lindaros-TarrenMill", -- [5]
 			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			215, -- [11]
-			false, -- [12]
-			6, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa9d271Roí|r",
-			[51] = 1606103993,
-			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
-			[53] = "Roí",
-		}, -- [53]
-		{
-			"in", -- [1]
-			"|Kq25|k", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
 			0, -- [10]
 			216, -- [11]
-			false, -- [12]
-			6, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa9d271Roí|r",
-			[51] = 1606103994,
-			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
-			[53] = "Roí",
-		}, -- [54]
-		{
-			"guild", -- [1]
-			"|Kq25|k", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			217, -- [11]
-			false, -- [12]
-			6, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa9d271Roí|r",
-			[51] = 1606103995,
-			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
-			[53] = "Roí",
-		}, -- [55]
-		{
-			"ah sex war der bino", -- [1]
-			"|Kq25|k", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			218, -- [11]
-			false, -- [12]
-			6, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa9d271Roí|r",
-			[51] = 1606100406,
-			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
-			[53] = "Roí",
-		}, -- [56]
-		{
-			"ginv", -- [1]
-			"|Kq25|k", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			220, -- [11]
-			false, -- [12]
-			6, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff00fe97Roí|r",
-			[51] = 1606104091,
-			[50] = "CHAT_MSG_BN_WHISPER",
-			[53] = "Roí",
-		}, -- [57]
-		{
-			"\"Midnight Singularity\" has earned the achievement |cffffff00|Hachievement:5145:Guild-1084-000004AD43D4:1:11:23:20:4294967295:4294967295:4294967295:4294967295|h[Dungeon Diplomat]|h|r!", -- [1]
-			"Midnight Singularity", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			224, -- [11]
-			false, -- [12]
+			"Player-1084-08A8DAFF", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			false, -- [17]
-			[52] = "Midnight Singularity",
-			[51] = 1606104118,
-			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [58]
+			true, -- [17]
+			[52] = "|cff8687edLindaros|r",
+			[51] = 1609304008,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [53]
 		{
-			"okay, das waren alle meine chars", -- [1]
-			"Talizeadr-TarrenMill", -- [2]
+			"3 Run=Free Armor Stack  << SYLVANAS >> In Time Guarantee > >||M+10 470k||< <||3x10 1375k||> >||5x10 2065k||< <||M+14 790k||> >||M+15 1175k||< <||M+12 640k||> >||M+7 385k||< <8X0 1100K> >|cff66bbff|Hjournal:0:1190:14|h[Castle Nathria]|h|r10/10 HC/N/W me", -- [1]
+			"Gwtarren-TarrenMill", -- [2]
 			"", -- [3]
-			"", -- [4]
-			"", -- [5]
+			"2. Trade - City", -- [4]
+			"Gwtarren-TarrenMill", -- [5]
 			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			226, -- [11]
-			"Player-1084-0853F71A", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffe7b09Talizeadr|r",
-			[51] = 1606104177,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [59]
-		{
-			"der gildenrank gibt mir auch negeraids", -- [1]
-			"Talizeadr-TarrenMill", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			227, -- [11]
-			"Player-1084-0853F71A", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffe7b09Talizeadr|r",
-			[51] = 1606104189,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [60]
-		{
-			"den hast du verdient", -- [1]
-			"Morphorius-TarrenMill", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			228, -- [11]
-			"Player-1084-09C0C91D", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffe7b09Morphorius|r",
-			[51] = 1606104197,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [61]
-		{
-			":D", -- [1]
-			"Enthusiastus-TarrenMill", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			229, -- [11]
-			"Player-1084-0854DAAD", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffe7b09Enthusiastus|r",
-			[51] = 1606104205,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [62]
-		{
-			"hoffe ihr habt alle schonmal 25 quests rdy zum turn in für world first level 60", -- [1]
-			"Talizeadr-TarrenMill", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			230, -- [11]
-			"Player-1084-0853F71A", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffe7b09Talizeadr|r",
-			[51] = 1606104253,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [63]
-		{
-			"ich lollierte", -- [1]
-			"Enthusiastus-TarrenMill", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			231, -- [11]
-			"Player-1084-0854DAAD", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffe7b09Enthusiastus|r",
-			[51] = 1606104268,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [64]
-		{
-			"und 16x aufm ptr jeden cheese getestet", -- [1]
-			"Talizeadr-TarrenMill", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
 			0, -- [10]
 			232, -- [11]
-			"Player-1084-0853F71A", -- [12]
+			"Player-1084-0A22C9C0", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffe7b09Talizeadr|r",
-			[51] = 1606104275,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [65]
+			true, -- [17]
+			[52] = "|cfffe7b09Gwtarren|r",
+			[51] = 1609304020,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [54]
 		{
-			"ich bin schon 60", -- [1]
-			"Morphorius-TarrenMill", -- [2]
+			"lol 1 million gold for a worthless grey", -- [1]
+			"Dawnstream-TarrenMill", -- [2]
 			"", -- [3]
-			"", -- [4]
-			"", -- [5]
+			"2. Trade - City", -- [4]
+			"Dawnstream-TarrenMill", -- [5]
 			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
 			0, -- [10]
-			233, -- [11]
-			"Player-1084-09C0C91D", -- [12]
+			235, -- [11]
+			"Player-1084-0A231449", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffe7b09Morphorius|r",
-			[51] = 1606104285,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [66]
+			true, -- [17]
+			[52] = "|cfffefefeDawnstream|r",
+			[51] = 1609304022,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [55]
 		{
-			"bin schon 61 tbh", -- [1]
-			"Enthusiastus-TarrenMill", -- [2]
+			"<ICECROWN> M+14 for weekly 800k I  M+12 = 650k I M+10 = 450k I M+7 = 350k I |cff66bbff|Hjournal:0:1190:14|h[Castle Nathria]|h|r HEROIC I M0 Runs Armor stacked I Torghast FOR GOLD ONLY !  /w me for more infos ;)", -- [1]
+			"Cyndaweth-TarrenMill", -- [2]
 			"", -- [3]
-			"", -- [4]
-			"", -- [5]
+			"2. Trade - City", -- [4]
+			"Cyndaweth-TarrenMill", -- [5]
 			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			234, -- [11]
-			"Player-1084-0854DAAD", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffe7b09Enthusiastus|r",
-			[51] = 1606104318,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [67]
-		{
-			"sach mal", -- [1]
-			"Talizeadr-TarrenMill", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			237, -- [11]
-			"Player-1084-0853F71A", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffe7b09Talizeadr|r",
-			[51] = 1606104345,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [68]
-		{
-			"ma", -- [1]
-			"Morphorius-TarrenMill", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
 			0, -- [10]
 			238, -- [11]
-			"Player-1084-09C0C91D", -- [12]
+			"Player-1084-0A18BC9C", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffe7b09Morphorius|r",
-			[51] = 1606104348,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [69]
+			true, -- [17]
+			[52] = "|cfffef367Cyndaweth|r",
+			[51] = 1609304024,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [56]
 		{
-			"mal", -- [1]
-			"Enthusiastus-TarrenMill", -- [2]
+			"WTS mythic 7 - 15 for weekly // all m0 8/8 //  Group ilvl +205 // with loots // cheap price // Ready now whipser me for more info !", -- [1]
+			"Cize-TarrenMill", -- [2]
 			"", -- [3]
-			"", -- [4]
-			"", -- [5]
+			"2. Trade - City", -- [4]
+			"Cize-TarrenMill", -- [5]
 			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
 			0, -- [10]
-			239, -- [11]
-			"Player-1084-0854DAAD", -- [12]
+			243, -- [11]
+			"Player-1084-0A1FF002", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffe7b09Enthusiastus|r",
-			[51] = 1606104348,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [70]
+			true, -- [17]
+			[52] = "|cffa22fc8Cize|r",
+			[51] = 1609304027,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [57]
 		{
-			"fede svin", -- [1]
-			"Haydendh-TarrenMill", -- [2]
+			"LF PVP BOOST 1,75-1,8k 2v2", -- [1]
+			"Hampazly-TarrenMill", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Hampazly-TarrenMill", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			244, -- [11]
+			"Player-1084-089485F9", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cfffe7b09Hampazly|r",
+			[51] = 1609304030,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [58]
+		{
+			"WTS |cffa335ee|Hitem:184778::::::::60:254::6:4:7187:6652:1498:6646:1:28:753:::|h[Decadent Nathrian Shawl]|h|r 226Cloak", -- [1]
+			"Sphexxhnt-TarrenMill", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Sphexxhnt-TarrenMill", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			2923, -- [11]
+			"Player-1084-09C91209", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffa9d271Sphexxhnt|r",
+			[51] = 1609378795,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [59]
+		{
+			"LFW  |cffffd000|Htrade:Player-1084-0A200DD2:195119:165|h[Leatherworking]|h|r Crafting your Legendary (190(Mail)  210 225 ilvl)! Selling 235ilvl Legggings/ Treads/ Helmet/ Gloves Cheaper than ah (leaher)!!", -- [1]
+			"Garukk-TarrenMill", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Garukk-TarrenMill", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			2924, -- [11]
+			"Player-1084-0A200DD2", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cff00fe97Garukk|r",
+			[51] = 1609378795,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [60]
+		{
+			"<Fortitude> is a newly-formed raiding guild recruiting exceptional DPS and especially Warlock, Warrior & Rogue. The raid schedule is Mon, Thu & Sun 7ST. The progression raid schedule will start early Jan. Socials are welcome too /w me for more info. ", -- [1]
+			"Kathryne-TarrenMill", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Kathryne-TarrenMill", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			2925, -- [11]
+			"Player-1084-09EB060B", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cff00fe97Kathryne|r",
+			[51] = 1609378806,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [61]
+		{
+			"WTS  |cffa335ee|Hitem:183035::::::::60:104::6:5:7187:42:7194:1498:6646:1:28:753:::|h[Ardent Sunstar Signet]|h|r+SPEED", -- [1]
+			"Zazkukul-TarrenMill", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Zazkukul-TarrenMill", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			2926, -- [11]
+			"Player-1084-0A17EDA2", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cfffe7b09Zazkukul|r",
+			[51] = 1609378812,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [62]
+		{
+			"wts |cffa335ee|Hitem:183035::::::::60:260::6:5:7187:6652:6935:1498:6646:1:28:753:::|h[Ardent Sunstar Signet]|h|r 226 ring + socket !", -- [1]
+			"Echoo-TarrenMill", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Echoo-TarrenMill", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			2927, -- [11]
+			"Player-1084-05D23275", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cfffef367Echoo|r",
+			[51] = 1609378818,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [63]
+		{
+			"Interrupted Imperial Censor's |cff71d5ff|Hspell:319447:0|h[Sin Bolt]|h|r!", -- [1]
+			"Talizeadr-TarrenMill", -- [2]
 			"Orcish", -- [3]
 			"", -- [4]
-			"Haydendh-TarrenMill", -- [5]
+			"Talizeadr-TarrenMill", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			240, -- [11]
-			"Player-1084-08FD5609", -- [12]
+			3187, -- [11]
+			"Player-1084-0853F71A", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa22fc8Haydendh|r",
-			[51] = 1606104367,
+			[52] = "|cfffe7b09Talizeadr|r",
+			[51] = 1609380299,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [64]
+		{
+			"Interrupted Mawsworn Guard's |cff71d5ff|Hspell:294165:0|h[Accursed Strength]|h|r!", -- [1]
+			"Talizeadr-TarrenMill", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Talizeadr-TarrenMill", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			3198, -- [11]
+			"Player-1084-0853F71A", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffe7b09Talizeadr|r",
+			[51] = 1609380393,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [65]
+		{
+			"BUTTONS!", -- [1]
+			"Muwe-TarrenMill", -- [2]
+			"", -- [3]
+			"1. General - Torghast, Tower of the Damned", -- [4]
+			"Muwe-TarrenMill", -- [5]
+			"", -- [6]
+			1, -- [7]
+			1, -- [8]
+			"General - Torghast, Tower of the Damned", -- [9]
+			0, -- [10]
+			3320, -- [11]
+			"Player-1084-08E60F1D", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cfffe7b09Muwe|r",
+			[51] = 1609381211,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [66]
+		{
+			"MRRRZZZ!!", -- [1]
+			"Doomwise-TarrenMill", -- [2]
+			"", -- [3]
+			"1. General - Torghast, Tower of the Damned", -- [4]
+			"Doomwise-TarrenMill", -- [5]
+			"", -- [6]
+			1, -- [7]
+			1, -- [8]
+			"General - Torghast, Tower of the Damned", -- [9]
+			0, -- [10]
+			3325, -- [11]
+			"Player-1084-05D1EB51", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffc59a6cDoomwise|r",
+			[51] = 1609381230,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [67]
+		{
+			"ayy", -- [1]
+			"Muwe-TarrenMill", -- [2]
+			"", -- [3]
+			"1. General - Torghast, Tower of the Damned", -- [4]
+			"Muwe-TarrenMill", -- [5]
+			"", -- [6]
+			1, -- [7]
+			1, -- [8]
+			"General - Torghast, Tower of the Damned", -- [9]
+			0, -- [10]
+			3326, -- [11]
+			"Player-1084-08E60F1D", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cfffe7b09Muwe|r",
+			[51] = 1609381237,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [68]
+		{
+			"Imal Balkanaca ?", -- [1]
+			"Icyrage-TarrenMill", -- [2]
+			"", -- [3]
+			"1. General - Torghast, Tower of the Damned", -- [4]
+			"Icyrage-TarrenMill", -- [5]
+			"", -- [6]
+			1, -- [7]
+			1, -- [8]
+			"General - Torghast, Tower of the Damned", -- [9]
+			0, -- [10]
+			3327, -- [11]
+			"Player-1084-068FD150", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffc31d39Icyrage|r",
+			[51] = 1609381252,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [69]
+		{
+			"u w0t m8 ", -- [1]
+			"Muwe-TarrenMill", -- [2]
+			"", -- [3]
+			"1. General - Torghast, Tower of the Damned", -- [4]
+			"Muwe-TarrenMill", -- [5]
+			"", -- [6]
+			1, -- [7]
+			1, -- [8]
+			"General - Torghast, Tower of the Damned", -- [9]
+			0, -- [10]
+			3331, -- [11]
+			"Player-1084-08E60F1D", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cfffe7b09Muwe|r",
+			[51] = 1609381261,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [70]
+		{
+			"Interrupted Mawsworn Endbringer's |cff71d5ff|Hspell:335680:0|h[Pain Spike]|h|r!", -- [1]
+			"Talizeadr-TarrenMill", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Talizeadr-TarrenMill", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			3359, -- [11]
+			"Player-1084-0853F71A", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffe7b09Talizeadr|r",
+			[51] = 1609381470,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [71]
 		{
-			"ah man kann ingame nicht die bnet community anzeigen lassen", -- [1]
-			"Talizeadr-TarrenMill", -- [2]
+			"|cff71d5ff|Hmawpower:1070|h[Furywing]|h|r+infernal strike on 1s cd is OP lol", -- [1]
+			"Docsaidh-TarrenMill", -- [2]
 			"", -- [3]
-			"", -- [4]
-			"", -- [5]
+			"1. General - Torghast, Tower of the Damned", -- [4]
+			"Docsaidh-TarrenMill", -- [5]
 			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			1, -- [7]
+			1, -- [8]
+			"General - Torghast, Tower of the Damned", -- [9]
 			0, -- [10]
-			241, -- [11]
-			"Player-1084-0853F71A", -- [12]
+			3411, -- [11]
+			"Player-1084-09831112", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffe7b09Talizeadr|r",
-			[51] = 1606104372,
-			[50] = "CHAT_MSG_GUILD",
+			true, -- [17]
+			[52] = "|cffa22fc8Docsaidh|r",
+			[51] = 1609381794,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [72]
 		{
-			"aids", -- [1]
-			"Talizeadr-TarrenMill", -- [2]
+			"xd", -- [1]
+			"Kharkosa-TarrenMill", -- [2]
 			"", -- [3]
-			"", -- [4]
-			"", -- [5]
+			"1. General - Torghast, Tower of the Damned", -- [4]
+			"Kharkosa-TarrenMill", -- [5]
 			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			1, -- [7]
+			1, -- [8]
+			"General - Torghast, Tower of the Damned", -- [9]
 			0, -- [10]
-			242, -- [11]
-			"Player-1084-0853F71A", -- [12]
+			3422, -- [11]
+			"Player-1084-098FBBBA", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffe7b09Talizeadr|r",
-			[51] = 1606104374,
-			[50] = "CHAT_MSG_GUILD",
+			true, -- [17]
+			[52] = "|cffa22fc8Kharkosa|r",
+			[51] = 1609381835,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [73]
 		{
-			"deswegen mach ich mir die mühe", -- [1]
-			"Enthusiastus-TarrenMill", -- [2]
-			"", -- [3]
+			"Interrupted Lord of Torment's |cff71d5ff|Hspell:292926:0|h[Eternal Torment]|h|r!", -- [1]
+			"Talizeadr-TarrenMill", -- [2]
+			"Orcish", -- [3]
 			"", -- [4]
-			"", -- [5]
+			"Talizeadr-TarrenMill", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			243, -- [11]
-			"Player-1084-0854DAAD", -- [12]
+			3429, -- [11]
+			"Player-1084-0853F71A", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffe7b09Enthusiastus|r",
-			[51] = 1606104382,
-			[50] = "CHAT_MSG_GUILD",
+			[52] = "|cfffe7b09Talizeadr|r",
+			[51] = 1609381876,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [74]
 		{
-			"das habe ich auch gerade herausgefunden :D", -- [1]
-			"Morphorius-TarrenMill", -- [2]
-			"", -- [3]
+			"Interrupted Deathspeaker's |cff71d5ff|Hspell:304093:0|h[Mass Debilitate]|h|r!", -- [1]
+			"Talizeadr-TarrenMill", -- [2]
+			"Orcish", -- [3]
 			"", -- [4]
-			"", -- [5]
+			"Talizeadr-TarrenMill", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			244, -- [11]
-			"Player-1084-09C0C91D", -- [12]
+			3635, -- [11]
+			"Player-1084-0853F71A", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffe7b09Morphorius|r",
-			[51] = 1606104384,
-			[50] = "CHAT_MSG_GUILD",
+			[52] = "|cfffe7b09Talizeadr|r",
+			[51] = 1609382924,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [75]
 		{
-			"jeden drecks khar einzuladen", -- [1]
-			"Enthusiastus-TarrenMill", -- [2]
-			"", -- [3]
+			"Interrupted Forge Keeper's |cff71d5ff|Hspell:270246:0|h[Fireball]|h|r!", -- [1]
+			"Talizeadr-TarrenMill", -- [2]
+			"Orcish", -- [3]
 			"", -- [4]
-			"", -- [5]
+			"Talizeadr-TarrenMill", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			245, -- [11]
-			"Player-1084-0854DAAD", -- [12]
+			3788, -- [11]
+			"Player-1084-0853F71A", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffe7b09Enthusiastus|r",
-			[51] = 1606104388,
-			[50] = "CHAT_MSG_GUILD",
+			[52] = "|cfffe7b09Talizeadr|r",
+			[51] = 1609383877,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [76]
 		{
-			"meine chars sind nicht dreck", -- [1]
+			"Interrupted Empowered Mawsworn Flametender's |cff71d5ff|Hspell:258935:0|h[Inner Flames]|h|r!", -- [1]
 			"Talizeadr-TarrenMill", -- [2]
-			"", -- [3]
+			"Orcish", -- [3]
 			"", -- [4]
-			"", -- [5]
+			"Talizeadr-TarrenMill", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			246, -- [11]
+			3816, -- [11]
 			"Player-1084-0853F71A", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -1742,342 +1714,342 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cfffe7b09Talizeadr|r",
-			[51] = 1606104405,
-			[50] = "CHAT_MSG_GUILD",
+			[51] = 1609384066,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [77]
 		{
-			"denk dran nomma deine addons upzudaten", -- [1]
-			"Morphorius-TarrenMill", -- [2]
+			"[WTS] Fast Powerleveling to 60 lvl! World & Daily Questing, Renown weekly cap, Gear farming, NEW Mounts, and other boosts. We have over 13094 Trustpilot reviews. Please, visit WowVendor.net for more info!", -- [1]
+			"Xandian-TarrenMill", -- [2]
 			"", -- [3]
-			"", -- [4]
-			"", -- [5]
+			"2. Trade - City", -- [4]
+			"Xandian-TarrenMill", -- [5]
 			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
 			0, -- [10]
-			247, -- [11]
-			"Player-1084-09C0C91D", -- [12]
+			3864, -- [11]
+			"Player-1084-0A232248", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffe7b09Morphorius|r",
-			[51] = 1606104420,
-			[50] = "CHAT_MSG_GUILD",
+			true, -- [17]
+			[52] = "|cffc59a6cXandian|r",
+			[51] = 1609384318,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [78]
 		{
-			"bevor es disabled wird", -- [1]
-			"Morphorius-TarrenMill", -- [2]
+			"WTB |cffa335ee|Hitem:183035::::::::60:268::5:5:7188:6652:7193:1485:6646:1:28:752:::|h[Ardent Sunstar Signet]|h|r cheaper than ah /w me price.", -- [1]
+			"Vandalf-TarrenMill", -- [2]
 			"", -- [3]
-			"", -- [4]
-			"", -- [5]
+			"2. Trade - City", -- [4]
+			"Vandalf-TarrenMill", -- [5]
 			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
 			0, -- [10]
-			248, -- [11]
-			"Player-1084-09C0C91D", -- [12]
+			3877, -- [11]
+			"Player-1084-05CB39CF", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffe7b09Morphorius|r",
-			[51] = 1606104423,
-			[50] = "CHAT_MSG_GUILD",
+			true, -- [17]
+			[52] = "|cff00fe97Vandalf|r",
+			[51] = 1609384358,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [79]
 		{
-			":3", -- [1]
-			"Enthusiastus-TarrenMill", -- [2]
+			"WTS |cffa335ee|Hitem:183013::::::::60:264::6:4:7187:6652:1498:6646:1:28:753:::|h[Fallen Templar's Gauntlets]|h|r", -- [1]
+			"Passivemod-TarrenMill", -- [2]
 			"", -- [3]
-			"", -- [4]
-			"", -- [5]
+			"2. Trade - City", -- [4]
+			"Passivemod-TarrenMill", -- [5]
 			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
 			0, -- [10]
-			249, -- [11]
-			"Player-1084-0854DAAD", -- [12]
+			3878, -- [11]
+			"Player-1084-09ED54D4", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffe7b09Enthusiastus|r",
-			[51] = 1606104434,
-			[50] = "CHAT_MSG_GUILD",
+			true, -- [17]
+			[52] = "|cff006fdcPassivemod|r",
+			[51] = 1609384366,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [80]
 		{
-			"was speckt man so?", -- [1]
-			"Enthusiastus-TarrenMill", -- [2]
+			"LF tailoring", -- [1]
+			"Wildorc-TarrenMill", -- [2]
 			"", -- [3]
-			"", -- [4]
-			"", -- [5]
+			"2. Trade - City", -- [4]
+			"Wildorc-TarrenMill", -- [5]
 			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
 			0, -- [10]
-			250, -- [11]
-			"Player-1084-0854DAAD", -- [12]
+			315, -- [11]
+			"Player-1084-05C99346", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffe7b09Enthusiastus|r",
-			[51] = 1606104449,
-			[50] = "CHAT_MSG_GUILD",
+			true, -- [17]
+			[52] = "|cffc31d39Wildorc|r",
+			[51] = 1609525834,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [81]
 		{
-			"moonkin?", -- [1]
-			"Talizeadr-TarrenMill", -- [2]
+			"Sylvanas Community is now selling [Sire Denathrius]  HEROIC (CURVE) for  570k ONLY quick get your curve done /w for more ", -- [1]
+			"Sylvansbest-TarrenMill", -- [2]
 			"", -- [3]
-			"", -- [4]
-			"", -- [5]
+			"2. Trade - City", -- [4]
+			"Sylvansbest-TarrenMill", -- [5]
 			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
 			0, -- [10]
-			251, -- [11]
-			"Player-1084-0853F71A", -- [12]
+			316, -- [11]
+			"Player-1084-09BF21A7", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffe7b09Talizeadr|r",
-			[51] = 1606104456,
-			[50] = "CHAT_MSG_GUILD",
+			true, -- [17]
+			[52] = "|cff8687edSylvansbest|r",
+			[51] = 1609525838,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [82]
 		{
-			"stufen wir zu 3?", -- [1]
-			"Enthusiastus-TarrenMill", -- [2]
+			"wts [Ardent Sunstar Signet]with socket and  [Soldier's Stoneband Wristguards] Level 226 cheaper then ah!", -- [1]
+			"Xcaliber-TarrenMill", -- [2]
 			"", -- [3]
-			"", -- [4]
-			"", -- [5]
+			"2. Trade - City", -- [4]
+			"Xcaliber-TarrenMill", -- [5]
 			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
 			0, -- [10]
-			252, -- [11]
-			"Player-1084-0854DAAD", -- [12]
+			317, -- [11]
+			"Player-1084-09F0CA03", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffe7b09Enthusiastus|r",
-			[51] = 1606104459,
-			[50] = "CHAT_MSG_GUILD",
+			true, -- [17]
+			[52] = "|cffa22fc8Xcaliber|r",
+			[51] = 1609525838,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [83]
 		{
-			"um null?", -- [1]
-			"Enthusiastus-TarrenMill", -- [2]
+			"WTB |cffffffff|Hitem:178926::::::::60:260::65:3:6718:7194:1522::::|h[Shadowghast Ring]|h|r /w offer", -- [1]
+			"Neirano-TarrenMill", -- [2]
 			"", -- [3]
-			"", -- [4]
-			"", -- [5]
+			"2. Trade - City", -- [4]
+			"Neirano-TarrenMill", -- [5]
 			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
 			0, -- [10]
-			253, -- [11]
-			"Player-1084-0854DAAD", -- [12]
+			318, -- [11]
+			"Player-1084-08EB19D9", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffe7b09Enthusiastus|r",
-			[51] = 1606104467,
-			[50] = "CHAT_MSG_GUILD",
+			true, -- [17]
+			[52] = "|cfffef367Neirano|r",
+			[51] = 1609525838,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [84]
 		{
-			"\"null\"", -- [1]
-			"Morphorius-TarrenMill", -- [2]
+			"WTS M+ 2-14 /For Gold/w For More Info", -- [1]
+			"Mboostt-TarrenMill", -- [2]
 			"", -- [3]
-			"", -- [4]
-			"", -- [5]
+			"2. Trade - City", -- [4]
+			"Mboostt-TarrenMill", -- [5]
 			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
 			0, -- [10]
-			254, -- [11]
-			"Player-1084-09C0C91D", -- [12]
+			319, -- [11]
+			"Player-1084-0A1E9CC3", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffe7b09Morphorius|r",
-			[51] = 1606104482,
-			[50] = "CHAT_MSG_GUILD",
+			true, -- [17]
+			[52] = "|cff3ec6eaMboostt|r",
+			[51] = 1609525839,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [85]
 		{
-			"warmode off btw", -- [1]
-			"Enthusiastus-TarrenMill", -- [2]
+			"WTS |cffa335ee|Hkeystone:180653:382:13:9:122:4:121|h[Keystone: Theater of Pain (13)]|h|r|cffa335ee|Hkeystone:180653:376:12:9:122:4:121|h[Keystone: The Necrotic Wake (12)]|h|rfor gold /w for more info", -- [1]
+			"Mboostt-TarrenMill", -- [2]
 			"", -- [3]
-			"", -- [4]
-			"", -- [5]
+			"2. Trade - City", -- [4]
+			"Mboostt-TarrenMill", -- [5]
 			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
 			0, -- [10]
-			255, -- [11]
-			"Player-1084-0854DAAD", -- [12]
+			320, -- [11]
+			"Player-1084-0A1E9CC3", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffe7b09Enthusiastus|r",
-			[51] = 1606104514,
-			[50] = "CHAT_MSG_GUILD",
+			true, -- [17]
+			[52] = "|cff3ec6eaMboostt|r",
+			[51] = 1609525839,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [86]
 		{
-			"???", -- [1]
-			"Morphorius-TarrenMill", -- [2]
+			"<NOVA Community> Offers TODAY [Castle Nathria Normal 10/10 Full clear - 600k @ 21:30] [M+ 0-15 Boosts] Shared loot, armor stack, bulk discounts [Torghast Layers 1-8] [PVP Boosts] Gold only /w me for info!", -- [1]
+			"Novatm-TarrenMill", -- [2]
 			"", -- [3]
-			"", -- [4]
-			"", -- [5]
+			"2. Trade - City", -- [4]
+			"Novatm-TarrenMill", -- [5]
 			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
 			0, -- [10]
-			256, -- [11]
-			"Player-1084-09C0C91D", -- [12]
+			321, -- [11]
+			"Player-1084-0A11D2F8", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffe7b09Morphorius|r",
-			[51] = 1606104519,
-			[50] = "CHAT_MSG_GUILD",
+			true, -- [17]
+			[52] = "|cfffef367Novatm|r",
+			[51] = 1609525840,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [87]
 		{
-			"mein eulenspec hat die besten keybinds", -- [1]
-			"Talizeadr-TarrenMill", -- [2]
+			"<ObIivion> is selling 10/10HC Castle Nathria Tonight at 21:00 server time! /w for price and booking!!", -- [1]
+			"Irelìa-TarrenMill", -- [2]
 			"", -- [3]
-			"", -- [4]
-			"", -- [5]
+			"2. Trade - City", -- [4]
+			"Irelìa-TarrenMill", -- [5]
 			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
 			0, -- [10]
-			258, -- [11]
-			"Player-1084-0853F71A", -- [12]
+			322, -- [11]
+			"Player-1084-09921B5D", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffe7b09Talizeadr|r",
-			[51] = 1606104662,
-			[50] = "CHAT_MSG_GUILD",
+			true, -- [17]
+			[52] = "|cffc59a6cIrelìa|r",
+			[51] = 1609525845,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [88]
 		{
-			"prolonged power", -- [1]
-			"Talizeadr-TarrenMill", -- [2]
+			"<NOVA>[Would tour M+0} [M2 - 200k] [M4 - 260k] [M6 - 320k] [M8 - 380k] [M10 - 440k] [M14 675k] [M15 700k] [Torghast - Layers 1-8] Get your weekly vault loot! All key levels available, Normal castle Nathria600k, HC 2200k, ,bulk discount for muti runs, ", -- [1]
+			"Boostqq-TarrenMill", -- [2]
 			"", -- [3]
-			"", -- [4]
-			"", -- [5]
+			"2. Trade - City", -- [4]
+			"Boostqq-TarrenMill", -- [5]
 			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
 			0, -- [10]
-			259, -- [11]
-			"Player-1084-0853F71A", -- [12]
+			323, -- [11]
+			"Player-1084-0A21E261", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffe7b09Talizeadr|r",
-			[51] = 1606104665,
-			[50] = "CHAT_MSG_GUILD",
+			true, -- [17]
+			[52] = "|cff00fe97Boostqq|r",
+			[51] = 1609525846,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [89]
 		{
-			"alles da was man braucht", -- [1]
-			"Talizeadr-TarrenMill", -- [2]
+			"WTS|cffa335ee|Hitem:183035::::::::30:72:::::::|h[Ardent Sunstar Signet]|h|r FAST ", -- [1]
+			"Thirdwar-TarrenMill", -- [2]
 			"", -- [3]
-			"", -- [4]
-			"", -- [5]
+			"2. Trade - City", -- [4]
+			"Thirdwar-TarrenMill", -- [5]
 			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
 			0, -- [10]
-			260, -- [11]
-			"Player-1084-0853F71A", -- [12]
+			324, -- [11]
+			"Player-1084-09E0CA98", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffe7b09Talizeadr|r",
-			[51] = 1606104669,
-			[50] = "CHAT_MSG_GUILD",
+			true, -- [17]
+			[52] = "|cffc59a6cThirdwar|r",
+			[51] = 1609525847,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [90]
 		{
-			":3333", -- [1]
-			"Enthusiastus-TarrenMill", -- [2]
+			"< Sylvanas Community > WTS TWO LAST Boss Generals 550k||||  Sire Denathrius570k ^^ BOTH 940k G Heroic |cff66bbff|Hjournal:0:1190:14|h[Castle Nathria]|h|r +  /w me for more info", -- [1]
+			"Willcome-TarrenMill", -- [2]
 			"", -- [3]
-			"", -- [4]
-			"", -- [5]
+			"2. Trade - City", -- [4]
+			"Willcome-TarrenMill", -- [5]
 			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
 			0, -- [10]
-			261, -- [11]
-			"Player-1084-0854DAAD", -- [12]
+			325, -- [11]
+			"Player-1084-09EE8839", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffe7b09Enthusiastus|r",
-			[51] = 1606104685,
-			[50] = "CHAT_MSG_GUILD",
+			true, -- [17]
+			[52] = "|cff006fdcWillcome|r",
+			[51] = 1609525849,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [91]
 		{
-			"wasn nu", -- [1]
-			"Enthusiastus-TarrenMill", -- [2]
+			"wts |cffa335ee|Hitem:163574::::::::50:102::::1:28:805:::|h[Chewed-On Reins of the Terrified Pack Mule]|h|r", -- [1]
+			"Yalove-TarrenMill", -- [2]
 			"", -- [3]
-			"", -- [4]
-			"", -- [5]
+			"2. Trade - City", -- [4]
+			"Yalove-TarrenMill", -- [5]
 			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
 			0, -- [10]
-			262, -- [11]
-			"Player-1084-0854DAAD", -- [12]
+			326, -- [11]
+			"Player-1084-0A1E89CD", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffe7b09Enthusiastus|r",
-			[51] = 1606104687,
-			[50] = "CHAT_MSG_GUILD",
+			true, -- [17]
+			[52] = "|cfffe7b09Yalove|r",
+			[51] = 1609525853,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [92]
 		{
-			"eulenspeck", -- [1]
-			"Enthusiastus-TarrenMill", -- [2]
+			"!keys", -- [1]
+			"Byteme-TarrenMill", -- [2]
 			"", -- [3]
 			"", -- [4]
 			"", -- [5]
@@ -2086,20 +2058,20 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			263, -- [11]
-			"Player-1084-0854DAAD", -- [12]
+			2847, -- [11]
+			"Player-1084-08A604EE", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffe7b09Enthusiastus|r",
-			[51] = 1606104699,
+			[52] = "|cffa22fc8Byteme|r",
+			[51] = 1609553274,
 			[50] = "CHAT_MSG_GUILD",
 		}, -- [93]
 		{
-			"ich habe auch wrath gebunden", -- [1]
-			"Enthusiastus-TarrenMill", -- [2]
+			"|cffa335ee|Hkeystone:180653:375:5:9:122:0:0|h[Keystone: Mists of Tirna Scithe (5)]|h|r", -- [1]
+			"Byteme-TarrenMill", -- [2]
 			"", -- [3]
 			"", -- [4]
 			"", -- [5]
@@ -2108,20 +2080,20 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			264, -- [11]
-			"Player-1084-0854DAAD", -- [12]
+			2848, -- [11]
+			"Player-1084-08A604EE", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffe7b09Enthusiastus|r",
-			[51] = 1606104709,
+			[52] = "|cffa22fc8Byteme|r",
+			[51] = 1609553274,
 			[50] = "CHAT_MSG_GUILD",
 		}, -- [94]
 		{
-			"auf eine heißtaste", -- [1]
-			"Enthusiastus-TarrenMill", -- [2]
+			"|cffa335ee|Hkeystone:180653:377:6:9:122:0:0|h[Keystone: De Other Side (6)]|h|r", -- [1]
+			"Bawki-TarrenMill", -- [2]
 			"", -- [3]
 			"", -- [4]
 			"", -- [5]
@@ -2130,104 +2102,104 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			265, -- [11]
-			"Player-1084-0854DAAD", -- [12]
+			2849, -- [11]
+			"Player-1084-0A20D572", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffe7b09Enthusiastus|r",
-			[51] = 1606104712,
+			[52] = "|cffa9d271Bawki|r",
+			[51] = 1609553274,
 			[50] = "CHAT_MSG_GUILD",
 		}, -- [95]
 		{
-			"- /run local t = time() +15 while time() < t do end", -- [1]
-			"Enthusiastus-TarrenMill", -- [2]
+			"Dawn Community Offering M0-15 (M+10 only 470K!) || Keys 2-9 all loot will be traded to you guaranteed - armorstacking available - PM me for more info or to book service now :)", -- [1]
+			"Théwarlock-TarrenMill", -- [2]
 			"", -- [3]
-			"", -- [4]
-			"", -- [5]
+			"2. Trade - City", -- [4]
+			"Théwarlock-TarrenMill", -- [5]
 			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
 			0, -- [10]
-			266, -- [11]
-			"Player-1084-0854DAAD", -- [12]
+			2855, -- [11]
+			"Player-1084-0A23A6E1", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffe7b09Enthusiastus|r",
-			[51] = 1606104801,
-			[50] = "CHAT_MSG_GUILD",
+			true, -- [17]
+			[52] = "|cff8687edThéwarlock|r",
+			[51] = 1609553319,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [96]
 		{
-			"das postmeister käse makro", -- [1]
-			"Enthusiastus-TarrenMill", -- [2]
+			"WTS |cffa335ee|Hitem:182990::::::::60:105::6:4:7187:6652:1498:6646:1:28:753:::|h[Legionnaire's Bloodstained Sabatons]|h|r Cheaper than AH - 226 ilvl Mythic", -- [1]
+			"Shakelake-TarrenMill", -- [2]
 			"", -- [3]
-			"", -- [4]
-			"", -- [5]
+			"2. Trade - City", -- [4]
+			"Shakelake-TarrenMill", -- [5]
 			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
 			0, -- [10]
-			267, -- [11]
-			"Player-1084-0854DAAD", -- [12]
+			2858, -- [11]
+			"Player-1084-05CFD4BA", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffe7b09Enthusiastus|r",
-			[51] = 1606104809,
-			[50] = "CHAT_MSG_GUILD",
+			true, -- [17]
+			[52] = "|cfffe7b09Shakelake|r",
+			[51] = 1609553326,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [97]
 		{
-			"/run for k, v in pairs({ Galleon = 32098, Sha = 32099, Nalak = 32518, Oondasta = 32519}) do print(format(\"%s: %s\", k, IsQuestFlaggedCompleted(v) and \"\\124cff00ff00Yes\\124r\" or \"\\124cffff0000No\\124r\")) end", -- [1]
-			"Enthusiastus-TarrenMill", -- [2]
+			"WTS  |cffa335ee|Hitem:41508::::::::60:252:::1:6883::::|h[Mechano-Hog]|h|r CHEAPER THAN AH", -- [1]
+			"Opinok-TarrenMill", -- [2]
 			"", -- [3]
-			"", -- [4]
-			"", -- [5]
+			"2. Trade - City", -- [4]
+			"Opinok-TarrenMill", -- [5]
 			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
 			0, -- [10]
-			268, -- [11]
-			"Player-1084-0854DAAD", -- [12]
+			2859, -- [11]
+			"Player-1084-09EB05C8", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffe7b09Enthusiastus|r",
-			[51] = 1606104867,
-			[50] = "CHAT_MSG_GUILD",
+			true, -- [17]
+			[52] = "|cffc31d39Opinok|r",
+			[51] = 1609553327,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [98]
 		{
-			"kann man nicht mehr dash prowl macron?", -- [1]
-			"Talizeadr-TarrenMill", -- [2]
+			"LF Lv 4 |cffffffff|Hitem:172317::::::::60:105:::::::|h[Umbrahide Helm]|h|r /w me", -- [1]
+			"Barbatom-TarrenMill", -- [2]
 			"", -- [3]
-			"", -- [4]
-			"", -- [5]
+			"2. Trade - City", -- [4]
+			"Barbatom-TarrenMill", -- [5]
 			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
 			0, -- [10]
-			270, -- [11]
-			"Player-1084-0853F71A", -- [12]
+			2860, -- [11]
+			"Player-1084-09D58F38", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffe7b09Talizeadr|r",
-			[51] = 1606105005,
-			[50] = "CHAT_MSG_GUILD",
+			true, -- [17]
+			[52] = "|cfffe7b09Barbatom|r",
+			[51] = 1609553329,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [99]
 	},
 }

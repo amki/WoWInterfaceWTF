@@ -1,16 +1,16 @@
 
 PawnOptions = {
-	["LastVersion"] = 2.0406,
+	["LastVersion"] = 2.041,
 	["ItemLevels"] = {
 		{
-			["ID"] = 159430,
-			["Level"] = 60,
-			["Link"] = "|cff0070dd|Hitem:159430::::::::50:65::2:3:4818:1473:4785::::|h[Helm of Abyssal Malevolence]|h|r",
+			["ID"] = 178812,
+			["Level"] = 128,
+			["Link"] = "|cff0070dd|Hitem:178812::::::::56:65::17:4:7217:6771:6652:7193:2:28:747:9:56:::|h[Wing Commander's Helmet]|h|r",
 		}, -- [1]
 		{
-			["ID"] = 158075,
-			["Level"] = 71,
-			["Link"] = "|cffe6cc80|Hitem:158075::::::::50:65::11:4:4932:4933:4936:1485::::|h[Heart of Azeroth]|h|r",
+			["ID"] = 178827,
+			["Level"] = 122,
+			["Link"] = "|cff0070dd|Hitem:178827::::::::55:65::17:4:7217:6771:6652:7194:2:9:55:28:747:::|h[Sin Stained Pendant]|h|r",
 		}, -- [2]
 		{
 			["ID"] = 183589,
@@ -19,14 +19,14 @@ PawnOptions = {
 		}, -- [3]
 		nil, -- [4]
 		{
-			["ID"] = 183593,
-			["Level"] = 100,
-			["Link"] = "|cff0070dd|Hitem:183593::::::::50:66::14::1:28:1401:::|h[Argent Conscript's Breastplate]|h|r",
+			["ID"] = 181653,
+			["Level"] = 102,
+			["Link"] = "|cff0070dd|Hitem:181653::::::::53:65::53:2:7192:6652:2:28:807:9:53:::|h[Steelcore Chestplate]|h|r",
 		}, -- [5]
 		{
-			["ID"] = 183670,
-			["Level"] = 110,
-			["Link"] = "|cffa335ee|Hitem:183670::::::::50:65:::2:1482:4786:1:28:1401:::|h[Skadi's Saronite Belt]|h|r",
+			["ID"] = 178931,
+			["Level"] = 122,
+			["Link"] = "|cff0070dd|Hitem:178931::::::::55:65::17:4:7217:6771:6652:7193:2:28:747:9:55:::|h[Scarred Bloodbound Girdle]|h|r",
 		}, -- [6]
 		{
 			["ID"] = 183666,
@@ -34,9 +34,9 @@ PawnOptions = {
 			["Link"] = "|cffa335ee|Hitem:183666::::::::50:66:::2:1482:4786:1:28:1401:::|h[Legguards of the Frosty Fathoms]|h|r",
 		}, -- [7]
 		{
-			["ID"] = 183654,
-			["Level"] = 110,
-			["Link"] = "|cffa335ee|Hitem:183654::::::::50:66:::2:1482:4786:1:28:1401:::|h[Etched Dragonbone Stompers]|h|r",
+			["ID"] = 178774,
+			["Level"] = 140,
+			["Link"] = "|cff0070dd|Hitem:178774::::::::58:65::17:3:7217:6771:6652:2:28:747:9:58:::|h[Muckwallow Stompers]|h|r",
 		}, -- [8]
 		{
 			["ID"] = 183542,
@@ -44,9 +44,9 @@ PawnOptions = {
 			["Link"] = "|cff0070dd|Hitem:183542::::::::50:66::14::1:28:1401:::|h[Argent Conscript's Wristplates]|h|r",
 		}, -- [9]
 		{
-			["ID"] = 183592,
-			["Level"] = 100,
-			["Link"] = "|cff0070dd|Hitem:183592::::::::50:66::14::1:28:1401:::|h[Argent Conscript's Gauntlets]|h|r",
+			["ID"] = 178775,
+			["Level"] = 110,
+			["Link"] = "|cff0070dd|Hitem:178775::::::::53:65::17:3:7217:6771:6652:2:28:747:9:53:::|h[Fleshfused Crushers]|h|r",
 		}, -- [10]
 		{
 			["ID"] = 183659,
@@ -61,16 +61,16 @@ PawnOptions = {
 			["Link"] = "|cffa335ee|Hitem:183659::::::::50:70:::2:1482:4786:1:28:1401:::|h[Annhylde's Band]|h|r",
 		}, -- [12]
 		{
-			["ID"] = 158368,
-			["Level"] = 60,
+			["ID"] = 178708,
+			["Level"] = 134,
 			["AlsoFitsIn"] = 14,
-			["Link"] = "|cffa335ee|Hitem:158368::::::::50:65::23:3:4779:1473:4786::::|h[Fangs of Intertwined Essence]|h|r",
+			["Link"] = "|cff0070dd|Hitem:178708::::::::57:65::17:4:7217:6771:6652:6917:2:28:747:9:57:::|h[Unbound Changeling]|h|r",
 		}, -- [13]
 		{
-			["ID"] = 159631,
-			["Level"] = 60,
+			["ID"] = 178708,
+			["Level"] = 134,
 			["AlsoFitsIn"] = 13,
-			["Link"] = "|cff0070dd|Hitem:159631::::::::50:65::2:3:4778:1473:4785::::|h[Lady Waycrest's Music Box]|h|r",
+			["Link"] = "|cff0070dd|Hitem:178708::::::::58:65::17:4:7217:6771:6652:6917:2:28:747:9:57:::|h[Unbound Changeling]|h|r",
 		}, -- [14]
 		{
 			["ID"] = 183680,
@@ -78,14 +78,15 @@ PawnOptions = {
 			["Link"] = "|cffa335ee|Hitem:183680::::::::50:66:::2:1482:4786:1:28:1401:::|h[Royal Sanguine Cloak]|h|r",
 		}, -- [15]
 		{
-			["ID"] = 166482,
-			["Level"] = 115,
-			["Link"] = "|cffa335ee|Hitem:166482::::::::50:70::81:3:5844:1527:4786:1:28:1401:::|h[Deathguard's Greatsword]|h|r",
+			["ID"] = 178737,
+			["Level"] = 128,
+			["AlsoFitsIn"] = 17,
+			["Link"] = "|cff0070dd|Hitem:178737::::::::56:65::17:3:7217:6771:6652:2:28:747:9:56:::|h[Amarth's Spellblade]|h|r",
 		}, -- [16]
 		{
-			["ID"] = 163878,
-			["Level"] = 60,
-			["Link"] = "|cffa335ee|Hitem:163878::::::::50:65::3:3:5124:1474:4786::::|h[Honorbound Barrier]|h|r",
+			["ID"] = 178712,
+			["Level"] = 140,
+			["Link"] = "|cff0070dd|Hitem:178712::::::::58:65::17:3:7217:6771:6652:2:28:747:9:58:::|h[Acidslough Bulwark]|h|r",
 		}, -- [17]
 	},
 	["AutoSelectScales"] = true,

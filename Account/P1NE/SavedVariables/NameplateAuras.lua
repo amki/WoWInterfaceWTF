@@ -2305,11 +2305,6 @@ NameplateAurasAceDB = {
 			["DefaultSpellsLastSetImported"] = 2,
 		},
 		["Enthusiastus - Tarren Mill"] = {
-			["HidePlayerBlizzardFrame"] = true,
-			["DBVersion"] = 18,
-			["IconAnchor"] = 3,
-			["DefaultSpellsLastSetImported"] = 2,
-			["InterruptsGlowType"] = 1,
 			["CustomSpells2"] = {
 				{
 					["enabledState"] = 2,
@@ -4597,6 +4592,11 @@ NameplateAurasAceDB = {
 					["spellName"] = "Chaos Nova",
 				}, -- [163]
 			},
+			["DBVersion"] = 18,
+			["IconAnchor"] = 3,
+			["InterruptsGlowType"] = 1,
+			["HidePlayerBlizzardFrame"] = true,
+			["DefaultSpellsLastSetImported"] = 2,
 		},
 		["Ieni - Tarren Mill"] = {
 			["CustomSpells2"] = {
@@ -6888,9 +6888,9 @@ NameplateAurasAceDB = {
 			},
 			["DBVersion"] = 18,
 			["IconAnchor"] = 3,
-			["InterruptsGlowType"] = 1,
-			["HidePlayerBlizzardFrame"] = true,
 			["DefaultSpellsLastSetImported"] = 2,
+			["HidePlayerBlizzardFrame"] = true,
+			["InterruptsGlowType"] = 1,
 		},
 		["Mihri - Tarren Mill"] = {
 			["CustomSpells2"] = {
@@ -11439,6 +11439,11 @@ NameplateAurasAceDB = {
 			["DBVersion"] = 18,
 		},
 		["Intergalacto - Tarren Mill"] = {
+			["HidePlayerBlizzardFrame"] = true,
+			["DBVersion"] = 18,
+			["IconAnchor"] = 3,
+			["DefaultSpellsLastSetImported"] = 2,
+			["InterruptsGlowType"] = 1,
 			["CustomSpells2"] = {
 				{
 					["enabledState"] = 2,
@@ -13726,11 +13731,6 @@ NameplateAurasAceDB = {
 					["spellName"] = "Blazing Barrier",
 				}, -- [163]
 			},
-			["DBVersion"] = 18,
-			["IconAnchor"] = 3,
-			["InterruptsGlowType"] = 1,
-			["HidePlayerBlizzardFrame"] = true,
-			["DefaultSpellsLastSetImported"] = 2,
 		},
 		["Iridia - Tarren Mill"] = {
 			["CustomSpells2"] = {
@@ -15980,9 +15980,9 @@ NameplateAurasAceDB = {
 			},
 			["DBVersion"] = 18,
 			["IconAnchor"] = 3,
-			["DefaultSpellsLastSetImported"] = 2,
-			["HidePlayerBlizzardFrame"] = true,
 			["InterruptsGlowType"] = 1,
+			["HidePlayerBlizzardFrame"] = true,
+			["DefaultSpellsLastSetImported"] = 2,
 		},
 	},
 }

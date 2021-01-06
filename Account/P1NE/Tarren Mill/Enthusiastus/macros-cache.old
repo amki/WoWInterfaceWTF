@@ -32,7 +32,7 @@ VER 3 0100000000000006 " " "INV_MISC_QUESTIONMARK"
 END
 VER 3 0100000000000009 " " "INV_MISC_QUESTIONMARK"
 #showtooltip
-/use [@cursor] Force of Nature
+/use [@mouseover,exists,help,nodead][] Overgrowth
 END
 VER 3 010000000000000A " " "INV_MISC_QUESTIONMARK"
 #showtooltip
@@ -45,4 +45,12 @@ END
 VER 3 010000000000000C " " "INV_MISC_QUESTIONMARK"
 #showtooltip
 /use [@mouseover,exists,help,nodead][] Nourish
+END
+VER 3 010000000000000D " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/use [@cursor] Force of Nature
+END
+VER 3 010000000000000E " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/use [@player] Innervate
 END

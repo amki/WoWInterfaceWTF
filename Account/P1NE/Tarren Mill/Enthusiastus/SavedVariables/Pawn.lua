@@ -1,96 +1,98 @@
 
 PawnOptions = {
-	["LastVersion"] = 2.0406,
-	["LastPlayerFullName"] = "Enthusiastus-Tarren Mill",
-	["AutoSelectScales"] = true,
-	["UpgradeTracking"] = false,
+	["LastVersion"] = 2.041,
 	["ItemLevels"] = {
 		{
-			["ID"] = 183649,
-			["Level"] = 110,
-			["Link"] = "|cffa335ee|Hitem:183649::::::::50:105:::2:1482:4786:1:28:1401:::|h[Bag of Discarded Entrails]|h|r",
+			["ID"] = 178760,
+			["Level"] = 184,
+			["Link"] = "|cffa335ee|Hitem:178760::::::::60:105::23:5:6807:43:7194:1498:6646:1:28:749:::|h[Digested Interrogator's Gaze]|h|r",
 		}, -- [1]
 		{
-			["ID"] = 158075,
-			["Level"] = 134,
-			["Link"] = "|cffe6cc80|Hitem:158075::::::::50:105::11:4:4932:4933:6316:1548::::|h[Heart of Azeroth]|h|r",
+			["ID"] = 184757,
+			["Level"] = 161,
+			["Link"] = "|cff0070dd|Hitem:184757::::::::60:102::11::1:28:1707:::|h[Chain of the Purpose-Bound]|h|r",
 		}, -- [2]
 		{
-			["ID"] = 183578,
-			["Level"] = 100,
-			["Link"] = "|cff0070dd|Hitem:183578::::::::50:102::14::1:28:1401:::|h[Argent Conscript's Pauldrons]|h|r",
+			["ID"] = 178858,
+			["Level"] = 184,
+			["Link"] = "|cffa335ee|Hitem:178858::::::::60:105::23:4:6807:6652:1498:6646:1:28:2044:::|h[Wicked Bladewing Pauldrons]|h|r",
 		}, -- [3]
 		nil, -- [4]
 		{
-			["ID"] = 183683,
-			["Level"] = 110,
-			["Link"] = "|cffa335ee|Hitem:183683::::::::50:102:::2:1482:4786:1:28:1401:::|h[Skittering Vestments]|h|r",
+			["ID"] = 178698,
+			["Level"] = 184,
+			["Link"] = "|cffa335ee|Hitem:178698::::::::60:105::23:4:6807:6652:1498:6646:1:28:749:::|h[Rainshadow Hauberk]|h|r",
 		}, -- [5]
 		{
-			["ID"] = 183668,
-			["Level"] = 110,
-			["Link"] = "|cffa335ee|Hitem:183668::::::::50:105:::2:1482:4786:1:28:1401:::|h[Razor-Barbed Leather Belt]|h|r",
+			["ID"] = 180111,
+			["Level"] = 184,
+			["Link"] = "|cffa335ee|Hitem:180111::::::::60:105::23:5:6807:6652:7194:1498:6646:1:28:749:::|h[Shadowhirl Waistwrap]|h|r",
 		}, -- [6]
 		{
-			["ID"] = 183686,
-			["Level"] = 110,
-			["Link"] = "|cffa335ee|Hitem:183686::::::::50:105:::2:1482:4786:1:28:1401:::|h[Breeches of the Skeletal Serpent]|h|r",
+			["ID"] = 180108,
+			["Level"] = 197,
+			["Link"] = "|cffa335ee|Hitem:180108::::::::60:105::16:5:7205:6652:1501:5855:6646:1:28:1279:::|h[Abyssal Disharmony Breeches]|h|r",
 		}, -- [7]
 		{
-			["ID"] = 183679,
-			["Level"] = 110,
-			["Link"] = "|cffa335ee|Hitem:183679::::::::50:105:::2:1482:4786:1:28:1401:::|h[Taldaram's Supple Slippers]|h|r",
+			["ID"] = 178731,
+			["Level"] = 184,
+			["Link"] = "|cffa335ee|Hitem:178731::::::::60:105::23:4:6807:6652:1498:6646:1:28:749:::|h[Viscera-Stitched Footpads]|h|r",
 		}, -- [8]
 		{
-			["ID"] = 183544,
-			["Level"] = 100,
-			["Link"] = "|cff0070dd|Hitem:183544::::::::50:105::14::1:28:1401:::|h[Argent Conscript's Wriststraps]|h|r",
+			["ID"] = 178934,
+			["Level"] = 184,
+			["Link"] = "|cffa335ee|Hitem:178934::::::::60:105::23:5:6807:6652:7194:1498:6646:1:28:749:::|h[Fastened Venombarb Binds]|h|r",
 		}, -- [9]
 		{
-			["ID"] = 168985,
-			["Level"] = 110,
-			["Link"] = "|cffa335ee|Hitem:168985::::::::50:105::16:5:5008:6516:6515:1504:4786:1:28:464:::|h[Self-Sanitizing Handwraps]|h|r",
+			["ID"] = 184172,
+			["Level"] = 207,
+			["Link"] = "|cffa335ee|Hitem:184172::::::::60:105::81:3:6652:1492:6646:1:28:2060:::|h[Seed-Tender's Handwraps]|h|r",
 		}, -- [10]
 		{
-			["ID"] = 183631,
-			["Level"] = 110,
+			["ID"] = 178848,
+			["Level"] = 184,
 			["AlsoFitsIn"] = 12,
-			["Link"] = "|cffa335ee|Hitem:183631::::::::50:105:::2:1482:4786:1:28:1401:::|h[Ring of Carnelian and Sinew]|h|r",
+			["Link"] = "|cffa335ee|Hitem:178848::::::::60:105::23:5:6807:6652:7194:1498:6646:1:28:749:::|h[Entwined Gorger Tendril]|h|r",
 		}, -- [11]
 		{
-			["ID"] = 183631,
-			["Level"] = 110,
+			["ID"] = 178848,
+			["Level"] = 184,
 			["AlsoFitsIn"] = 11,
-			["Link"] = "|cffa335ee|Hitem:183631::::::::50:102:::2:1482:4786:1:28:1401:::|h[Ring of Carnelian and Sinew]|h|r",
+			["Link"] = "|cffa335ee|Hitem:178848::::::::60:102::23:5:6807:6652:7194:1498:6646:1:28:749:::|h[Entwined Gorger Tendril]|h|r",
 		}, -- [12]
 		{
-			["ID"] = 159620,
-			["Level"] = 115,
+			["ID"] = 179350,
+			["Level"] = 184,
 			["AlsoFitsIn"] = 14,
-			["Link"] = "|cffa335ee|Hitem:159620::::::::50:105::16:4:6528:6513:1528:4786:1:28:1257:::|h[Conch of Dark Whispers]|h|r",
+			["Link"] = "|cffa335ee|Hitem:179350::::::::60:105::23:4:6807:6652:1498:6646:1:28:749:::|h[Inscrutable Quantum Device]|h|r",
 		}, -- [13]
 		{
-			["ID"] = 159620,
-			["Level"] = 115,
+			["ID"] = 179350,
+			["Level"] = 184,
 			["AlsoFitsIn"] = 13,
-			["Link"] = "|cffa335ee|Hitem:159620::::::::50:102::16:4:6528:6513:1528:4786:1:28:1257:::|h[Conch of Dark Whispers]|h|r",
+			["Link"] = "|cffa335ee|Hitem:179350::::::::60:102::23:4:6807:6652:1498:6646:1:28:749:::|h[Inscrutable Quantum Device]|h|r",
 		}, -- [14]
 		{
-			["ID"] = 169223,
-			["Level"] = 125,
-			["Link"] = "|cffff8000|Hitem:169223::::::::50:102::11:1:6272:1:28:703:::|h[Ashjra'kamas, Shroud of Resolve]|h|r",
+			["ID"] = 178755,
+			["Level"] = 184,
+			["Link"] = "|cffa335ee|Hitem:178755::::::::60:105::23:4:6807:42:1498:6646:1:28:749:::|h[Blighted Margrave's Cloak]|h|r",
 		}, -- [15]
 		{
-			["ID"] = 165614,
-			["Level"] = 115,
-			["Link"] = "|cffa335ee|Hitem:165614::::::::50:102::81:3:5844:1527:4786:1:28:1401:::|h[Apothecary Spellstaff]|h|r",
+			["ID"] = 178753,
+			["Level"] = 184,
+			["AlsoFitsIn"] = 17,
+			["Link"] = "|cffa335ee|Hitem:178753::::::::60:105::23:4:6807:6652:1498:6646:1:28:749:::|h[Surgical Pustule Extractor]|h|r",
 		}, -- [16]
 		{
-			["ID"] = 168477,
-			["Level"] = 85,
-			["Link"] = "|cffa335ee|Hitem:168477::::::::50:105::5:3:4799:1485:4786::::|h[Tidebinder's Driftglobe]|h|r",
+			["ID"] = 178868,
+			["Level"] = 184,
+			["Link"] = "|cffa335ee|Hitem:178868::::::::60:105::23:4:6807:6652:1498:6646:1:28:749:::|h[Deathwalker's Promise]|h|r",
 		}, -- [17]
 	},
+	["AutoSelectScales"] = false,
+	["UpgradeTracking"] = false,
+	["LastPlayerFullName"] = "Enthusiastus-Tarren Mill",
+	["LastKeybindingsSet"] = 1,
 	["Artifacts"] = {
 		[128821] = {
 			["Relics"] = {
@@ -108,7 +110,6 @@ PawnOptions = {
 			["Name"] = "Claws of Ursoc",
 		},
 	},
-	["LastKeybindingsSet"] = 1,
 }
 PawnMrRobotScaleProviderOptions = {
 	["LastClass"] = "DRUID",

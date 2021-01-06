@@ -46,3 +46,15 @@ VER 3 010000000000000C " " "INV_MISC_QUESTIONMARK"
 #showtooltip
 /use [@mouseover,exists,help,nodead][] Nourish
 END
+VER 3 010000000000000D " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/use [@cursor] Force of Nature
+END
+VER 3 010000000000000E " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/use [@player] Innervate
+END
+VER 3 010000000000000F " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/use [ingroup,noflyable,outdoors,nocombat,noswimming] Mount Form; Travel Form
+END

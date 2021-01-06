@@ -670,67 +670,68 @@ Bartender4DB = {
 				["Mamiko - Azshara"] = {
 					["actionbars"] = {
 						{
-							["version"] = 3,
-							["padding"] = 0,
 							["alpha"] = 0.55,
+							["version"] = 3,
 							["position"] = {
 								["y"] = 154.755569458008,
 								["x"] = -221,
 								["point"] = "BOTTOM",
 							},
+							["padding"] = 0,
 						}, -- [1]
 						{
-							["version"] = 3,
-							["padding"] = 0,
 							["alpha"] = 0.55,
+							["version"] = 3,
 							["position"] = {
 								["y"] = 116.87036895752,
 								["x"] = -221,
 								["point"] = "BOTTOM",
 							},
+							["padding"] = 0,
 						}, -- [2]
 						{
-							["version"] = 3,
-							["padding"] = 0,
 							["alpha"] = 0.55,
+							["version"] = 3,
 							["position"] = {
 								["y"] = 78.9738693237305,
 								["x"] = -220.999969482422,
 								["point"] = "BOTTOM",
 							},
+							["padding"] = 0,
 						}, -- [3]
 						{
-							["version"] = 3,
-							["padding"] = 0,
 							["alpha"] = 0.55,
+							["version"] = 3,
 							["position"] = {
 								["y"] = 41,
 								["x"] = -221,
 								["point"] = "BOTTOM",
 							},
+							["padding"] = 0,
 						}, -- [4]
 						{
-							["version"] = 3,
-							["padding"] = 0,
 							["alpha"] = 0.55,
+							["version"] = 3,
 							["position"] = {
 								["y"] = -94.1798400878906,
 								["x"] = 39.3989639282227,
 								["point"] = "LEFT",
 							},
+							["padding"] = 0,
 						}, -- [5]
 						{
-							["version"] = 3,
-							["padding"] = 0,
 							["alpha"] = 0.55,
+							["version"] = 3,
 							["position"] = {
 								["y"] = -154.7052307128906,
 								["x"] = 455.1069946289063,
 								["point"] = "CENTER",
 							},
+							["padding"] = 0,
 						}, -- [6]
 						{
 							["enabled"] = true,
+							["alpha"] = 0.55,
 							["version"] = 3,
 							["position"] = {
 								["y"] = -132.179840087891,
@@ -738,15 +739,15 @@ Bartender4DB = {
 								["point"] = "LEFT",
 							},
 							["padding"] = 0,
-							["alpha"] = 0.55,
 						}, -- [7]
 						{
-							["enabled"] = true,
 							["rows"] = 3,
+							["enabled"] = true,
+							["alpha"] = 0.55,
 							["version"] = 3,
 							["position"] = {
-								["y"] = -201.8190002441406,
-								["x"] = 232.4491577148438,
+								["y"] = -254.5772857666016,
+								["x"] = 238.2168579101563,
 								["point"] = "CENTER",
 							},
 						}, -- [8]
@@ -818,67 +819,66 @@ Bartender4DB = {
 					["actionbars"] = {
 						{
 							["alpha"] = 0.55,
+							["padding"] = 0,
 							["version"] = 3,
 							["position"] = {
 								["y"] = 154.755569458008,
 								["x"] = -221,
 								["point"] = "BOTTOM",
 							},
-							["padding"] = 0,
 						}, -- [1]
 						{
 							["alpha"] = 0.55,
+							["padding"] = 0,
 							["version"] = 3,
 							["position"] = {
 								["y"] = 116.87036895752,
 								["x"] = -221,
 								["point"] = "BOTTOM",
 							},
-							["padding"] = 0,
 						}, -- [2]
 						{
 							["alpha"] = 0.55,
+							["padding"] = 0,
 							["version"] = 3,
 							["position"] = {
 								["y"] = 78.9738693237305,
 								["x"] = -220.999969482422,
 								["point"] = "BOTTOM",
 							},
-							["padding"] = 0,
 						}, -- [3]
 						{
 							["alpha"] = 0.55,
+							["padding"] = 0,
 							["version"] = 3,
 							["position"] = {
 								["y"] = 41,
 								["x"] = -221,
 								["point"] = "BOTTOM",
 							},
-							["padding"] = 0,
 						}, -- [4]
 						{
 							["alpha"] = 0.55,
+							["padding"] = 0,
 							["version"] = 3,
 							["position"] = {
 								["y"] = -94.1798400878906,
 								["x"] = 39.3989639282227,
 								["point"] = "LEFT",
 							},
-							["padding"] = 0,
 						}, -- [5]
 						{
 							["alpha"] = 0.55,
+							["padding"] = 0,
 							["version"] = 3,
 							["position"] = {
 								["y"] = -240.706298828125,
 								["x"] = -457.5467529296875,
 								["point"] = "RIGHT",
 							},
-							["padding"] = 0,
 						}, -- [6]
 						{
 							["enabled"] = true,
-							["alpha"] = 0.55,
 							["version"] = 3,
 							["position"] = {
 								["y"] = -132.179840087891,
@@ -886,10 +886,11 @@ Bartender4DB = {
 								["point"] = "LEFT",
 							},
 							["padding"] = 0,
+							["alpha"] = 0.55,
 						}, -- [7]
 						{
-							["rows"] = 3,
 							["enabled"] = true,
+							["rows"] = 3,
 							["version"] = 3,
 							["position"] = {
 								["y"] = -201.8190002441406,
@@ -1121,12 +1122,12 @@ Bartender4DB = {
 					},
 				},
 				["Mamiko - Azshara"] = {
-					["version"] = 3,
 					["position"] = {
 						["y"] = 244.906692504883,
 						["x"] = -31.4999389648438,
 						["point"] = "BOTTOM",
 					},
+					["version"] = 3,
 				},
 				["Mihri - Tarren Mill"] = {
 					["version"] = 3,
@@ -1137,12 +1138,12 @@ Bartender4DB = {
 					},
 				},
 				["Default"] = {
+					["version"] = 3,
 					["position"] = {
 						["y"] = 244.906692504883,
 						["x"] = -31.4999389648438,
 						["point"] = "BOTTOM",
 					},
-					["version"] = 3,
 				},
 				["Enthusiastus - Azshara"] = {
 					["version"] = 3,
@@ -1255,14 +1256,14 @@ Bartender4DB = {
 					},
 				},
 				["Mamiko - Azshara"] = {
-					["padding"] = -2,
-					["version"] = 3,
 					["position"] = {
-						["y"] = 41,
-						["x"] = 250,
+						["y"] = 40,
+						["x"] = 202.9866333007813,
 						["point"] = "BOTTOM",
 						["scale"] = 1,
 					},
+					["version"] = 3,
+					["padding"] = -2,
 				},
 				["Mihri - Tarren Mill"] = {
 					["version"] = 3,
@@ -1274,14 +1275,14 @@ Bartender4DB = {
 					},
 				},
 				["Default"] = {
+					["padding"] = -2,
+					["version"] = 3,
 					["position"] = {
 						["y"] = 41,
 						["x"] = 250,
 						["point"] = "BOTTOM",
 						["scale"] = 1,
 					},
-					["version"] = 3,
-					["padding"] = -2,
 				},
 				["Enthusiastus - Azshara"] = {
 					["padding"] = -2,
@@ -1473,12 +1474,12 @@ Bartender4DB = {
 					},
 				},
 				["Mamiko - Azshara"] = {
-					["version"] = 3,
 					["position"] = {
 						["y"] = 183.918212890625,
 						["x"] = 447.999938964844,
 						["point"] = "BOTTOMLEFT",
 					},
+					["version"] = 3,
 				},
 				["Thankubliz - Tarren Mill"] = {
 					["enabled"] = true,
@@ -1490,12 +1491,12 @@ Bartender4DB = {
 					},
 				},
 				["Default"] = {
+					["version"] = 3,
 					["position"] = {
 						["y"] = 183.918212890625,
 						["x"] = 447.999938964844,
 						["point"] = "BOTTOMLEFT",
 					},
-					["version"] = 3,
 				},
 				["Enthusiastus - Azshara"] = {
 					["version"] = 3,
@@ -1591,13 +1592,13 @@ Bartender4DB = {
 					},
 				},
 				["Mamiko - Azshara"] = {
-					["version"] = 3,
 					["position"] = {
 						["y"] = 205.255554199219,
 						["x"] = -222.983276367188,
 						["point"] = "BOTTOM",
 						["scale"] = 1,
 					},
+					["version"] = 3,
 				},
 				["Mihri - Tarren Mill"] = {
 					["version"] = 3,
@@ -1608,13 +1609,13 @@ Bartender4DB = {
 					},
 				},
 				["Default"] = {
+					["version"] = 3,
 					["position"] = {
 						["y"] = 205.255554199219,
 						["x"] = -222.983276367188,
 						["point"] = "BOTTOM",
 						["scale"] = 1,
 					},
-					["version"] = 3,
 				},
 				["Enthusiastus - Azshara"] = {
 					["version"] = 3,
@@ -1711,8 +1712,8 @@ Bartender4DB = {
 				["Mamiko - Azshara"] = {
 					["version"] = 3,
 					["position"] = {
-						["y"] = 75,
-						["x"] = 380,
+						["y"] = 74.00000762939453,
+						["x"] = 326.4868774414063,
 						["point"] = "BOTTOM",
 					},
 				},
@@ -1825,12 +1826,12 @@ Bartender4DB = {
 					},
 				},
 				["Mamiko - Azshara"] = {
-					["version"] = 3,
 					["position"] = {
 						["y"] = 47.5000305175781,
 						["x"] = 99.5,
 						["point"] = "CENTER",
 					},
+					["version"] = 3,
 				},
 				["Mihri - Tarren Mill"] = {
 					["version"] = 3,
@@ -1841,12 +1842,12 @@ Bartender4DB = {
 					},
 				},
 				["Default"] = {
+					["version"] = 3,
 					["position"] = {
 						["y"] = 47.5000305175781,
 						["x"] = 99.5,
 						["point"] = "CENTER",
 					},
-					["version"] = 3,
 				},
 				["Enthusiastus - Azshara"] = {
 					["version"] = 3,
@@ -2049,8 +2050,9 @@ Bartender4DB = {
 			["outofrange"] = "hotkey",
 		},
 		["Mamiko - Azshara"] = {
-			["focuscastmodifier"] = false,
 			["blizzardVehicle"] = true,
+			["focuscastmodifier"] = false,
+			["onkeydown"] = true,
 			["minimapIcon"] = {
 				["minimapPos"] = 170.7566528436026,
 			},
@@ -2059,8 +2061,8 @@ Bartender4DB = {
 		["Mihri - Tarren Mill"] = {
 		},
 		["Default"] = {
-			["blizzardVehicle"] = true,
 			["focuscastmodifier"] = false,
+			["blizzardVehicle"] = true,
 			["minimapIcon"] = {
 				["minimapPos"] = 170.7566528436026,
 			},

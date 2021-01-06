@@ -1,8 +1,6 @@
 
 PawnOptions = {
 	["LastVersion"] = 2.0406,
-	["LastPlayerFullName"] = "Rynllor-Tarren Mill",
-	["AutoSelectScales"] = true,
 	["ItemLevels"] = {
 		{
 			["ID"] = 122249,
@@ -85,7 +83,8 @@ PawnOptions = {
 			["Link"] = "|cff0070dd|Hitem:159636::::::::50:270::19:3:4776:41:6515:1:9:49:::|h[Staff of the Lightning Serpent]|h|r",
 		}, -- [16]
 	},
-	["LastKeybindingsSet"] = 1,
+	["AutoSelectScales"] = true,
+	["LastPlayerFullName"] = "Rynllor-Tarren Mill",
 	["Artifacts"] = {
 		[128937] = {
 			["Relics"] = {
@@ -100,6 +99,7 @@ PawnOptions = {
 			["Name"] = "Sheilun, Staff of the Mists",
 		},
 	},
+	["LastKeybindingsSet"] = 1,
 }
 PawnMrRobotScaleProviderOptions = {
 	["LastClass"] = "MONK",

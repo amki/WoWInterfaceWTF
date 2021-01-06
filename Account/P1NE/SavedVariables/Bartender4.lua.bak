@@ -743,10 +743,11 @@ Bartender4DB = {
 						{
 							["rows"] = 3,
 							["enabled"] = true,
+							["alpha"] = 0.55,
 							["version"] = 3,
 							["position"] = {
-								["y"] = -201.8190002441406,
-								["x"] = 232.4491577148438,
+								["y"] = -254.5772857666016,
+								["x"] = 238.2168579101563,
 								["point"] = "CENTER",
 							},
 						}, -- [8]
@@ -1348,8 +1349,8 @@ Bartender4DB = {
 				},
 				["Mamiko - Azshara"] = {
 					["position"] = {
-						["y"] = 41,
-						["x"] = 250,
+						["y"] = 40,
+						["x"] = 202.9866333007813,
 						["point"] = "BOTTOM",
 						["scale"] = 1,
 					},
@@ -1709,8 +1710,8 @@ Bartender4DB = {
 				["Mamiko - Azshara"] = {
 					["version"] = 3,
 					["position"] = {
-						["y"] = 75,
-						["x"] = 380,
+						["y"] = 74.00000762939453,
+						["x"] = 326.4868774414063,
 						["point"] = "BOTTOM",
 					},
 				},
@@ -2051,6 +2052,7 @@ Bartender4DB = {
 		["Mamiko - Azshara"] = {
 			["blizzardVehicle"] = true,
 			["focuscastmodifier"] = false,
+			["onkeydown"] = true,
 			["minimapIcon"] = {
 				["minimapPos"] = 170.7566528436026,
 			},

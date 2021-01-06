@@ -42,9 +42,33 @@ END
 VER 3 000000000000004D " " "INV_MISC_QUESTIONMARK"
 /run local t = time() +15 while time() < t do end
 END
+VER 3 000000000000004F " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/use [@mouseover] 13
+END
+VER 3 0000000000000050 " " "INV_MISC_QUESTIONMARK"
+END
+VER 3 0000000000000051 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/use [@mouseover,help,nodead][help,nodead][@player] Power Infusion
+END
+VER 3 0000000000000052 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/use [@cursor] Door of Shadows
+END
+VER 3 0000000000000053 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/use [@mouseover,exists][] Primordial Wave
+END
+VER 3 0000000000000054 " " "INV_MISC_QUESTIONMARK"
+/run LoadAddOn("Blizzard_WeeklyRewards"); WeeklyRewardsFrame:Show()
+END
+VER 3 0000000000000055 " " "INV_MISC_QUESTIONMARK"
+/run LoadAddOn("Blizzard_WeeklyRewards"); WeeklyRewardsFrame:Show()
+END
 VER 3 000000000000004E "AAP_MACRO" "INV_MISC_QUESTIONMARK"
 #showtooltip
-/use Penny's Flare Gun
+/use Shattered Helm of Domination
 END
 VER 3 0000000000000043 "EAB" "INV_MISC_QUESTIONMARK"
 #showtooltip

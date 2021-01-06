@@ -22,3 +22,36 @@ VER 3 0100000000000002 " " "INV_MISC_QUESTIONMARK"
 #showtooltip
 /use [@mouseover,exists,help,nodead][] Healing Surge
 END
+VER 3 0100000000000007 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/use [@cursor] Capacitor Totem
+END
+VER 3 0100000000000008 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/use [@cursor] Earthbind Totem
+END
+VER 3 0100000000000009 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/use [@cursor] Healing Rain
+END
+VER 3 010000000000000A " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [talent:4/2,@cursor] Earthen Wall Totem
+/cast [talent:4/3,@cursor] Ancestral Protection Totem
+END
+VER 3 010000000000000B " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/use [@cursor] Earthquake
+END
+VER 3 010000000000000C " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/use [@cursor] Spirit Link Totem
+END
+VER 3 010000000000000D " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/use [@mouseover,exists,harm][] Wind Shear
+END
+VER 3 010000000000000E " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/use [@mouseover,exists,help,nodead][] Unleash Life
+END

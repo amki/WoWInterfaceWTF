@@ -51,3 +51,7 @@ RaiderIO_DB_KR_A: disabled
 TradeSkillMaster: enabled
 BigWigs_Nyalotha: enabled
 Overachiever: enabled
+AAP-Core: disabled
+AAP-EasternKingdoms: enabled
+AAP-Shadowlands: enabled
+OPie_Classic: disabled

@@ -38,16 +38,16 @@ MasterPlanAG = {
 			["curOil"] = 100,
 		},
 		["Mihri"] = {
-			["curOil"] = 25,
 			["faction"] = "Horde",
 			["class"] = "PRIEST",
-			["curRes"] = 71,
 			["lastCacheTime"] = 1516334237,
+			["curRes"] = 71,
+			["curOil"] = 25,
 		},
 		["Enthusiastus"] = {
-			["lastCacheTime"] = 1516493184,
+			["lastCacheTime"] = 1606953806,
 			["class"] = "DRUID",
-			["curRes"] = 409,
+			["curRes"] = 909,
 			["faction"] = "Horde",
 		},
 		["Iridia"] = {
@@ -73,7 +73,5 @@ MasterPlanAG = {
 			["class"] = "SHAMAN",
 			["faction"] = "Horde",
 		},
-	},
-	["IgnoreRewards"] = {
 	},
 }

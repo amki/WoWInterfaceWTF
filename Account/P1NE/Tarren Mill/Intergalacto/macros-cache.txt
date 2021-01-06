@@ -39,3 +39,23 @@ VER 3 010000000000000A " " "INV_MISC_QUESTIONMARK"
 /cast [talent:4/2,@cursor] Earthen Wall Totem
 /cast [talent:4/3,@cursor] Ancestral Protection Totem
 END
+VER 3 010000000000000B " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/use [@cursor] Earthquake
+END
+VER 3 010000000000000C " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/use [@cursor] Spirit Link Totem
+END
+VER 3 010000000000000D " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/use [@mouseover,exists,harm][] Wind Shear
+END
+VER 3 010000000000000E " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/use [@mouseover,exists,help,nodead][] Unleash Life
+END
+VER 3 010000000000000F " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/use [@cursor] Earthgrab Totem
+END

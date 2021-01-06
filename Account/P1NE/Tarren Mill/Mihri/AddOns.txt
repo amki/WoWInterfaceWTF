@@ -52,3 +52,6 @@ RaiderIO_DB_KR_H_R: disabled
 RaiderIO_DB_KR_A_R: disabled
 ElvUI_OptionsUI: enabled
 ConfirmSP: enabled
+AAP-Core: disabled
+InspectItemLevel: enabled
+OPie_Classic: disabled

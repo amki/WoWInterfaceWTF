@@ -1773,7 +1773,66 @@ DCS_ClassSpecDB = {
 		}, -- [46]
 		{
 			["statKey"] = "SPEED",
+			["hideAt"] = 0,
+			["hidden"] = true,
 		}, -- [47]
+		{
+			["statKey"] = "STAGGER",
+			["hideAt"] = 0,
+			["roles"] = {
+				"TANK", -- [1]
+			},
+		}, -- [48]
+		{
+			["statKey"] = "RATING_2V2",
+			["hideAt"] = 0,
+		}, -- [49]
+		{
+			["statKey"] = "HONOR_PROGRESS",
+			["hideAt"] = 0,
+		}, -- [50]
+		{
+			["statKey"] = "CONQUEST_PROGRESS",
+			["hideAt"] = 0,
+		}, -- [51]
+		{
+			["statKey"] = "RATING_RBG",
+			["hideAt"] = 0,
+		}, -- [52]
+		{
+			["statKey"] = "RATING_3V3",
+			["hideAt"] = 0,
+		}, -- [53]
+		{
+			["statKey"] = "CR_CORRUPTION_RESISTANCE",
+			["hideAt"] = 0,
+		}, -- [54]
+		{
+			["statKey"] = "CR_CORRUPTION",
+			["hideAt"] = 0,
+		}, -- [55]
+		{
+			["statKey"] = "CorruptionCategory",
+		}, -- [56]
+		{
+			["statKey"] = "CR_TOTAL_CORRUPTION",
+			["hideAt"] = 0,
+		}, -- [57]
+		{
+			["statKey"] = "HONOR_LEVEL",
+			["hideAt"] = 0,
+		}, -- [58]
+		{
+			["statKey"] = "HonorCategory",
+		}, -- [59]
+		{
+			["statKey"] = "ConquestCategory",
+		}, -- [60]
+		{
+			["statKey"] = "SPEED_RATING",
+			["hideAt"] = 0,
+			["hidden"] = true,
+		}, -- [61]
 		["uniqueKey"] = "Intergalacto:Tarren Mill:1",
 	},
 	["Enthusiastus:Tarren Mill:4"] = {

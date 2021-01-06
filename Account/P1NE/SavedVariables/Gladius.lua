@@ -34,21 +34,21 @@ Gladius2DB = {
 		["Enthusiastus - Tarren Mill"] = {
 			["auraVersion"] = 1,
 			["tagsVersion"] = 4,
-			["y"] = {
-				["arena1"] = 659.1999291565662,
-			},
 			["x"] = {
 				["arena1"] = 977.7782354818555,
+			},
+			["y"] = {
+				["arena1"] = 659.1999291565662,
 			},
 		},
 		["Ieni - Tarren Mill"] = {
 			["auraVersion"] = 1,
 			["tagsVersion"] = 4,
-			["x"] = {
-				["arena1"] = 1004.80037155285,
-			},
 			["y"] = {
 				["arena1"] = 663.466595926548,
+			},
+			["x"] = {
+				["arena1"] = 1004.80037155285,
 			},
 		},
 		["Mihri - Tarren Mill"] = {
@@ -74,21 +74,21 @@ Gladius2DB = {
 		["Intergalacto - Tarren Mill"] = {
 			["auraVersion"] = 1,
 			["tagsVersion"] = 4,
-			["x"] = {
-				["arena1"] = 945.9554770545365,
-			},
 			["y"] = {
 				["arena1"] = 595.6222737921598,
+			},
+			["x"] = {
+				["arena1"] = 945.9554770545365,
 			},
 		},
 		["Iridia - Tarren Mill"] = {
 			["auraVersion"] = 1,
 			["tagsVersion"] = 4,
-			["y"] = {
-				["arena1"] = 443.4445664227933,
-			},
 			["x"] = {
 				["arena1"] = 1128.711101383633,
+			},
+			["y"] = {
+				["arena1"] = 443.4445664227933,
 			},
 		},
 	},

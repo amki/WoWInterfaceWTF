@@ -4594,9 +4594,9 @@ NameplateAurasAceDB = {
 			},
 			["DBVersion"] = 18,
 			["IconAnchor"] = 3,
-			["InterruptsGlowType"] = 1,
-			["HidePlayerBlizzardFrame"] = true,
 			["DefaultSpellsLastSetImported"] = 2,
+			["HidePlayerBlizzardFrame"] = true,
+			["InterruptsGlowType"] = 1,
 		},
 		["Ieni - Tarren Mill"] = {
 			["CustomSpells2"] = {
@@ -6888,16 +6888,11 @@ NameplateAurasAceDB = {
 			},
 			["DBVersion"] = 18,
 			["IconAnchor"] = 3,
-			["DefaultSpellsLastSetImported"] = 2,
-			["HidePlayerBlizzardFrame"] = true,
 			["InterruptsGlowType"] = 1,
+			["HidePlayerBlizzardFrame"] = true,
+			["DefaultSpellsLastSetImported"] = 2,
 		},
 		["Mihri - Tarren Mill"] = {
-			["HidePlayerBlizzardFrame"] = true,
-			["DBVersion"] = 18,
-			["IconAnchor"] = 3,
-			["DefaultSpellsLastSetImported"] = 2,
-			["InterruptsGlowType"] = 1,
 			["CustomSpells2"] = {
 				{
 					["enabledState"] = 2,
@@ -9185,6 +9180,11 @@ NameplateAurasAceDB = {
 					["spellName"] = "Intimidating Roar",
 				}, -- [163]
 			},
+			["DBVersion"] = 18,
+			["IconAnchor"] = 3,
+			["DefaultSpellsLastSetImported"] = 2,
+			["HidePlayerBlizzardFrame"] = true,
+			["InterruptsGlowType"] = 1,
 		},
 		["Iridia - Tarren Mill"] = {
 			["CustomSpells2"] = {
@@ -11434,11 +11434,16 @@ NameplateAurasAceDB = {
 			},
 			["DBVersion"] = 18,
 			["IconAnchor"] = 3,
-			["InterruptsGlowType"] = 1,
-			["HidePlayerBlizzardFrame"] = true,
 			["DefaultSpellsLastSetImported"] = 2,
+			["HidePlayerBlizzardFrame"] = true,
+			["InterruptsGlowType"] = 1,
 		},
 		["Intergalacto - Tarren Mill"] = {
+			["HidePlayerBlizzardFrame"] = true,
+			["DBVersion"] = 18,
+			["IconAnchor"] = 3,
+			["DefaultSpellsLastSetImported"] = 2,
+			["InterruptsGlowType"] = 1,
 			["CustomSpells2"] = {
 				{
 					["enabledState"] = 2,
@@ -13726,11 +13731,6 @@ NameplateAurasAceDB = {
 					["spellName"] = "Blazing Barrier",
 				}, -- [163]
 			},
-			["DBVersion"] = 18,
-			["IconAnchor"] = 3,
-			["DefaultSpellsLastSetImported"] = 2,
-			["HidePlayerBlizzardFrame"] = true,
-			["InterruptsGlowType"] = 1,
 		},
 		["Thankubliz - Tarren Mill"] = {
 			["CustomSpells2"] = {
