@@ -1,34 +1,67 @@
 
 Gladius2DB = {
 	["profileKeys"] = {
+		["Intergalacto - Tarren Mill"] = "Intergalacto - Tarren Mill",
+		["Iridia - Tarren Mill"] = "Iridia - Tarren Mill",
+		["Ieni - Tarren Mill"] = "Ieni - Tarren Mill",
 		["Intergalacto - Onyxia"] = "Intergalacto - Onyxia",
 		["Rynllor - Tarren Mill"] = "Rynllor - Tarren Mill",
 		["Enthusiastus - Tarren Mill"] = "Enthusiastus - Tarren Mill",
-		["Ieni - Tarren Mill"] = "Ieni - Tarren Mill",
+		["Cirina - Tarren Mill"] = "Cirina - Tarren Mill",
 		["Mihri - Tarren Mill"] = "Mihri - Tarren Mill",
-		["Iridia - Tarren Mill"] = "Iridia - Tarren Mill",
-		["Intergalacto - Tarren Mill"] = "Intergalacto - Tarren Mill",
+		["Cymet - Silvermoon"] = "Cymet - Silvermoon",
 		["Thankubliz - Tarren Mill"] = "Thankubliz - Tarren Mill",
+		["Testolel - Silvermoon"] = "Testolel - Silvermoon",
 	},
 	["profiles"] = {
-		["Intergalacto - Onyxia"] = {
+		["Intergalacto - Tarren Mill"] = {
+			["auraVersion"] = 1,
+			["tagsVersion"] = 4,
+			["y"] = {
+				["arena1"] = 595.6222737921598,
+			},
+			["x"] = {
+				["arena1"] = 945.9554770545365,
+			},
+		},
+		["Iridia - Tarren Mill"] = {
 			["auraVersion"] = 1,
 			["tagsVersion"] = 4,
 			["x"] = {
-				["arena1"] = 1060.26695275705,
+				["arena1"] = 1128.711101383633,
 			},
 			["y"] = {
+				["arena1"] = 443.4445664227933,
+			},
+		},
+		["Ieni - Tarren Mill"] = {
+			["auraVersion"] = 1,
+			["tagsVersion"] = 4,
+			["y"] = {
+				["arena1"] = 663.466595926548,
+			},
+			["x"] = {
+				["arena1"] = 1004.80037155285,
+			},
+		},
+		["Intergalacto - Onyxia"] = {
+			["auraVersion"] = 1,
+			["tagsVersion"] = 4,
+			["y"] = {
 				["arena1"] = 671.288731532623,
+			},
+			["x"] = {
+				["arena1"] = 1060.26695275705,
 			},
 		},
 		["Rynllor - Tarren Mill"] = {
 			["auraVersion"] = 1,
 			["tagsVersion"] = 4,
-			["y"] = {
-				["arena1"] = 462.2224070257653,
-			},
 			["x"] = {
 				["arena1"] = 1103.644818390749,
+			},
+			["y"] = {
+				["arena1"] = 462.2224070257653,
 			},
 		},
 		["Enthusiastus - Tarren Mill"] = {
@@ -41,14 +74,14 @@ Gladius2DB = {
 				["arena1"] = 977.7782354818555,
 			},
 		},
-		["Ieni - Tarren Mill"] = {
+		["Cirina - Tarren Mill"] = {
 			["auraVersion"] = 1,
 			["tagsVersion"] = 4,
 			["x"] = {
-				["arena1"] = 1004.80037155285,
+				["arena1"] = 1169.244279404295,
 			},
 			["y"] = {
-				["arena1"] = 663.466595926548,
+				["arena1"] = 539.444412200035,
 			},
 		},
 		["Mihri - Tarren Mill"] = {
@@ -61,35 +94,29 @@ Gladius2DB = {
 				["arena1"] = 958.578148211382,
 			},
 		},
-		["Iridia - Tarren Mill"] = {
+		["Cymet - Silvermoon"] = {
 			["auraVersion"] = 1,
 			["tagsVersion"] = 4,
-			["y"] = {
-				["arena1"] = 443.4445664227933,
-			},
 			["x"] = {
-				["arena1"] = 1128.711101383633,
+				["arena1"] = 1160.710978768366,
 			},
-		},
-		["Intergalacto - Tarren Mill"] = {
-			["auraVersion"] = 1,
-			["tagsVersion"] = 4,
 			["y"] = {
-				["arena1"] = 595.6222737921598,
-			},
-			["x"] = {
-				["arena1"] = 945.9554770545365,
+				["arena1"] = 506.7333837043661,
 			},
 		},
 		["Thankubliz - Tarren Mill"] = {
 			["auraVersion"] = 1,
 			["tagsVersion"] = 4,
-			["x"] = {
-				["arena1"] = 1062.577765107533,
-			},
 			["y"] = {
 				["arena1"] = 521.6667025418501,
 			},
+			["x"] = {
+				["arena1"] = 1062.577765107533,
+			},
+		},
+		["Testolel - Silvermoon"] = {
+			["auraVersion"] = 1,
+			["tagsVersion"] = 4,
 		},
 	},
 }

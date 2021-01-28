@@ -4,8 +4,8 @@ XToLevelDB = {
 		["Thankubliz - Tarren Mill"] = {
 			["data"] = {
 				["total"] = {
-					["dungeonKills"] = 18,
 					["quests"] = 32,
+					["dungeonKills"] = 18,
 					["mobKills"] = 86,
 				},
 				["killAverage"] = 65,
@@ -17,13 +17,13 @@ XToLevelDB = {
 				},
 				["dungeonList"] = {
 					{
-						["killCount"] = 18,
 						["name"] = "Darkmaul Citadel",
-						["inProgress"] = false,
+						["totalXP"] = 1113,
+						["rested"] = 0,
 						["killTotal"] = 1113,
 						["level"] = 9,
-						["rested"] = 0,
-						["totalXP"] = 1113,
+						["inProgress"] = false,
+						["killCount"] = 18,
 					}, -- [1]
 				},
 				["questAverage"] = 1400,
@@ -35,8 +35,8 @@ XToLevelDB = {
 		["Iridia - Tarren Mill"] = {
 			["data"] = {
 				["total"] = {
-					["quests"] = 154,
 					["dungeonKills"] = 2420,
+					["quests"] = 154,
 					["mobKills"] = 2892,
 				},
 				["killAverage"] = 260,
@@ -48,193 +48,193 @@ XToLevelDB = {
 				},
 				["dungeonList"] = {
 					{
-						["totalXP"] = 12313,
+						["killCount"] = 24,
 						["name"] = "Skyreach",
-						["rested"] = 0,
+						["inProgress"] = false,
 						["killTotal"] = 12313,
 						["level"] = 48,
-						["killCount"] = 24,
-						["inProgress"] = false,
+						["rested"] = 0,
+						["totalXP"] = 12313,
 					}, -- [1]
 					{
-						["totalXP"] = 2954,
+						["killCount"] = 7,
 						["name"] = "Skyreach",
-						["rested"] = 0,
+						["inProgress"] = false,
 						["killTotal"] = 2954,
 						["level"] = 48,
-						["killCount"] = 7,
-						["inProgress"] = false,
+						["rested"] = 0,
+						["totalXP"] = 2954,
 					}, -- [2]
 					{
-						["totalXP"] = 3650,
+						["killCount"] = 12,
 						["name"] = "Skyreach",
-						["rested"] = 0,
+						["inProgress"] = false,
 						["killTotal"] = 3650,
 						["level"] = 48,
-						["killCount"] = 12,
-						["inProgress"] = false,
+						["rested"] = 0,
+						["totalXP"] = 3650,
 					}, -- [3]
 					{
-						["totalXP"] = 23177,
+						["killCount"] = 102,
 						["name"] = "Shadowmoon Burial Grounds",
-						["rested"] = 1597,
+						["inProgress"] = false,
 						["killTotal"] = 23177,
 						["level"] = 48,
-						["killCount"] = 102,
-						["inProgress"] = false,
+						["rested"] = 1597,
+						["totalXP"] = 23177,
 					}, -- [4]
 					{
-						["name"] = "Magisters' Terrace",
+						["inProgress"] = false,
 						["totalXP"] = 25304,
-						["rested"] = 0,
+						["killCount"] = 140,
 						["killTotal"] = 25304,
 						["level"] = 47,
-						["inProgress"] = false,
-						["killCount"] = 140,
+						["rested"] = 0,
+						["name"] = "Magisters' Terrace",
 					}, -- [5]
 					{
-						["name"] = "Stormstout Brewery",
+						["inProgress"] = false,
 						["totalXP"] = 18681,
-						["rested"] = 0,
+						["killCount"] = 172,
 						["killTotal"] = 18681,
 						["level"] = 45,
-						["inProgress"] = false,
-						["killCount"] = 172,
+						["rested"] = 0,
+						["name"] = "Stormstout Brewery",
 					}, -- [6]
 					{
-						["killCount"] = 204,
 						["name"] = "Storm's End",
-						["inProgress"] = false,
+						["totalXP"] = 31972,
+						["rested"] = 0,
 						["killTotal"] = 31972,
 						["level"] = 43,
-						["rested"] = 0,
-						["totalXP"] = 31972,
+						["inProgress"] = false,
+						["killCount"] = 204,
 					}, -- [7]
 					{
-						["killCount"] = 117,
 						["name"] = "The Everbloom",
-						["inProgress"] = false,
+						["totalXP"] = 20547,
+						["rested"] = 0,
 						["killTotal"] = 20547,
 						["level"] = 41,
-						["rested"] = 0,
-						["totalXP"] = 20547,
+						["inProgress"] = false,
+						["killCount"] = 117,
 					}, -- [8]
 					{
-						["killCount"] = 74,
 						["name"] = "Iron Docks",
-						["inProgress"] = false,
+						["totalXP"] = 14988,
+						["rested"] = 0,
 						["killTotal"] = 14988,
 						["level"] = 40,
-						["rested"] = 0,
-						["totalXP"] = 14988,
+						["inProgress"] = false,
+						["killCount"] = 74,
 					}, -- [9]
 					{
-						["killCount"] = 336,
 						["name"] = "The Shattered Halls",
-						["inProgress"] = false,
+						["totalXP"] = 73556,
+						["rested"] = 0,
 						["killTotal"] = 73556,
 						["level"] = 37,
-						["rested"] = 0,
-						["totalXP"] = 73556,
+						["inProgress"] = false,
+						["killCount"] = 336,
 					}, -- [10]
 					{
-						["killCount"] = 126,
 						["name"] = "Sethekk Halls",
-						["inProgress"] = false,
+						["totalXP"] = 28065,
+						["rested"] = 0,
 						["killTotal"] = 28065,
 						["level"] = 36,
-						["rested"] = 0,
-						["totalXP"] = 28065,
+						["inProgress"] = false,
+						["killCount"] = 126,
 					}, -- [11]
 					{
-						["killCount"] = 105,
 						["name"] = "The Underbog",
-						["inProgress"] = false,
+						["totalXP"] = 29929,
+						["rested"] = 0,
 						["killTotal"] = 29929,
 						["level"] = 34,
-						["rested"] = 0,
-						["totalXP"] = 29929,
+						["inProgress"] = false,
+						["killCount"] = 105,
 					}, -- [12]
 					{
-						["killCount"] = 41,
 						["name"] = "Skyreach",
-						["inProgress"] = false,
+						["totalXP"] = 12586,
+						["rested"] = 0,
 						["killTotal"] = 12586,
 						["level"] = 33,
-						["rested"] = 0,
-						["totalXP"] = 12586,
+						["inProgress"] = false,
+						["killCount"] = 41,
 					}, -- [13]
 					{
-						["killCount"] = 215,
 						["name"] = "Hall of Blackhand",
-						["inProgress"] = false,
+						["totalXP"] = 31767,
+						["rested"] = 9197,
 						["killTotal"] = 31767,
 						["level"] = 31,
-						["rested"] = 9197,
-						["totalXP"] = 31767,
+						["inProgress"] = false,
+						["killCount"] = 215,
 					}, -- [14]
 					{
-						["killCount"] = 66,
 						["name"] = "Bloodmaul Slag Mines",
-						["inProgress"] = false,
+						["totalXP"] = 11750,
+						["rested"] = 0,
 						["killTotal"] = 11750,
 						["level"] = 27,
-						["rested"] = 0,
-						["totalXP"] = 11750,
+						["inProgress"] = false,
+						["killCount"] = 66,
 					}, -- [15]
 					{
-						["killCount"] = 103,
 						["name"] = "Shadowmoon Burial Grounds",
-						["inProgress"] = false,
+						["totalXP"] = 13632,
+						["rested"] = 0,
 						["killTotal"] = 13632,
 						["level"] = 24,
-						["rested"] = 0,
-						["totalXP"] = 13632,
+						["inProgress"] = false,
+						["killCount"] = 103,
 					}, -- [16]
 					{
-						["killCount"] = 90,
 						["name"] = "Old Hillsbrad Foothills",
-						["inProgress"] = false,
+						["totalXP"] = 16293,
+						["rested"] = 0,
 						["killTotal"] = 16293,
 						["level"] = 20,
-						["rested"] = 0,
-						["totalXP"] = 16293,
+						["inProgress"] = false,
+						["killCount"] = 90,
 					}, -- [17]
 					{
-						["killCount"] = 144,
 						["name"] = "Auchenai Crypts",
-						["inProgress"] = false,
+						["totalXP"] = 10401,
+						["rested"] = 8,
 						["killTotal"] = 10401,
 						["level"] = 18,
-						["rested"] = 8,
-						["totalXP"] = 10401,
+						["inProgress"] = false,
+						["killCount"] = 144,
 					}, -- [18]
 					{
-						["inProgress"] = false,
 						["totalXP"] = 13846,
-						["killCount"] = 118,
+						["name"] = "Mana-Tombs",
+						["rested"] = 1,
 						["killTotal"] = 13846,
 						["level"] = 16,
-						["rested"] = 1,
-						["name"] = "Mana-Tombs",
+						["killCount"] = 118,
+						["inProgress"] = false,
 					}, -- [19]
 					{
-						["inProgress"] = false,
 						["totalXP"] = 14094,
-						["killCount"] = 108,
+						["name"] = "The Underbog",
+						["rested"] = 0,
 						["killTotal"] = 14094,
 						["level"] = 13,
-						["rested"] = 0,
-						["name"] = "The Underbog",
+						["killCount"] = 108,
+						["inProgress"] = false,
 					}, -- [20]
 					{
-						["inProgress"] = false,
 						["totalXP"] = 10825,
-						["killCount"] = 116,
+						["name"] = "The Slave Pens",
+						["rested"] = 21,
 						["killTotal"] = 10825,
 						["level"] = 10,
-						["rested"] = 21,
-						["name"] = "The Slave Pens",
+						["killCount"] = 116,
+						["inProgress"] = false,
 					}, -- [21]
 				},
 				["questAverage"] = 6800,
@@ -243,8 +243,8 @@ XToLevelDB = {
 		["Ieni - Tarren Mill"] = {
 			["data"] = {
 				["total"] = {
-					["dungeonKills"] = 1552,
 					["quests"] = 30,
+					["dungeonKills"] = 1552,
 					["mobKills"] = 1591,
 				},
 				["killAverage"] = 752.2,
@@ -526,184 +526,184 @@ XToLevelDB = {
 				},
 				["dungeonList"] = {
 					{
-						["name"] = "Mists of Tirna Scithe",
+						["inProgress"] = false,
 						["totalXP"] = 28832,
-						["rested"] = 0,
+						["killCount"] = 67,
 						["killTotal"] = 28832,
 						["level"] = 58,
-						["inProgress"] = false,
-						["killCount"] = 67,
+						["rested"] = 0,
+						["name"] = "Mists of Tirna Scithe",
 					}, -- [1]
 					{
-						["name"] = "Plaguefall",
+						["inProgress"] = false,
 						["totalXP"] = 29382,
-						["rested"] = 17186,
+						["killCount"] = 80,
 						["killTotal"] = 29382,
 						["level"] = 57,
-						["inProgress"] = false,
-						["killCount"] = 80,
+						["rested"] = 17186,
+						["name"] = "Plaguefall",
 					}, -- [2]
 					{
-						["name"] = "Halls of Atonement",
+						["inProgress"] = false,
 						["totalXP"] = 31644,
-						["rested"] = 31644,
+						["killCount"] = 70,
 						["killTotal"] = 31644,
 						["level"] = 57,
-						["inProgress"] = false,
-						["killCount"] = 70,
+						["rested"] = 31644,
+						["name"] = "Halls of Atonement",
 					}, -- [3]
 					{
-						["name"] = "Mists of Tirna Scithe",
+						["inProgress"] = false,
 						["totalXP"] = 33038,
-						["rested"] = 33038,
+						["killCount"] = 80,
 						["killTotal"] = 33038,
 						["level"] = 57,
-						["inProgress"] = false,
-						["killCount"] = 80,
+						["rested"] = 33038,
+						["name"] = "Mists of Tirna Scithe",
 					}, -- [4]
 					{
-						["name"] = "The Necrotic Wake",
+						["inProgress"] = false,
 						["totalXP"] = 37629,
-						["rested"] = 37629,
+						["killCount"] = 94,
 						["killTotal"] = 37629,
 						["level"] = 56,
-						["inProgress"] = false,
-						["killCount"] = 94,
+						["rested"] = 37629,
+						["name"] = "The Necrotic Wake",
 					}, -- [5]
 					{
-						["name"] = "Plaguefall",
+						["inProgress"] = false,
 						["totalXP"] = 24544,
-						["rested"] = 24544,
+						["killCount"] = 70,
 						["killTotal"] = 24544,
 						["level"] = 56,
-						["inProgress"] = false,
-						["killCount"] = 70,
+						["rested"] = 24544,
+						["name"] = "Plaguefall",
 					}, -- [6]
 					{
-						["name"] = "Halls of Atonement",
+						["inProgress"] = false,
 						["totalXP"] = 27661,
-						["rested"] = 27661,
+						["killCount"] = 73,
 						["killTotal"] = 27661,
 						["level"] = 55,
-						["inProgress"] = false,
-						["killCount"] = 73,
+						["rested"] = 27661,
+						["name"] = "Halls of Atonement",
 					}, -- [7]
 					{
-						["name"] = "The Necrotic Wake",
+						["inProgress"] = false,
 						["totalXP"] = 33177,
-						["rested"] = 33177,
+						["killCount"] = 83,
 						["killTotal"] = 33177,
 						["level"] = 55,
-						["inProgress"] = false,
-						["killCount"] = 83,
+						["rested"] = 33177,
+						["name"] = "The Necrotic Wake",
 					}, -- [8]
 					{
-						["inProgress"] = false,
 						["totalXP"] = 25605,
-						["killCount"] = 88,
+						["name"] = "Plaguefall",
+						["rested"] = 25605,
 						["killTotal"] = 25605,
 						["level"] = 55,
-						["rested"] = 25605,
-						["name"] = "Plaguefall",
+						["killCount"] = 88,
+						["inProgress"] = false,
 					}, -- [9]
 					{
-						["inProgress"] = false,
 						["totalXP"] = 38669,
-						["killCount"] = 99,
+						["name"] = "Halls of Atonement",
+						["rested"] = 38669,
 						["killTotal"] = 38669,
 						["level"] = 54,
-						["rested"] = 38669,
-						["name"] = "Halls of Atonement",
+						["killCount"] = 99,
+						["inProgress"] = false,
 					}, -- [10]
 					{
-						["inProgress"] = false,
 						["totalXP"] = 28977,
-						["killCount"] = 59,
+						["name"] = "The Necrotic Wake",
+						["rested"] = 28977,
 						["killTotal"] = 28977,
 						["level"] = 54,
-						["rested"] = 28977,
-						["name"] = "The Necrotic Wake",
+						["killCount"] = 59,
+						["inProgress"] = false,
 					}, -- [11]
 					{
-						["inProgress"] = false,
 						["totalXP"] = 27955,
-						["killCount"] = 83,
+						["name"] = "Plaguefall",
+						["rested"] = 27955,
 						["killTotal"] = 27955,
 						["level"] = 53,
-						["rested"] = 27955,
-						["name"] = "Plaguefall",
+						["killCount"] = 83,
+						["inProgress"] = false,
 					}, -- [12]
 					{
-						["inProgress"] = false,
 						["totalXP"] = 29320,
-						["killCount"] = 94,
+						["name"] = "Plaguefall",
+						["rested"] = 0,
 						["killTotal"] = 29320,
 						["level"] = 53,
-						["rested"] = 0,
-						["name"] = "Plaguefall",
+						["killCount"] = 94,
+						["inProgress"] = false,
 					}, -- [13]
 					{
-						["inProgress"] = false,
 						["totalXP"] = 29125,
-						["killCount"] = 75,
+						["name"] = "Mists of Tirna Scithe",
+						["rested"] = 0,
 						["killTotal"] = 29125,
 						["level"] = 53,
-						["rested"] = 0,
-						["name"] = "Mists of Tirna Scithe",
+						["killCount"] = 75,
+						["inProgress"] = false,
 					}, -- [14]
 					{
-						["inProgress"] = false,
 						["totalXP"] = 36027,
-						["killCount"] = 92,
+						["name"] = "Halls of Atonement",
+						["rested"] = 0,
 						["killTotal"] = 36027,
 						["level"] = 52,
-						["rested"] = 0,
-						["name"] = "Halls of Atonement",
+						["killCount"] = 92,
+						["inProgress"] = false,
 					}, -- [15]
 					{
-						["inProgress"] = false,
 						["totalXP"] = 32911,
-						["killCount"] = 109,
+						["name"] = "Plaguefall",
+						["rested"] = 4184,
 						["killTotal"] = 32911,
 						["level"] = 52,
-						["rested"] = 4184,
-						["name"] = "Plaguefall",
+						["killCount"] = 109,
+						["inProgress"] = false,
 					}, -- [16]
 					{
-						["inProgress"] = false,
 						["totalXP"] = 27745,
-						["killCount"] = 60,
+						["name"] = "The Necrotic Wake",
+						["rested"] = 27745,
 						["killTotal"] = 27745,
 						["level"] = 51,
-						["rested"] = 27745,
-						["name"] = "The Necrotic Wake",
+						["killCount"] = 60,
+						["inProgress"] = false,
 					}, -- [17]
 					{
-						["inProgress"] = false,
 						["totalXP"] = 3675,
-						["killCount"] = 23,
+						["name"] = "The Necrotic Wake",
+						["rested"] = 3675,
 						["killTotal"] = 3675,
 						["level"] = 51,
-						["rested"] = 3675,
-						["name"] = "The Necrotic Wake",
+						["killCount"] = 23,
+						["inProgress"] = false,
 					}, -- [18]
 					{
-						["inProgress"] = false,
 						["totalXP"] = 26067,
-						["killCount"] = 67,
+						["name"] = "Mists of Tirna Scithe",
+						["rested"] = 26067,
 						["killTotal"] = 26067,
 						["level"] = 51,
-						["rested"] = 26067,
-						["name"] = "Mists of Tirna Scithe",
+						["killCount"] = 67,
+						["inProgress"] = false,
 					}, -- [19]
 					{
-						["totalXP"] = 26943,
+						["killCount"] = 86,
 						["name"] = "Plaguefall",
-						["rested"] = 26943,
+						["inProgress"] = false,
 						["killTotal"] = 26943,
 						["level"] = 50,
-						["killCount"] = 86,
-						["inProgress"] = false,
+						["rested"] = 26943,
+						["totalXP"] = 26943,
 					}, -- [20]
 				},
 				["questAverage"] = 7200,
@@ -781,6 +781,16 @@ XToLevelDB = {
 				},
 			},
 		},
+		["Testolel - Silvermoon"] = {
+			["data"] = {
+				["timer"] = {
+					["start"] = 858291.002,
+					["total"] = 0,
+					["lastUpdated"] = 858369.612,
+					["xpPerSec"] = 0,
+				},
+			},
+		},
 		["Intergalacto - Onyxia"] = {
 			["data"] = {
 				["timer"] = {
@@ -795,13 +805,13 @@ XToLevelDB = {
 				},
 				["dungeonList"] = {
 					{
-						["name"] = "Bloodmaul Slag Mines",
+						["inProgress"] = false,
 						["totalXP"] = 54033,
-						["rested"] = 54033,
+						["killCount"] = 67,
 						["killTotal"] = 54033,
 						["level"] = 90,
-						["inProgress"] = false,
-						["killCount"] = 67,
+						["rested"] = 54033,
+						["name"] = "Bloodmaul Slag Mines",
 					}, -- [1]
 				},
 				["killList"] = {
@@ -1079,8 +1089,8 @@ XToLevelDB = {
 		["Rynllor - Tarren Mill"] = {
 			["data"] = {
 				["total"] = {
-					["quests"] = 78,
 					["dungeonKills"] = 6447,
+					["quests"] = 78,
 					["mobKills"] = 6470,
 				},
 				["killAverage"] = 1744.8,
@@ -1092,688 +1102,688 @@ XToLevelDB = {
 				},
 				["dungeonList"] = {
 					{
-						["totalXP"] = 95909,
+						["killCount"] = 54,
 						["name"] = "Temple of Sethraliss",
-						["rested"] = 0,
+						["inProgress"] = false,
 						["killTotal"] = 95909,
 						["level"] = 119,
-						["killCount"] = 54,
-						["inProgress"] = false,
+						["rested"] = 0,
+						["totalXP"] = 95909,
 					}, -- [1]
 					{
-						["totalXP"] = 148459,
+						["killCount"] = 73,
 						["name"] = "The Underrot",
-						["rested"] = 40883,
+						["inProgress"] = false,
 						["killTotal"] = 148459,
 						["level"] = 119,
-						["killCount"] = 73,
-						["inProgress"] = false,
+						["rested"] = 40883,
+						["totalXP"] = 148459,
 					}, -- [2]
 					{
-						["name"] = "The MOTHERLODE!!",
+						["inProgress"] = false,
 						["totalXP"] = 221124,
-						["rested"] = 0,
+						["killCount"] = 127,
 						["killTotal"] = 221124,
 						["level"] = 118,
-						["inProgress"] = false,
-						["killCount"] = 127,
+						["rested"] = 0,
+						["name"] = "The MOTHERLODE!!",
 					}, -- [3]
 					{
-						["name"] = "Temple of Sethraliss",
+						["inProgress"] = false,
 						["totalXP"] = 95367,
-						["rested"] = 7371,
+						["killCount"] = 54,
 						["killTotal"] = 95367,
 						["level"] = 118,
-						["inProgress"] = false,
-						["killCount"] = 54,
+						["rested"] = 7371,
+						["name"] = "Temple of Sethraliss",
 					}, -- [4]
 					{
-						["killCount"] = 64,
 						["name"] = "The Underrot",
-						["inProgress"] = false,
+						["totalXP"] = 145837,
+						["rested"] = 154,
 						["killTotal"] = 145837,
 						["level"] = 117,
-						["rested"] = 154,
-						["totalXP"] = 145837,
+						["inProgress"] = false,
+						["killCount"] = 64,
 					}, -- [5]
 					{
-						["killCount"] = 123,
 						["name"] = "The MOTHERLODE!!",
-						["inProgress"] = false,
+						["totalXP"] = 221453,
+						["rested"] = 0,
 						["killTotal"] = 221453,
 						["level"] = 117,
-						["rested"] = 0,
-						["totalXP"] = 221453,
+						["inProgress"] = false,
+						["killCount"] = 123,
 					}, -- [6]
 					{
-						["killCount"] = 54,
 						["name"] = "Temple of Sethraliss",
-						["inProgress"] = false,
+						["totalXP"] = 93848,
+						["rested"] = 0,
 						["killTotal"] = 93848,
 						["level"] = 116,
-						["rested"] = 0,
-						["totalXP"] = 93848,
+						["inProgress"] = false,
+						["killCount"] = 54,
 					}, -- [7]
 					{
-						["killCount"] = 54,
 						["name"] = "The Underrot",
-						["inProgress"] = false,
+						["totalXP"] = 137701,
+						["rested"] = 88,
 						["killTotal"] = 137701,
 						["level"] = 116,
-						["rested"] = 88,
-						["totalXP"] = 137701,
+						["inProgress"] = false,
+						["killCount"] = 54,
 					}, -- [8]
 					{
-						["killCount"] = 67,
 						["name"] = "Atal'Dazar",
-						["inProgress"] = false,
+						["totalXP"] = 117915,
+						["rested"] = 0,
 						["killTotal"] = 117915,
 						["level"] = 115,
-						["rested"] = 0,
-						["totalXP"] = 117915,
+						["inProgress"] = false,
+						["killCount"] = 67,
 					}, -- [9]
 					{
-						["killCount"] = 133,
 						["name"] = "The MOTHERLODE!!",
-						["inProgress"] = false,
+						["totalXP"] = 228237,
+						["rested"] = 71768,
 						["killTotal"] = 228237,
 						["level"] = 115,
-						["rested"] = 71768,
-						["totalXP"] = 228237,
+						["inProgress"] = false,
+						["killCount"] = 133,
 					}, -- [10]
 					{
-						["totalXP"] = 137728,
+						["killCount"] = 63,
 						["name"] = "The Underrot",
-						["rested"] = 451,
+						["inProgress"] = false,
 						["killTotal"] = 137728,
 						["level"] = 114,
-						["killCount"] = 63,
-						["inProgress"] = false,
+						["rested"] = 451,
+						["totalXP"] = 137728,
 					}, -- [11]
 					{
-						["inProgress"] = false,
 						["totalXP"] = 434029,
-						["killCount"] = 236,
+						["name"] = "Temple of Sethraliss",
+						["rested"] = 96969,
 						["killTotal"] = 434029,
 						["level"] = 113,
-						["rested"] = 96969,
-						["name"] = "Temple of Sethraliss",
+						["killCount"] = 236,
+						["inProgress"] = false,
 					}, -- [12]
 					{
-						["inProgress"] = false,
 						["totalXP"] = 129959,
-						["killCount"] = 66,
+						["name"] = "Atal'Dazar",
+						["rested"] = 129959,
 						["killTotal"] = 129959,
 						["level"] = 112,
-						["rested"] = 129959,
-						["name"] = "Atal'Dazar",
+						["killCount"] = 66,
+						["inProgress"] = false,
 					}, -- [13]
 					{
-						["inProgress"] = false,
 						["totalXP"] = 129205,
-						["killCount"] = 54,
+						["name"] = "The Underrot",
+						["rested"] = 129205,
 						["killTotal"] = 129205,
 						["level"] = 111,
-						["rested"] = 129205,
-						["name"] = "The Underrot",
+						["killCount"] = 54,
+						["inProgress"] = false,
 					}, -- [14]
 					{
-						["inProgress"] = false,
 						["totalXP"] = 91957,
-						["killCount"] = 55,
+						["name"] = "Temple of Sethraliss",
+						["rested"] = 91957,
 						["killTotal"] = 91957,
 						["level"] = 111,
-						["rested"] = 91957,
-						["name"] = "Temple of Sethraliss",
+						["killCount"] = 55,
+						["inProgress"] = false,
 					}, -- [15]
 					{
-						["inProgress"] = false,
 						["totalXP"] = 117769,
-						["killCount"] = 62,
+						["name"] = "The Underrot",
+						["rested"] = 117769,
 						["killTotal"] = 117769,
 						["level"] = 110,
-						["rested"] = 117769,
-						["name"] = "The Underrot",
+						["killCount"] = 62,
+						["inProgress"] = false,
 					}, -- [16]
 					{
-						["inProgress"] = false,
 						["totalXP"] = 92725,
-						["killCount"] = 64,
+						["name"] = "Halls of Valor",
+						["rested"] = 0,
 						["killTotal"] = 92725,
 						["level"] = 109,
-						["rested"] = 0,
-						["name"] = "Halls of Valor",
+						["killCount"] = 64,
+						["inProgress"] = false,
 					}, -- [17]
 					{
-						["inProgress"] = false,
 						["totalXP"] = 84858,
-						["killCount"] = 73,
+						["name"] = "Neltharion's Lair",
+						["rested"] = 0,
 						["killTotal"] = 84858,
 						["level"] = 108,
-						["rested"] = 0,
-						["name"] = "Neltharion's Lair",
+						["killCount"] = 73,
+						["inProgress"] = false,
 					}, -- [18]
 					{
-						["inProgress"] = false,
 						["totalXP"] = 93230,
-						["killCount"] = 33,
+						["name"] = "Violet Hold",
+						["rested"] = 0,
 						["killTotal"] = 93230,
 						["level"] = 108,
-						["rested"] = 0,
-						["name"] = "Violet Hold",
+						["killCount"] = 33,
+						["inProgress"] = false,
 					}, -- [19]
 					{
-						["inProgress"] = false,
 						["totalXP"] = 88064,
-						["killCount"] = 64,
+						["name"] = "Eye of Azshara",
+						["rested"] = 0,
 						["killTotal"] = 88064,
 						["level"] = 107,
-						["rested"] = 0,
-						["name"] = "Eye of Azshara",
+						["killCount"] = 64,
+						["inProgress"] = false,
 					}, -- [20]
 					{
-						["inProgress"] = false,
 						["totalXP"] = 82389,
-						["killCount"] = 73,
+						["name"] = "Neltharion's Lair",
+						["rested"] = 0,
 						["killTotal"] = 82389,
 						["level"] = 107,
-						["rested"] = 0,
-						["name"] = "Neltharion's Lair",
+						["killCount"] = 73,
+						["inProgress"] = false,
 					}, -- [21]
 					{
-						["inProgress"] = false,
 						["totalXP"] = 93252,
-						["killCount"] = 37,
+						["name"] = "Violet Hold",
+						["rested"] = 0,
 						["killTotal"] = 93252,
 						["level"] = 106,
-						["rested"] = 0,
-						["name"] = "Violet Hold",
+						["killCount"] = 37,
+						["inProgress"] = false,
 					}, -- [22]
 					{
-						["inProgress"] = false,
 						["totalXP"] = 115208,
-						["killCount"] = 102,
+						["name"] = "Darkheart Thicket",
+						["rested"] = 0,
 						["killTotal"] = 115208,
 						["level"] = 105,
-						["rested"] = 0,
-						["name"] = "Darkheart Thicket",
+						["killCount"] = 102,
+						["inProgress"] = false,
 					}, -- [23]
 					{
-						["inProgress"] = false,
 						["totalXP"] = 77068,
-						["killCount"] = 63,
+						["name"] = "Eye of Azshara",
+						["rested"] = 0,
 						["killTotal"] = 77068,
 						["level"] = 105,
-						["rested"] = 0,
-						["name"] = "Eye of Azshara",
+						["killCount"] = 63,
+						["inProgress"] = false,
 					}, -- [24]
 					{
-						["inProgress"] = false,
 						["totalXP"] = 91795,
-						["killCount"] = 78,
+						["name"] = "Neltharion's Lair",
+						["rested"] = 0,
 						["killTotal"] = 91795,
 						["level"] = 104,
-						["rested"] = 0,
-						["name"] = "Neltharion's Lair",
+						["killCount"] = 78,
+						["inProgress"] = false,
 					}, -- [25]
 					{
-						["inProgress"] = false,
 						["totalXP"] = 108448,
-						["killCount"] = 100,
+						["name"] = "Darkheart Thicket",
+						["rested"] = 0,
 						["killTotal"] = 108448,
 						["level"] = 103,
-						["rested"] = 0,
-						["name"] = "Darkheart Thicket",
+						["killCount"] = 100,
+						["inProgress"] = false,
 					}, -- [26]
 					{
-						["inProgress"] = false,
 						["totalXP"] = 86277,
-						["killCount"] = 60,
+						["name"] = "Halls of Valor",
+						["rested"] = 5828,
 						["killTotal"] = 86277,
 						["level"] = 103,
-						["rested"] = 5828,
-						["name"] = "Halls of Valor",
+						["killCount"] = 60,
+						["inProgress"] = false,
 					}, -- [27]
 					{
-						["inProgress"] = false,
 						["totalXP"] = 75939,
-						["killCount"] = 59,
+						["name"] = "Eye of Azshara",
+						["rested"] = 75939,
 						["killTotal"] = 75939,
 						["level"] = 102,
-						["rested"] = 75939,
-						["name"] = "Eye of Azshara",
+						["killCount"] = 59,
+						["inProgress"] = false,
 					}, -- [28]
 					{
-						["name"] = "Neltharion's Lair",
+						["inProgress"] = false,
 						["totalXP"] = 85540,
-						["rested"] = 0,
+						["killCount"] = 76,
 						["killTotal"] = 85540,
 						["level"] = 101,
-						["inProgress"] = false,
-						["killCount"] = 76,
+						["rested"] = 0,
+						["name"] = "Neltharion's Lair",
 					}, -- [29]
 					{
-						["name"] = "Darkheart Thicket",
+						["inProgress"] = false,
 						["totalXP"] = 102407,
-						["rested"] = 15923,
+						["killCount"] = 100,
 						["killTotal"] = 102407,
 						["level"] = 101,
-						["inProgress"] = false,
-						["killCount"] = 100,
+						["rested"] = 15923,
+						["name"] = "Darkheart Thicket",
 					}, -- [30]
 					{
-						["name"] = "Eye of Azshara",
+						["inProgress"] = false,
 						["totalXP"] = 74933,
-						["rested"] = 74933,
+						["killCount"] = 55,
 						["killTotal"] = 74933,
 						["level"] = 100,
-						["inProgress"] = false,
-						["killCount"] = 55,
+						["rested"] = 74933,
+						["name"] = "Eye of Azshara",
 					}, -- [31]
 					{
-						["name"] = "Auchindoun",
+						["inProgress"] = false,
 						["totalXP"] = 96694,
-						["rested"] = 0,
+						["killCount"] = 60,
 						["killTotal"] = 96694,
 						["level"] = 99,
-						["inProgress"] = false,
-						["killCount"] = 60,
+						["rested"] = 0,
+						["name"] = "Auchindoun",
 					}, -- [32]
 					{
-						["name"] = "Bloodmaul Slag Mines",
+						["inProgress"] = false,
 						["totalXP"] = 94140,
-						["rested"] = 40749,
+						["killCount"] = 65,
 						["killTotal"] = 94140,
 						["level"] = 98,
-						["inProgress"] = false,
-						["killCount"] = 65,
+						["rested"] = 40749,
+						["name"] = "Bloodmaul Slag Mines",
 					}, -- [33]
 					{
-						["name"] = "Iron Docks",
+						["inProgress"] = false,
 						["totalXP"] = 85917,
-						["rested"] = 85917,
+						["killCount"] = 82,
 						["killTotal"] = 85917,
 						["level"] = 97,
-						["inProgress"] = false,
-						["killCount"] = 82,
+						["rested"] = 85917,
+						["name"] = "Iron Docks",
 					}, -- [34]
 					{
-						["name"] = "Auchindoun",
+						["inProgress"] = false,
 						["totalXP"] = 90836,
-						["rested"] = 90836,
+						["killCount"] = 64,
 						["killTotal"] = 90836,
 						["level"] = 97,
-						["inProgress"] = false,
-						["killCount"] = 64,
+						["rested"] = 90836,
+						["name"] = "Auchindoun",
 					}, -- [35]
 					{
-						["killCount"] = 71,
 						["name"] = "Bloodmaul Slag Mines",
-						["inProgress"] = false,
+						["totalXP"] = 93375,
+						["rested"] = 59212,
 						["killTotal"] = 93375,
 						["level"] = 96,
-						["rested"] = 59212,
-						["totalXP"] = 93375,
+						["inProgress"] = false,
+						["killCount"] = 71,
 					}, -- [36]
 					{
-						["killCount"] = 81,
 						["name"] = "Iron Docks",
-						["inProgress"] = false,
+						["totalXP"] = 85664,
+						["rested"] = 85664,
 						["killTotal"] = 85664,
 						["level"] = 95,
-						["rested"] = 85664,
-						["totalXP"] = 85664,
+						["inProgress"] = false,
+						["killCount"] = 81,
 					}, -- [37]
 					{
-						["killCount"] = 66,
 						["name"] = "Bloodmaul Slag Mines",
-						["inProgress"] = false,
+						["totalXP"] = 94549,
+						["rested"] = 94549,
 						["killTotal"] = 94549,
 						["level"] = 94,
-						["rested"] = 94549,
-						["totalXP"] = 94549,
+						["inProgress"] = false,
+						["killCount"] = 66,
 					}, -- [38]
 					{
-						["totalXP"] = 88384,
+						["killCount"] = 82,
 						["name"] = "Iron Docks",
-						["rested"] = 88384,
+						["inProgress"] = false,
 						["killTotal"] = 88384,
 						["level"] = 93,
-						["killCount"] = 82,
-						["inProgress"] = false,
+						["rested"] = 88384,
+						["totalXP"] = 88384,
 					}, -- [39]
 					{
-						["totalXP"] = 90173,
+						["killCount"] = 68,
 						["name"] = "Bloodmaul Slag Mines",
-						["rested"] = 90173,
+						["inProgress"] = false,
 						["killTotal"] = 90173,
 						["level"] = 92,
-						["killCount"] = 68,
-						["inProgress"] = false,
+						["rested"] = 90173,
+						["totalXP"] = 90173,
 					}, -- [40]
 					{
-						["totalXP"] = 89978,
+						["killCount"] = 66,
 						["name"] = "Bloodmaul Slag Mines",
-						["rested"] = 89978,
+						["inProgress"] = false,
 						["killTotal"] = 89978,
 						["level"] = 91,
-						["killCount"] = 66,
-						["inProgress"] = false,
+						["rested"] = 89978,
+						["totalXP"] = 89978,
 					}, -- [41]
 					{
-						["inProgress"] = false,
 						["totalXP"] = 60183,
-						["killCount"] = 143,
+						["name"] = "Siege of Niuzao Temple",
+						["rested"] = 548,
 						["killTotal"] = 60183,
 						["level"] = 91,
-						["rested"] = 548,
-						["name"] = "Siege of Niuzao Temple",
+						["killCount"] = 143,
+						["inProgress"] = false,
 					}, -- [42]
 					{
-						["inProgress"] = false,
 						["totalXP"] = 61928,
-						["killCount"] = 147,
+						["name"] = "Siege of Niuzao Temple",
+						["rested"] = 860,
 						["killTotal"] = 61928,
 						["level"] = 90,
-						["rested"] = 860,
-						["name"] = "Siege of Niuzao Temple",
+						["killCount"] = 147,
+						["inProgress"] = false,
 					}, -- [43]
 					{
-						["inProgress"] = false,
 						["totalXP"] = 25341,
-						["killCount"] = 32,
+						["name"] = "Gate of the Setting Sun",
+						["rested"] = 614,
 						["killTotal"] = 25341,
 						["level"] = 90,
-						["rested"] = 614,
-						["name"] = "Gate of the Setting Sun",
+						["killCount"] = 32,
+						["inProgress"] = false,
 					}, -- [44]
 					{
-						["inProgress"] = false,
 						["totalXP"] = 61071,
-						["killCount"] = 147,
+						["name"] = "Siege of Niuzao Temple",
+						["rested"] = 235,
 						["killTotal"] = 61071,
 						["level"] = 89,
-						["rested"] = 235,
-						["name"] = "Siege of Niuzao Temple",
+						["killCount"] = 147,
+						["inProgress"] = false,
 					}, -- [45]
 					{
-						["inProgress"] = false,
 						["totalXP"] = 83648,
-						["killCount"] = 41,
+						["name"] = "Mogu'shan Palace",
+						["rested"] = 34,
 						["killTotal"] = 83648,
 						["level"] = 88,
-						["rested"] = 34,
-						["name"] = "Mogu'shan Palace",
+						["killCount"] = 41,
+						["inProgress"] = false,
 					}, -- [46]
 					{
-						["name"] = "Gate of the Setting Sun",
+						["inProgress"] = false,
 						["totalXP"] = 27923,
-						["rested"] = 0,
+						["killCount"] = 41,
 						["killTotal"] = 27923,
 						["level"] = 87,
-						["inProgress"] = false,
-						["killCount"] = 41,
+						["rested"] = 0,
+						["name"] = "Gate of the Setting Sun",
 					}, -- [47]
 					{
-						["name"] = "Shado-Pan Monastery",
+						["inProgress"] = false,
 						["totalXP"] = 80856,
-						["rested"] = 0,
+						["killCount"] = 76,
 						["killTotal"] = 80856,
 						["level"] = 87,
-						["inProgress"] = false,
-						["killCount"] = 76,
+						["rested"] = 0,
+						["name"] = "Shado-Pan Monastery",
 					}, -- [48]
 					{
-						["name"] = "Siege of Niuzao Temple",
+						["inProgress"] = false,
 						["totalXP"] = 60458,
-						["rested"] = 304,
+						["killCount"] = 151,
 						["killTotal"] = 60458,
 						["level"] = 86,
-						["inProgress"] = false,
-						["killCount"] = 151,
+						["rested"] = 304,
+						["name"] = "Siege of Niuzao Temple",
 					}, -- [49]
 					{
-						["totalXP"] = 64281,
+						["killCount"] = 65,
 						["name"] = "Stormstout Brewery",
-						["rested"] = 0,
+						["inProgress"] = false,
 						["killTotal"] = 64281,
 						["level"] = 85,
-						["killCount"] = 65,
-						["inProgress"] = false,
+						["rested"] = 0,
+						["totalXP"] = 64281,
 					}, -- [50]
 					{
-						["totalXP"] = 28231,
+						["killCount"] = 43,
 						["name"] = "Gate of the Setting Sun",
-						["rested"] = 0,
+						["inProgress"] = false,
 						["killTotal"] = 28231,
 						["level"] = 84,
-						["killCount"] = 43,
-						["inProgress"] = false,
+						["rested"] = 0,
+						["totalXP"] = 28231,
 					}, -- [51]
 					{
-						["totalXP"] = 71015,
+						["killCount"] = 76,
 						["name"] = "Shado-Pan Monastery",
-						["rested"] = 0,
+						["inProgress"] = false,
 						["killTotal"] = 71015,
 						["level"] = 84,
-						["killCount"] = 76,
-						["inProgress"] = false,
+						["rested"] = 0,
+						["totalXP"] = 71015,
 					}, -- [52]
 					{
-						["totalXP"] = 69126,
+						["killCount"] = 76,
 						["name"] = "Temple of the Jade Serpent",
-						["rested"] = 0,
+						["inProgress"] = false,
 						["killTotal"] = 69126,
 						["level"] = 83,
-						["killCount"] = 76,
-						["inProgress"] = false,
+						["rested"] = 0,
+						["totalXP"] = 69126,
 					}, -- [53]
 					{
-						["totalXP"] = 69080,
+						["killCount"] = 71,
 						["name"] = "Stormstout Brewery",
-						["rested"] = 12196,
+						["inProgress"] = false,
 						["killTotal"] = 69080,
 						["level"] = 82,
-						["killCount"] = 71,
-						["inProgress"] = false,
+						["rested"] = 12196,
+						["totalXP"] = 69080,
 					}, -- [54]
 					{
-						["inProgress"] = false,
 						["totalXP"] = 67722,
-						["killCount"] = 76,
+						["name"] = "Temple of the Jade Serpent",
+						["rested"] = 0,
 						["killTotal"] = 67722,
 						["level"] = 81,
-						["rested"] = 0,
-						["name"] = "Temple of the Jade Serpent",
+						["killCount"] = 76,
+						["inProgress"] = false,
 					}, -- [55]
 					{
-						["inProgress"] = false,
 						["totalXP"] = 116690,
-						["killCount"] = 123,
+						["name"] = "Utgarde Pinnacle",
+						["rested"] = 0,
 						["killTotal"] = 116690,
 						["level"] = 80,
-						["rested"] = 0,
-						["name"] = "Utgarde Pinnacle",
+						["killCount"] = 123,
+						["inProgress"] = false,
 					}, -- [56]
 					{
-						["inProgress"] = false,
 						["totalXP"] = 121268,
-						["killCount"] = 76,
+						["name"] = "Halls of Lightning",
+						["rested"] = 0,
 						["killTotal"] = 121268,
 						["level"] = 79,
-						["rested"] = 0,
-						["name"] = "Halls of Lightning",
+						["killCount"] = 76,
+						["inProgress"] = false,
 					}, -- [57]
 					{
-						["inProgress"] = false,
 						["totalXP"] = 118869,
-						["killCount"] = 140,
+						["name"] = "Halls of Stone",
+						["rested"] = 24180,
 						["killTotal"] = 118869,
 						["level"] = 77,
-						["rested"] = 24180,
-						["name"] = "Halls of Stone",
+						["killCount"] = 140,
+						["inProgress"] = false,
 					}, -- [58]
 					{
-						["killCount"] = 90,
 						["name"] = "The Oculus",
-						["inProgress"] = false,
+						["totalXP"] = 108617,
+						["rested"] = 0,
 						["killTotal"] = 108617,
 						["level"] = 76,
-						["rested"] = 0,
-						["totalXP"] = 108617,
+						["inProgress"] = false,
+						["killCount"] = 90,
 					}, -- [59]
 					{
-						["killCount"] = 71,
 						["name"] = "Gundrak",
-						["inProgress"] = false,
+						["totalXP"] = 114233,
+						["rested"] = 0,
 						["killTotal"] = 114233,
 						["level"] = 75,
-						["rested"] = 0,
-						["totalXP"] = 114233,
+						["inProgress"] = false,
+						["killCount"] = 71,
 					}, -- [60]
 					{
-						["killCount"] = 37,
 						["name"] = "The Violet Hold",
-						["inProgress"] = false,
+						["totalXP"] = 80157,
+						["rested"] = 0,
 						["killTotal"] = 80157,
 						["level"] = 74,
-						["rested"] = 0,
-						["totalXP"] = 80157,
+						["inProgress"] = false,
+						["killCount"] = 37,
 					}, -- [61]
 					{
-						["killCount"] = 83,
 						["name"] = "Ahn'kahet: The Old Kingdom",
-						["inProgress"] = false,
+						["totalXP"] = 98911,
+						["rested"] = 0,
 						["killTotal"] = 98911,
 						["level"] = 73,
-						["rested"] = 0,
-						["totalXP"] = 98911,
+						["inProgress"] = false,
+						["killCount"] = 83,
 					}, -- [62]
 					{
-						["killCount"] = 144,
 						["name"] = "Halls of Stone",
-						["inProgress"] = false,
+						["totalXP"] = 115731,
+						["rested"] = 0,
 						["killTotal"] = 115731,
 						["level"] = 71,
-						["rested"] = 0,
-						["totalXP"] = 115731,
+						["inProgress"] = false,
+						["killCount"] = 144,
 					}, -- [63]
 					{
-						["killCount"] = 82,
 						["name"] = "Drak'Tharon Keep",
-						["inProgress"] = false,
+						["totalXP"] = 97495,
+						["rested"] = 0,
 						["killTotal"] = 97495,
 						["level"] = 70,
-						["rested"] = 0,
-						["totalXP"] = 97495,
+						["inProgress"] = false,
+						["killCount"] = 82,
 					}, -- [64]
 					{
-						["killCount"] = 39,
 						["name"] = "Azjol-Nerub",
-						["inProgress"] = false,
+						["totalXP"] = 55883,
+						["rested"] = 153,
 						["killTotal"] = 55883,
 						["level"] = 68,
-						["rested"] = 153,
-						["totalXP"] = 55883,
+						["inProgress"] = false,
+						["killCount"] = 39,
 					}, -- [65]
 					{
-						["killCount"] = 34,
 						["name"] = "The Violet Hold",
-						["inProgress"] = false,
+						["totalXP"] = 69317,
+						["rested"] = 0,
 						["killTotal"] = 69317,
 						["level"] = 67,
-						["rested"] = 0,
-						["totalXP"] = 69317,
+						["inProgress"] = false,
+						["killCount"] = 34,
 					}, -- [66]
 					{
-						["killCount"] = 85,
 						["name"] = "Utgarde Keep",
-						["inProgress"] = false,
+						["totalXP"] = 88284,
+						["rested"] = 29102,
 						["killTotal"] = 88284,
 						["level"] = 66,
-						["rested"] = 29102,
-						["totalXP"] = 88284,
+						["inProgress"] = false,
+						["killCount"] = 85,
 					}, -- [67]
 					{
-						["totalXP"] = 111407,
+						["killCount"] = 71,
 						["name"] = "The Nexus",
-						["rested"] = 0,
+						["inProgress"] = false,
 						["killTotal"] = 111407,
 						["level"] = 64,
-						["killCount"] = 71,
-						["inProgress"] = false,
+						["rested"] = 0,
+						["totalXP"] = 111407,
 					}, -- [68]
 					{
-						["totalXP"] = 90549,
+						["killCount"] = 93,
 						["name"] = "Utgarde Keep",
-						["rested"] = 0,
+						["inProgress"] = false,
 						["killTotal"] = 90549,
 						["level"] = 62,
-						["killCount"] = 93,
-						["inProgress"] = false,
+						["rested"] = 0,
+						["totalXP"] = 90549,
 					}, -- [69]
 					{
-						["totalXP"] = 127688,
+						["killCount"] = 202,
 						["name"] = "Hall of Blackhand",
-						["rested"] = 0,
+						["inProgress"] = false,
 						["killTotal"] = 127688,
 						["level"] = 60,
-						["killCount"] = 202,
-						["inProgress"] = false,
+						["rested"] = 0,
+						["totalXP"] = 127688,
 					}, -- [70]
 					{
-						["inProgress"] = false,
 						["totalXP"] = 100564,
-						["killCount"] = 164,
+						["name"] = "Stratholme",
+						["rested"] = 3,
 						["killTotal"] = 100564,
 						["level"] = 58,
-						["rested"] = 3,
-						["name"] = "Stratholme",
+						["killCount"] = 164,
+						["inProgress"] = false,
 					}, -- [71]
 					{
-						["inProgress"] = false,
 						["totalXP"] = 55685,
-						["killCount"] = 63,
+						["name"] = "The Temple of Atal'Hakkar",
+						["rested"] = 18281,
 						["killTotal"] = 55685,
 						["level"] = 56,
-						["rested"] = 18281,
-						["name"] = "The Temple of Atal'Hakkar",
+						["killCount"] = 63,
+						["inProgress"] = false,
 					}, -- [72]
 					{
-						["name"] = "Uldaman",
+						["inProgress"] = false,
 						["totalXP"] = 93325,
-						["rested"] = 208,
+						["killCount"] = 167,
 						["killTotal"] = 93325,
 						["level"] = 53,
-						["inProgress"] = false,
-						["killCount"] = 167,
+						["rested"] = 208,
+						["name"] = "Uldaman",
 					}, -- [73]
 					{
-						["killCount"] = 81,
 						["name"] = "Dire Maul",
-						["inProgress"] = false,
+						["totalXP"] = 58006,
+						["rested"] = 0,
 						["killTotal"] = 58006,
 						["level"] = 52,
-						["rested"] = 0,
-						["totalXP"] = 58006,
+						["inProgress"] = false,
+						["killCount"] = 81,
 					}, -- [74]
 					{
-						["killCount"] = 169,
 						["name"] = "Zul'Farrak",
-						["inProgress"] = false,
+						["totalXP"] = 85434,
+						["rested"] = 25501,
 						["killTotal"] = 85434,
 						["level"] = 50,
-						["rested"] = 25501,
-						["totalXP"] = 85434,
+						["inProgress"] = false,
+						["killCount"] = 169,
 					}, -- [75]
 					{
-						["killCount"] = 167,
 						["name"] = "Stratholme",
-						["inProgress"] = false,
+						["totalXP"] = 108460,
+						["rested"] = 108460,
 						["killTotal"] = 108460,
 						["level"] = 46,
-						["rested"] = 108460,
-						["totalXP"] = 108460,
+						["inProgress"] = false,
+						["killCount"] = 167,
 					}, -- [76]
 				},
 				["questAverage"] = 17714.6,
@@ -1862,8 +1872,8 @@ XToLevelDB = {
 		["Enthusiastus - Tarren Mill"] = {
 			["data"] = {
 				["total"] = {
-					["quests"] = 754,
 					["dungeonKills"] = 2430,
+					["quests"] = 754,
 					["mobKills"] = 6655,
 				},
 				["killAverage"] = 93,
@@ -1875,706 +1885,122 @@ XToLevelDB = {
 				},
 				["dungeonList"] = {
 					{
-						["inProgress"] = false,
 						["totalXP"] = 25363,
-						["killCount"] = 76,
+						["name"] = "Mists of Tirna Scithe",
+						["rested"] = 87,
 						["killTotal"] = 25363,
 						["level"] = 59,
-						["rested"] = 87,
-						["name"] = "Mists of Tirna Scithe",
+						["killCount"] = 76,
+						["inProgress"] = false,
 					}, -- [1]
 					{
-						["inProgress"] = false,
 						["totalXP"] = 30322,
-						["killCount"] = 83,
+						["name"] = "The Necrotic Wake",
+						["rested"] = 39,
 						["killTotal"] = 30322,
 						["level"] = 53,
-						["rested"] = 39,
-						["name"] = "The Necrotic Wake",
+						["killCount"] = 83,
+						["inProgress"] = false,
 					}, -- [2]
 					{
-						["name"] = "Eye of Azshara",
+						["inProgress"] = false,
 						["totalXP"] = 46985,
-						["rested"] = 0,
+						["killCount"] = 57,
 						["killTotal"] = 46985,
 						["level"] = 106,
-						["inProgress"] = false,
-						["killCount"] = 57,
+						["rested"] = 0,
+						["name"] = "Eye of Azshara",
 					}, -- [3]
 					{
-						["killCount"] = 100,
 						["name"] = "Darkheart Thicket",
-						["inProgress"] = false,
+						["totalXP"] = 59971,
+						["rested"] = 363,
 						["killTotal"] = 59971,
 						["level"] = 104,
-						["rested"] = 363,
-						["totalXP"] = 59971,
+						["inProgress"] = false,
+						["killCount"] = 100,
 					}, -- [4]
 					{
-						["totalXP"] = 66003,
+						["killCount"] = 105,
 						["name"] = "Darkheart Thicket",
-						["rested"] = 0,
+						["inProgress"] = false,
 						["killTotal"] = 66003,
 						["level"] = 101,
-						["killCount"] = 105,
-						["inProgress"] = false,
+						["rested"] = 0,
+						["totalXP"] = 66003,
 					}, -- [5]
 					{
-						["totalXP"] = 51010,
+						["killCount"] = 62,
 						["name"] = "Bloodmaul Slag Mines",
-						["rested"] = 0,
+						["inProgress"] = false,
 						["killTotal"] = 51010,
 						["level"] = 92,
-						["killCount"] = 62,
-						["inProgress"] = false,
+						["rested"] = 0,
+						["totalXP"] = 51010,
 					}, -- [6]
 					{
-						["name"] = "Siege of Niuzao Temple",
+						["inProgress"] = false,
 						["totalXP"] = 129705,
-						["rested"] = 0,
+						["killCount"] = 290,
 						["killTotal"] = 129705,
 						["level"] = 89,
-						["inProgress"] = false,
-						["killCount"] = 290,
+						["rested"] = 0,
+						["name"] = "Siege of Niuzao Temple",
 					}, -- [7]
 					{
-						["name"] = "Stormstout Brewery",
+						["inProgress"] = false,
 						["totalXP"] = 578049,
-						["rested"] = 0,
+						["killCount"] = 1092,
 						["killTotal"] = 578049,
 						["level"] = 85,
-						["inProgress"] = false,
-						["killCount"] = 1092,
+						["rested"] = 0,
+						["name"] = "Stormstout Brewery",
 					}, -- [8]
 					{
-						["name"] = "Lost City of the Tol'vir",
+						["inProgress"] = false,
 						["totalXP"] = 49052,
-						["rested"] = 0,
+						["killCount"] = 63,
 						["killTotal"] = 49052,
 						["level"] = 85,
-						["inProgress"] = false,
-						["killCount"] = 63,
+						["rested"] = 0,
+						["name"] = "Lost City of the Tol'vir",
 					}, -- [9]
 					{
-						["name"] = "The Stonecore",
+						["inProgress"] = false,
 						["totalXP"] = 55834,
-						["rested"] = 21,
+						["killCount"] = 121,
 						["killTotal"] = 55834,
 						["level"] = 85,
-						["inProgress"] = false,
-						["killCount"] = 121,
+						["rested"] = 21,
+						["name"] = "The Stonecore",
 					}, -- [10]
 					{
-						["name"] = "Grim Batol",
+						["inProgress"] = false,
 						["totalXP"] = 71364,
-						["rested"] = 0,
+						["killCount"] = 115,
 						["killTotal"] = 71364,
 						["level"] = 84,
-						["inProgress"] = false,
-						["killCount"] = 115,
+						["rested"] = 0,
+						["name"] = "Grim Batol",
 					}, -- [11]
 					{
-						["name"] = "Gate of the Setting Sun",
+						["inProgress"] = false,
 						["totalXP"] = 87475,
-						["rested"] = 5846,
+						["killCount"] = 266,
 						["killTotal"] = 87475,
 						["level"] = 83,
-						["inProgress"] = false,
-						["killCount"] = 266,
-					}, -- [12]
-				},
-				["questAverage"] = 9828.5,
-			},
-		},
-		["Mihri - Tarren Mill"] = {
-			["data"] = {
-				["timer"] = {
-					["start"] = 396926.161,
-					["total"] = 328909,
-					["lastUpdated"] = 410089.549,
-					["xpPerSec"] = 24.98665237247436,
-				},
-				["total"] = {
-					["quests"] = 314,
-					["mobKills"] = 1181,
-				},
-				["killAverage"] = 143.5,
-				["questAverage"] = 9828.5,
-			},
-		},
-		["Intergalacto - Tarren Mill"] = {
-			["data"] = {
-				["total"] = {
-					["quests"] = 133,
-					["dungeonKills"] = 5509,
-					["mobKills"] = 5691,
-				},
-				["killAverage"] = 744.4,
-				["timer"] = {
-					["start"] = 773426.201,
-					["total"] = 272928,
-					["lastUpdated"] = 775991.43,
-					["xpPerSec"] = 106.395179533677,
-				},
-				["dungeonList"] = {
-					{
-						["inProgress"] = true,
-						["totalXP"] = 39275,
-						["killCount"] = 93,
-						["killTotal"] = 39275,
-						["level"] = 59,
-						["rested"] = 0,
-						["name"] = "Halls of Atonement",
-					}, -- [1]
-					{
-						["inProgress"] = false,
-						["totalXP"] = 32550,
-						["killCount"] = 70,
-						["killTotal"] = 32550,
-						["level"] = 59,
-						["rested"] = 0,
-						["name"] = "Mists of Tirna Scithe",
-					}, -- [2]
-					{
-						["inProgress"] = false,
-						["totalXP"] = 35824,
-						["killCount"] = 85,
-						["killTotal"] = 35824,
-						["level"] = 59,
-						["rested"] = 1629,
-						["name"] = "The Necrotic Wake",
-					}, -- [3]
-					{
-						["killCount"] = 84,
-						["name"] = "Halls of Atonement",
-						["inProgress"] = false,
-						["killTotal"] = 35274,
-						["level"] = 59,
-						["rested"] = 0,
-						["totalXP"] = 35274,
-					}, -- [4]
-					{
-						["killCount"] = 97,
-						["name"] = "Plaguefall",
-						["inProgress"] = false,
-						["killTotal"] = 33718,
-						["level"] = 58,
-						["rested"] = 0,
-						["totalXP"] = 33718,
-					}, -- [5]
-					{
-						["killCount"] = 71,
-						["name"] = "Mists of Tirna Scithe",
-						["inProgress"] = false,
-						["killTotal"] = 30077,
-						["level"] = 58,
-						["rested"] = 0,
-						["totalXP"] = 30077,
-					}, -- [6]
-					{
-						["killCount"] = 90,
-						["name"] = "Halls of Atonement",
-						["inProgress"] = false,
-						["killTotal"] = 37422,
-						["level"] = 58,
-						["rested"] = 2321,
-						["totalXP"] = 37422,
-					}, -- [7]
-					{
-						["totalXP"] = 32313,
-						["name"] = "Plaguefall",
-						["rested"] = 0,
-						["killTotal"] = 32313,
-						["level"] = 57,
-						["killCount"] = 91,
-						["inProgress"] = false,
-					}, -- [8]
-					{
-						["totalXP"] = 31670,
-						["name"] = "Mists of Tirna Scithe",
-						["rested"] = 0,
-						["killTotal"] = 31670,
-						["level"] = 57,
-						["killCount"] = 70,
-						["inProgress"] = false,
-					}, -- [9]
-					{
-						["totalXP"] = 65442,
-						["name"] = "Halls of Atonement",
-						["rested"] = 0,
-						["killTotal"] = 65442,
-						["level"] = 57,
-						["killCount"] = 170,
-						["inProgress"] = false,
-					}, -- [10]
-					{
-						["totalXP"] = 26435,
-						["name"] = "Mists of Tirna Scithe",
-						["rested"] = 13940,
-						["killTotal"] = 26435,
-						["level"] = 56,
-						["killCount"] = 70,
-						["inProgress"] = false,
-					}, -- [11]
-					{
-						["killCount"] = 90,
-						["name"] = "Halls of Atonement",
-						["inProgress"] = false,
-						["killTotal"] = 36675,
-						["level"] = 56,
-						["rested"] = 0,
-						["totalXP"] = 36675,
-					}, -- [12]
-					{
-						["killCount"] = 156,
-						["name"] = "The Necrotic Wake",
-						["inProgress"] = false,
-						["killTotal"] = 62902,
-						["level"] = 55,
-						["rested"] = 0,
-						["totalXP"] = 62902,
-					}, -- [13]
-					{
-						["killCount"] = 83,
-						["name"] = "Halls of Atonement",
-						["inProgress"] = false,
-						["killTotal"] = 32551,
-						["level"] = 55,
-						["rested"] = 0,
-						["totalXP"] = 32551,
-					}, -- [14]
-					{
-						["killCount"] = 91,
-						["name"] = "Plaguefall",
-						["inProgress"] = false,
-						["killTotal"] = 31420,
-						["level"] = 55,
-						["rested"] = 0,
-						["totalXP"] = 31420,
-					}, -- [15]
-					{
-						["killCount"] = 78,
-						["name"] = "The Necrotic Wake",
-						["inProgress"] = false,
-						["killTotal"] = 26673,
-						["level"] = 55,
-						["rested"] = 0,
-						["totalXP"] = 26673,
-					}, -- [16]
-					{
-						["killCount"] = 78,
-						["name"] = "Halls of Atonement",
-						["inProgress"] = false,
-						["killTotal"] = 33528,
-						["level"] = 54,
-						["rested"] = 0,
-						["totalXP"] = 33528,
-					}, -- [17]
-					{
-						["killCount"] = 71,
-						["name"] = "Mists of Tirna Scithe",
-						["inProgress"] = false,
-						["killTotal"] = 29758,
-						["level"] = 54,
-						["rested"] = 0,
-						["totalXP"] = 29758,
-					}, -- [18]
-					{
-						["killCount"] = 107,
-						["name"] = "Plaguefall",
-						["inProgress"] = false,
-						["killTotal"] = 28273,
-						["level"] = 54,
-						["rested"] = 1105,
-						["totalXP"] = 28273,
-					}, -- [19]
-					{
-						["killCount"] = 81,
-						["name"] = "The Necrotic Wake",
-						["inProgress"] = false,
-						["killTotal"] = 31509,
-						["level"] = 53,
-						["rested"] = 0,
-						["totalXP"] = 31509,
-					}, -- [20]
-					{
-						["killCount"] = 82,
-						["name"] = "Halls of Atonement",
-						["inProgress"] = false,
-						["killTotal"] = 29138,
-						["level"] = 53,
-						["rested"] = 0,
-						["totalXP"] = 29138,
-					}, -- [21]
-					{
-						["killCount"] = 69,
-						["name"] = "Mists of Tirna Scithe",
-						["inProgress"] = false,
-						["killTotal"] = 26825,
-						["level"] = 53,
-						["rested"] = 0,
-						["totalXP"] = 26825,
-					}, -- [22]
-					{
-						["killCount"] = 104,
-						["name"] = "Plaguefall",
-						["inProgress"] = false,
-						["killTotal"] = 33856,
-						["level"] = 52,
-						["rested"] = 2405,
-						["totalXP"] = 33856,
-					}, -- [23]
-					{
-						["totalXP"] = 31102,
-						["name"] = "Halls of Atonement",
-						["rested"] = 0,
-						["killTotal"] = 31102,
-						["level"] = 52,
-						["killCount"] = 75,
-						["inProgress"] = false,
-					}, -- [24]
-					{
-						["totalXP"] = 28645,
-						["name"] = "The Necrotic Wake",
-						["rested"] = 5406,
-						["killTotal"] = 28645,
-						["level"] = 52,
-						["killCount"] = 58,
-						["inProgress"] = false,
-					}, -- [25]
-					{
-						["totalXP"] = 1358,
-						["name"] = "The Necrotic Wake",
-						["rested"] = 1358,
-						["killTotal"] = 1358,
-						["level"] = 52,
-						["killCount"] = 13,
-						["inProgress"] = false,
-					}, -- [26]
-					{
-						["totalXP"] = 23470,
-						["name"] = "Mists of Tirna Scithe",
-						["rested"] = 23470,
-						["killTotal"] = 23470,
-						["level"] = 51,
-						["killCount"] = 76,
-						["inProgress"] = false,
-					}, -- [27]
-					{
-						["totalXP"] = 22746,
-						["name"] = "Atal'Dazar",
-						["rested"] = 22746,
-						["killTotal"] = 22746,
-						["level"] = 51,
-						["killCount"] = 75,
-						["inProgress"] = false,
-					}, -- [28]
-					{
-						["killCount"] = 90,
-						["name"] = "Ahn'kahet: The Old Kingdom",
-						["inProgress"] = false,
-						["killTotal"] = 28128,
-						["level"] = 49,
-						["rested"] = 706,
-						["totalXP"] = 28128,
-					}, -- [29]
-					{
-						["inProgress"] = false,
-						["totalXP"] = 27385,
-						["killCount"] = 69,
-						["killTotal"] = 27385,
-						["level"] = 49,
-						["rested"] = 0,
-						["name"] = "The Culling of Stratholme",
-					}, -- [30]
-					{
-						["inProgress"] = false,
-						["totalXP"] = 29669,
-						["killCount"] = 90,
-						["killTotal"] = 29669,
-						["level"] = 48,
-						["rested"] = 0,
-						["name"] = "Drak'Tharon Keep",
-					}, -- [31]
-					{
-						["inProgress"] = false,
-						["totalXP"] = 25294,
-						["killCount"] = 75,
-						["killTotal"] = 25294,
-						["level"] = 47,
-						["rested"] = 0,
-						["name"] = "Utgarde Pinnacle",
-					}, -- [32]
-					{
-						["inProgress"] = false,
-						["totalXP"] = 13076,
-						["killCount"] = 38,
-						["killTotal"] = 13076,
-						["level"] = 47,
-						["rested"] = 12,
-						["name"] = "Azjol-Nerub",
-					}, -- [33]
-					{
-						["inProgress"] = false,
-						["totalXP"] = 26261,
-						["killCount"] = 95,
-						["killTotal"] = 26261,
-						["level"] = 46,
-						["rested"] = 13459,
-						["name"] = "The Oculus",
-					}, -- [34]
-					{
-						["totalXP"] = 29231,
-						["name"] = "Utgarde Keep",
-						["rested"] = 0,
-						["killTotal"] = 29231,
-						["level"] = 45,
-						["killCount"] = 100,
-						["inProgress"] = false,
-					}, -- [35]
-					{
-						["totalXP"] = 25416,
-						["name"] = "The Culling of Stratholme",
-						["rested"] = 23,
-						["killTotal"] = 25416,
-						["level"] = 44,
-						["killCount"] = 69,
-						["inProgress"] = false,
-					}, -- [36]
-					{
-						["totalXP"] = 31779,
-						["name"] = "Halls of Lightning",
-						["rested"] = 4,
-						["killTotal"] = 31779,
-						["level"] = 43,
-						["killCount"] = 87,
-						["inProgress"] = false,
-					}, -- [37]
-					{
-						["totalXP"] = 27890,
-						["name"] = "Halls of Stone",
-						["rested"] = 4,
-						["killTotal"] = 27890,
-						["level"] = 42,
-						["killCount"] = 135,
-						["inProgress"] = false,
-					}, -- [38]
-					{
-						["totalXP"] = 31407,
-						["name"] = "The Nexus",
-						["rested"] = 6,
-						["killTotal"] = 31407,
-						["level"] = 41,
-						["killCount"] = 74,
-						["inProgress"] = false,
-					}, -- [39]
-					{
-						["totalXP"] = 14608,
-						["name"] = "Temple of the Jade Serpent",
-						["rested"] = 8971,
-						["killTotal"] = 14608,
-						["level"] = 40,
-						["killCount"] = 76,
-						["inProgress"] = false,
-					}, -- [40]
-					{
-						["inProgress"] = false,
-						["totalXP"] = 11339,
-						["killCount"] = 117,
-						["killTotal"] = 11339,
-						["level"] = 40,
-						["rested"] = 41,
-						["name"] = "Siege of Niuzao Temple",
-					}, -- [41]
-					{
-						["name"] = "Stormstout Brewery",
-						["totalXP"] = 13880,
-						["rested"] = 7,
-						["killTotal"] = 13880,
-						["level"] = 39,
-						["inProgress"] = false,
-						["killCount"] = 153,
-					}, -- [42]
-					{
-						["name"] = "Shado-Pan Monastery",
-						["totalXP"] = 13600,
-						["rested"] = 112,
-						["killTotal"] = 13600,
-						["level"] = 38,
-						["inProgress"] = false,
-						["killCount"] = 75,
-					}, -- [43]
-					{
-						["killCount"] = 41,
-						["name"] = "Mogu'shan Palace",
-						["inProgress"] = false,
-						["killTotal"] = 15130,
-						["level"] = 37,
-						["rested"] = 3,
-						["totalXP"] = 15130,
-					}, -- [44]
-					{
-						["killCount"] = 42,
+						["rested"] = 5846,
 						["name"] = "Gate of the Setting Sun",
-						["inProgress"] = false,
-						["killTotal"] = 5091,
-						["level"] = 36,
-						["rested"] = 0,
-						["totalXP"] = 5091,
-					}, -- [45]
-					{
-						["killCount"] = 76,
-						["name"] = "Stormstout Brewery",
-						["inProgress"] = false,
-						["killTotal"] = 13009,
-						["level"] = 36,
-						["rested"] = 15,
-						["totalXP"] = 13009,
-					}, -- [46]
-					{
-						["killCount"] = 78,
-						["name"] = "The Mechanar",
-						["inProgress"] = false,
-						["killTotal"] = 19855,
-						["level"] = 35,
-						["rested"] = 27,
-						["totalXP"] = 19855,
-					}, -- [47]
-					{
-						["killCount"] = 130,
-						["name"] = "The Shattered Halls",
-						["inProgress"] = false,
-						["killTotal"] = 23470,
-						["level"] = 34,
-						["rested"] = 3,
-						["totalXP"] = 23470,
-					}, -- [48]
-					{
-						["killCount"] = 95,
-						["name"] = "Mana-Tombs",
-						["inProgress"] = false,
-						["killTotal"] = 21362,
-						["level"] = 33,
-						["rested"] = 4,
-						["totalXP"] = 21362,
-					}, -- [49]
-					{
-						["killCount"] = 2,
-						["name"] = "The Underbog",
-						["inProgress"] = false,
-						["killTotal"] = 2545,
-						["level"] = 32,
-						["rested"] = 2,
-						["totalXP"] = 2545,
-					}, -- [50]
-					{
-						["killCount"] = 119,
-						["name"] = "The Blood Furnace",
-						["inProgress"] = false,
-						["killTotal"] = 25386,
-						["level"] = 30,
-						["rested"] = 6,
-						["totalXP"] = 25386,
-					}, -- [51]
-					{
-						["killCount"] = 126,
-						["name"] = "The Arcatraz",
-						["inProgress"] = false,
-						["killTotal"] = 16105,
-						["level"] = 29,
-						["rested"] = 4,
-						["totalXP"] = 16105,
-					}, -- [52]
-					{
-						["killCount"] = 127,
-						["name"] = "The Steamvault",
-						["inProgress"] = false,
-						["killTotal"] = 20969,
-						["level"] = 27,
-						["rested"] = 0,
-						["totalXP"] = 20969,
-					}, -- [53]
-					{
-						["killCount"] = 76,
-						["name"] = "The Mechanar",
-						["inProgress"] = false,
-						["killTotal"] = 15729,
-						["level"] = 25,
-						["rested"] = 1017,
-						["totalXP"] = 15729,
-					}, -- [54]
-					{
-						["totalXP"] = 17484,
-						["name"] = "The Shattered Halls",
-						["rested"] = 0,
-						["killTotal"] = 17484,
-						["level"] = 23,
-						["killCount"] = 130,
-						["inProgress"] = false,
-					}, -- [55]
-					{
-						["totalXP"] = 14618,
-						["name"] = "Hellfire Ramparts",
-						["rested"] = 4267,
-						["killTotal"] = 14618,
-						["level"] = 21,
-						["killCount"] = 96,
-						["inProgress"] = false,
-					}, -- [56]
-					{
-						["totalXP"] = 15718,
-						["name"] = "Sethekk Halls",
-						["rested"] = 15718,
-						["killTotal"] = 15718,
-						["level"] = 18,
-						["killCount"] = 129,
-						["inProgress"] = false,
-					}, -- [57]
-					{
-						["totalXP"] = 52536,
-						["name"] = "Dire Maul",
-						["rested"] = 12628,
-						["killTotal"] = 52536,
-						["level"] = 39,
-						["killCount"] = 167,
-						["inProgress"] = false,
-					}, -- [58]
-					{
-						["totalXP"] = 29403,
-						["name"] = "Scarlet Halls",
-						["rested"] = 29403,
-						["killTotal"] = 29403,
-						["level"] = 37,
-						["killCount"] = 91,
-						["inProgress"] = false,
-					}, -- [59]
-					{
-						["inProgress"] = false,
-						["totalXP"] = 19373,
-						["killCount"] = 96,
-						["killTotal"] = 19373,
-						["level"] = 25,
-						["rested"] = 0,
-						["name"] = "The Deadmines",
-					}, -- [60]
-					{
-						["inProgress"] = false,
-						["totalXP"] = 36931,
-						["killCount"] = 167,
-						["killTotal"] = 36931,
-						["level"] = 22,
-						["rested"] = 0,
-						["name"] = "The Wailing Caverns",
-					}, -- [61]
+					}, -- [12]
 				},
-				["questAverage"] = 7200,
+				["questAverage"] = 9828.5,
 			},
 		},
 		["Intergalacto - Azshara"] = {
 			["data"] = {
 				["total"] = {
-					["quests"] = 57,
 					["dungeonKills"] = 65,
+					["quests"] = 57,
 					["mobKills"] = 328,
 				},
 				["killList"] = {
@@ -2987,22 +2413,22 @@ XToLevelDB = {
 				},
 				["dungeonList"] = {
 					{
-						["inProgress"] = true,
 						["totalXP"] = 1293,
-						["killCount"] = 9,
+						["name"] = "Violet Hold",
+						["rested"] = 1293,
 						["killTotal"] = 1293,
 						["level"] = 109,
-						["rested"] = 1293,
-						["name"] = "Violet Hold",
+						["killCount"] = 9,
+						["inProgress"] = true,
 					}, -- [1]
 					{
-						["name"] = "Eye of Azshara",
+						["inProgress"] = false,
 						["totalXP"] = 48042,
-						["rested"] = 48042,
+						["killCount"] = 56,
 						["killTotal"] = 48042,
 						["level"] = 109,
-						["inProgress"] = false,
-						["killCount"] = 56,
+						["rested"] = 48042,
+						["name"] = "Eye of Azshara",
 					}, -- [2]
 				},
 				["questList"] = {
@@ -3066,17 +2492,989 @@ XToLevelDB = {
 				},
 			},
 		},
+		["Cirina - Tarren Mill"] = {
+			["data"] = {
+				["total"] = {
+					["quests"] = 37,
+					["mobKills"] = 193,
+				},
+				["killAverage"] = 56.4,
+				["killList"] = {
+					{
+						["mob"] = "Felblade Assassin",
+						["xp"] = 60,
+					}, -- [1]
+					{
+						["mob"] = "Felblade Assassin",
+						["xp"] = 67,
+					}, -- [2]
+					{
+						["mob"] = "Felblade Assassin",
+						["xp"] = 35,
+					}, -- [3]
+					{
+						["mob"] = "Felblade Assassin",
+						["xp"] = 81,
+					}, -- [4]
+					{
+						["mob"] = "Felblade Assassin",
+						["xp"] = 66,
+					}, -- [5]
+					{
+						["mob"] = "Felblade Assassin",
+						["xp"] = 48,
+					}, -- [6]
+					{
+						["mob"] = "Felblade Assassin",
+						["xp"] = 42,
+					}, -- [7]
+					{
+						["mob"] = "Felblade Assassin",
+						["xp"] = 49,
+					}, -- [8]
+					{
+						["mob"] = "Felblade Assassin",
+						["xp"] = 69,
+					}, -- [9]
+					{
+						["mob"] = "Felblade Assassin",
+						["xp"] = 47,
+					}, -- [10]
+					{
+						["mob"] = "Felblade Assassin",
+						["xp"] = 36,
+					}, -- [11]
+					{
+						["mob"] = "Felblade Assassin",
+						["xp"] = 61,
+					}, -- [12]
+					{
+						["mob"] = "Felblade Assassin",
+						["xp"] = 53,
+					}, -- [13]
+					{
+						["mob"] = "Felblade Assassin",
+						["xp"] = 69,
+					}, -- [14]
+					{
+						["mob"] = "Shard of Hate",
+						["xp"] = 7,
+					}, -- [15]
+				},
+				["timer"] = {
+					["start"] = 843733.373,
+					["total"] = 0,
+					["lastUpdated"] = 843762.966,
+					["xpPerSec"] = 19.21224900577985,
+				},
+				["npcXP"] = {
+					{
+						["level"] = 15,
+						["name"] = "Shard of Hate",
+						["xp"] = 7,
+					}, -- [1]
+					{
+						["level"] = 15,
+						["name"] = "Felblade Assassin",
+						["xp"] = 35,
+					}, -- [2]
+					{
+						["level"] = 16,
+						["name"] = "Felblade Assassin",
+						["xp"] = 60,
+					}, -- [3]
+				},
+				["questAverage"] = 1525,
+				["questList"] = {
+					550, -- [1]
+					1650, -- [2]
+					2250, -- [3]
+					1650, -- [4]
+				},
+			},
+		},
+		["Cymet - Silvermoon"] = {
+			["data"] = {
+				["total"] = {
+					["dungeonKills"] = 2456,
+					["quests"] = 115,
+					["mobKills"] = 2721,
+				},
+				["killAverage"] = 230,
+				["timer"] = {
+					["start"] = 1104647.824,
+					["total"] = 0,
+					["lastUpdated"] = 1105423.251,
+					["xpPerSec"] = 46.69472595398601,
+				},
+				["dungeonList"] = {
+					{
+						["inProgress"] = false,
+						["totalXP"] = 12893,
+						["killCount"] = 71,
+						["killTotal"] = 12893,
+						["level"] = 43,
+						["rested"] = 49,
+						["name"] = "Stormstout Brewery",
+					}, -- [1]
+					{
+						["inProgress"] = false,
+						["totalXP"] = 18477,
+						["killCount"] = 151,
+						["killTotal"] = 18477,
+						["level"] = 43,
+						["rested"] = 24,
+						["name"] = "Scholomance",
+					}, -- [2]
+					{
+						["inProgress"] = false,
+						["totalXP"] = 12827,
+						["killCount"] = 51,
+						["killTotal"] = 12827,
+						["level"] = 42,
+						["rested"] = 3,
+						["name"] = "Stormwind Stockade",
+					}, -- [3]
+					{
+						["inProgress"] = false,
+						["totalXP"] = 15249,
+						["killCount"] = 92,
+						["killTotal"] = 15249,
+						["level"] = 41,
+						["rested"] = 468,
+						["name"] = "The Deadmines",
+					}, -- [4]
+					{
+						["name"] = "Mogu'shan Palace",
+						["totalXP"] = 13934,
+						["rested"] = 10443,
+						["killTotal"] = 13934,
+						["level"] = 40,
+						["inProgress"] = false,
+						["killCount"] = 41,
+					}, -- [5]
+					{
+						["name"] = "Temple of the Jade Serpent",
+						["totalXP"] = 12130,
+						["rested"] = 6,
+						["killTotal"] = 12130,
+						["level"] = 40,
+						["inProgress"] = false,
+						["killCount"] = 73,
+					}, -- [6]
+					{
+						["name"] = "Shado-Pan Monastery",
+						["totalXP"] = 14590,
+						["rested"] = 15,
+						["killTotal"] = 14590,
+						["level"] = 39,
+						["inProgress"] = false,
+						["killCount"] = 85,
+					}, -- [7]
+					{
+						["name"] = "Mogu'shan Palace",
+						["totalXP"] = 17451,
+						["rested"] = 35,
+						["killTotal"] = 17451,
+						["level"] = 38,
+						["inProgress"] = false,
+						["killCount"] = 80,
+					}, -- [8]
+					{
+						["name"] = "The Oculus",
+						["totalXP"] = 17179,
+						["rested"] = 13,
+						["killTotal"] = 17179,
+						["level"] = 37,
+						["inProgress"] = false,
+						["killCount"] = 91,
+					}, -- [9]
+					{
+						["name"] = "Ahn'kahet: The Old Kingdom",
+						["totalXP"] = 15229,
+						["rested"] = 6,
+						["killTotal"] = 15229,
+						["level"] = 36,
+						["inProgress"] = false,
+						["killCount"] = 70,
+					}, -- [10]
+					{
+						["name"] = "Halls of Stone",
+						["totalXP"] = 3176,
+						["rested"] = 0,
+						["killTotal"] = 3176,
+						["level"] = 35,
+						["inProgress"] = false,
+						["killCount"] = 10,
+					}, -- [11]
+					{
+						["name"] = "Halls of Stone",
+						["totalXP"] = 17816,
+						["rested"] = 8,
+						["killTotal"] = 17816,
+						["level"] = 35,
+						["inProgress"] = false,
+						["killCount"] = 130,
+					}, -- [12]
+					{
+						["name"] = "Utgarde Pinnacle",
+						["totalXP"] = 18987,
+						["rested"] = 3,
+						["killTotal"] = 18987,
+						["level"] = 34,
+						["inProgress"] = false,
+						["killCount"] = 83,
+					}, -- [13]
+					{
+						["name"] = "Auchenai Crypts",
+						["totalXP"] = 15561,
+						["rested"] = 8,
+						["killTotal"] = 15561,
+						["level"] = 33,
+						["inProgress"] = false,
+						["killCount"] = 143,
+					}, -- [14]
+					{
+						["name"] = "Utgarde Keep",
+						["totalXP"] = 19143,
+						["rested"] = 3,
+						["killTotal"] = 19143,
+						["level"] = 32,
+						["inProgress"] = false,
+						["killCount"] = 94,
+					}, -- [15]
+					{
+						["name"] = "The Nexus",
+						["totalXP"] = 19814,
+						["rested"] = 8,
+						["killTotal"] = 19814,
+						["level"] = 30,
+						["inProgress"] = false,
+						["killCount"] = 73,
+					}, -- [16]
+					{
+						["name"] = "The Slave Pens",
+						["totalXP"] = 18992,
+						["rested"] = 0,
+						["killTotal"] = 18992,
+						["level"] = 29,
+						["inProgress"] = false,
+						["killCount"] = 97,
+					}, -- [17]
+					{
+						["name"] = "The Mechanar",
+						["totalXP"] = 16916,
+						["rested"] = 2,
+						["killTotal"] = 16916,
+						["level"] = 27,
+						["inProgress"] = false,
+						["killCount"] = 95,
+					}, -- [18]
+					{
+						["name"] = "The Arcatraz",
+						["totalXP"] = 6220,
+						["rested"] = 1,
+						["killTotal"] = 6220,
+						["level"] = 26,
+						["inProgress"] = false,
+						["killCount"] = 30,
+					}, -- [19]
+					{
+						["name"] = "The Shattered Halls",
+						["totalXP"] = 17128,
+						["rested"] = 6,
+						["killTotal"] = 17128,
+						["level"] = 25,
+						["inProgress"] = false,
+						["killCount"] = 140,
+					}, -- [20]
+					{
+						["name"] = "The Underbog",
+						["totalXP"] = 17997,
+						["rested"] = 0,
+						["killTotal"] = 17997,
+						["level"] = 23,
+						["inProgress"] = false,
+						["killCount"] = 109,
+					}, -- [21]
+					{
+						["name"] = "Auchenai Crypts",
+						["totalXP"] = 9110,
+						["rested"] = 7,
+						["killTotal"] = 9110,
+						["level"] = 21,
+						["inProgress"] = false,
+						["killCount"] = 132,
+					}, -- [22]
+					{
+						["name"] = "Sethekk Halls",
+						["totalXP"] = 13027,
+						["rested"] = 0,
+						["killTotal"] = 13027,
+						["level"] = 19,
+						["inProgress"] = false,
+						["killCount"] = 118,
+					}, -- [23]
+					{
+						["name"] = "Mana-Tombs",
+						["totalXP"] = 13664,
+						["rested"] = 3,
+						["killTotal"] = 13664,
+						["level"] = 17,
+						["inProgress"] = false,
+						["killCount"] = 113,
+					}, -- [24]
+					{
+						["name"] = "Darkheart Thicket",
+						["totalXP"] = 7647,
+						["rested"] = 1668,
+						["killTotal"] = 7647,
+						["level"] = 16,
+						["inProgress"] = false,
+						["killCount"] = 104,
+					}, -- [25]
+					{
+						["totalXP"] = 5294,
+						["name"] = "Neltharion's Lair",
+						["rested"] = 1,
+						["killTotal"] = 5294,
+						["level"] = 15,
+						["killCount"] = 72,
+						["inProgress"] = false,
+					}, -- [26]
+					{
+						["totalXP"] = 3931,
+						["name"] = "Eye of Azshara",
+						["rested"] = 0,
+						["killTotal"] = 3931,
+						["level"] = 14,
+						["killCount"] = 55,
+						["inProgress"] = false,
+					}, -- [27]
+					{
+						["totalXP"] = 4451,
+						["name"] = "Violet Hold",
+						["rested"] = 8,
+						["killTotal"] = 4451,
+						["level"] = 12,
+						["killCount"] = 34,
+						["inProgress"] = false,
+					}, -- [28]
+					{
+						["totalXP"] = 961,
+						["name"] = "Darkmaul Citadel",
+						["rested"] = 0,
+						["killTotal"] = 961,
+						["level"] = 9,
+						["killCount"] = 19,
+						["inProgress"] = false,
+					}, -- [29]
+				},
+				["questAverage"] = 6000,
+				["questList"] = {
+					6000, -- [1]
+					6000, -- [2]
+				},
+			},
+		},
+		["Mihri - Tarren Mill"] = {
+			["data"] = {
+				["timer"] = {
+					["start"] = 396926.161,
+					["total"] = 328909,
+					["lastUpdated"] = 410089.549,
+					["xpPerSec"] = 24.98665237247436,
+				},
+				["total"] = {
+					["quests"] = 314,
+					["mobKills"] = 1181,
+				},
+				["killAverage"] = 143.5,
+				["questAverage"] = 9828.5,
+			},
+		},
+		["Intergalacto - Tarren Mill"] = {
+			["data"] = {
+				["total"] = {
+					["dungeonKills"] = 5509,
+					["quests"] = 133,
+					["mobKills"] = 5691,
+				},
+				["killAverage"] = 744.4,
+				["timer"] = {
+					["start"] = 773426.201,
+					["total"] = 272928,
+					["lastUpdated"] = 775991.43,
+					["xpPerSec"] = 106.395179533677,
+				},
+				["dungeonList"] = {
+					{
+						["totalXP"] = 39275,
+						["name"] = "Halls of Atonement",
+						["rested"] = 0,
+						["killTotal"] = 39275,
+						["level"] = 59,
+						["killCount"] = 93,
+						["inProgress"] = true,
+					}, -- [1]
+					{
+						["totalXP"] = 32550,
+						["name"] = "Mists of Tirna Scithe",
+						["rested"] = 0,
+						["killTotal"] = 32550,
+						["level"] = 59,
+						["killCount"] = 70,
+						["inProgress"] = false,
+					}, -- [2]
+					{
+						["totalXP"] = 35824,
+						["name"] = "The Necrotic Wake",
+						["rested"] = 1629,
+						["killTotal"] = 35824,
+						["level"] = 59,
+						["killCount"] = 85,
+						["inProgress"] = false,
+					}, -- [3]
+					{
+						["name"] = "Halls of Atonement",
+						["totalXP"] = 35274,
+						["rested"] = 0,
+						["killTotal"] = 35274,
+						["level"] = 59,
+						["inProgress"] = false,
+						["killCount"] = 84,
+					}, -- [4]
+					{
+						["name"] = "Plaguefall",
+						["totalXP"] = 33718,
+						["rested"] = 0,
+						["killTotal"] = 33718,
+						["level"] = 58,
+						["inProgress"] = false,
+						["killCount"] = 97,
+					}, -- [5]
+					{
+						["name"] = "Mists of Tirna Scithe",
+						["totalXP"] = 30077,
+						["rested"] = 0,
+						["killTotal"] = 30077,
+						["level"] = 58,
+						["inProgress"] = false,
+						["killCount"] = 71,
+					}, -- [6]
+					{
+						["name"] = "Halls of Atonement",
+						["totalXP"] = 37422,
+						["rested"] = 2321,
+						["killTotal"] = 37422,
+						["level"] = 58,
+						["inProgress"] = false,
+						["killCount"] = 90,
+					}, -- [7]
+					{
+						["killCount"] = 91,
+						["name"] = "Plaguefall",
+						["inProgress"] = false,
+						["killTotal"] = 32313,
+						["level"] = 57,
+						["rested"] = 0,
+						["totalXP"] = 32313,
+					}, -- [8]
+					{
+						["killCount"] = 70,
+						["name"] = "Mists of Tirna Scithe",
+						["inProgress"] = false,
+						["killTotal"] = 31670,
+						["level"] = 57,
+						["rested"] = 0,
+						["totalXP"] = 31670,
+					}, -- [9]
+					{
+						["killCount"] = 170,
+						["name"] = "Halls of Atonement",
+						["inProgress"] = false,
+						["killTotal"] = 65442,
+						["level"] = 57,
+						["rested"] = 0,
+						["totalXP"] = 65442,
+					}, -- [10]
+					{
+						["killCount"] = 70,
+						["name"] = "Mists of Tirna Scithe",
+						["inProgress"] = false,
+						["killTotal"] = 26435,
+						["level"] = 56,
+						["rested"] = 13940,
+						["totalXP"] = 26435,
+					}, -- [11]
+					{
+						["name"] = "Halls of Atonement",
+						["totalXP"] = 36675,
+						["rested"] = 0,
+						["killTotal"] = 36675,
+						["level"] = 56,
+						["inProgress"] = false,
+						["killCount"] = 90,
+					}, -- [12]
+					{
+						["name"] = "The Necrotic Wake",
+						["totalXP"] = 62902,
+						["rested"] = 0,
+						["killTotal"] = 62902,
+						["level"] = 55,
+						["inProgress"] = false,
+						["killCount"] = 156,
+					}, -- [13]
+					{
+						["name"] = "Halls of Atonement",
+						["totalXP"] = 32551,
+						["rested"] = 0,
+						["killTotal"] = 32551,
+						["level"] = 55,
+						["inProgress"] = false,
+						["killCount"] = 83,
+					}, -- [14]
+					{
+						["name"] = "Plaguefall",
+						["totalXP"] = 31420,
+						["rested"] = 0,
+						["killTotal"] = 31420,
+						["level"] = 55,
+						["inProgress"] = false,
+						["killCount"] = 91,
+					}, -- [15]
+					{
+						["name"] = "The Necrotic Wake",
+						["totalXP"] = 26673,
+						["rested"] = 0,
+						["killTotal"] = 26673,
+						["level"] = 55,
+						["inProgress"] = false,
+						["killCount"] = 78,
+					}, -- [16]
+					{
+						["name"] = "Halls of Atonement",
+						["totalXP"] = 33528,
+						["rested"] = 0,
+						["killTotal"] = 33528,
+						["level"] = 54,
+						["inProgress"] = false,
+						["killCount"] = 78,
+					}, -- [17]
+					{
+						["name"] = "Mists of Tirna Scithe",
+						["totalXP"] = 29758,
+						["rested"] = 0,
+						["killTotal"] = 29758,
+						["level"] = 54,
+						["inProgress"] = false,
+						["killCount"] = 71,
+					}, -- [18]
+					{
+						["name"] = "Plaguefall",
+						["totalXP"] = 28273,
+						["rested"] = 1105,
+						["killTotal"] = 28273,
+						["level"] = 54,
+						["inProgress"] = false,
+						["killCount"] = 107,
+					}, -- [19]
+					{
+						["name"] = "The Necrotic Wake",
+						["totalXP"] = 31509,
+						["rested"] = 0,
+						["killTotal"] = 31509,
+						["level"] = 53,
+						["inProgress"] = false,
+						["killCount"] = 81,
+					}, -- [20]
+					{
+						["name"] = "Halls of Atonement",
+						["totalXP"] = 29138,
+						["rested"] = 0,
+						["killTotal"] = 29138,
+						["level"] = 53,
+						["inProgress"] = false,
+						["killCount"] = 82,
+					}, -- [21]
+					{
+						["name"] = "Mists of Tirna Scithe",
+						["totalXP"] = 26825,
+						["rested"] = 0,
+						["killTotal"] = 26825,
+						["level"] = 53,
+						["inProgress"] = false,
+						["killCount"] = 69,
+					}, -- [22]
+					{
+						["name"] = "Plaguefall",
+						["totalXP"] = 33856,
+						["rested"] = 2405,
+						["killTotal"] = 33856,
+						["level"] = 52,
+						["inProgress"] = false,
+						["killCount"] = 104,
+					}, -- [23]
+					{
+						["killCount"] = 75,
+						["name"] = "Halls of Atonement",
+						["inProgress"] = false,
+						["killTotal"] = 31102,
+						["level"] = 52,
+						["rested"] = 0,
+						["totalXP"] = 31102,
+					}, -- [24]
+					{
+						["killCount"] = 58,
+						["name"] = "The Necrotic Wake",
+						["inProgress"] = false,
+						["killTotal"] = 28645,
+						["level"] = 52,
+						["rested"] = 5406,
+						["totalXP"] = 28645,
+					}, -- [25]
+					{
+						["killCount"] = 13,
+						["name"] = "The Necrotic Wake",
+						["inProgress"] = false,
+						["killTotal"] = 1358,
+						["level"] = 52,
+						["rested"] = 1358,
+						["totalXP"] = 1358,
+					}, -- [26]
+					{
+						["killCount"] = 76,
+						["name"] = "Mists of Tirna Scithe",
+						["inProgress"] = false,
+						["killTotal"] = 23470,
+						["level"] = 51,
+						["rested"] = 23470,
+						["totalXP"] = 23470,
+					}, -- [27]
+					{
+						["killCount"] = 75,
+						["name"] = "Atal'Dazar",
+						["inProgress"] = false,
+						["killTotal"] = 22746,
+						["level"] = 51,
+						["rested"] = 22746,
+						["totalXP"] = 22746,
+					}, -- [28]
+					{
+						["name"] = "Ahn'kahet: The Old Kingdom",
+						["totalXP"] = 28128,
+						["rested"] = 706,
+						["killTotal"] = 28128,
+						["level"] = 49,
+						["inProgress"] = false,
+						["killCount"] = 90,
+					}, -- [29]
+					{
+						["totalXP"] = 27385,
+						["name"] = "The Culling of Stratholme",
+						["rested"] = 0,
+						["killTotal"] = 27385,
+						["level"] = 49,
+						["killCount"] = 69,
+						["inProgress"] = false,
+					}, -- [30]
+					{
+						["totalXP"] = 29669,
+						["name"] = "Drak'Tharon Keep",
+						["rested"] = 0,
+						["killTotal"] = 29669,
+						["level"] = 48,
+						["killCount"] = 90,
+						["inProgress"] = false,
+					}, -- [31]
+					{
+						["totalXP"] = 25294,
+						["name"] = "Utgarde Pinnacle",
+						["rested"] = 0,
+						["killTotal"] = 25294,
+						["level"] = 47,
+						["killCount"] = 75,
+						["inProgress"] = false,
+					}, -- [32]
+					{
+						["totalXP"] = 13076,
+						["name"] = "Azjol-Nerub",
+						["rested"] = 12,
+						["killTotal"] = 13076,
+						["level"] = 47,
+						["killCount"] = 38,
+						["inProgress"] = false,
+					}, -- [33]
+					{
+						["totalXP"] = 26261,
+						["name"] = "The Oculus",
+						["rested"] = 13459,
+						["killTotal"] = 26261,
+						["level"] = 46,
+						["killCount"] = 95,
+						["inProgress"] = false,
+					}, -- [34]
+					{
+						["killCount"] = 100,
+						["name"] = "Utgarde Keep",
+						["inProgress"] = false,
+						["killTotal"] = 29231,
+						["level"] = 45,
+						["rested"] = 0,
+						["totalXP"] = 29231,
+					}, -- [35]
+					{
+						["killCount"] = 69,
+						["name"] = "The Culling of Stratholme",
+						["inProgress"] = false,
+						["killTotal"] = 25416,
+						["level"] = 44,
+						["rested"] = 23,
+						["totalXP"] = 25416,
+					}, -- [36]
+					{
+						["killCount"] = 87,
+						["name"] = "Halls of Lightning",
+						["inProgress"] = false,
+						["killTotal"] = 31779,
+						["level"] = 43,
+						["rested"] = 4,
+						["totalXP"] = 31779,
+					}, -- [37]
+					{
+						["killCount"] = 135,
+						["name"] = "Halls of Stone",
+						["inProgress"] = false,
+						["killTotal"] = 27890,
+						["level"] = 42,
+						["rested"] = 4,
+						["totalXP"] = 27890,
+					}, -- [38]
+					{
+						["killCount"] = 74,
+						["name"] = "The Nexus",
+						["inProgress"] = false,
+						["killTotal"] = 31407,
+						["level"] = 41,
+						["rested"] = 6,
+						["totalXP"] = 31407,
+					}, -- [39]
+					{
+						["killCount"] = 76,
+						["name"] = "Temple of the Jade Serpent",
+						["inProgress"] = false,
+						["killTotal"] = 14608,
+						["level"] = 40,
+						["rested"] = 8971,
+						["totalXP"] = 14608,
+					}, -- [40]
+					{
+						["totalXP"] = 11339,
+						["name"] = "Siege of Niuzao Temple",
+						["rested"] = 41,
+						["killTotal"] = 11339,
+						["level"] = 40,
+						["killCount"] = 117,
+						["inProgress"] = false,
+					}, -- [41]
+					{
+						["inProgress"] = false,
+						["totalXP"] = 13880,
+						["killCount"] = 153,
+						["killTotal"] = 13880,
+						["level"] = 39,
+						["rested"] = 7,
+						["name"] = "Stormstout Brewery",
+					}, -- [42]
+					{
+						["inProgress"] = false,
+						["totalXP"] = 13600,
+						["killCount"] = 75,
+						["killTotal"] = 13600,
+						["level"] = 38,
+						["rested"] = 112,
+						["name"] = "Shado-Pan Monastery",
+					}, -- [43]
+					{
+						["name"] = "Mogu'shan Palace",
+						["totalXP"] = 15130,
+						["rested"] = 3,
+						["killTotal"] = 15130,
+						["level"] = 37,
+						["inProgress"] = false,
+						["killCount"] = 41,
+					}, -- [44]
+					{
+						["name"] = "Gate of the Setting Sun",
+						["totalXP"] = 5091,
+						["rested"] = 0,
+						["killTotal"] = 5091,
+						["level"] = 36,
+						["inProgress"] = false,
+						["killCount"] = 42,
+					}, -- [45]
+					{
+						["name"] = "Stormstout Brewery",
+						["totalXP"] = 13009,
+						["rested"] = 15,
+						["killTotal"] = 13009,
+						["level"] = 36,
+						["inProgress"] = false,
+						["killCount"] = 76,
+					}, -- [46]
+					{
+						["name"] = "The Mechanar",
+						["totalXP"] = 19855,
+						["rested"] = 27,
+						["killTotal"] = 19855,
+						["level"] = 35,
+						["inProgress"] = false,
+						["killCount"] = 78,
+					}, -- [47]
+					{
+						["name"] = "The Shattered Halls",
+						["totalXP"] = 23470,
+						["rested"] = 3,
+						["killTotal"] = 23470,
+						["level"] = 34,
+						["inProgress"] = false,
+						["killCount"] = 130,
+					}, -- [48]
+					{
+						["name"] = "Mana-Tombs",
+						["totalXP"] = 21362,
+						["rested"] = 4,
+						["killTotal"] = 21362,
+						["level"] = 33,
+						["inProgress"] = false,
+						["killCount"] = 95,
+					}, -- [49]
+					{
+						["name"] = "The Underbog",
+						["totalXP"] = 2545,
+						["rested"] = 2,
+						["killTotal"] = 2545,
+						["level"] = 32,
+						["inProgress"] = false,
+						["killCount"] = 2,
+					}, -- [50]
+					{
+						["name"] = "The Blood Furnace",
+						["totalXP"] = 25386,
+						["rested"] = 6,
+						["killTotal"] = 25386,
+						["level"] = 30,
+						["inProgress"] = false,
+						["killCount"] = 119,
+					}, -- [51]
+					{
+						["name"] = "The Arcatraz",
+						["totalXP"] = 16105,
+						["rested"] = 4,
+						["killTotal"] = 16105,
+						["level"] = 29,
+						["inProgress"] = false,
+						["killCount"] = 126,
+					}, -- [52]
+					{
+						["name"] = "The Steamvault",
+						["totalXP"] = 20969,
+						["rested"] = 0,
+						["killTotal"] = 20969,
+						["level"] = 27,
+						["inProgress"] = false,
+						["killCount"] = 127,
+					}, -- [53]
+					{
+						["name"] = "The Mechanar",
+						["totalXP"] = 15729,
+						["rested"] = 1017,
+						["killTotal"] = 15729,
+						["level"] = 25,
+						["inProgress"] = false,
+						["killCount"] = 76,
+					}, -- [54]
+					{
+						["killCount"] = 130,
+						["name"] = "The Shattered Halls",
+						["inProgress"] = false,
+						["killTotal"] = 17484,
+						["level"] = 23,
+						["rested"] = 0,
+						["totalXP"] = 17484,
+					}, -- [55]
+					{
+						["killCount"] = 96,
+						["name"] = "Hellfire Ramparts",
+						["inProgress"] = false,
+						["killTotal"] = 14618,
+						["level"] = 21,
+						["rested"] = 4267,
+						["totalXP"] = 14618,
+					}, -- [56]
+					{
+						["killCount"] = 129,
+						["name"] = "Sethekk Halls",
+						["inProgress"] = false,
+						["killTotal"] = 15718,
+						["level"] = 18,
+						["rested"] = 15718,
+						["totalXP"] = 15718,
+					}, -- [57]
+					{
+						["killCount"] = 167,
+						["name"] = "Dire Maul",
+						["inProgress"] = false,
+						["killTotal"] = 52536,
+						["level"] = 39,
+						["rested"] = 12628,
+						["totalXP"] = 52536,
+					}, -- [58]
+					{
+						["killCount"] = 91,
+						["name"] = "Scarlet Halls",
+						["inProgress"] = false,
+						["killTotal"] = 29403,
+						["level"] = 37,
+						["rested"] = 29403,
+						["totalXP"] = 29403,
+					}, -- [59]
+					{
+						["totalXP"] = 19373,
+						["name"] = "The Deadmines",
+						["rested"] = 0,
+						["killTotal"] = 19373,
+						["level"] = 25,
+						["killCount"] = 96,
+						["inProgress"] = false,
+					}, -- [60]
+					{
+						["totalXP"] = 36931,
+						["name"] = "The Wailing Caverns",
+						["rested"] = 0,
+						["killTotal"] = 36931,
+						["level"] = 22,
+						["killCount"] = 167,
+						["inProgress"] = false,
+					}, -- [61]
+				},
+				["questAverage"] = 7200,
+			},
+		},
 	},
 	["profileKeys"] = {
 		["Thankubliz - Tarren Mill"] = "Thankubliz - Tarren Mill",
 		["Iridia - Tarren Mill"] = "Iridia - Tarren Mill",
 		["Ieni - Tarren Mill"] = "Ieni - Tarren Mill",
+		["Testolel - Silvermoon"] = "Testolel - Silvermoon",
 		["Intergalacto - Onyxia"] = "Intergalacto - Onyxia",
 		["Rynllor - Tarren Mill"] = "Rynllor - Tarren Mill",
 		["Enthusiastus - Tarren Mill"] = "Enthusiastus - Tarren Mill",
+		["Intergalacto - Azshara"] = "Intergalacto - Azshara",
+		["Cirina - Tarren Mill"] = "Cirina - Tarren Mill",
+		["Cymet - Silvermoon"] = "Cymet - Silvermoon",
 		["Mihri - Tarren Mill"] = "Mihri - Tarren Mill",
 		["Intergalacto - Tarren Mill"] = "Intergalacto - Tarren Mill",
-		["Intergalacto - Azshara"] = "Intergalacto - Azshara",
 	},
 	["profiles"] = {
 		["Thankubliz - Tarren Mill"] = {
@@ -3084,6 +3482,8 @@ XToLevelDB = {
 		["Iridia - Tarren Mill"] = {
 		},
 		["Ieni - Tarren Mill"] = {
+		},
+		["Testolel - Silvermoon"] = {
 		},
 		["Intergalacto - Onyxia"] = {
 		},
@@ -3097,11 +3497,15 @@ XToLevelDB = {
 				["combineTooltip"] = true,
 			},
 		},
+		["Intergalacto - Azshara"] = {
+		},
+		["Cirina - Tarren Mill"] = {
+		},
+		["Cymet - Silvermoon"] = {
+		},
 		["Mihri - Tarren Mill"] = {
 		},
 		["Intergalacto - Tarren Mill"] = {
-		},
-		["Intergalacto - Azshara"] = {
 		},
 	},
 }

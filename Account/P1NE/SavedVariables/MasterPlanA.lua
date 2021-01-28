@@ -2,26 +2,36 @@
 MasterPlanAG = {
 	["Azshara"] = {
 		["Mamiko"] = {
-			["faction"] = "Horde",
 			["class"] = "PRIEST",
-		},
-		["Intergalacto"] = {
-			["faction"] = "Horde",
-			["class"] = "MONK",
-		},
-		["Enthusiastus"] = {
-			["class"] = "DRUID",
 			["faction"] = "Horde",
 		},
 		["Lyt"] = {
-			["faction"] = "Horde",
 			["class"] = "PALADIN",
+			["faction"] = "Horde",
+		},
+		["Enthusiastus"] = {
+			["faction"] = "Horde",
+			["class"] = "DRUID",
+		},
+		["Intergalacto"] = {
+			["class"] = "MONK",
+			["faction"] = "Horde",
 		},
 	},
 	["Onyxia"] = {
 		["Intergalacto"] = {
-			["class"] = "SHAMAN",
 			["faction"] = "Horde",
+			["class"] = "SHAMAN",
+		},
+	},
+	["Silvermoon"] = {
+		["Testolel"] = {
+			["class"] = "DRUID",
+			["faction"] = "Alliance",
+		},
+		["Cymet"] = {
+			["class"] = "DRUID",
+			["faction"] = "Alliance",
 		},
 	},
 	["Tarren Mill"] = {
@@ -32,17 +42,21 @@ MasterPlanAG = {
 				},
 			},
 			["faction"] = "Horde",
-			["curOil"] = 100,
 			["class"] = "PALADIN",
-			["curRes"] = 1238,
 			["lastCacheTime"] = 1507860642,
+			["curRes"] = 1238,
+			["curOil"] = 100,
 		},
 		["Mihri"] = {
-			["faction"] = "Horde",
 			["curOil"] = 25,
 			["class"] = "PRIEST",
-			["curRes"] = 71,
 			["lastCacheTime"] = 1516334237,
+			["curRes"] = 71,
+			["faction"] = "Horde",
+		},
+		["Thankubliz"] = {
+			["faction"] = "Horde",
+			["class"] = "MAGE",
 		},
 		["Enthusiastus"] = {
 			["class"] = "DRUID",
@@ -62,11 +76,11 @@ MasterPlanAG = {
 			["class"] = "MAGE",
 		},
 		["Rynllor"] = {
-			["faction"] = "Horde",
 			["class"] = "MONK",
+			["faction"] = "Horde",
 		},
-		["Thankubliz"] = {
-			["class"] = "MAGE",
+		["Cirina"] = {
+			["class"] = "DEMONHUNTER",
 			["faction"] = "Horde",
 		},
 		["Intergalacto"] = {

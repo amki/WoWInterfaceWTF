@@ -1,6 +1,9 @@
 
 PawnOptions = {
 	["LastVersion"] = 2.041,
+	["LastPlayerFullName"] = "Mihri-Tarren Mill",
+	["AutoSelectScales"] = false,
+	["UpgradeTracking"] = false,
 	["ItemLevels"] = {
 		{
 			["ID"] = 178759,
@@ -61,10 +64,10 @@ PawnOptions = {
 			["Link"] = "|cffa335ee|Hitem:178781::::::::60:256::23:5:6807:6652:7194:1498:6646:1:28:749:::|h[Ritual Commander's Ring]|h|r",
 		}, -- [12]
 		{
-			["ID"] = 180119,
-			["Level"] = 158,
+			["ID"] = 181457,
+			["Level"] = 164,
 			["AlsoFitsIn"] = 14,
-			["Link"] = "|cff0070dd|Hitem:180119::::::::60:256::1:4:6805:6652:1472:4785:1:28:2044:::|h[Boon of the Archon]|h|r",
+			["Link"] = "|cff0070dd|Hitem:181457::::::::60:256::27:4:6652:1472:5861:6616:1:28:2060:::|h[Wakener's Frond]|h|r",
 		}, -- [13]
 		{
 			["ID"] = 180119,
@@ -89,9 +92,7 @@ PawnOptions = {
 			["Link"] = "|cffa335ee|Hitem:180663::::::::55:258::11:2:6706:7173:2:28:1337:9:55:::|h[War Scholar's Bonesaw]|h|r",
 		}, -- [17]
 	},
-	["AutoSelectScales"] = false,
-	["UpgradeTracking"] = false,
-	["LastPlayerFullName"] = "Mihri-Tarren Mill",
+	["LastKeybindingsSet"] = 1,
 	["Artifacts"] = {
 		[128868] = {
 			["Relics"] = {
@@ -145,7 +146,6 @@ PawnOptions = {
 			["Name"] = "T'uure, Beacon of the Naaru",
 		},
 	},
-	["LastKeybindingsSet"] = 1,
 }
 PawnMrRobotScaleProviderOptions = {
 	["LastClass"] = "PRIEST",

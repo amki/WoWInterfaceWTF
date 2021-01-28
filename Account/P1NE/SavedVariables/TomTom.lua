@@ -1,13 +1,16 @@
 
 TomTomDB = {
 	["profileKeys"] = {
+		["Thankubliz - Tarren Mill"] = "Default",
+		["Iridia - Tarren Mill"] = "Default",
+		["Ieni - Tarren Mill"] = "Default",
 		["Rynllor - Tarren Mill"] = "Default",
 		["Enthusiastus - Tarren Mill"] = "Default",
-		["Ieni - Tarren Mill"] = "Default",
+		["Testolel - Silvermoon"] = "Default",
+		["Cirina - Tarren Mill"] = "Default",
+		["Cymet - Silvermoon"] = "Default",
 		["Mihri - Tarren Mill"] = "Default",
-		["Thankubliz - Tarren Mill"] = "Default",
 		["Intergalacto - Tarren Mill"] = "Default",
-		["Iridia - Tarren Mill"] = "Default",
 	},
 	["profiles"] = {
 		["Default"] = {
@@ -21,6 +24,7 @@ TomTomDB = {
 				},
 			},
 			["block"] = {
+				["enable"] = false,
 				["position"] = {
 					"TOPRIGHT", -- [1]
 					nil, -- [2]
@@ -35,28 +39,37 @@ TomTomDB = {
 TomTomWaypoints = nil
 TomTomWaypointsM = {
 	["profileKeys"] = {
+		["Thankubliz - Tarren Mill"] = "Thankubliz - Tarren Mill",
+		["Iridia - Tarren Mill"] = "Iridia - Tarren Mill",
+		["Ieni - Tarren Mill"] = "Ieni - Tarren Mill",
 		["Rynllor - Tarren Mill"] = "Rynllor - Tarren Mill",
 		["Enthusiastus - Tarren Mill"] = "Enthusiastus - Tarren Mill",
-		["Ieni - Tarren Mill"] = "Ieni - Tarren Mill",
+		["Testolel - Silvermoon"] = "Testolel - Silvermoon",
+		["Cirina - Tarren Mill"] = "Cirina - Tarren Mill",
+		["Cymet - Silvermoon"] = "Cymet - Silvermoon",
 		["Mihri - Tarren Mill"] = "Mihri - Tarren Mill",
-		["Thankubliz - Tarren Mill"] = "Thankubliz - Tarren Mill",
 		["Intergalacto - Tarren Mill"] = "Intergalacto - Tarren Mill",
-		["Iridia - Tarren Mill"] = "Iridia - Tarren Mill",
 	},
 	["profiles"] = {
+		["Thankubliz - Tarren Mill"] = {
+		},
+		["Iridia - Tarren Mill"] = {
+		},
+		["Ieni - Tarren Mill"] = {
+		},
 		["Rynllor - Tarren Mill"] = {
 		},
 		["Enthusiastus - Tarren Mill"] = {
 		},
-		["Ieni - Tarren Mill"] = {
+		["Testolel - Silvermoon"] = {
+		},
+		["Cirina - Tarren Mill"] = {
+		},
+		["Cymet - Silvermoon"] = {
 		},
 		["Mihri - Tarren Mill"] = {
 		},
-		["Thankubliz - Tarren Mill"] = {
-		},
 		["Intergalacto - Tarren Mill"] = {
-		},
-		["Iridia - Tarren Mill"] = {
 		},
 	},
 }

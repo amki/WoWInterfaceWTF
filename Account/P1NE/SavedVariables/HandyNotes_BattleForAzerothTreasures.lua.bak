@@ -1,28 +1,37 @@
 
 HandyNotes_BattleForAzerothTreasuresDB = {
 	["profileKeys"] = {
+		["Intergalacto - Tarren Mill"] = "Intergalacto - Tarren Mill",
+		["Iridia - Tarren Mill"] = "Iridia - Tarren Mill",
+		["Ieni - Tarren Mill"] = "Ieni - Tarren Mill",
 		["Rynllor - Tarren Mill"] = "Rynllor - Tarren Mill",
 		["Enthusiastus - Tarren Mill"] = "Enthusiastus - Tarren Mill",
-		["Ieni - Tarren Mill"] = "Ieni - Tarren Mill",
 		["Mihri - Tarren Mill"] = "Mihri - Tarren Mill",
-		["Iridia - Tarren Mill"] = "Iridia - Tarren Mill",
-		["Intergalacto - Tarren Mill"] = "Intergalacto - Tarren Mill",
+		["Cirina - Tarren Mill"] = "Cirina - Tarren Mill",
+		["Cymet - Silvermoon"] = "Cymet - Silvermoon",
 		["Thankubliz - Tarren Mill"] = "Thankubliz - Tarren Mill",
+		["Testolel - Silvermoon"] = "Testolel - Silvermoon",
 	},
 	["profiles"] = {
+		["Intergalacto - Tarren Mill"] = {
+		},
+		["Iridia - Tarren Mill"] = {
+		},
+		["Ieni - Tarren Mill"] = {
+		},
 		["Rynllor - Tarren Mill"] = {
 		},
 		["Enthusiastus - Tarren Mill"] = {
 		},
-		["Ieni - Tarren Mill"] = {
-		},
 		["Mihri - Tarren Mill"] = {
 		},
-		["Iridia - Tarren Mill"] = {
+		["Cirina - Tarren Mill"] = {
 		},
-		["Intergalacto - Tarren Mill"] = {
+		["Cymet - Silvermoon"] = {
 		},
 		["Thankubliz - Tarren Mill"] = {
+		},
+		["Testolel - Silvermoon"] = {
 		},
 	},
 }

@@ -55,3 +55,5 @@ AAP-Core: disabled
 AAP-EasternKingdoms: enabled
 AAP-Shadowlands: enabled
 OPie_Classic: disabled
+BigWigs_CastleNathria: enabled
+BigWigs_Shadowlands: enabled

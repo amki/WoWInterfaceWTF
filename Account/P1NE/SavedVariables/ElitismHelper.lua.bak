@@ -1,6 +1,6 @@
 
 ElitismHelperDB = {
-	["Threshold"] = 30,
-	["OutputMode"] = "self",
+	["Threshold"] = 50,
+	["OutputMode"] = "emote",
 	["Loud"] = true,
 }

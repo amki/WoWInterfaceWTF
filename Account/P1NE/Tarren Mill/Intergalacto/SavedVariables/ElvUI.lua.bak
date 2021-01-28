@@ -1,1152 +1,1152 @@
 
 ElvCharacterDB = {
 	["ChatEditHistory"] = {
-		"/p die and don't release", -- [1]
-		"/p welp, almost", -- [2]
-		"/p cyaaa", -- [3]
-		"/p is eonar next?", -- [4]
-		"/roll 1", -- [5]
-		"/roll", -- [6]
-		"/p |cff66bbff|Hjournal:2:15786:16|h[Shadow Strike]|h|r", -- [7]
-		"/p |cff66bbff|Hjournal:2:15784:16|h[Misery]|h|r", -- [8]
-		"/p |cff66bbff|Hjournal:2:15952:16|h[Empowered Flame Rend]|h|r", -- [9]
-		"/p |cff66bbff|Hjournal:2:16573:16|h[Burning Rage]|h|r", -- [10]
-		"/g |cffa335ee|Hitem:71554::::::::60:264:::1:3524::::|h[Erupting Volcanic Headpiece]|h|r|cffa335ee|Hitem:71556::::::::60:264:::1:3524::::|h[Erupting Volcanic Shoulderwraps]|h|r|cffa335ee|Hitem:71552::::::::60:264:::1:3524::::|h[Erupting Volcanic Hauberk]|h|r", -- [11]
-		"/g |cffa335ee|Hitem:113934::::::::60:264::5:1:566:1:28:2018:::|h[Fang of the Earth]|h|r", -- [12]
-		"/g |cffa335ee|Hitem:16842::::::::60:264:::1:3524::::|h[Earthfury Helmet]|h|r", -- [13]
-		"/g |cffa335ee|Hitem:147180::::::::60:264::6:1:3524::::|h[Pauldrons of the Skybreaker]|h|r", -- [14]
-		"/g |cffa335ee|Hitem:138343::::::::60:264::6:1:3524::::|h[Helm of Shackled Elements]|h|r|cffa335ee|Hitem:140872::::::::60:264::6:1:3524::::|h[Pauldrons of Warped Memory]|h|r|cffa335ee|Hitem:138372::::::::60:264::6:1:3524::::|h[Cloak of Shackled Elements]|h|r", -- [15]
-		"/g |cffa335ee|Hitem:100639::::::::60:264:::1:3524::::|h[Grievous Gladiator's Mail Helm]|h|r|cffa335ee|Hitem:100572::::::::60:264:::1:3524::::|h[Grievous Gladiator's Linked Spaulders]|h|r|cffa335ee|Hitem:100663::::::::60:264:::1:3524::::|h[Grievous Gladiator's Ringmail Armor]|h|r", -- [16]
-		"/g |cffa335ee|Hitem:99353::::::::60:264:::1:3524::::|h[Faceguard of Celestial Harmony]|h|r|cffa335ee|Hitem:99346::::::::60:264:::1:3524::::|h[Mantle of Celestial Harmony]|h|r|cffa335ee|Hitem:99344::::::::60:264:::1:3524::::|h[Hauberk of Celestial Harmony]|h|r", -- [17]
-		"/g |cffa335ee|Hitem:115579::::::::60:264::5:1:3524::::|h[Windspeaker's Faceguard]|h|r|cffa335ee|Hitem:115576::::::::60:264::5:1:3524::::|h[Windspeaker's Mantle]|h|r|cffa335ee|Hitem:115577::::::::60:264::5:1:3524::::|h[Windspeaker's Tunic]|h|r", -- [18]
-		"/p sure", -- [19]
-		"/p o/", -- [20]
+		"/raid lol 2 controls", -- [1]
+		"/raid ye", -- [2]
+		"/raid why would you even believe him", -- [3]
+		"/raid he's clearly out of his mind", -- [4]
+		"/raid see put a marker on ranged", -- [5]
+		"/raid i'm clearly healer", -- [6]
+		"/raid first off it's |cff71d5ff|Hspell:73899:0|h[Primal Strike]|h|r for me", -- [7]
+		"/raid and also no it costs mana", -- [8]
+		"/raid which pillarions first?", -- [9]
+		"/raid skull and then behind skull?", -- [10]
+		"/raid ok which one is 3rd?", -- [11]
+		"/raid ok", -- [12]
+		"/raid ready then", -- [13]
+		"/raid how'd the dh get linked with ranged?", -- [14]
+		"/raid o.O", -- [15]
+		"/raid ?", -- [16]
+		"/raid HOW", -- [17]
+		"/raid ppl aren't following the range mark? i'm shocked", -- [18]
+		"/plater", -- [19]
+		"/wa", -- [20]
 	},
 	["ChatHistoryLog"] = {
 		{
-			"%s has earned the achievement |cffffff00|Hachievement:5813:Player-1084-08695BD0:1:1:6:21:4294967295:4294967295:4294967295:4294967295|h[Do a Barrel Roll!]|h|r!", -- [1]
-			"Intergalacto-TarrenMill", -- [2]
+			"aaaaaaaaaaaaaaaaaaaaaaaaaaaaaa", -- [1]
+			"Айварка-Борейскаятундра", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Intergalacto-TarrenMill", -- [5]
+			"Айварка-Борейскаятундра", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			362, -- [11]
-			"Player-1084-08695BD0", -- [12]
+			4919, -- [11]
+			"Player-1929-0E2E0A67", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff006fdcIntergalacto|r",
-			[51] = 1609906207,
-			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+			[52] = "|cfffe7b09Айварка-Борейскаятундра|r",
+			[51] = 1611793775,
+			[50] = "CHAT_MSG_RAID",
 		}, -- [1]
 		{
-			"%s has earned the achievement |cffffff00|Hachievement:5809:Player-1084-08695BD0:1:1:6:21:4294967295:4294967295:4294967295:4294967295|h[Heroic: Alysrazor]|h|r!", -- [1]
-			"Intergalacto-TarrenMill", -- [2]
+			"good luck guys", -- [1]
+			"Popperz-Draenor", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Intergalacto-TarrenMill", -- [5]
+			"Popperz-Draenor", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			363, -- [11]
-			"Player-1084-08695BD0", -- [12]
+			4920, -- [11]
+			"Player-1403-09C018BE", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff006fdcIntergalacto|r",
-			[51] = 1609906207,
-			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+			[52] = "|cff3ec6eaPopperz-Draenor|r",
+			[51] = 1611793776,
+			[50] = "CHAT_MSG_RAID",
 		}, -- [2]
 		{
-			"%s has earned the achievement |cffffff00|Hachievement:5810:Player-1084-08695BD0:1:1:6:21:4294967295:4294967295:4294967295:4294967295|h[Not an Ambi-Turner]|h|r!", -- [1]
-			"Intergalacto-TarrenMill", -- [2]
+			"well", -- [1]
+			"Schak-Blackrock", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Intergalacto-TarrenMill", -- [5]
+			"Schak-Blackrock", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			383, -- [11]
-			"Player-1084-08695BD0", -- [12]
+			4921, -- [11]
+			"Player-581-09E618ED", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff006fdcIntergalacto|r",
-			[51] = 1609906269,
-			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+			[52] = "|cff006fdcSchak-Blackrock|r",
+			[51] = 1611793776,
+			[50] = "CHAT_MSG_RAID",
 		}, -- [3]
 		{
-			"%s has earned the achievement |cffffff00|Hachievement:5808:Player-1084-08695BD0:1:1:6:21:4294967295:4294967295:4294967295:4294967295|h[Heroic: Lord Rhyolith]|h|r!", -- [1]
-			"Intergalacto-TarrenMill", -- [2]
+			"that was an efficient wipe", -- [1]
+			"Bawki-TarrenMill", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Intergalacto-TarrenMill", -- [5]
+			"Bawki-TarrenMill", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			384, -- [11]
-			"Player-1084-08695BD0", -- [12]
+			4923, -- [11]
+			"Player-1084-0A20D572", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff006fdcIntergalacto|r",
-			[51] = 1609906269,
-			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+			[52] = "|cffa9d271Bawki|r",
+			[51] = 1611793780,
+			[50] = "CHAT_MSG_RAID",
 		}, -- [4]
 		{
-			"%s has earned the achievement |cffffff00|Hachievement:5810:Player-1084-09E921FD:1:1:6:21:4294967295:4294967295:4294967295:4294967295|h[Not an Ambi-Turner]|h|r!", -- [1]
-			"Pheniisi-TarrenMill", -- [2]
+			"Rly lock ?", -- [1]
+			"Loùnätick-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Pheniisi-TarrenMill", -- [5]
+			"Loùnätick-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			385, -- [11]
-			"Player-1084-09E921FD", -- [12]
+			4924, -- [11]
+			"Player-1390-0BC36B7F", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa9d271Pheniisi|r",
-			[51] = 1609906269,
-			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+			[52] = "|cfffe7b09Loùnätick-Hyjal|r",
+			[51] = 1611793780,
+			[50] = "CHAT_MSG_RAID",
 		}, -- [5]
 		{
-			"%s has earned the achievement |cffffff00|Hachievement:5830:Player-1084-08695BD0:1:1:6:21:4294967295:4294967295:4294967295:4294967295|h[Share the Pain]|h|r!", -- [1]
-			"Intergalacto-TarrenMill", -- [2]
+			"cryst on yellow is aboslute garbage.", -- [1]
+			"Zaphoria-TarrenMill", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Intergalacto-TarrenMill", -- [5]
+			"Zaphoria-TarrenMill", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			404, -- [11]
-			"Player-1084-08695BD0", -- [12]
+			4925, -- [11]
+			"Player-1084-09C0C8F4", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff006fdcIntergalacto|r",
-			[51] = 1609906335,
-			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+			[52] = "|cffa22fc8Zaphoria|r",
+			[51] = 1611793781,
+			[50] = "CHAT_MSG_RAID",
 		}, -- [6]
 		{
-			"%s has earned the achievement |cffffff00|Hachievement:5805:Player-1084-08695BD0:1:1:6:21:4294967295:4294967295:4294967295:4294967295|h[Heroic: Baleroc]|h|r!", -- [1]
-			"Intergalacto-TarrenMill", -- [2]
+			"not enough damage", -- [1]
+			"Popperz-Draenor", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Intergalacto-TarrenMill", -- [5]
+			"Popperz-Draenor", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			405, -- [11]
-			"Player-1084-08695BD0", -- [12]
+			4927, -- [11]
+			"Player-1403-09C018BE", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff006fdcIntergalacto|r",
-			[51] = 1609906335,
-			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+			[52] = "|cff3ec6eaPopperz-Draenor|r",
+			[51] = 1611793784,
+			[50] = "CHAT_MSG_RAID",
 		}, -- [7]
 		{
-			"%s has earned the achievement |cffffff00|Hachievement:5804:Player-1084-08695BD0:1:1:6:21:4294967295:4294967295:4294967295:4294967295|h[Heroic: Majordomo Fandral Staghelm]|h|r!", -- [1]
-			"Intergalacto-TarrenMill", -- [2]
+			"oups", -- [1]
+			"Nakthar-Ysondre", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Intergalacto-TarrenMill", -- [5]
+			"Nakthar-Ysondre", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			440, -- [11]
-			"Player-1084-08695BD0", -- [12]
+			4928, -- [11]
+			"Player-1335-097D3F98", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff006fdcIntergalacto|r",
-			[51] = 1609906437,
-			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+			[52] = "|cff8687edNakthar-Ysondre|r",
+			[51] = 1611793785,
+			[50] = "CHAT_MSG_RAID",
 		}, -- [8]
 		{
-			"%s has earned the achievement |cffffff00|Hachievement:5802:Player-1084-08695BD0:1:1:6:21:4294967295:4294967295:4294967295:4294967295|h[Firelands]|h|r!", -- [1]
-			"Intergalacto-TarrenMill", -- [2]
+			"that means we have to move add / boss later", -- [1]
+			"Zaphoria-TarrenMill", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Intergalacto-TarrenMill", -- [5]
+			"Zaphoria-TarrenMill", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			464, -- [11]
-			"Player-1084-08695BD0", -- [12]
+			4929, -- [11]
+			"Player-1084-09C0C8F4", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff006fdcIntergalacto|r",
-			[51] = 1609906550,
-			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+			[52] = "|cffa22fc8Zaphoria|r",
+			[51] = 1611793787,
+			[50] = "CHAT_MSG_RAID",
 		}, -- [9]
 		{
-			"%s has earned the achievement |cffffff00|Hachievement:5803:Player-1084-08695BD0:1:1:6:21:4294967295:4294967295:4294967295:4294967295|h[Heroic: Ragnaros]|h|r!", -- [1]
-			"Intergalacto-TarrenMill", -- [2]
+			"sorry,", -- [1]
+			"Nakthar-Ysondre", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Intergalacto-TarrenMill", -- [5]
+			"Nakthar-Ysondre", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			465, -- [11]
-			"Player-1084-08695BD0", -- [12]
+			4930, -- [11]
+			"Player-1335-097D3F98", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff006fdcIntergalacto|r",
-			[51] = 1609906550,
-			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+			[52] = "|cff8687edNakthar-Ysondre|r",
+			[51] = 1611793789,
+			[50] = "CHAT_MSG_RAID",
 		}, -- [10]
 		{
-			"WTS mythic 7 - 15 boost  // all m0 8/8 //  Group ilvl +205 // with loots // cheap price // Ready now whipser me for more info !", -- [1]
-			"Cize-TarrenMill", -- [2]
+			"to get rid of stakc", -- [1]
+			"Zaphoria-TarrenMill", -- [2]
 			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Cize-TarrenMill", -- [5]
+			"", -- [4]
+			"Zaphoria-TarrenMill", -- [5]
 			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			490, -- [11]
-			"Player-1084-0A1FF002", -- [12]
+			4931, -- [11]
+			"Player-1084-09C0C8F4", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa22fc8Zaphoria|r",
+			[51] = 1611793792,
+			[50] = "CHAT_MSG_RAID",
+		}, -- [11]
+		{
+			"s", -- [1]
+			"Zaphoria-TarrenMill", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Zaphoria-TarrenMill", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			4933, -- [11]
+			"Player-1084-09C0C8F4", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa22fc8Zaphoria|r",
+			[51] = 1611793793,
+			[50] = "CHAT_MSG_RAID",
+		}, -- [12]
+		{
+			"hi summ possible?", -- [1]
+			"Taukette-Hyjal", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Taukette-Hyjal", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			4938, -- [11]
+			"Player-1390-0AE6829D", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffe7b09Taukette-Hyjal|r",
+			[51] = 1611793849,
+			[50] = "CHAT_MSG_RAID",
+		}, -- [13]
+		{
+			"<Below Average> 10/10HC 2/10M We are currently looking for some caster dps Spriest,warlock,boomie and Unholy dk. Raid days Thursdays and sundays between 19:30 - 22:30. /w me if you have any questions.", -- [1]
+			"Swolebeast-TarrenMill", -- [2]
+			"", -- [3]
+			"1. General - Castle Nathria", -- [4]
+			"Swolebeast-TarrenMill", -- [5]
+			"", -- [6]
+			1, -- [7]
+			1, -- [8]
+			"General - Castle Nathria", -- [9]
+			0, -- [10]
+			4939, -- [11]
+			"Player-1084-0A23E709", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			true, -- [17]
-			[52] = "|cffa22fc8Cize|r",
-			[51] = 1609906637,
+			[52] = "|cff006fdcSwolebeast|r",
+			[51] = 1611793857,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [11]
-		{
-			"|cffa335ee|Hitem:100639::::::::60:264:::1:3524::::|h[Grievous Gladiator's Mail Helm]|h|r|cffa335ee|Hitem:100572::::::::60:264:::1:3524::::|h[Grievous Gladiator's Linked Spaulders]|h|r|cffa335ee|Hitem:100663::::::::60:264:::1:3524::::|h[Grievous Gladiator's Ringmail Armor]|h|r", -- [1]
-			"Intergalacto-TarrenMill", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			500, -- [11]
-			"Player-1084-08695BD0", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff006fdcIntergalacto|r",
-			[51] = 1609906776,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [12]
-		{
-			"|cffa335ee|Hitem:99353::::::::60:264:::1:3524::::|h[Faceguard of Celestial Harmony]|h|r|cffa335ee|Hitem:99346::::::::60:264:::1:3524::::|h[Mantle of Celestial Harmony]|h|r|cffa335ee|Hitem:99344::::::::60:264:::1:3524::::|h[Hauberk of Celestial Harmony]|h|r", -- [1]
-			"Intergalacto-TarrenMill", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			501, -- [11]
-			"Player-1084-08695BD0", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff006fdcIntergalacto|r",
-			[51] = 1609906804,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [13]
-		{
-			"|cffa335ee|Hitem:115579::::::::60:264::5:1:3524::::|h[Windspeaker's Faceguard]|h|r|cffa335ee|Hitem:115576::::::::60:264::5:1:3524::::|h[Windspeaker's Mantle]|h|r|cffa335ee|Hitem:115577::::::::60:264::5:1:3524::::|h[Windspeaker's Tunic]|h|r", -- [1]
-			"Intergalacto-TarrenMill", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			502, -- [11]
-			"Player-1084-08695BD0", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff006fdcIntergalacto|r",
-			[51] = 1609906832,
-			[50] = "CHAT_MSG_GUILD",
 		}, -- [14]
 		{
-			"hi", -- [1]
-			"Warhooligan-BurningLegion", -- [2]
+			"someone go out to port", -- [1]
+			"Bezerkur-Frostwolf", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Warhooligan-BurningLegion", -- [5]
+			"Bezerkur-Frostwolf", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			505, -- [11]
-			"Player-3713-0A897538", -- [12]
+			4940, -- [11]
+			"Player-3703-050139CB", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc59a6cWarhooligan-BurningLegion|r",
-			[51] = 1609906850,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cffc31d39Bezerkur-Frostwolf|r",
+			[51] = 1611793863,
+			[50] = "CHAT_MSG_RAID_LEADER",
 		}, -- [15]
 		{
-			"i go smoke in 2m and brb , im moving with fly master", -- [1]
-			"Warhooligan-BurningLegion", -- [2]
+			"sry thx", -- [1]
+			"Taukette-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Warhooligan-BurningLegion", -- [5]
+			"Taukette-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			506, -- [11]
-			"Player-3713-0A897538", -- [12]
+			4941, -- [11]
+			"Player-1390-0AE6829D", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc59a6cWarhooligan-BurningLegion|r",
-			[51] = 1609906918,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cfffe7b09Taukette-Hyjal|r",
+			[51] = 1611793870,
+			[50] = "CHAT_MSG_RAID",
 		}, -- [16]
 		{
-			"b", -- [1]
-			"Warhooligan-BurningLegion", -- [2]
+			"somone who is fast go out and port", -- [1]
+			"Bezerkur-Frostwolf", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Warhooligan-BurningLegion", -- [5]
+			"Bezerkur-Frostwolf", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			508, -- [11]
-			"Player-3713-0A897538", -- [12]
+			4942, -- [11]
+			"Player-3703-050139CB", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc59a6cWarhooligan-BurningLegion|r",
-			[51] = 1609907043,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cffc31d39Bezerkur-Frostwolf|r",
+			[51] = 1611793899,
+			[50] = "CHAT_MSG_RAID_LEADER",
 		}, -- [17]
 		{
-			"Hey! could you please buff |cff71d5ff|Hspell:1459:0|h[Arcane Intellect]|h|r? ", -- [1]
-			"Салтелион-СвежевательДуш", -- [2]
-			"Orcish", -- [3]
+			"pls and sorry", -- [1]
+			"Taukette-Hyjal", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Салтелион-СвежевательДуш", -- [5]
+			"Taukette-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			514, -- [11]
-			"Player-1604-0E9CF664", -- [12]
+			4943, -- [11]
+			"Player-1390-0AE6829D", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff3ec6eaСалтелион-СвежевательДуш|r",
-			[51] = 1609907120,
-			[50] = "CHAT_MSG_WHISPER_INFORM",
+			[52] = "|cfffe7b09Taukette-Hyjal|r",
+			[51] = 1611793924,
+			[50] = "CHAT_MSG_RAID",
 		}, -- [18]
 		{
-			"ofc", -- [1]
-			"Салтелион-СвежевательДуш", -- [2]
+			"<Below Average> 10/10HC 2/10M We are currently looking for some caster dps Spriest,warlock,boomie and Unholy dk. Raid days Thursdays and sundays between 19:30 - 22:30. /w me if you have any questions.", -- [1]
+			"Swolebeast-TarrenMill", -- [2]
 			"", -- [3]
-			"", -- [4]
-			"Салтелион-СвежевательДуш", -- [5]
+			"1. General - Castle Nathria", -- [4]
+			"Swolebeast-TarrenMill", -- [5]
 			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			1, -- [7]
+			1, -- [8]
+			"General - Castle Nathria", -- [9]
 			0, -- [10]
-			515, -- [11]
-			"Player-1604-0E9CF664", -- [12]
+			4945, -- [11]
+			"Player-1084-0A23E709", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3ec6eaСалтелион-СвежевательДуш|r",
-			[51] = 1609907150,
-			[50] = "CHAT_MSG_WHISPER",
+			true, -- [17]
+			[52] = "|cff006fdcSwolebeast|r",
+			[51] = 1611793982,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [19]
 		{
-			"Cap Totem!", -- [1]
-			"Intergalacto-TarrenMill", -- [2]
+			"one out for click plz", -- [1]
+			"Loxeurdh-Ysondre", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"", -- [5]
+			"Loxeurdh-Ysondre", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			519, -- [11]
-			"Player-1084-08695BD0", -- [12]
+			4946, -- [11]
+			"Player-1335-0717413C", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff006fdcIntergalacto|r",
-			[51] = 1609907200,
-			[50] = "CHAT_MSG_GUILD",
+			[52] = "|cffa22fc8Loxeurdh-Ysondre|r",
+			[51] = 1611793994,
+			[50] = "CHAT_MSG_RAID",
 		}, -- [20]
 		{
-			"Interrupted Paceran the Virulent's |cff71d5ff|Hspell:320120:0|h[Plague Bolt]|h|r!", -- [1]
-			"Intergalacto-TarrenMill", -- [2]
-			"Orcish", -- [3]
+			"??", -- [1]
+			"Loxeurdh-Ysondre", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Intergalacto-TarrenMill", -- [5]
+			"Loxeurdh-Ysondre", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			524, -- [11]
-			"Player-1084-08695BD0", -- [12]
+			4948, -- [11]
+			"Player-1335-0717413C", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff006fdcIntergalacto|r",
-			[51] = 1609907238,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffa22fc8Loxeurdh-Ysondre|r",
+			[51] = 1611794044,
+			[50] = "CHAT_MSG_RAID",
 		}, -- [21]
 		{
-			"Interrupted Paceran the Virulent's |cff71d5ff|Hspell:320120:0|h[Plague Bolt]|h|r!", -- [1]
-			"Intergalacto-TarrenMill", -- [2]
-			"Orcish", -- [3]
+			"someone go out", -- [1]
+			"Bezerkur-Frostwolf", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Intergalacto-TarrenMill", -- [5]
+			"Bezerkur-Frostwolf", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			526, -- [11]
-			"Player-1084-08695BD0", -- [12]
+			4949, -- [11]
+			"Player-3703-050139CB", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff006fdcIntergalacto|r",
-			[51] = 1609907262,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffc31d39Bezerkur-Frostwolf|r",
+			[51] = 1611794047,
+			[50] = "CHAT_MSG_RAID_LEADER",
 		}, -- [22]
 		{
-			"Searing Death on Bawki", -- [1]
-			"Bawki-TarrenMill", -- [2]
-			"Orcish", -- [3]
+			"some druid", -- [1]
+			"Bezerkur-Frostwolf", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Bawki-TarrenMill", -- [5]
+			"Bezerkur-Frostwolf", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			528, -- [11]
-			"Player-1084-0A20D572", -- [12]
+			4950, -- [11]
+			"Player-3703-050139CB", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa9d271Bawki|r",
-			[51] = 1609907275,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffc31d39Bezerkur-Frostwolf|r",
+			[51] = 1611794053,
+			[50] = "CHAT_MSG_RAID_LEADER",
 		}, -- [23]
 		{
-			"Interrupted Paceran the Virulent's |cff71d5ff|Hspell:320120:0|h[Plague Bolt]|h|r!", -- [1]
-			"Intergalacto-TarrenMill", -- [2]
-			"Orcish", -- [3]
+			"i come on fly", -- [1]
+			"Taukette-Hyjal", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Intergalacto-TarrenMill", -- [5]
+			"Taukette-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			529, -- [11]
-			"Player-1084-08695BD0", -- [12]
+			4951, -- [11]
+			"Player-1390-0AE6829D", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff006fdcIntergalacto|r",
-			[51] = 1609907275,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cfffe7b09Taukette-Hyjal|r",
+			[51] = 1611794076,
+			[50] = "CHAT_MSG_RAID",
 		}, -- [24]
 		{
-			"Searing Death on Zaphoria", -- [1]
-			"Zaphoria-TarrenMill", -- [2]
-			"Orcish", -- [3]
+			"bio 30 sec", -- [1]
+			"Заряженный-Борейскаятундра", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Zaphoria-TarrenMill", -- [5]
+			"Заряженный-Борейскаятундра", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			531, -- [11]
-			"Player-1084-09C0C8F4", -- [12]
+			4953, -- [11]
+			"Player-1929-0E2D74FE", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa22fc8Zaphoria|r",
-			[51] = 1609907288,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cfffefefeЗаряженный-Борейскаятундра|r",
+			[51] = 1611794146,
+			[50] = "CHAT_MSG_RAID",
 		}, -- [25]
 		{
-			"Interrupted Paceran the Virulent's |cff71d5ff|Hspell:320120:0|h[Plague Bolt]|h|r!", -- [1]
-			"Intergalacto-TarrenMill", -- [2]
-			"Orcish", -- [3]
+			"cristalize on square?", -- [1]
+			"Taukette-Hyjal", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Intergalacto-TarrenMill", -- [5]
+			"Taukette-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			532, -- [11]
-			"Player-1084-08695BD0", -- [12]
+			4954, -- [11]
+			"Player-1390-0AE6829D", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff006fdcIntergalacto|r",
-			[51] = 1609907293,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cfffe7b09Taukette-Hyjal|r",
+			[51] = 1611794194,
+			[50] = "CHAT_MSG_RAID",
 		}, -- [26]
 		{
-			"Interrupted Paceran the Virulent's |cff71d5ff|Hspell:320120:0|h[Plague Bolt]|h|r!", -- [1]
-			"Intergalacto-TarrenMill", -- [2]
-			"Orcish", -- [3]
+			"r", -- [1]
+			"Заряженный-Борейскаятундра", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Intergalacto-TarrenMill", -- [5]
+			"Заряженный-Борейскаятундра", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			537, -- [11]
-			"Player-1084-08695BD0", -- [12]
+			4955, -- [11]
+			"Player-1929-0E2D74FE", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff006fdcIntergalacto|r",
-			[51] = 1609907316,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cfffefefeЗаряженный-Борейскаятундра|r",
+			[51] = 1611794197,
+			[50] = "CHAT_MSG_RAID",
 		}, -- [27]
 		{
-			"Огненная смерть на Салтелион!", -- [1]
-			"Салтелион-СвежевательДуш", -- [2]
-			"Orcish", -- [3]
+			"yellow", -- [1]
+			"Loxeurdh-Ysondre", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Салтелион-СвежевательДуш", -- [5]
+			"Loxeurdh-Ysondre", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			539, -- [11]
-			"Player-1604-0E9CF664", -- [12]
+			4956, -- [11]
+			"Player-1335-0717413C", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff3ec6eaСалтелион-СвежевательДуш|r",
-			[51] = 1609907332,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffa22fc8Loxeurdh-Ysondre|r",
+			[51] = 1611794209,
+			[50] = "CHAT_MSG_RAID",
 		}, -- [28]
 		{
-			"Interrupted Paceran the Virulent's |cff71d5ff|Hspell:320120:0|h[Plague Bolt]|h|r!", -- [1]
-			"Intergalacto-TarrenMill", -- [2]
-			"Orcish", -- [3]
+			"what are marks? :))", -- [1]
+			"Landobuns-Stormscale", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Intergalacto-TarrenMill", -- [5]
+			"Landobuns-Stormscale", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			540, -- [11]
-			"Player-1084-08695BD0", -- [12]
+			4957, -- [11]
+			"Player-2073-070B752E", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff006fdcIntergalacto|r",
-			[51] = 1609907333,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cff3ec6eaLandobuns-Stormscale|r",
+			[51] = 1611794211,
+			[50] = "CHAT_MSG_RAID",
 		}, -- [29]
 		{
-			"Searing Death on Bawki", -- [1]
-			"Bawki-TarrenMill", -- [2]
-			"Orcish", -- [3]
+			"ok", -- [1]
+			"Taukette-Hyjal", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Bawki-TarrenMill", -- [5]
+			"Taukette-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			541, -- [11]
-			"Player-1084-0A20D572", -- [12]
+			4958, -- [11]
+			"Player-1390-0AE6829D", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa9d271Bawki|r",
-			[51] = 1609907345,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cfffe7b09Taukette-Hyjal|r",
+			[51] = 1611794213,
+			[50] = "CHAT_MSG_RAID",
 		}, -- [30]
 		{
-			"yeah why not dc on boss", -- [1]
-			"Warhooligan-BurningLegion", -- [2]
+			"right erru", -- [1]
+			"Loxeurdh-Ysondre", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Warhooligan-BurningLegion", -- [5]
+			"Loxeurdh-Ysondre", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			542, -- [11]
-			"Player-3713-0A897538", -- [12]
+			4959, -- [11]
+			"Player-1335-0717413C", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc59a6cWarhooligan-BurningLegion|r",
-			[51] = 1609907349,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cffa22fc8Loxeurdh-Ysondre|r",
+			[51] = 1611794222,
+			[50] = "CHAT_MSG_RAID",
 		}, -- [31]
 		{
-			"Interrupted Paceran the Virulent's |cff71d5ff|Hspell:320120:0|h[Plague Bolt]|h|r!", -- [1]
-			"Intergalacto-TarrenMill", -- [2]
-			"Orcish", -- [3]
+			"left blade", -- [1]
+			"Loxeurdh-Ysondre", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Intergalacto-TarrenMill", -- [5]
+			"Loxeurdh-Ysondre", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			543, -- [11]
-			"Player-1084-08695BD0", -- [12]
+			4960, -- [11]
+			"Player-1335-0717413C", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff006fdcIntergalacto|r",
-			[51] = 1609907363,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffa22fc8Loxeurdh-Ysondre|r",
+			[51] = 1611794224,
+			[50] = "CHAT_MSG_RAID",
 		}, -- [32]
 		{
-			"Interrupted Paceran the Virulent's |cff71d5ff|Hspell:320120:0|h[Plague Bolt]|h|r!", -- [1]
-			"Intergalacto-TarrenMill", -- [2]
-			"Orcish", -- [3]
+			"skull is tank", -- [1]
+			"Bezerkur-Frostwolf", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Intergalacto-TarrenMill", -- [5]
+			"Bezerkur-Frostwolf", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			546, -- [11]
-			"Player-1084-08695BD0", -- [12]
+			4961, -- [11]
+			"Player-3703-050139CB", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff006fdcIntergalacto|r",
-			[51] = 1609907387,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffc31d39Bezerkur-Frostwolf|r",
+			[51] = 1611794226,
+			[50] = "CHAT_MSG_RAID_LEADER",
 		}, -- [33]
 		{
-			"Interrupted Paceran the Virulent's |cff71d5ff|Hspell:320120:0|h[Plague Bolt]|h|r!", -- [1]
-			"Intergalacto-TarrenMill", -- [2]
-			"Orcish", -- [3]
+			"square crysta", -- [1]
+			"Loxeurdh-Ysondre", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Intergalacto-TarrenMill", -- [5]
+			"Loxeurdh-Ysondre", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			547, -- [11]
-			"Player-1084-08695BD0", -- [12]
+			4962, -- [11]
+			"Player-1335-0717413C", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff006fdcIntergalacto|r",
-			[51] = 1609907401,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffa22fc8Loxeurdh-Ysondre|r",
+			[51] = 1611794228,
+			[50] = "CHAT_MSG_RAID",
 		}, -- [34]
 		{
-			"well now you can make up for it twice on next boss", -- [1]
-			"Bawki-TarrenMill", -- [2]
+			"left sword i trhink right soaks", -- [1]
+			"Taukette-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Bawki-TarrenMill", -- [5]
+			"Taukette-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			554, -- [11]
-			"Player-1084-0A20D572", -- [12]
+			4963, -- [11]
+			"Player-1390-0AE6829D", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa9d271Bawki|r",
-			[51] = 1609907441,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			[52] = "|cfffe7b09Taukette-Hyjal|r",
+			[51] = 1611794229,
+			[50] = "CHAT_MSG_RAID",
 		}, -- [35]
 		{
-			"idk", -- [1]
-			"Warhooligan-BurningLegion", -- [2]
+			"stay at blue and cristalize at yellow", -- [1]
+			"Bezerkur-Frostwolf", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Warhooligan-BurningLegion", -- [5]
+			"Bezerkur-Frostwolf", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			558, -- [11]
-			"Player-3713-0A897538", -- [12]
+			4964, -- [11]
+			"Player-3703-050139CB", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc59a6cWarhooligan-BurningLegion|r",
-			[51] = 1609907471,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cffc31d39Bezerkur-Frostwolf|r",
+			[51] = 1611794236,
+			[50] = "CHAT_MSG_RAID_LEADER",
 		}, -- [36]
 		{
-			"why i get dc", -- [1]
-			"Warhooligan-BurningLegion", -- [2]
+			"blades at red and moon", -- [1]
+			"Bezerkur-Frostwolf", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Warhooligan-BurningLegion", -- [5]
+			"Bezerkur-Frostwolf", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			559, -- [11]
-			"Player-3713-0A897538", -- [12]
+			4965, -- [11]
+			"Player-3703-050139CB", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc59a6cWarhooligan-BurningLegion|r",
-			[51] = 1609907473,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cffc31d39Bezerkur-Frostwolf|r",
+			[51] = 1611794243,
+			[50] = "CHAT_MSG_RAID_LEADER",
 		}, -- [37]
 		{
-			"Cap Totem!", -- [1]
-			"Intergalacto-TarrenMill", -- [2]
+			"grashaals attack at green purple and orange", -- [1]
+			"Bezerkur-Frostwolf", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"", -- [5]
+			"Bezerkur-Frostwolf", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			561, -- [11]
-			"Player-1084-08695BD0", -- [12]
+			4967, -- [11]
+			"Player-3703-050139CB", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff006fdcIntergalacto|r",
-			[51] = 1609907536,
-			[50] = "CHAT_MSG_GUILD",
+			[52] = "|cffc31d39Bezerkur-Frostwolf|r",
+			[51] = 1611794258,
+			[50] = "CHAT_MSG_RAID_LEADER",
 		}, -- [38]
 		{
-			"<EH> Салтелион-СвежевательДуш got hit by |cff71d5ff|Hspell:317231:0|h[Crushing Slam]|h|r for 16.5k (55%).", -- [1]
-			"Bawki-TarrenMill", -- [2]
+			"omw", -- [1]
+			"Muhlock-Blackrock", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Bawki-TarrenMill", -- [5]
+			"Muhlock-Blackrock", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			565, -- [11]
-			"Player-1084-0A20D572", -- [12]
+			4968, -- [11]
+			"Player-581-0566FC4D", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa9d271Bawki|r",
-			[51] = 1609907648,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			[52] = "|cfffe7b09Muhlock-Blackrock|r",
+			[51] = 1611794272,
+			[50] = "CHAT_MSG_RAID",
 		}, -- [39]
 		{
-			"<EH> Bawki got hit by |cff71d5ff|Hspell:320729:0|h[Massive Cleave]|h|r for 14.4k (43%).", -- [1]
-			"Bawki-TarrenMill", -- [2]
+			"buff priest pls", -- [1]
+			"Taukette-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Bawki-TarrenMill", -- [5]
+			"Taukette-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			567, -- [11]
-			"Player-1084-0A20D572", -- [12]
+			4970, -- [11]
+			"Player-1390-0AE6829D", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa9d271Bawki|r",
-			[51] = 1609907655,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			[52] = "|cfffe7b09Taukette-Hyjal|r",
+			[51] = 1611794278,
+			[50] = "CHAT_MSG_RAID",
 		}, -- [40]
 		{
-			"<EH> Warhooligan-BurningLegion got hit by |cff71d5ff|Hspell:339415:0|h[Deafening Crash]|h|r for 19.6k (60%).", -- [1]
-			"Bawki-TarrenMill", -- [2]
+			"cool", -- [1]
+			"Taukette-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Bawki-TarrenMill", -- [5]
+			"Taukette-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			576, -- [11]
-			"Player-1084-0A20D572", -- [12]
+			4971, -- [11]
+			"Player-1390-0AE6829D", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa9d271Bawki|r",
-			[51] = 1609907722,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			[52] = "|cfffe7b09Taukette-Hyjal|r",
+			[51] = 1611794281,
+			[50] = "CHAT_MSG_RAID",
 		}, -- [41]
 		{
-			"<EH> Салтелион-СвежевательДуш got hit by |cff71d5ff|Hspell:339415:0|h[Deafening Crash]|h|r for 20.4k (58%).", -- [1]
-			"Bawki-TarrenMill", -- [2]
+			"thx", -- [1]
+			"Taukette-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Bawki-TarrenMill", -- [5]
+			"Taukette-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			577, -- [11]
-			"Player-1084-0A20D572", -- [12]
+			4972, -- [11]
+			"Player-1390-0AE6829D", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa9d271Bawki|r",
-			[51] = 1609907722,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			[52] = "|cfffe7b09Taukette-Hyjal|r",
+			[51] = 1611794283,
+			[50] = "CHAT_MSG_RAID",
 		}, -- [42]
 		{
-			"<EH> Zaphoria got hit by |cff71d5ff|Hspell:339415:0|h[Deafening Crash]|h|r for 18.0k (32%).", -- [1]
-			"Bawki-TarrenMill", -- [2]
+			"bezerk", -- [1]
+			"Loùnätick-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Bawki-TarrenMill", -- [5]
+			"Loùnätick-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			578, -- [11]
-			"Player-1084-0A20D572", -- [12]
+			4973, -- [11]
+			"Player-1390-0BC36B7F", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa9d271Bawki|r",
-			[51] = 1609907722,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			[52] = "|cfffe7b09Loùnätick-Hyjal|r",
+			[51] = 1611794284,
+			[50] = "CHAT_MSG_RAID",
 		}, -- [43]
 		{
-			"<EH> Intergalacto got hit by |cff71d5ff|Hspell:339415:0|h[Deafening Crash]|h|r for 21.6k (64%) and |cff71d5ff|Hspell:317231:0|h[Crushing Slam]|h|r for 17.3k (51%).", -- [1]
-			"Bawki-TarrenMill", -- [2]
+			"can you move yellow mark ?", -- [1]
+			"Loùnätick-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Bawki-TarrenMill", -- [5]
+			"Loùnätick-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			579, -- [11]
-			"Player-1084-0A20D572", -- [12]
+			4974, -- [11]
+			"Player-1390-0BC36B7F", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa9d271Bawki|r",
-			[51] = 1609907722,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			[52] = "|cfffe7b09Loùnätick-Hyjal|r",
+			[51] = 1611794289,
+			[50] = "CHAT_MSG_RAID",
 		}, -- [44]
 		{
-			"<EH> Zaphoria got hit by |cff71d5ff|Hspell:339415:0|h[Deafening Crash]|h|r for 18.2k (32%).", -- [1]
-			"Bawki-TarrenMill", -- [2]
+			"it will be easier for melees", -- [1]
+			"Loùnätick-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Bawki-TarrenMill", -- [5]
+			"Loùnätick-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			586, -- [11]
-			"Player-1084-0A20D572", -- [12]
+			4975, -- [11]
+			"Player-1390-0BC36B7F", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa9d271Bawki|r",
-			[51] = 1609907758,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			[52] = "|cfffe7b09Loùnätick-Hyjal|r",
+			[51] = 1611794294,
+			[50] = "CHAT_MSG_RAID",
 		}, -- [45]
 		{
-			"Interrupted Bone Magus's |cff71d5ff|Hspell:342675:0|h[Bone Spear]|h|r!", -- [1]
-			"Intergalacto-TarrenMill", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Intergalacto-TarrenMill", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			590, -- [11]
-			"Player-1084-08695BD0", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff006fdcIntergalacto|r",
-			[51] = 1609907865,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [46]
-		{
-			"Interrupted Nefarious Darkspeaker's |cff71d5ff|Hspell:330875:0|h[Spirit Frost]|h|r!", -- [1]
-			"Intergalacto-TarrenMill", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Intergalacto-TarrenMill", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			593, -- [11]
-			"Player-1084-08695BD0", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff006fdcIntergalacto|r",
-			[51] = 1609907926,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [47]
-		{
-			"<EH> Bawki got hit by |cff71d5ff|Hspell:333297:0|h[Death Winds]|h|r for 11.6k (40%).", -- [1]
-			"Bawki-TarrenMill", -- [2]
+			"where", -- [1]
+			"Bezerkur-Frostwolf", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Bawki-TarrenMill", -- [5]
+			"Bezerkur-Frostwolf", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			594, -- [11]
-			"Player-1084-0A20D572", -- [12]
+			4976, -- [11]
+			"Player-3703-050139CB", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa9d271Bawki|r",
-			[51] = 1609907947,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			[52] = "|cffc31d39Bezerkur-Frostwolf|r",
+			[51] = 1611794295,
+			[50] = "CHAT_MSG_RAID_LEADER",
+		}, -- [46]
+		{
+			"here i jump", -- [1]
+			"Loùnätick-Hyjal", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Loùnätick-Hyjal", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			4977, -- [11]
+			"Player-1390-0BC36B7F", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffe7b09Loùnätick-Hyjal|r",
+			[51] = 1611794304,
+			[50] = "CHAT_MSG_RAID",
+		}, -- [47]
+		{
+			"between blades marks and raid", -- [1]
+			"Loùnätick-Hyjal", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Loùnätick-Hyjal", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			4978, -- [11]
+			"Player-1390-0BC36B7F", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffe7b09Loùnätick-Hyjal|r",
+			[51] = 1611794310,
+			[50] = "CHAT_MSG_RAID",
 		}, -- [48]
 		{
-			"Interrupted Nefarious Darkspeaker's |cff71d5ff|Hspell:330875:0|h[Spirit Frost]|h|r!", -- [1]
-			"Intergalacto-TarrenMill", -- [2]
-			"Orcish", -- [3]
+			"perfect", -- [1]
+			"Loùnätick-Hyjal", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Intergalacto-TarrenMill", -- [5]
+			"Loùnätick-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			595, -- [11]
-			"Player-1084-08695BD0", -- [12]
+			4979, -- [11]
+			"Player-1390-0BC36B7F", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff006fdcIntergalacto|r",
-			[51] = 1609907949,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cfffe7b09Loùnätick-Hyjal|r",
+			[51] = 1611794318,
+			[50] = "CHAT_MSG_RAID",
 		}, -- [49]
 		{
-			"Interrupted Maniacal Soulbinder's |cff71d5ff|Hspell:330784:0|h[Necrotic Bolt]|h|r!", -- [1]
-			"Intergalacto-TarrenMill", -- [2]
-			"Orcish", -- [3]
+			"buffs pls", -- [1]
+			"Muhlock-Blackrock", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Intergalacto-TarrenMill", -- [5]
+			"Muhlock-Blackrock", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			598, -- [11]
-			"Player-1084-08695BD0", -- [12]
+			4981, -- [11]
+			"Player-581-0566FC4D", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff006fdcIntergalacto|r",
-			[51] = 1609907978,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cfffe7b09Muhlock-Blackrock|r",
+			[51] = 1611794326,
+			[50] = "CHAT_MSG_RAID",
 		}, -- [50]
 		{
-			"Phantasmal Parasite on Warhooligan", -- [1]
-			"Warhooligan-BurningLegion", -- [2]
-			"Orcish", -- [3]
+			"go", -- [1]
+			"Muhlock-Blackrock", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Warhooligan-BurningLegion", -- [5]
+			"Muhlock-Blackrock", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			601, -- [11]
-			"Player-3713-0A897538", -- [12]
+			4982, -- [11]
+			"Player-581-0566FC4D", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc59a6cWarhooligan-BurningLegion|r",
-			[51] = 1609908019,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cfffe7b09Muhlock-Blackrock|r",
+			[51] = 1611794334,
+			[50] = "CHAT_MSG_RAID",
 		}, -- [51]
 		{
-			"Phantasmal Parasite on Intergalacto", -- [1]
+			"First Blade on Intergalacto", -- [1]
 			"Intergalacto-TarrenMill", -- [2]
 			"Orcish", -- [3]
 			"", -- [4]
@@ -1156,7 +1156,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			602, -- [11]
+			4989, -- [11]
 			"Player-1084-08695BD0", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -1164,253 +1164,297 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cff006fdcIntergalacto|r",
-			[51] = 1609908019,
+			[51] = 1611794384,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [52]
 		{
-			"Phantasmal Parasite on Intergalacto", -- [1]
-			"Intergalacto-TarrenMill", -- [2]
+			"Heimtückische Klinge 1 auf {rt1}Muhlock{rt1}", -- [1]
+			"Muhlock-Blackrock", -- [2]
 			"Orcish", -- [3]
 			"", -- [4]
-			"Intergalacto-TarrenMill", -- [5]
+			"Muhlock-Blackrock", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			608, -- [11]
-			"Player-1084-08695BD0", -- [12]
+			4990, -- [11]
+			"Player-581-0566FC4D", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff006fdcIntergalacto|r",
-			[51] = 1609908046,
+			[52] = "|cfffe7b09Muhlock-Blackrock|r",
+			[51] = 1611794384,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [53]
 		{
-			"Phantasmal Parasite on Zaphoria", -- [1]
-			"Zaphoria-TarrenMill", -- [2]
+			"Zweite Klinge auf Muhlock", -- [1]
+			"Muhlock-Blackrock", -- [2]
 			"Orcish", -- [3]
 			"", -- [4]
-			"Zaphoria-TarrenMill", -- [5]
+			"Muhlock-Blackrock", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			612, -- [11]
-			"Player-1084-09C0C8F4", -- [12]
+			4991, -- [11]
+			"Player-581-0566FC4D", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa22fc8Zaphoria|r",
-			[51] = 1609908071,
+			[52] = "|cfffe7b09Muhlock-Blackrock|r",
+			[51] = 1611794384,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [54]
 		{
-			"Фантомный паразит на Салтелион!", -- [1]
-			"Салтелион-СвежевательДуш", -- [2]
+			"{rt1}3", -- [1]
+			"Muhlock-Blackrock", -- [2]
 			"Orcish", -- [3]
 			"", -- [4]
-			"Салтелион-СвежевательДуш", -- [5]
+			"Muhlock-Blackrock", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			613, -- [11]
-			"Player-1604-0E9CF664", -- [12]
+			4992, -- [11]
+			"Player-581-0566FC4D", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff3ec6eaСалтелион-СвежевательДуш|r",
-			[51] = 1609908072,
+			[52] = "|cfffe7b09Muhlock-Blackrock|r",
+			[51] = 1611794385,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [55]
 		{
-			"Cap Totem!", -- [1]
-			"Intergalacto-TarrenMill", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			628, -- [11]
-			"Player-1084-08695BD0", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff006fdcIntergalacto|r",
-			[51] = 1609908172,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [56]
-		{
-			"Interrupted Blighted Sludge-Spewer's |cff71d5ff|Hspell:330703:0|h[Decaying Filth]|h|r!", -- [1]
-			"Intergalacto-TarrenMill", -- [2]
+			"{rt1}2", -- [1]
+			"Muhlock-Blackrock", -- [2]
 			"Orcish", -- [3]
 			"", -- [4]
-			"Intergalacto-TarrenMill", -- [5]
+			"Muhlock-Blackrock", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			632, -- [11]
-			"Player-1084-08695BD0", -- [12]
+			4993, -- [11]
+			"Player-581-0566FC4D", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff006fdcIntergalacto|r",
-			[51] = 1609908212,
+			[52] = "|cfffe7b09Muhlock-Blackrock|r",
+			[51] = 1611794386,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [56]
+		{
+			"{rt1}1", -- [1]
+			"Muhlock-Blackrock", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Muhlock-Blackrock", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			4994, -- [11]
+			"Player-581-0566FC4D", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffe7b09Muhlock-Blackrock|r",
+			[51] = 1611794387,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [57]
 		{
-			"´wefgjoiuklewrfgbuijkehrgbukijhergbk", -- [1]
-			"Zaphoria-TarrenMill", -- [2]
+			"Kristallisieren auf Muhlock", -- [1]
+			"Muhlock-Blackrock", -- [2]
 			"Orcish", -- [3]
 			"", -- [4]
-			"Zaphoria-TarrenMill", -- [5]
+			"Muhlock-Blackrock", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			633, -- [11]
-			"Player-1084-09C0C8F4", -- [12]
+			4997, -- [11]
+			"Player-581-0566FC4D", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa22fc8Zaphoria|r",
-			[51] = 1609908244,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cfffe7b09Muhlock-Blackrock|r",
+			[51] = 1611794390,
+			[50] = "CHAT_MSG_YELL",
 		}, -- [58]
 		{
-			"why", -- [1]
-			"Zaphoria-TarrenMill", -- [2]
+			"3", -- [1]
+			"Muhlock-Blackrock", -- [2]
 			"Orcish", -- [3]
 			"", -- [4]
-			"Zaphoria-TarrenMill", -- [5]
+			"Muhlock-Blackrock", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			634, -- [11]
-			"Player-1084-09C0C8F4", -- [12]
+			4999, -- [11]
+			"Player-581-0566FC4D", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa22fc8Zaphoria|r",
-			[51] = 1609908246,
+			[52] = "|cfffe7b09Muhlock-Blackrock|r",
+			[51] = 1611794392,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [59]
 		{
-			"r u the tankl?", -- [1]
-			"Zaphoria-TarrenMill", -- [2]
+			"Kristallisieren endet in 3", -- [1]
+			"Muhlock-Blackrock", -- [2]
 			"Orcish", -- [3]
 			"", -- [4]
-			"Zaphoria-TarrenMill", -- [5]
+			"Muhlock-Blackrock", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			637, -- [11]
-			"Player-1084-09C0C8F4", -- [12]
+			5000, -- [11]
+			"Player-581-0566FC4D", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa22fc8Zaphoria|r",
-			[51] = 1609908250,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cfffe7b09Muhlock-Blackrock|r",
+			[51] = 1611794392,
+			[50] = "CHAT_MSG_YELL",
 		}, -- [60]
 		{
-			"<EH> Bawki got hit by |cff71d5ff|Hspell:330608:0|h[Vile Eruption]|h|r for 11.8k (41%).", -- [1]
-			"Bawki-TarrenMill", -- [2]
-			"", -- [3]
+			"2", -- [1]
+			"Muhlock-Blackrock", -- [2]
+			"Orcish", -- [3]
 			"", -- [4]
-			"Bawki-TarrenMill", -- [5]
+			"Muhlock-Blackrock", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			638, -- [11]
-			"Player-1084-0A20D572", -- [12]
+			5001, -- [11]
+			"Player-581-0566FC4D", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa9d271Bawki|r",
-			[51] = 1609908273,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			[52] = "|cfffe7b09Muhlock-Blackrock|r",
+			[51] = 1611794393,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [61]
 		{
-			"if u rip pride like that", -- [1]
-			"Zaphoria-TarrenMill", -- [2]
+			"Kristallisieren endet in 2", -- [1]
+			"Muhlock-Blackrock", -- [2]
 			"Orcish", -- [3]
 			"", -- [4]
-			"Zaphoria-TarrenMill", -- [5]
+			"Muhlock-Blackrock", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			639, -- [11]
-			"Player-1084-09C0C8F4", -- [12]
+			5002, -- [11]
+			"Player-581-0566FC4D", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa22fc8Zaphoria|r",
-			[51] = 1609908277,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cfffe7b09Muhlock-Blackrock|r",
+			[51] = 1611794393,
+			[50] = "CHAT_MSG_YELL",
 		}, -- [62]
 		{
-			"u get kicked", -- [1]
-			"Zaphoria-TarrenMill", -- [2]
+			"1", -- [1]
+			"Muhlock-Blackrock", -- [2]
 			"Orcish", -- [3]
 			"", -- [4]
-			"Zaphoria-TarrenMill", -- [5]
+			"Muhlock-Blackrock", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			640, -- [11]
-			"Player-1084-09C0C8F4", -- [12]
+			5003, -- [11]
+			"Player-581-0566FC4D", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa22fc8Zaphoria|r",
-			[51] = 1609908279,
+			[52] = "|cfffe7b09Muhlock-Blackrock|r",
+			[51] = 1611794394,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [63]
 		{
-			"Interrupted Blighted Sludge-Spewer's |cff71d5ff|Hspell:330703:0|h[Decaying Filth]|h|r!", -- [1]
+			"Kristallisieren endet in 1", -- [1]
+			"Muhlock-Blackrock", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Muhlock-Blackrock", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			5004, -- [11]
+			"Player-581-0566FC4D", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffe7b09Muhlock-Blackrock|r",
+			[51] = 1611794394,
+			[50] = "CHAT_MSG_YELL",
+		}, -- [64]
+		{
+			"Meteor auf Muhlock", -- [1]
+			"Muhlock-Blackrock", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Muhlock-Blackrock", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			5005, -- [11]
+			"Player-581-0566FC4D", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffe7b09Muhlock-Blackrock|r",
+			[51] = 1611794395,
+			[50] = "CHAT_MSG_YELL",
+		}, -- [65]
+		{
+			"First Blade on Intergalacto", -- [1]
 			"Intergalacto-TarrenMill", -- [2]
 			"Orcish", -- [3]
 			"", -- [4]
@@ -1420,7 +1464,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			643, -- [11]
+			5009, -- [11]
 			"Player-1084-08695BD0", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -1428,57 +1472,13 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cff006fdcIntergalacto|r",
-			[51] = 1609908344,
+			[51] = 1611794414,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [64]
-		{
-			"<EH> Салтелион-СвежевательДуш got hit by |cff71d5ff|Hspell:318406:0|h[Tenderizing Smash]|h|r for 13.4k (40%).", -- [1]
-			"Bawki-TarrenMill", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Bawki-TarrenMill", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			649, -- [11]
-			"Player-1084-0A20D572", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa9d271Bawki|r",
-			[51] = 1609908425,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [65]
-		{
-			"<EH> Bawki got hit by |cff71d5ff|Hspell:318406:0|h[Tenderizing Smash]|h|r for 18.1k (62%).", -- [1]
-			"Bawki-TarrenMill", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Bawki-TarrenMill", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			653, -- [11]
-			"Player-1084-0A20D572", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa9d271Bawki|r",
-			[51] = 1609908444,
-			[50] = "CHAT_MSG_PARTY_LEADER",
 		}, -- [66]
 		{
-			"<EH> Bawki got hit by |cff71d5ff|Hspell:318406:0|h[Tenderizing Smash]|h|r for 19.0k (72%).", -- [1]
+			"Second Blade on Bawki", -- [1]
 			"Bawki-TarrenMill", -- [2]
-			"", -- [3]
+			"Orcish", -- [3]
 			"", -- [4]
 			"Bawki-TarrenMill", -- [5]
 			"", -- [6]
@@ -1486,7 +1486,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			662, -- [11]
+			5010, -- [11]
 			"Player-1084-0A20D572", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -1494,711 +1494,711 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cffa9d271Bawki|r",
-			[51] = 1609908509,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			[51] = 1611794414,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [67]
 		{
-			"<EH> Warhooligan-BurningLegion got hit by |cff71d5ff|Hspell:318406:0|h[Tenderizing Smash]|h|r for 13.5k (45%).", -- [1]
-			"Bawki-TarrenMill", -- [2]
+			"Details! Minifura's Death: |cff71d5ff|Hspell:342733:0|h[Ravenous Feast]|h|r: 16.3K ", -- [1]
+			"Landobuns-Stormscale", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Bawki-TarrenMill", -- [5]
+			"Landobuns-Stormscale", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			663, -- [11]
-			"Player-1084-0A20D572", -- [12]
+			5012, -- [11]
+			"Player-2073-070B752E", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa9d271Bawki|r",
-			[51] = 1609908509,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			[52] = "|cff3ec6eaLandobuns-Stormscale|r",
+			[51] = 1611794437,
+			[50] = "CHAT_MSG_RAID",
 		}, -- [68]
 		{
-			"Manifest Death", -- [1]
-			"Warhooligan-BurningLegion", -- [2]
-			"Orcish", -- [3]
+			"Details! Loxeurdh's Death: [Melee]: 31.9K ", -- [1]
+			"Landobuns-Stormscale", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Warhooligan-BurningLegion", -- [5]
+			"Landobuns-Stormscale", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			676, -- [11]
-			"Player-3713-0A897538", -- [12]
+			5013, -- [11]
+			"Player-2073-070B752E", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc59a6cWarhooligan-BurningLegion|r",
-			[51] = 1609908607,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cff3ec6eaLandobuns-Stormscale|r",
+			[51] = 1611794439,
+			[50] = "CHAT_MSG_RAID",
 		}, -- [69]
 		{
-			"Явление смерти", -- [1]
-			"Салтелион-СвежевательДуш", -- [2]
+			"Crystalize on Çirath", -- [1]
+			"Çirath-TarrenMill", -- [2]
 			"Orcish", -- [3]
 			"", -- [4]
-			"Салтелион-СвежевательДуш", -- [5]
+			"Çirath-TarrenMill", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			677, -- [11]
-			"Player-1604-0E9CF664", -- [12]
+			5016, -- [11]
+			"Player-1084-05CFAB8E", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff3ec6eaСалтелион-СвежевательДуш|r",
-			[51] = 1609908607,
+			[52] = "|cffa9d271Çirath|r",
+			[51] = 1611794440,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [70]
 		{
 			"3", -- [1]
-			"Warhooligan-BurningLegion", -- [2]
+			"Çirath-TarrenMill", -- [2]
 			"Orcish", -- [3]
 			"", -- [4]
-			"Warhooligan-BurningLegion", -- [5]
+			"Çirath-TarrenMill", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			678, -- [11]
-			"Player-3713-0A897538", -- [12]
+			5017, -- [11]
+			"Player-1084-05CFAB8E", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc59a6cWarhooligan-BurningLegion|r",
-			[51] = 1609908610,
+			[52] = "|cffa9d271Çirath|r",
+			[51] = 1611794442,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [71]
 		{
-			"3", -- [1]
-			"Салтелион-СвежевательДуш", -- [2]
+			"2", -- [1]
+			"Çirath-TarrenMill", -- [2]
 			"Orcish", -- [3]
 			"", -- [4]
-			"Салтелион-СвежевательДуш", -- [5]
+			"Çirath-TarrenMill", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			679, -- [11]
-			"Player-1604-0E9CF664", -- [12]
+			5018, -- [11]
+			"Player-1084-05CFAB8E", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff3ec6eaСалтелион-СвежевательДуш|r",
-			[51] = 1609908610,
+			[52] = "|cffa9d271Çirath|r",
+			[51] = 1611794443,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [72]
 		{
-			"2", -- [1]
-			"Warhooligan-BurningLegion", -- [2]
+			"1", -- [1]
+			"Çirath-TarrenMill", -- [2]
 			"Orcish", -- [3]
 			"", -- [4]
-			"Warhooligan-BurningLegion", -- [5]
+			"Çirath-TarrenMill", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			680, -- [11]
-			"Player-3713-0A897538", -- [12]
+			5019, -- [11]
+			"Player-1084-05CFAB8E", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc59a6cWarhooligan-BurningLegion|r",
-			[51] = 1609908611,
+			[52] = "|cffa9d271Çirath|r",
+			[51] = 1611794444,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [73]
 		{
-			"2", -- [1]
-			"Салтелион-СвежевательДуш", -- [2]
+			"Meteor on Çirath", -- [1]
+			"Çirath-TarrenMill", -- [2]
 			"Orcish", -- [3]
 			"", -- [4]
-			"Салтелион-СвежевательДуш", -- [5]
+			"Çirath-TarrenMill", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			681, -- [11]
-			"Player-1604-0E9CF664", -- [12]
+			5020, -- [11]
+			"Player-1084-05CFAB8E", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff3ec6eaСалтелион-СвежевательДуш|r",
-			[51] = 1609908612,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffa9d271Çirath|r",
+			[51] = 1611794445,
+			[50] = "CHAT_MSG_YELL",
 		}, -- [74]
 		{
-			"1", -- [1]
-			"Warhooligan-BurningLegion", -- [2]
-			"Orcish", -- [3]
+			"Details! Juliazer's Death: |cff71d5ff|Hspell:333716:0|h[Wicked Blast]|h|r: 15.4K ", -- [1]
+			"Landobuns-Stormscale", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Warhooligan-BurningLegion", -- [5]
+			"Landobuns-Stormscale", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			682, -- [11]
-			"Player-3713-0A897538", -- [12]
+			5029, -- [11]
+			"Player-2073-070B752E", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc59a6cWarhooligan-BurningLegion|r",
-			[51] = 1609908613,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cff3ec6eaLandobuns-Stormscale|r",
+			[51] = 1611794454,
+			[50] = "CHAT_MSG_RAID",
 		}, -- [75]
 		{
-			"1", -- [1]
-			"Салтелион-СвежевательДуш", -- [2]
-			"Orcish", -- [3]
+			"Details! Skimask's Death: |cff71d5ff|Hspell:333716:0|h[Wicked Blast]|h|r: 14.8K ", -- [1]
+			"Landobuns-Stormscale", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Салтелион-СвежевательДуш", -- [5]
+			"Landobuns-Stormscale", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			683, -- [11]
-			"Player-1604-0E9CF664", -- [12]
+			5030, -- [11]
+			"Player-2073-070B752E", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff3ec6eaСалтелион-СвежевательДуш|r",
-			[51] = 1609908613,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cff3ec6eaLandobuns-Stormscale|r",
+			[51] = 1611794454,
+			[50] = "CHAT_MSG_RAID",
 		}, -- [76]
 		{
-			"<EH> Bawki got hit by |cff71d5ff|Hspell:339573:0|h[Echos of Carnage]|h|r for 9.5k (33%).", -- [1]
-			"Bawki-TarrenMill", -- [2]
+			"Details! Muhlock's Death: |cff71d5ff|Hspell:333716:0|h[Wicked Blast]|h|r: 14.9K ", -- [1]
+			"Landobuns-Stormscale", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Bawki-TarrenMill", -- [5]
+			"Landobuns-Stormscale", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			687, -- [11]
-			"Player-1084-0A20D572", -- [12]
+			5031, -- [11]
+			"Player-2073-070B752E", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa9d271Bawki|r",
-			[51] = 1609908647,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			[52] = "|cff3ec6eaLandobuns-Stormscale|r",
+			[51] = 1611794454,
+			[50] = "CHAT_MSG_RAID",
 		}, -- [77]
 		{
-			"3", -- [1]
-			"Warhooligan-BurningLegion", -- [2]
-			"Orcish", -- [3]
+			"Details! Schak's Death: |cff71d5ff|Hspell:333716:0|h[Wicked Blast]|h|r: 13.8K ", -- [1]
+			"Landobuns-Stormscale", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Warhooligan-BurningLegion", -- [5]
+			"Landobuns-Stormscale", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			691, -- [11]
-			"Player-3713-0A897538", -- [12]
+			5032, -- [11]
+			"Player-2073-070B752E", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc59a6cWarhooligan-BurningLegion|r",
-			[51] = 1609908670,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cff3ec6eaLandobuns-Stormscale|r",
+			[51] = 1611794454,
+			[50] = "CHAT_MSG_RAID",
 		}, -- [78]
 		{
-			"3", -- [1]
-			"Салтелион-СвежевательДуш", -- [2]
-			"Orcish", -- [3]
+			"Details! Çirath's Death: |cff71d5ff|Hspell:333716:0|h[Wicked Blast]|h|r: 14.5K ", -- [1]
+			"Landobuns-Stormscale", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Салтелион-СвежевательДуш", -- [5]
+			"Landobuns-Stormscale", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			692, -- [11]
-			"Player-1604-0E9CF664", -- [12]
+			5033, -- [11]
+			"Player-2073-070B752E", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff3ec6eaСалтелион-СвежевательДуш|r",
-			[51] = 1609908670,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cff3ec6eaLandobuns-Stormscale|r",
+			[51] = 1611794454,
+			[50] = "CHAT_MSG_RAID",
 		}, -- [79]
 		{
-			"2", -- [1]
-			"Warhooligan-BurningLegion", -- [2]
-			"Orcish", -- [3]
+			"Details! Talizeadr's Death: |cff71d5ff|Hspell:333716:0|h[Wicked Blast]|h|r: 14.3K ", -- [1]
+			"Landobuns-Stormscale", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Warhooligan-BurningLegion", -- [5]
+			"Landobuns-Stormscale", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			693, -- [11]
-			"Player-3713-0A897538", -- [12]
+			5034, -- [11]
+			"Player-2073-070B752E", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc59a6cWarhooligan-BurningLegion|r",
-			[51] = 1609908671,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cff3ec6eaLandobuns-Stormscale|r",
+			[51] = 1611794454,
+			[50] = "CHAT_MSG_RAID",
 		}, -- [80]
 		{
-			"1", -- [1]
-			"Warhooligan-BurningLegion", -- [2]
-			"Orcish", -- [3]
+			"Details! Intergalacto's Death: |cff71d5ff|Hspell:333716:0|h[Wicked Blast]|h|r: 14.2K ", -- [1]
+			"Landobuns-Stormscale", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Warhooligan-BurningLegion", -- [5]
+			"Landobuns-Stormscale", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			694, -- [11]
-			"Player-3713-0A897538", -- [12]
+			5035, -- [11]
+			"Player-2073-070B752E", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc59a6cWarhooligan-BurningLegion|r",
-			[51] = 1609908672,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cff3ec6eaLandobuns-Stormscale|r",
+			[51] = 1611794454,
+			[50] = "CHAT_MSG_RAID",
 		}, -- [81]
 		{
-			"<EH> Салтелион-СвежевательДуш got hit by |cff71d5ff|Hspell:323681:0|h[Dark Devastation]|h|r for 17.1k (51%).", -- [1]
-			"Bawki-TarrenMill", -- [2]
+			"Details! Bawki's Death: |cff71d5ff|Hspell:333716:0|h[Wicked Blast]|h|r: 15.2K ", -- [1]
+			"Landobuns-Stormscale", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Bawki-TarrenMill", -- [5]
+			"Landobuns-Stormscale", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			696, -- [11]
-			"Player-1084-0A20D572", -- [12]
+			5036, -- [11]
+			"Player-2073-070B752E", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa9d271Bawki|r",
-			[51] = 1609908693,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			[52] = "|cff3ec6eaLandobuns-Stormscale|r",
+			[51] = 1611794454,
+			[50] = "CHAT_MSG_RAID",
 		}, -- [82]
 		{
-			"Thank you for travelling with ElitismHelper. Amount of failure damage:", -- [1]
-			"Bawki-TarrenMill", -- [2]
+			"Details! Taukette's Death: |cff71d5ff|Hspell:333716:0|h[Wicked Blast]|h|r: 14.2K ", -- [1]
+			"Landobuns-Stormscale", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Bawki-TarrenMill", -- [5]
+			"Landobuns-Stormscale", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			701, -- [11]
-			"Player-1084-0A20D572", -- [12]
+			5037, -- [11]
+			"Player-2073-070B752E", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa9d271Bawki|r",
-			[51] = 1609908717,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			[52] = "|cff3ec6eaLandobuns-Stormscale|r",
+			[51] = 1611794454,
+			[50] = "CHAT_MSG_RAID",
 		}, -- [83]
 		{
-			"1. Warhooligan-BurningLegion 56.8k", -- [1]
-			"Bawki-TarrenMill", -- [2]
+			"Details! Loùnätick's Death: |cff71d5ff|Hspell:333716:0|h[Wicked Blast]|h|r: 15.1K ", -- [1]
+			"Landobuns-Stormscale", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Bawki-TarrenMill", -- [5]
+			"Landobuns-Stormscale", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			702, -- [11]
-			"Player-1084-0A20D572", -- [12]
+			5038, -- [11]
+			"Player-2073-070B752E", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa9d271Bawki|r",
-			[51] = 1609908717,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			[52] = "|cff3ec6eaLandobuns-Stormscale|r",
+			[51] = 1611794454,
+			[50] = "CHAT_MSG_RAID",
 		}, -- [84]
 		{
-			"2. Zaphoria 59.5k", -- [1]
-			"Bawki-TarrenMill", -- [2]
+			"Details! Monkeytte's Death: |cff71d5ff|Hspell:333716:0|h[Wicked Blast]|h|r: 12.2K ", -- [1]
+			"Landobuns-Stormscale", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Bawki-TarrenMill", -- [5]
+			"Landobuns-Stormscale", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			703, -- [11]
-			"Player-1084-0A20D572", -- [12]
+			5039, -- [11]
+			"Player-2073-070B752E", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa9d271Bawki|r",
-			[51] = 1609908717,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			[52] = "|cff3ec6eaLandobuns-Stormscale|r",
+			[51] = 1611794454,
+			[50] = "CHAT_MSG_RAID",
 		}, -- [85]
 		{
-			"3. Intergalacto 64.3k", -- [1]
-			"Bawki-TarrenMill", -- [2]
+			"Details! Заряженный's Death: |cff71d5ff|Hspell:333716:0|h[Wicked Blast]|h|r: 14.8K ", -- [1]
+			"Landobuns-Stormscale", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Bawki-TarrenMill", -- [5]
+			"Landobuns-Stormscale", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			704, -- [11]
-			"Player-1084-0A20D572", -- [12]
+			5040, -- [11]
+			"Player-2073-070B752E", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa9d271Bawki|r",
-			[51] = 1609908717,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			[52] = "|cff3ec6eaLandobuns-Stormscale|r",
+			[51] = 1611794454,
+			[50] = "CHAT_MSG_RAID",
 		}, -- [86]
 		{
-			"4. Салтелион-СвежевательДуш 91.1k", -- [1]
-			"Bawki-TarrenMill", -- [2]
+			"Details! Айварка's Death: |cff71d5ff|Hspell:333716:0|h[Wicked Blast]|h|r: 14.6K ", -- [1]
+			"Landobuns-Stormscale", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Bawki-TarrenMill", -- [5]
+			"Landobuns-Stormscale", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			705, -- [11]
-			"Player-1084-0A20D572", -- [12]
+			5041, -- [11]
+			"Player-2073-070B752E", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa9d271Bawki|r",
-			[51] = 1609908717,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			[52] = "|cff3ec6eaLandobuns-Stormscale|r",
+			[51] = 1611794454,
+			[50] = "CHAT_MSG_RAID",
 		}, -- [87]
 		{
-			"5. Bawki 102.0k", -- [1]
-			"Bawki-TarrenMill", -- [2]
+			"Details! Landobuns's Death: |cff71d5ff|Hspell:333716:0|h[Wicked Blast]|h|r: 14.5K ", -- [1]
+			"Landobuns-Stormscale", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Bawki-TarrenMill", -- [5]
+			"Landobuns-Stormscale", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			706, -- [11]
-			"Player-1084-0A20D572", -- [12]
+			5042, -- [11]
+			"Player-2073-070B752E", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa9d271Bawki|r",
-			[51] = 1609908717,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			[52] = "|cff3ec6eaLandobuns-Stormscale|r",
+			[51] = 1611794454,
+			[50] = "CHAT_MSG_RAID",
 		}, -- [88]
 		{
-			"wp.", -- [1]
-			"Warhooligan-BurningLegion", -- [2]
+			"Details! Fórænz's Death: |cff71d5ff|Hspell:333716:0|h[Wicked Blast]|h|r: 15.1K ", -- [1]
+			"Landobuns-Stormscale", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Warhooligan-BurningLegion", -- [5]
+			"Landobuns-Stormscale", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			708, -- [11]
-			"Player-3713-0A897538", -- [12]
+			5043, -- [11]
+			"Player-2073-070B752E", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc59a6cWarhooligan-BurningLegion|r",
-			[51] = 1609908722,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cff3ec6eaLandobuns-Stormscale|r",
+			[51] = 1611794454,
+			[50] = "CHAT_MSG_RAID",
 		}, -- [89]
 		{
-			"i quess u need finger>", -- [1]
-			"Warhooligan-BurningLegion", -- [2]
+			"Details! Dzebedhaya's Death: |cff71d5ff|Hspell:333716:0|h[Wicked Blast]|h|r: 15.0K ", -- [1]
+			"Landobuns-Stormscale", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Warhooligan-BurningLegion", -- [5]
+			"Landobuns-Stormscale", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			719, -- [11]
-			"Player-3713-0A897538", -- [12]
+			5044, -- [11]
+			"Player-2073-070B752E", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc59a6cWarhooligan-BurningLegion|r",
-			[51] = 1609908754,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cff3ec6eaLandobuns-Stormscale|r",
+			[51] = 1611794454,
+			[50] = "CHAT_MSG_RAID",
 		}, -- [90]
 		{
-			"next?", -- [1]
-			"Салтелион-СвежевательДуш", -- [2]
+			"Bawki gaming", -- [1]
+			"Landobuns-Stormscale", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Салтелион-СвежевательДуш", -- [5]
+			"Landobuns-Stormscale", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			720, -- [11]
-			"Player-1604-0E9CF664", -- [12]
+			5046, -- [11]
+			"Player-2073-070B752E", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff3ec6eaСалтелион-СвежевательДуш|r",
-			[51] = 1609908759,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cff3ec6eaLandobuns-Stormscale|r",
+			[51] = 1611794459,
+			[50] = "CHAT_MSG_RAID",
 		}, -- [91]
 		{
-			"sure", -- [1]
-			"Intergalacto-TarrenMill", -- [2]
+			"Details! Bezerkur's Death: |cff71d5ff|Hspell:333913:0|h[Wicked Laceration]|h|r: 3.5K ", -- [1]
+			"Landobuns-Stormscale", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Intergalacto-TarrenMill", -- [5]
+			"Landobuns-Stormscale", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			721, -- [11]
-			"Player-1084-08695BD0", -- [12]
+			5048, -- [11]
+			"Player-2073-070B752E", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff006fdcIntergalacto|r",
-			[51] = 1609908760,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cff3ec6eaLandobuns-Stormscale|r",
+			[51] = 1611794459,
+			[50] = "CHAT_MSG_RAID",
 		}, -- [92]
 		{
-			"ah yeah", -- [1]
-			"Warhooligan-BurningLegion", -- [2]
+			"Details! Loxeurdh's Death: [Melee]: 4.9K ", -- [1]
+			"Landobuns-Stormscale", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Warhooligan-BurningLegion", -- [5]
+			"Landobuns-Stormscale", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			722, -- [11]
-			"Player-3713-0A897538", -- [12]
+			5049, -- [11]
+			"Player-2073-070B752E", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc59a6cWarhooligan-BurningLegion|r",
-			[51] = 1609908777,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cff3ec6eaLandobuns-Stormscale|r",
+			[51] = 1611794462,
+			[50] = "CHAT_MSG_RAID",
 		}, -- [93]
 		{
-			"friends :>", -- [1]
-			"Warhooligan-BurningLegion", -- [2]
+			"dh", -- [1]
+			"Loxeurdh-Ysondre", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Warhooligan-BurningLegion", -- [5]
+			"Loxeurdh-Ysondre", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			723, -- [11]
-			"Player-3713-0A897538", -- [12]
+			5050, -- [11]
+			"Player-1335-0717413C", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc59a6cWarhooligan-BurningLegion|r",
-			[51] = 1609908780,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cffa22fc8Loxeurdh-Ysondre|r",
+			[51] = 1611794465,
+			[50] = "CHAT_MSG_RAID",
 		}, -- [94]
 		{
-			"bb", -- [1]
-			"Warhooligan-BurningLegion", -- [2]
+			"its skull", -- [1]
+			"Loxeurdh-Ysondre", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Warhooligan-BurningLegion", -- [5]
+			"Loxeurdh-Ysondre", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			724, -- [11]
-			"Player-3713-0A897538", -- [12]
+			5052, -- [11]
+			"Player-1335-0717413C", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc59a6cWarhooligan-BurningLegion|r",
-			[51] = 1609908782,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cffa22fc8Loxeurdh-Ysondre|r",
+			[51] = 1611794467,
+			[50] = "CHAT_MSG_RAID",
 		}, -- [95]
 		{
-			"o/", -- [1]
-			"Intergalacto-TarrenMill", -- [2]
+			"gg", -- [1]
+			"Taukette-Hyjal", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Intergalacto-TarrenMill", -- [5]
+			"Taukette-Hyjal", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			727, -- [11]
-			"Player-1084-08695BD0", -- [12]
+			5054, -- [11]
+			"Player-1390-0AE6829D", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff006fdcIntergalacto|r",
-			[51] = 1609908787,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cfffe7b09Taukette-Hyjal|r",
+			[51] = 1611794472,
+			[50] = "CHAT_MSG_RAID",
 		}, -- [96]
 		{
-			"--[M+ Boost]--> BEST Price / BEST Team! +12 / +13 / +14 / +15  all INTIME and LOOTSHARE, we got the Keys /w us <3", -- [1]
-			"Twelveshot-TarrenMill", -- [2]
+			"<Below Average> 10/10HC 2/10M We are currently looking for some caster dps Spriest,warlock,boomie and Unholy dk. Raid days Thursdays and sundays between 19:30 - 22:30. /w me if you have any questions.", -- [1]
+			"Swolebeast-TarrenMill", -- [2]
 			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Twelveshot-TarrenMill", -- [5]
+			"1. General - Castle Nathria", -- [4]
+			"Swolebeast-TarrenMill", -- [5]
 			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
+			1, -- [7]
+			1, -- [8]
+			"General - Castle Nathria", -- [9]
 			0, -- [10]
-			733, -- [11]
-			"Player-1084-09852615", -- [12]
+			5055, -- [11]
+			"Player-1084-0A23E709", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			true, -- [17]
-			[52] = "|cfffe7b09Twelveshot|r",
-			[51] = 1609908805,
+			[52] = "|cff006fdcSwolebeast|r",
+			[51] = 1611794477,
 			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [97]
 		{
-			"<NEET GANG> Recruiting ultra sperg neets and degens for mythic raiding and boosting, goal is CE whatever the cost.  Wed/Thur/Sun 20-23. 10/10HC 1/10M. Looking for one tank and big dps.", -- [1]
-			"Vashavi-TarrenMill", -- [2]
+			"tank what about ur stacks ? and why are 50% of the raid soak crystal to early", -- [1]
+			"Schak-Blackrock", -- [2]
 			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Vashavi-TarrenMill", -- [5]
+			"", -- [4]
+			"Schak-Blackrock", -- [5]
 			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			738, -- [11]
-			"Player-1084-0A0D3F26", -- [12]
+			5056, -- [11]
+			"Player-581-09E618ED", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			true, -- [17]
-			[52] = "|cfffe7b09Vashavi|r",
-			[51] = 1609908844,
-			[50] = "CHAT_MSG_CHANNEL",
+			false, -- [17]
+			[52] = "|cff006fdcSchak-Blackrock|r",
+			[51] = 1611794480,
+			[50] = "CHAT_MSG_RAID",
 		}, -- [98]
 		{
-			"WTS Mythic  +12  +13  +14  +15 |cffa335ee|Hkeystone:180653:381:17:9:122:4:121|h[Keystone: Spires of Ascension (17)]|h|r  IN TIME GUARANTEED ! ", -- [1]
-			"Tarrenbanker-TarrenMill", -- [2]
+			"Famu the Inifinite up |cffffff00|Hworldmap:1525:6252:4711|h[|A:Waypoint-MapPin-ChatIcon:13:13:0:0|a Map Pin Location]|h|r", -- [1]
+			"Dizzi-Blade'sEdge", -- [2]
 			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Tarrenbanker-TarrenMill", -- [5]
+			"1. General - Revendreth", -- [4]
+			"Dizzi-Blade'sEdge", -- [5]
 			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
+			1, -- [7]
+			1, -- [8]
+			"General - Revendreth", -- [9]
 			0, -- [10]
-			745, -- [11]
-			"Player-1084-096A7CAA", -- [12]
+			6096, -- [11]
+			"Player-1416-06C9330E", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			true, -- [17]
-			[52] = "|cff006fdcTarrenbanker|r",
-			[51] = 1609908925,
+			[52] = "|cffc59a6cDizzi-Blade'sEdge|r",
+			[51] = 1611796959,
 			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [99]
 	},

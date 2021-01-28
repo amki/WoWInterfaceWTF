@@ -1,9 +1,6 @@
 
 PawnOptions = {
-	["LastVersion"] = 2.0409,
-	["LastPlayerFullName"] = "Mihri-Tarren Mill",
-	["AutoSelectScales"] = false,
-	["UpgradeTracking"] = false,
+	["LastVersion"] = 2.041,
 	["ItemLevels"] = {
 		{
 			["ID"] = 178759,
@@ -92,7 +89,9 @@ PawnOptions = {
 			["Link"] = "|cffa335ee|Hitem:180663::::::::55:258::11:2:6706:7173:2:28:1337:9:55:::|h[War Scholar's Bonesaw]|h|r",
 		}, -- [17]
 	},
-	["LastKeybindingsSet"] = 1,
+	["AutoSelectScales"] = false,
+	["UpgradeTracking"] = false,
+	["LastPlayerFullName"] = "Mihri-Tarren Mill",
 	["Artifacts"] = {
 		[128868] = {
 			["Relics"] = {
@@ -146,6 +145,7 @@ PawnOptions = {
 			["Name"] = "T'uure, Beacon of the Naaru",
 		},
 	},
+	["LastKeybindingsSet"] = 1,
 }
 PawnMrRobotScaleProviderOptions = {
 	["LastClass"] = "PRIEST",

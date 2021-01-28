@@ -6,12 +6,13 @@ FishingBuddy_Player = {
 	},
 	["TotalTimeFishing"] = 1,
 	["Settings"] = {
-		["SpecialBobbers"] = -1,
 		["TotalTimeFishing"] = 3033.76899999986,
+		["SpecialBobbers"] = -1,
 	},
 	["WasWearing"] = {
 	},
-	["Version"] = 19500,
+	["Outfit"] = {
+	},
 	["WatcherLocation"] = {
 		["grp_point"] = "TOPRIGHT",
 		["solo_y"] = -207.499816894531,
@@ -20,12 +21,11 @@ FishingBuddy_Player = {
 		["grp_x"] = -248.499633789063,
 		["solo_scale"] = 1,
 		["raid_point"] = "TOPRIGHT",
-		["raid_scale"] = 1,
+		["grp_y"] = -207.499816894531,
 		["grp_scale"] = 1,
 		["solo_point"] = "TOPRIGHT",
 		["raid_y"] = -207.499816894531,
-		["grp_y"] = -207.499816894531,
+		["raid_scale"] = 1,
 	},
-	["Outfit"] = {
-	},
+	["Version"] = 19500,
 }

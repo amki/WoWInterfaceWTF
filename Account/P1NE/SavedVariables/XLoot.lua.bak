@@ -8,9 +8,9 @@ XLootADB = {
 						["visible"] = false,
 					},
 					["roll_anchor"] = {
-						["y"] = 380.999816894531,
-						["x"] = 574.99951171875,
 						["visible"] = false,
+						["x"] = 574.99951171875,
+						["y"] = 380.999816894531,
 					},
 				},
 			},
@@ -23,16 +23,14 @@ XLootADB = {
 				},
 			},
 		},
-		["Master"] = {
-		},
 		["Monitor"] = {
 			["profiles"] = {
 				["Default"] = {
 					["threshold_own"] = 3,
 					["fade_other"] = 30,
 					["anchor"] = {
-						["y"] = 457.999877929688,
 						["visible"] = false,
+						["y"] = 457.999877929688,
 						["x"] = 552.99951171875,
 					},
 					["fade_own"] = 30,
@@ -40,20 +38,25 @@ XLootADB = {
 				},
 			},
 		},
+		["Master"] = {
+		},
 	},
 	["profileKeys"] = {
 		["Lyt - Azshara"] = "Default",
 		["Intergalacto - Tarren Mill"] = "Default",
 		["Intergalacto - Azshara"] = "Default",
 		["Ieni - Tarren Mill"] = "Default",
+		["Enthusiastus - Azshara"] = "Default",
+		["Thankubliz - Tarren Mill"] = "Default",
+		["Cirina - Tarren Mill"] = "Default",
 		["Intergalacto - Onyxia"] = "Default",
 		["Rynllor - Tarren Mill"] = "Default",
 		["Enthusiastus - Tarren Mill"] = "Default",
 		["Mamiko - Azshara"] = "Default",
 		["Mihri - Tarren Mill"] = "Default",
+		["Cymet - Silvermoon"] = "Default",
 		["Iridia - Tarren Mill"] = "Default",
-		["Enthusiastus - Azshara"] = "Default",
-		["Thankubliz - Tarren Mill"] = "Default",
+		["Testolel - Silvermoon"] = "Default",
 	},
 	["profiles"] = {
 		["Default"] = {

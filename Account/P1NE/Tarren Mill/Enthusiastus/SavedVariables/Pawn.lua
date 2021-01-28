@@ -1,11 +1,14 @@
 
 PawnOptions = {
 	["LastVersion"] = 2.041,
+	["LastPlayerFullName"] = "Enthusiastus-Tarren Mill",
+	["AutoSelectScales"] = false,
+	["UpgradeTracking"] = false,
 	["ItemLevels"] = {
 		{
-			["ID"] = 178760,
-			["Level"] = 184,
-			["Link"] = "|cffa335ee|Hitem:178760::::::::60:105::23:5:6807:43:7194:1498:6646:1:28:749:::|h[Digested Interrogator's Gaze]|h|r",
+			["ID"] = 172317,
+			["Level"] = 225,
+			["Link"] = "|cffff8000|Hitem:172317::::::::60:105::65:6:7085:6718:7194:6649:6650:1522::::|h[Circle of Life and Death]|h|r",
 		}, -- [1]
 		{
 			["ID"] = 184757,
@@ -13,25 +16,25 @@ PawnOptions = {
 			["Link"] = "|cff0070dd|Hitem:184757::::::::60:102::11::1:28:1707:::|h[Chain of the Purpose-Bound]|h|r",
 		}, -- [2]
 		{
-			["ID"] = 178858,
-			["Level"] = 184,
-			["Link"] = "|cffa335ee|Hitem:178858::::::::60:105::23:4:6807:6652:1498:6646:1:28:2044:::|h[Wicked Bladewing Pauldrons]|h|r",
+			["ID"] = 178779,
+			["Level"] = 210,
+			["Link"] = "|cffa335ee|Hitem:178779::::::::60:105::35:5:7205:6652:1501:5868:6646::::|h[Undying Chill Shoulderpads]|h|r",
 		}, -- [3]
 		nil, -- [4]
 		{
-			["ID"] = 178698,
-			["Level"] = 184,
-			["Link"] = "|cffa335ee|Hitem:178698::::::::60:105::23:4:6807:6652:1498:6646:1:28:749:::|h[Rainshadow Hauberk]|h|r",
+			["ID"] = 183009,
+			["Level"] = 200,
+			["Link"] = "|cffa335ee|Hitem:183009::::::::60:105::3:4:7189:40:1472:6646:1:28:751:::|h[Miasma-Lacquered Jerkin]|h|r",
 		}, -- [5]
 		{
-			["ID"] = 180111,
-			["Level"] = 184,
-			["Link"] = "|cffa335ee|Hitem:180111::::::::60:105::23:5:6807:6652:7194:1498:6646:1:28:749:::|h[Shadowhirl Waistwrap]|h|r",
+			["ID"] = 178823,
+			["Level"] = 200,
+			["Link"] = "|cffa335ee|Hitem:178823::::::::60:105::16:6:7206:6652:7194:1501:5858:6646:1:28:1279:::|h[Waistcord of Dark Devotion]|h|r",
 		}, -- [6]
 		{
-			["ID"] = 180108,
-			["Level"] = 197,
-			["Link"] = "|cffa335ee|Hitem:180108::::::::60:105::16:5:7205:6652:1501:5855:6646:1:28:1279:::|h[Abyssal Disharmony Breeches]|h|r",
+			["ID"] = 178801,
+			["Level"] = 200,
+			["Link"] = "|cffa335ee|Hitem:178801::::::::60:105::16:5:7207:6652:1501:5858:6646:1:28:1279:::|h[Fearless Challenger's Leggings]|h|r",
 		}, -- [7]
 		{
 			["ID"] = 178731,
@@ -39,9 +42,9 @@ PawnOptions = {
 			["Link"] = "|cffa335ee|Hitem:178731::::::::60:105::23:4:6807:6652:1498:6646:1:28:749:::|h[Viscera-Stitched Footpads]|h|r",
 		}, -- [8]
 		{
-			["ID"] = 178934,
-			["Level"] = 184,
-			["Link"] = "|cffa335ee|Hitem:178934::::::::60:105::23:5:6807:6652:7194:1498:6646:1:28:749:::|h[Fastened Venombarb Binds]|h|r",
+			["ID"] = 178741,
+			["Level"] = 213,
+			["Link"] = "|cffa335ee|Hitem:178741::::::::60:105::35:6:7206:6652:7193:1501:5871:6646::::|h[Risen Monstrosity Cuffs]|h|r",
 		}, -- [9]
 		{
 			["ID"] = 184172,
@@ -49,50 +52,47 @@ PawnOptions = {
 			["Link"] = "|cffa335ee|Hitem:184172::::::::60:105::81:3:6652:1492:6646:1:28:2060:::|h[Seed-Tender's Handwraps]|h|r",
 		}, -- [10]
 		{
-			["ID"] = 178848,
-			["Level"] = 184,
+			["ID"] = 184143,
+			["Level"] = 207,
 			["AlsoFitsIn"] = 12,
-			["Link"] = "|cffa335ee|Hitem:178848::::::::60:105::23:5:6807:6652:7194:1498:6646:1:28:749:::|h[Entwined Gorger Tendril]|h|r",
+			["Link"] = "|cffa335ee|Hitem:184143::::::::60:105::81:4:6652:7194:1492:6646:1:28:2060:::|h[Band of the Risen Bonelord]|h|r",
 		}, -- [11]
 		{
-			["ID"] = 178848,
-			["Level"] = 184,
+			["ID"] = 184143,
+			["Level"] = 207,
 			["AlsoFitsIn"] = 11,
-			["Link"] = "|cffa335ee|Hitem:178848::::::::60:102::23:5:6807:6652:7194:1498:6646:1:28:749:::|h[Entwined Gorger Tendril]|h|r",
+			["Link"] = "|cffa335ee|Hitem:184143:6166:::::::60:105::81:4:6652:7194:1492:6646:1:28:2060:::|h[Band of the Risen Bonelord]|h|r",
 		}, -- [12]
 		{
-			["ID"] = 179350,
-			["Level"] = 184,
+			["ID"] = 178708,
+			["Level"] = 200,
 			["AlsoFitsIn"] = 14,
-			["Link"] = "|cffa335ee|Hitem:179350::::::::60:105::23:4:6807:6652:1498:6646:1:28:749:::|h[Inscrutable Quantum Device]|h|r",
+			["Link"] = "|cffa335ee|Hitem:178708::::::::60:105::16:6:7206:6652:6917:1501:5858:6646:1:28:1279:::|h[Unbound Changeling]|h|r",
 		}, -- [13]
 		{
-			["ID"] = 179350,
-			["Level"] = 184,
+			["ID"] = 178708,
+			["Level"] = 200,
 			["AlsoFitsIn"] = 13,
-			["Link"] = "|cffa335ee|Hitem:179350::::::::60:102::23:4:6807:6652:1498:6646:1:28:749:::|h[Inscrutable Quantum Device]|h|r",
+			["Link"] = "|cffa335ee|Hitem:178708::::::::60:102::16:6:7206:6652:6917:1501:5858:6646:1:28:1279:::|h[Unbound Changeling]|h|r",
 		}, -- [14]
 		{
-			["ID"] = 178755,
-			["Level"] = 184,
-			["Link"] = "|cffa335ee|Hitem:178755::::::::60:105::23:4:6807:42:1498:6646:1:28:749:::|h[Blighted Margrave's Cloak]|h|r",
+			["ID"] = 183034,
+			["Level"] = 200,
+			["Link"] = "|cffa335ee|Hitem:183034::::::::60:105::3:4:7189:6652:1472:6646:1:28:751:::|h[Cowled Batwing Cloak]|h|r",
 		}, -- [15]
 		{
-			["ID"] = 178753,
-			["Level"] = 184,
+			["ID"] = 178789,
+			["Level"] = 210,
 			["AlsoFitsIn"] = 17,
-			["Link"] = "|cffa335ee|Hitem:178753::::::::60:105::23:4:6807:6652:1498:6646:1:28:749:::|h[Surgical Pustule Extractor]|h|r",
+			["Link"] = "|cffa335ee|Hitem:178789::::::::60:105::35:5:7205:41:1501:5868:6646::::|h[Fleshcrafter's Knife]|h|r",
 		}, -- [16]
 		{
-			["ID"] = 178868,
-			["Level"] = 184,
-			["Link"] = "|cffa335ee|Hitem:178868::::::::60:105::23:4:6807:6652:1498:6646:1:28:749:::|h[Deathwalker's Promise]|h|r",
+			["ID"] = 178789,
+			["Level"] = 210,
+			["AlsoFitsIn"] = 16,
+			["Link"] = "|cffa335ee|Hitem:178789::::::::60:102::35:5:7205:41:1501:5868:6646::::|h[Fleshcrafter's Knife]|h|r",
 		}, -- [17]
 	},
-	["AutoSelectScales"] = false,
-	["UpgradeTracking"] = false,
-	["LastPlayerFullName"] = "Enthusiastus-Tarren Mill",
-	["LastKeybindingsSet"] = 1,
 	["Artifacts"] = {
 		[128821] = {
 			["Relics"] = {
@@ -110,6 +110,7 @@ PawnOptions = {
 			["Name"] = "Claws of Ursoc",
 		},
 	},
+	["LastKeybindingsSet"] = 1,
 }
 PawnMrRobotScaleProviderOptions = {
 	["LastClass"] = "DRUID",

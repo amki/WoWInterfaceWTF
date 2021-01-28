@@ -5,14 +5,17 @@ HandyNotesDB = {
 		["Intergalacto - Tarren Mill"] = "Intergalacto - Tarren Mill",
 		["Intergalacto - Azshara"] = "Intergalacto - Azshara",
 		["Ieni - Tarren Mill"] = "Ieni - Tarren Mill",
+		["Testolel - Silvermoon"] = "Testolel - Silvermoon",
+		["Iridia - Tarren Mill"] = "Iridia - Tarren Mill",
+		["Mihri - Tarren Mill"] = "Mihri - Tarren Mill",
 		["Intergalacto - Onyxia"] = "Intergalacto - Onyxia",
 		["Rynllor - Tarren Mill"] = "Rynllor - Tarren Mill",
 		["Enthusiastus - Tarren Mill"] = "Enthusiastus - Tarren Mill",
 		["Mamiko - Azshara"] = "Mamiko - Azshara",
-		["Mihri - Tarren Mill"] = "Mihri - Tarren Mill",
+		["Cirina - Tarren Mill"] = "Cirina - Tarren Mill",
+		["Cymet - Silvermoon"] = "Cymet - Silvermoon",
 		["Thankubliz - Tarren Mill"] = "Thankubliz - Tarren Mill",
 		["Enthusiastus - Azshara"] = "Enthusiastus - Azshara",
-		["Iridia - Tarren Mill"] = "Iridia - Tarren Mill",
 	},
 	["profiles"] = {
 		["Lyt - Azshara"] = {
@@ -23,6 +26,12 @@ HandyNotesDB = {
 		},
 		["Ieni - Tarren Mill"] = {
 		},
+		["Testolel - Silvermoon"] = {
+		},
+		["Iridia - Tarren Mill"] = {
+		},
+		["Mihri - Tarren Mill"] = {
+		},
 		["Intergalacto - Onyxia"] = {
 		},
 		["Rynllor - Tarren Mill"] = {
@@ -31,13 +40,13 @@ HandyNotesDB = {
 		},
 		["Mamiko - Azshara"] = {
 		},
-		["Mihri - Tarren Mill"] = {
+		["Cirina - Tarren Mill"] = {
+		},
+		["Cymet - Silvermoon"] = {
 		},
 		["Thankubliz - Tarren Mill"] = {
 		},
 		["Enthusiastus - Azshara"] = {
-		},
-		["Iridia - Tarren Mill"] = {
 		},
 	},
 }
@@ -47,14 +56,17 @@ HandyNotes_HandyNotesDB = {
 		["Intergalacto - Tarren Mill"] = "Intergalacto - Tarren Mill",
 		["Intergalacto - Azshara"] = "Intergalacto - Azshara",
 		["Ieni - Tarren Mill"] = "Ieni - Tarren Mill",
+		["Testolel - Silvermoon"] = "Testolel - Silvermoon",
+		["Iridia - Tarren Mill"] = "Iridia - Tarren Mill",
+		["Mihri - Tarren Mill"] = "Mihri - Tarren Mill",
 		["Intergalacto - Onyxia"] = "Intergalacto - Onyxia",
 		["Rynllor - Tarren Mill"] = "Rynllor - Tarren Mill",
 		["Enthusiastus - Tarren Mill"] = "Enthusiastus - Tarren Mill",
 		["Mamiko - Azshara"] = "Mamiko - Azshara",
-		["Mihri - Tarren Mill"] = "Mihri - Tarren Mill",
+		["Cirina - Tarren Mill"] = "Cirina - Tarren Mill",
+		["Cymet - Silvermoon"] = "Cymet - Silvermoon",
 		["Thankubliz - Tarren Mill"] = "Thankubliz - Tarren Mill",
 		["Enthusiastus - Azshara"] = "Enthusiastus - Azshara",
-		["Iridia - Tarren Mill"] = "Iridia - Tarren Mill",
 	},
 	["profiles"] = {
 		["Lyt - Azshara"] = {
@@ -65,6 +77,12 @@ HandyNotes_HandyNotesDB = {
 		},
 		["Ieni - Tarren Mill"] = {
 		},
+		["Testolel - Silvermoon"] = {
+		},
+		["Iridia - Tarren Mill"] = {
+		},
+		["Mihri - Tarren Mill"] = {
+		},
 		["Intergalacto - Onyxia"] = {
 		},
 		["Rynllor - Tarren Mill"] = {
@@ -73,13 +91,13 @@ HandyNotes_HandyNotesDB = {
 		},
 		["Mamiko - Azshara"] = {
 		},
-		["Mihri - Tarren Mill"] = {
+		["Cirina - Tarren Mill"] = {
+		},
+		["Cymet - Silvermoon"] = {
 		},
 		["Thankubliz - Tarren Mill"] = {
 		},
 		["Enthusiastus - Azshara"] = {
-		},
-		["Iridia - Tarren Mill"] = {
 		},
 	},
 }

@@ -1,0 +1,20 @@
+
+MuteSoundFileDB = {
+	["profileKeys"] = {
+		["Intergalacto - Tarren Mill"] = "Default",
+		["Enthusiastus - Tarren Mill"] = "Default",
+		["Cirina - Tarren Mill"] = "Default",
+		["Cymet - Silvermoon"] = "Default",
+		["Mihri - Tarren Mill"] = "Default",
+		["Testolel - Silvermoon"] = "Default",
+	},
+	["profiles"] = {
+		["Default"] = {
+			["mutedPresets"] = {
+				["lfgping"] = {
+					1067667, -- [1]
+				},
+			},
+		},
+	},
+}
